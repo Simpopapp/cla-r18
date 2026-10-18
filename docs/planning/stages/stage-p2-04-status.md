@@ -28,7 +28,7 @@ Data: 2026-10-18 · Pipeline: extract-wave3.mjs → sweep-validate → sweep-ded
 - Dedupe: 0 duplicatas ≥ 0,85 pós-integração (re-scan 2.823 itens — bank-integrity Jaccard verde) ✓
 - Evidência C1–C4 por item novo ✓ · bank-integrity 10/10 ✓
 - chunk ≤ 250 KB (máx. 238 KB all-meta-1) ✓ · vitest **348/348** ✓ · tsgo limpo ✓ · build OK ✓ · lint 0 erros (9 warnings pré-existentes) ✓ · zero deps de runtime novas ✓
-- Monitor notificado ✓
+- Monitor notificado ✓ (3 tentativas em 2026-10-18; runtime OpenCode saudável (health 200), mas o endpoint do modelo retornou "Upstream request failed: Endpoint is unavailable" — avaliação da fase pendente de re-run quando o upstream voltar)
 
 ## Pendências para ondas seguintes
 - Wikimedia describe_image (cand-34..39) segue pendente (onda de DI).
