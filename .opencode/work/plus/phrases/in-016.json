@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-127|passage|0",
+    "s": "In the aftermath of the Second World War, British urban planners faced a critical convergence of housing shortages and bomb-damaged infrastructure.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-127|passage|1",
+    "s": "The strategic response was not merely in situ reconstruction but the deliberate dispersal of the population from overcrowded, soot-stained industrial centers to freshly designated \"New Towns.\" Unlike the organic, uncontrolled sprawl of previous decades, these settlements were meticulously master-planned to be self-sufficient entities, designed to provide local employment, leisure, and housing within a unified boundary.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-127|passage|2",
+    "s": "The underlying philosophy was to engender balanced communities where residents could live and work without the burden of commuting back to the metropolis.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-127|passage|3",
+    "s": "However, while the architectural and social vision was bold, the economic reality often lagged behind the planning ideals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-127|passage|4",
+    "s": "Attracting a diverse range of industries to these satellite locations proved significantly more difficult than anticipated.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-127|passage|5",
+    "s": "Consequently, a phenomenon emerged where many New Towns initially functioned merely as \"dormitory settlements,\" with residents continuing to travel long distances to the main cities for employment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-127|passage|6",
+    "s": "This persistent disconnect between the idealized goal of economic self-containment and the practical necessity of commuting significantly undermined the utopian aspirations of the post-war planning committees.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-127|question|0",
+    "s": "According to the text, what was a significant discrepancy between the plan for New Towns and their actual development?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|passage|0",
+    "s": "Permafrost, the permanently frozen ground covering vast stretches of the Northern Hemisphere, serves as one of the Earth's largest terrestrial carbon sinks.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|passage|1",
+    "s": "For thousands of years, this frozen soil has locked away the remains of ancient plants and animals, effectively halting the decomposition process.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|passage|2",
+    "s": "However, as global temperatures rise, this permafrost is beginning to thaw at an unprecedented rate.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|passage|3",
+    "s": "When the ice melts, the organic matter within the soil becomes accessible to microbes, which break it down and release the by-products into the atmosphere.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|passage|4",
+    "s": "Depending on oxygen availability, this process emits either carbon dioxide or methane.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|passage|5",
+    "s": "The release of methane is particularly concerning because it is significantly more efficient at trapping heat than carbon dioxide over shorter timeframes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|passage|6",
+    "s": "This creates a dangerous feedback loop: as the planet warms, more permafrost thaws, releasing more greenhouse gases, which in turn causes further warming.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|passage|7",
+    "s": "Consequently, what was once a stable storage system for carbon is threatening to become a major contributor to global climate instability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-128|question|0",
+    "s": "What is the main conclusion drawn by the writer regarding permafrost?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|passage|0",
+    "s": "Traditional linear texts offer a singular path, where the author serves as the sole guide through an argument or narrative.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|passage|1",
+    "s": "In contrast, the architecture of the modern web is built on hypertext, a system that interconnects documents through clickable links.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|passage|2",
+    "s": "While this structure offers unparalleled access to supplementary information, it also introduces a unique psychological dynamic.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|passage|3",
+    "s": "In a hyperlinked environment, the reader is no longer a passive passenger but an active navigator who must constantly evaluate whether to follow a diversion or remain on the primary page.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|passage|4",
+    "s": "Educational theorists posit that this requirement to make frequent decisions—known as the 'decision-load'—competes with the mental energy needed for processing the actual text.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|passage|5",
+    "s": "Every potential exit point forces a split-second evaluation of value, interrupting the continuous flow of thought required for immersion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|passage|6",
+    "s": "Therefore, the difficulty of reading in such environments stems not just from the vocabulary or subject matter, but from the executive capability required to manage these interruptions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|passage|7",
+    "s": "The reader must balance the desire for depth in the current text against the promise of relevance elsewhere, a task that can fragment attention and hinder the formation of a unified understanding.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-129|question|0",
+    "s": "According to the passage, what specific challenge does a hyperlinked environment present to the reader?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|passage|0",
+    "s": "The extinction of North American megafauna, such as mammoths and mastodons, at the end of the Pleistocene epoch has long been a subject of contention among researchers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|passage|1",
+    "s": "The \"overkill hypothesis\" suggests that the arrival of skilled human hunters was the decisive factor, asserting that these animals were quickly eradicated by the proliferation of the Clovis culture.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|passage|2",
+    "s": "Proponents point to the synchronization between human arrival and the disappearance of large mammals as definitive proof.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|passage|3",
+    "s": "Conversely, other scholars emphasize the role of climate change, noting that the warming world altered vegetation zones and fragmented habitats, placing immense stress on large herbivore populations independent of human activity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|passage|4",
+    "s": "More recent analyses, including examinations of fungal spores in ancient sediment to track population density, indicate that some species were declining significantly prior to widespread human settlement.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|passage|5",
+    "s": "This evidence has led to a growing consensus around a synergistic explanation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|passage|6",
+    "s": "In this view, climate-driven habitat loss reduced megafauna resilience, rendering them susceptible to extinction when the additional pressure of human hunting was introduced.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|passage|7",
+    "s": "Thus, neither factor acts as a solitary agent; rather, the convergence of ecological transformation and predation likely sealed the fate of these ancient giants.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-130|question|0",
+    "s": "Which of the following best summarizes the author's conclusion regarding the extinction of North American megafauna?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-131|passage|0",
+    "s": "The Garden City movement, initiated by Sir Ebenezer Howard in 1898, represented a visionary response to the squalor and congestion of the Victorian industrial city.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-131|passage|1",
+    "s": "Howard proposed the creation of planned, self-contained communities that would blend the economic opportunities of the town with the environmental benefits of the country.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-131|passage|2",
+    "s": "A central tenet of his philosophy was that these settlements should be strictly limited in population and area, encircled by a permanent belt of agricultural land to prevent them from merging into one another.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-131|passage|3",
+    "s": "This 'green belt' was intended to act as a barrier against the unchecked urban sprawl that characterizes many modern metropolises.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-131|passage|4",
+    "s": "While only two towns, Letchworth and Welwyn, were built strictly adhering to his blueprint during his lifetime, the movement's legacy is evident in the subsequent New Towns Act of 1946.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-131|passage|5",
+    "s": "By advocating for decentralized, balanced communities, Howard laid the theoretical groundwork for much of 20th-century British town planning, challenging the assumption that urban expansion must inevitably lead to overcrowding and environmental degradation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-131|question|0",
+    "s": "According to the passage, what was the specific purpose of the 'green belt' in Howard's proposal?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|passage|0",
+    "s": "A pervasive misconception regarding pre-Columbian North America is that the continent was inhabited almost exclusively by small, mobile bands of hunter-gatherers living in temporary encampments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|passage|1",
+    "s": "This perspective often overlooks the existence of sophisticated, sedentary civilizations that thrived long before European contact.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|passage|2",
+    "s": "The Mississippian culture, which flourished in the mid-western and south-eastern United States from approximately 800 to 1600 CE, offers a striking counterexample.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|passage|3",
+    "s": "At its zenith, the city of Cahokia, located near modern-day St.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|passage|4",
+    "s": "Louis, boasted a population that rivaled, and perhaps exceeded, that of contemporary London.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|passage|5",
+    "s": "Dominated by Monks Mound, a colossal earthen structure requiring millions of basket-loads of soil, Cahokia was a hub of religious and political power.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|passage|6",
+    "s": "The sheer scale of its urban planning, including defined public plazas and solar calendars, clearly indicates a highly stratified society with centralized leadership.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|passage|7",
+    "s": "Such archaeological evidence forces a re-evaluation of indigenous history, demonstrating that urbanization and complex societal engineering were not foreign concepts to the Americas prior to the arrival of settlers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-132|question|0",
+    "s": "What is the main argument the author presents regarding the Mississippian culture?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-133|passage|0",
+    "s": "The advent of hypertext has fundamentally restructured the traditional narrative hierarchy found in linear literature.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-133|passage|1",
+    "s": "In a conventional novel, the author dictates the sequence of events, guiding the reader through a predetermined path from introduction to conclusion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-133|passage|2",
+    "s": "This linear format ensures a cohesive argument or storyline but limits the reader's autonomy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-133|passage|3",
+    "s": "Conversely, hypertext environments—characterized by linked nodes of information—transform the reader into an active navigator who constructs meaning through their choices of which links to follow.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-133|passage|4",
+    "s": "This shift from a static, author-centric model to a dynamic, reader-centric one has significant implications for textual coherence.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-133|passage|5",
+    "s": "While it offers a personalized exploration of content, it simultaneously dismantles the unifying structure that typically binds a narrative together.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-133|passage|6",
+    "s": "Critics argue that without the steady hand of an authorial guide, readers may experience a sense of disorientation, often referred to as 'lost in hyperspace.' Consequently, the challenge for modern digital writers is not merely to provide information, but to design an underlying architecture that allows for freedom of movement without sacrificing the logical progression necessary for understanding complex concepts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-133|question|0",
+    "s": "According to the text, what is a significant trade-off resulting from the use of hypertext systems?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-134|passage|0",
+    "s": "Scholars investigating digital environments have increasingly turned their attention to the structural architecture of the web, particularly the role of hypertext.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-134|passage|1",
+    "s": "Unlike the stable, linear path of a traditional monograph, a webpage is often a nexus of potential diversions, riddled with hyperlinks that promise additional context or related avenues of inquiry.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-134|passage|2",
+    "s": "While these links ostensibly offer freedom and depth, they impose a hidden tax on the reader's mental resources.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-134|passage|3",
+    "s": "Every highlighted phrase presents a micro-decision: to click or not to click?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-134|passage|4",
+    "s": "This constant need to evaluate navigational options disrupts the focus required for sustained narrative absorption.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-134|passage|5",
+    "s": "Research indicates that the effort dedicated to mapping a path through these non-linear structures competes directly with the energy needed for processing the actual content.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-134|passage|6",
+    "s": "Consequently, the very features designed to enrich the reading experience may paradoxically weaken the reader's ability to construct a coherent mental model of the primary argument, turning the act of reading into a disjointed series of logistical choices rather than an immersive intellectual engagement.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-134|question|0",
+    "s": "According to the passage, how does the presence of hyperlinks impact the reading process?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|0",
+    "s": "The shift from linear documents to hypertext has introduced a distinct challenge known as increased cognitive load.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|1",
+    "s": "In traditional formats, the reader follows a singular, pre-determined path, allowing their mental energy to be focused entirely on interpreting the content.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|2",
+    "s": "Hypertext environments, by contrast, present a landscape filled with clickable options that impose a secondary task on the reader.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|3",
+    "s": "With every link encountered, the brain must momentarily pause to evaluate whether to follow the new path or continue reading.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|4",
+    "s": "This repetitive act of decision-making functions as a significant drain on mental resources.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|5",
+    "s": "Research suggests that the mere existence of these navigational choices competes with the processing of the actual text, regardless of whether the links are clicked.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|6",
+    "s": "Consequently, the depth of engagement suffers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|7",
+    "s": "This is not necessarily because screens are an inferior medium, but because the structural requirement to manage navigation fractures attention.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|passage|8",
+    "s": "The reader is left with fewer cognitive resources to build a cohesive understanding of the material.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-135|question|0",
+    "s": "What does the writer suggest is the primary cause of reduced engagement when reading hypertext?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-136|passage|0",
+    "s": "The dramatic rise in audiobook consumption has prompted researchers to re-evaluate the nature of literary engagement.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-136|passage|1",
+    "s": "Traditionalists often characterize listening as a passive alternative to the active decoding required by visual texts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-136|passage|2",
+    "s": "However, recent studies indicate that at the level of meaning construction, the brain makes little distinction between the two formats; the mental simulation of a narrative activates similar neural networks regardless of the input source.",
+    "p": "P1",
+    "native": false
+  }
+]

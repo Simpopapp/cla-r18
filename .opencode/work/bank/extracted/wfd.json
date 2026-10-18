@@ -1,0 +1,626 @@
+[
+ {
+  "id": "goarno-wfd-001",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Scientists are discovering new links between genes and diseases."
+  }
+ },
+ {
+  "id": "goarno-wfd-002",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The university library contains a substantial collection of maps."
+  }
+ },
+ {
+  "id": "goarno-wfd-003",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Decision-making skills are crucial for those in management positions."
+  }
+ },
+ {
+  "id": "goarno-wfd-004",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "A list of valid sources must be included in the bibliography."
+  }
+ },
+ {
+  "id": "goarno-wfd-005",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "You can download the lecture notes from the university website."
+  }
+ },
+ {
+  "id": "goarno-wfd-006",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Genetic research plays a key role in modern medicine."
+  }
+ },
+ {
+  "id": "goarno-wfd-007",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Attendance at the weekly tutorial is mandatory for all students."
+  }
+ },
+ {
+  "id": "goarno-wfd-008",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Please hand in your assignments at the main office."
+  }
+ },
+ {
+  "id": "goarno-wfd-009",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Students must attend the safety training before entering the lab."
+  }
+ },
+ {
+  "id": "goarno-wfd-010",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Financial stability is a primary concern for many companies."
+  }
+ },
+ {
+  "id": "goarno-wfd-011",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Lecture slides are available to download from the website."
+  }
+ },
+ {
+  "id": "goarno-wfd-012",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Course materials will be available on the library website."
+  }
+ },
+ {
+  "id": "goarno-wfd-013",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Structural stability is a key concept in civil engineering."
+  }
+ },
+ {
+  "id": "goarno-wfd-014",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Quiet study areas are located on the top floor."
+  }
+ },
+ {
+  "id": "goarno-wfd-015",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The professor will discuss the project details in the next lecture."
+  }
+ },
+ {
+  "id": "goarno-wfd-016",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Recent studies have expanded our knowledge of cell biology."
+  }
+ },
+ {
+  "id": "goarno-wfd-017",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Collaboration is a key component of the learning process."
+  }
+ },
+ {
+  "id": "goarno-wfd-018",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Motivation is a key factor in employee productivity."
+  }
+ },
+ {
+  "id": "goarno-wfd-019",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Practical experience is a vital part of the engineering course."
+  }
+ },
+ {
+  "id": "goarno-wfd-020",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Students are required to submit their research proposals by Friday."
+  }
+ },
+ {
+  "id": "goarno-wfd-021",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Students are required to submit their assignments before the deadline."
+  }
+ },
+ {
+  "id": "goarno-wfd-022",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "A balanced schedule allows time for both study and rest."
+  }
+ },
+ {
+  "id": "goarno-wfd-023",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Clinical research has improved our understanding of genetic diseases."
+  }
+ },
+ {
+  "id": "goarno-wfd-024",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Customer satisfaction is the primary goal of most businesses."
+  }
+ },
+ {
+  "id": "goarno-wfd-025",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Statistical results should be presented in a clear and concise manner."
+  }
+ },
+ {
+  "id": "goarno-wfd-026",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Organizational culture has a significant impact on employee performance."
+  }
+ },
+ {
+  "id": "goarno-wfd-027",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Regular exercise is essential for maintaining physical and mental health."
+  }
+ },
+ {
+  "id": "goarno-wfd-028",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The student welfare service is located in the main building."
+  }
+ },
+ {
+  "id": "goarno-wfd-029",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Regular exercise improves both physical health and mental well-being."
+  }
+ },
+ {
+  "id": "goarno-wfd-030",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Genetic variation is essential for the survival of species."
+  }
+ },
+ {
+  "id": "goarno-wfd-031",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "A clear business strategy is essential for sustainable growth."
+  }
+ },
+ {
+  "id": "goarno-wfd-032",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "DNA samples are stored in the laboratory for analysis."
+  }
+ },
+ {
+  "id": "goarno-wfd-033",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "All assignments must be submitted by the end of the term."
+  }
+ },
+ {
+  "id": "goarno-wfd-034",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Critical thinking is an essential part of the undergraduate curriculum."
+  }
+ },
+ {
+  "id": "goarno-wfd-035",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Oral presentations are assessed on both content and delivery style."
+  }
+ },
+ {
+  "id": "goarno-wfd-036",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Students should use academic journals for their research projects."
+  }
+ },
+ {
+  "id": "goarno-wfd-037",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Students are required to attend the safety training session."
+  }
+ },
+ {
+  "id": "goarno-wfd-038",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The new timetable will be posted on the student website."
+  }
+ },
+ {
+  "id": "goarno-wfd-039",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Electronic devices are not permitted in the examination hall."
+  }
+ },
+ {
+  "id": "goarno-wfd-040",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The course covers both theoretical and practical aspects of the subject."
+  }
+ },
+ {
+  "id": "goarno-wfd-041",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Certain bacteria can survive in extremely high temperatures."
+  }
+ },
+ {
+  "id": "goarno-wfd-042",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The research project involves a significant amount of fieldwork."
+  }
+ },
+ {
+  "id": "goarno-wfd-043",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Business strategies must be flexible to adapt to market changes."
+  }
+ },
+ {
+  "id": "goarno-wfd-044",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Effective communication is key to resolving conflicts in the workplace."
+  }
+ },
+ {
+  "id": "goarno-wfd-045",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The manager's role is to facilitate the team's progress."
+  }
+ },
+ {
+  "id": "goarno-wfd-046",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The department has organized a trip to the national museum."
+  }
+ },
+ {
+  "id": "goarno-wfd-047",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "The genetic code determines the characteristics of living organisms."
+  }
+ },
+ {
+  "id": "goarno-wfd-048",
+  "type": "wfd",
+  "source": {
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "attribution": "Arno (goarno.io) — Essential Questions, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "sentence": "Genetic diversity is crucial for the adaptation of species."
+  }
+ }
+]

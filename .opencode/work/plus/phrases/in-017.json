@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-136|passage|3",
+    "s": "Despite this underlying cognitive overlap, functional differences significantly influence how information is processed.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-136|passage|4",
+    "s": "Visual reading inherently supports regression—the rapid, often unconscious backward movement of the eyes to re-examine a previous phrase—which is instrumental in parsing dense syntactic structures.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-136|passage|5",
+    "s": "Audio, conversely, imposes a relentless linear progression that makes such instantaneous review cumbersome.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-136|passage|6",
+    "s": "Consequently, while listening offers a robust medium for narrative absorption, it may prove less effective when the objective is the rigorous analysis of structurally complex arguments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-136|question|0",
+    "s": "According to the text, why might visual reading be better suited for complex material than listening?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-137|passage|0",
+    "s": "In the late 19th century, urban planner Ebenezer Howard proposed a radical solution to the overcrowding and pollution of Victorian industrial cities: the Garden City.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-137|passage|1",
+    "s": "Howard envisioned self-contained communities surrounded by 'greenbelts' of agricultural land, which would limit urban sprawl and ensure residents had constant access to nature.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-137|passage|2",
+    "s": "The core philosophy was to marry the economic opportunities of the city with the health benefits of the countryside.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-137|passage|3",
+    "s": "Unlike typical suburbs, these towns were intended to be economically independent, possessing their own industries and businesses so that residents would not have to commute elsewhere for work.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-137|passage|4",
+    "s": "However, while the aesthetic principles of tree-lined avenues and designated zoning influenced town planning globally, the full economic model proved difficult to replicate.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-137|passage|5",
+    "s": "Howard’s ideal relied on community ownership of land to capture rising property values for the public good.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-137|passage|6",
+    "s": "In practice, as private developers adopted the style but not the substance of the movement, many resulting developments lacked the commercial infrastructure to be truly self-sufficient, devolving instead into the very dormitory suburbs Howard had sought to avoid.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-137|question|0",
+    "s": "Which of the following best summarizes the author's evaluation of the Garden City movement's outcome?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-138|passage|0",
+    "s": "For millennia, the frozen soils of the Arctic, known as permafrost, have acted as a vast repository for organic carbon, effectively locking away the remains of ancient plants and animals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-138|passage|1",
+    "s": "However, as global temperatures rise, these permanently frozen grounds are beginning to thaw at an unprecedented rate.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-138|passage|2",
+    "s": "This thawing process reactivates dormant microbes in the soil, which then begin to decompose the newly accessible organic matter.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-138|passage|3",
+    "s": "A significant byproduct of this microbial activity is the release of methane, a greenhouse gas that is far more effective at trapping heat in the atmosphere than carbon dioxide over the short term.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-138|passage|4",
+    "s": "The release of this gas accelerates atmospheric warming, which in turn causes even more permafrost to melt.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-138|passage|5",
+    "s": "This self-perpetuating cycle, often referred to as a positive feedback loop, poses a critical challenge to climate scientists.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-138|passage|6",
+    "s": "Because the scale of potential emissions from these northern reservoirs remains difficult to quantify precisely, what was once a stable carbon sink threatens to become a volatile source of emissions, potentially undermining international efforts to stabilize global climate patterns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-138|question|0",
+    "s": "What is the main concern regarding permafrost thawing expressed in the passage?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-139|passage|0",
+    "s": "In the Arctic regions, vast amounts of organic carbon are stored in permafrost, ground that has remained frozen for millennia.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-139|passage|1",
+    "s": "As global temperatures rise, this frozen soil begins to thaw, reanimating dormant microbes that metabolize the decaying organic matter buried within.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-139|passage|2",
+    "s": "This biological process results in the release of greenhouse gases, specifically carbon dioxide and methane, into the atmosphere.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-139|passage|3",
+    "s": "Although carbon dioxide is more prevalent, methane poses a specific threat because its capacity to trap heat in the atmosphere is substantially greater than that of carbon dioxide over a short timeframe.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-139|passage|4",
+    "s": "This phenomenon establishes a self-reinforcing cycle known as a positive feedback loop: the released gases intensify global warming, which subsequently speeds up the thawing of additional permafrost.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-139|passage|5",
+    "s": "Therefore, the Arctic permafrost, which has historically acted as a carbon sink by sequestering organic material, risks transforming into a significant emitter.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-139|passage|6",
+    "s": "This shift complicates climate predictions, as the precise rate at which these gases will be released remains difficult to quantify.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-139|question|0",
+    "s": "What is the primary consequence of permafrost thawing described in the text?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-140|passage|0",
+    "s": "In the digital age, the mechanisms governing social media feeds have fundamentally altered how information is consumed.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-140|passage|1",
+    "s": "Algorithms are primarily engineered to optimize user retention by presenting content that resonates with a user’s past behavior and apparent interests.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-140|passage|2",
+    "s": "This curatorial process often results in the formation of \"echo chambers,\" where individuals are insulated from dissenting opinions and repeatedly exposed to confirming evidence.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-140|passage|3",
+    "s": "While the commercial objective is to maintain user attention and satisfaction, the sociopolitical consequence is the erosion of a common factual ground.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-140|passage|4",
+    "s": "Critics argue that when users rarely encounter challenges to their pre-existing beliefs, their capacity for critical thinking and tolerance diminishes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-140|passage|5",
+    "s": "The phenomenon suggests that the technical architecture of these platforms is not merely a neutral conduit for information but an active participant in deepening societal divisions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-140|passage|6",
+    "s": "Thus, the challenge lies in balancing the benefits of personalized content with the civic necessity of exposure to diverse viewpoints.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-140|question|0",
+    "s": "According to the text, what is a significant negative outcome of social media algorithms?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|passage|0",
+    "s": "For millennia, the American bison acted as the primary architect of the Great Plains, shaping the grassland ecosystem through specific grazing behaviors that modern livestock management struggles to replicate.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|passage|1",
+    "s": "Unlike cattle, which tend to linger near water sources and graze specific areas intensively, bison are highly mobile.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|passage|2",
+    "s": "They traverse vast distances, grazing an area briefly before moving on, a pattern that prevents the depletion of vegetation and allows for rapid recovery.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|passage|3",
+    "s": "This distinct behavior creates a heterogeneous landscape often described as a shifting mosaic, characterized by patches of short, grazed grass interspersed with taller, undisturbed vegetation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|passage|4",
+    "s": "This structural variety is vital for the survival of the prairie ecosystem, particularly for grassland birds that require specific grass heights for nesting and foraging.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|passage|5",
+    "s": "Additionally, the bison’s unique habit of wallowing—rolling in the dirt to remove molting fur and deter insects—creates compacted depressions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|passage|6",
+    "s": "These depressions fill with rainwater to form ephemeral wetlands, supporting amphibians and providing drinking water for other wildlife.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|passage|7",
+    "s": "Thus, the decimation of bison herds in the 19th century fundamentally simplified the ecological complexity of the North American prairies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-141|question|0",
+    "s": "According to the text, what is a significant ecological consequence of the bison's migratory grazing habits?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|passage|0",
+    "s": "For much of human history, reading was an inherently social and auditory act.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|passage|1",
+    "s": "In antiquity and the Middle Ages, texts were primarily written to be heard, recited publicly in communal settings or muttered aloud by individuals during private study.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|passage|2",
+    "s": "The concept of silent reading—processing text entirely within the mind without vocalization—was originally considered an anomaly.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|passage|3",
+    "s": "The eventual transition to silent reading as a societal norm marked a pivotal cultural shift.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|passage|4",
+    "s": "It liberated the reader from the constraints of the breath and the pace of speech, allowing for a rapid intake of information that oral delivery could never match.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|passage|5",
+    "s": "More significantly, it fostered the development of a private interiority.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|passage|6",
+    "s": "Reading became an exclusive dialogue between the author and the reader, shielded from the immediate scrutiny of the community.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|passage|7",
+    "s": "This evolution enabled greater intellectual autonomy, as individuals could explore unconventional or heretical ideas without public surveillance, fundamentally changing the trajectory of individual thought and critical analysis.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-142|question|0",
+    "s": "According to the passage, what was a significant consequence of the shift from oral to silent reading?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|passage|0",
+    "s": "A pervasive narrative in historical accounts of North America suggests that prior to European contact, the continent was sparsely populated by nomadic tribes living in harmony with an uncultivated wilderness.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|passage|1",
+    "s": "However, archaeological evidence challenges this simplistic view by revealing the existence of sophisticated urban centers that rivaled contemporary European cities in size and complexity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|passage|2",
+    "s": "One prominent example is Cahokia, located near present-day St.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|passage|3",
+    "s": "Louis, which flourished between AD 1050 and 1350.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|passage|4",
+    "s": "At its zenith, Cahokia supported a population estimated at tens of thousands, making it larger than London during the same period.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|passage|5",
+    "s": "The city featured colossal earthen mounds, notably Monks Mound, and an intricate layout indicative of centralized planning and social stratification.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|passage|6",
+    "s": "Far from being a pristine, empty landscape, the region was a hub of extensive trade networks and intensive agriculture.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|passage|7",
+    "s": "The existence of such sites compels historians to reconstruct their understanding of pre-Columbian civilization, acknowledging that the landscape was, in many places, highly engineered and densely inhabited.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-143|question|0",
+    "s": "What is the main purpose of the text?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|passage|0",
+    "s": "For decades, the transition from linear text to hypertext was heralded as a breakthrough for reader autonomy, allowing individuals to navigate information non-linearly.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|passage|1",
+    "s": "However, recent inquiries suggest that this structural freedom imposes a specific tax on the brain’s processing power.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|passage|2",
+    "s": "Unlike a traditional linear narrative, a hyperlinked environment necessitates continuous decision-making.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|passage|3",
+    "s": "Every highlighted link represents a fork in the road, requiring the reader to instantaneously evaluate whether to pursue the detour or remain on the current path.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|passage|4",
+    "s": "This evaluative process consumes working memory, a finite resource essential for understanding and integrating new information.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|passage|5",
+    "s": "When this capacity is divided between decoding the text and managing navigational choices, the cognitive load typically increases.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|passage|6",
+    "s": "The result is often a fragmented reading experience where the brain is occupied with logistical management rather than deep absorption of the material.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|passage|7",
+    "s": "Thus, while the architecture of the web offers unparalleled access to related concepts, the very features designed to enrich the text may paradoxically hinder the ability to form a cohesive understanding of it.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-144|question|0",
+    "s": "According to the text, what is a negative consequence of the decision-making process involved in reading hypertext?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|passage|0",
+    "s": "While the accessibility of information in online environments is unprecedented, the structural format of this data often imposes hidden costs on the reader.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|passage|1",
+    "s": "Unlike traditional linear narratives, which guide the audience through a pre-determined sequence of ideas, web-based content is frequently structured as hypertext, riddled with links and branching pathways.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|passage|2",
+    "s": "Proponents originally argued that this non-linear format would liberate readers, allowing them to actively construct their own learning trajectories.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|passage|3",
+    "s": "However, research increasingly indicates that the freedom of hypertext creates a distinct cognitive burden.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|passage|4",
+    "s": "Every time a reader encounters a link, a split-second decision must be made: to click or not to click.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|passage|5",
+    "s": "This constant need for decision-making demands mental resources that would otherwise be dedicated to analyzing the text itself.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|passage|6",
+    "s": "Consequently, the act of navigating through linked information can fragment attention and disrupt the consolidation of meaning.",
+    "p": "P1",
+    "native": false
+  }
+]

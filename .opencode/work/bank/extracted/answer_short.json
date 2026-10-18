@@ -1,0 +1,334 @@
+[
+ {
+  "id": "edknot-answer_short-001",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "At a railway station, what is the area called where passengers wait to board a departing train?",
+   "answers": [
+    "Platform"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-002",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What is the name of the temperature scale commonly used in the United States, where water freezes at 32 degrees?",
+   "answers": [
+    "Fahrenheit"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-003",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "Which two American explorers led the Corps of Discovery expedition from 1804 to 1806 across the western United States?",
+   "answers": [
+    "Lewis and Clark",
+    "Lewis &amp; Clark"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-004",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What is the term for uneaten food after a meal?",
+   "answers": [
+    "Leftover",
+    "leftovers"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-005",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What do we call it when a student misses class due to sickness?",
+   "answers": [
+    "Absent",
+    "absence"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-006",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What is the act of breathing in tobacco products?",
+   "answers": [
+    "Smoking"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-007",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What do you call the tiny lustrous white sphere produced inside an oyster's shell?",
+   "answers": [
+    "Pearl",
+    "margarite"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-008",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What is the medical term for inflammation of the lining of the bronchial tubes?",
+   "answers": [
+    "Bronchitis"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-009",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "Which gas do humans exhale from their lungs?",
+   "answers": [
+    "Carbon dioxide"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-010",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "In Hinduism, which goddess is associated with wealth, fortune, and prosperity?",
+   "answers": [
+    "Lakshmi"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-011",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What do you call a division of the academic year?",
+   "answers": [
+    "Term",
+    "terms",
+    "semester",
+    "quarter"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-012",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "In what sequence is a bibliography typically arranged?",
+   "answers": [
+    "Alphabet",
+    "Alphabetical order",
+    "Alphabetically"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-013",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What term describes an illness transmitted through direct or indirect contact?",
+   "answers": [
+    "Contagious disease",
+    "infectious disease",
+    "contagion"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-014",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What body part is located opposite the head?",
+   "answers": [
+    "Foot",
+    "Feet"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-015",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "In physics, what is the term for the phenomenon where two waves combine to form a new wave pattern, often with increased or decreased amplitude?",
+   "answers": [
+    "Interference"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-016",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What is the name of the Australian marsupial that mostly eats eucalyptus leaves and sleeps up to 20 hours a day?",
+   "answers": [
+    "Koala"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-017",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What small, herbivorous mammal related to the rabbit, with short ears and a squeaky call, lives in mountainous regions of Asia and North America?",
+   "answers": [
+    "Pika"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-018",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What is the name of the heavy, broad-bladed kitchen knife used for chopping through bones and large cuts of meat?",
+   "answers": [
+    "Cleaver"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-019",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What is the full name of the Italian Renaissance painter known for his Madonnas and frescoes in the Vatican?",
+   "answers": [
+    "Raphael"
+   ]
+  }
+ },
+ {
+  "id": "edknot-answer_short-020",
+  "type": "answer_short",
+  "source": {
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "attribution": "EdKnot — Answer Short Question bank, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "question": "What kitchen appliance is used to brown, crisp, and heat bread slices?",
+   "answers": [
+    "Toaster"
+   ]
+  }
+ }
+]

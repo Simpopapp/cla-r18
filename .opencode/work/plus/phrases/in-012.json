@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-141|passage|6",
+    "s": "Empirical evidence from early adopters such as London, Stockholm, and Singapore indicates that this strategy successfully reduces the aggregate volume of traffic, thereby significantly improving travel speeds and reliability for essential services.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-141|passage|7",
+    "s": "Moreover, the substantial revenue generated from these schemes is frequently ring-fenced for reinvestment into public transportation infrastructure.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-141|passage|8",
+    "s": "This funding strategy aims to create a virtuous cycle where buses and trains become more attractive and viable alternatives to private vehicle use.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-141|passage|9",
+    "s": "Despite these evident operational successes, congestion pricing remains a politically sensitive tool.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|0",
+    "s": "In recent years, urban planners have increasingly shifted their focus from maximizing vehicle throughput to accommodating a diverse range of transport modes, particularly cycling and micromobility devices like e-scooters.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|1",
+    "s": "This transition, often termed \"complete streets,\" aims to democratize road space, yet it has sparked significant debate regarding safety and accessibility.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|10",
+    "s": "City officials are thus faced with the dual challenge of encouraging sustainable transport while ensuring that the public right-of-way remains safe and accessible for all demographics.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|11",
+    "s": "The solution likely lies not just in hard infrastructure, but in a comprehensive regulatory framework that enforces responsible usage and parking.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|2",
+    "s": "While the environmental and health benefits of active travel are well-documented, the practical implementation of new infrastructure often reveals complex challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|3",
+    "s": "One primary contention involves the physical separation of lanes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|4",
+    "s": "Early attempts that utilized simple painted lines to demarcate cycle lanes proved insufficient for protecting riders from faster-moving motor traffic.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|5",
+    "s": "Consequently, many cities are now installing physical barriers, such as curbs or bollards, to create \"protected\" lanes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|6",
+    "s": "While this reduces the risk of car-bicycle collisions, it can inadvertently create new hazards for pedestrians.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|7",
+    "s": "For instance, the introduction of \"floating bus stops\"—where passengers must cross a cycle lane to reach the bus boarding island—has raised serious concerns among advocacy groups for the blind and visually impaired, who argue that silent bicycles and scooters pose a significant threat in these shared spaces.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|8",
+    "s": "Furthermore, the rapid proliferation of dockless e-scooters has outpaced regulation in many jurisdictions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-142|passage|9",
+    "s": "Unlike traditional bicycles, these devices are often left scattered on sidewalks, obstructing pathways for wheelchair users and parents with strollers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|0",
+    "s": "While the Vikings are frequently characterized by their maritime aggression and expansionist policies, their internal societal structure reveals a complex community governed by established customs and hierarchies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|1",
+    "s": "Norse society was rigidly divided into three primary classes: the Jarls, who were the aristocracy and large landholders; the Karls, comprising the majority of free farmers, traders, and craftsmen; and the Thralls, enslaved individuals who possessed no legal rights.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|10",
+    "s": "If the assembly declared a verdict, it was up to the aggrieved party or their kin to carry it out, whether through exacting financial compensation—known as 'wergild'—or, in more severe cases, carrying out a sentence of outlawry.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|11",
+    "s": "This reliance on self-regulation meant that while the system aimed to maintain order and limit blood feuds through compensatory fines, it often favored those with strong family networks and sufficient wealth to pay for their crimes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|2",
+    "s": "This stratification dictated one's role in the most significant institution of Viking life: the 'Thing'.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|3",
+    "s": "The Thing was an open-air assembly that served as both a parliament and a court of law.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|4",
+    "s": "It was here that free men convened to resolve disputes, forge political alliances, and adjudicate on criminal matters.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|5",
+    "s": "In the absence of written documentation during the early Viking Age, the law was preserved orally.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|6",
+    "s": "A designated official known as the Lawspeaker would recite the laws from memory at the assembly, serving as a living repository of the community’s legal code.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|7",
+    "s": "However, the administration of justice in the Viking Age diverged sharply from modern standards due to the absence of a central executive authority.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|8",
+    "s": "There was no state-sponsored police force or prison system to enforce the Thing’s rulings.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-143|passage|9",
+    "s": "Consequently, the enforcement of law was a private responsibility.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|0",
+    "s": "The Internet of Things (IoT) has rapidly transformed the domestic landscape, with smart home devices becoming ubiquitous in modern households.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|1",
+    "s": "From voice-activated assistants to intelligent refrigerators, the promise of a fully automated living environment is increasingly becoming a reality.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|10",
+    "s": "While manufacturers often insist that such data is anonymized and used solely for product improvement, the trade-off between the ease of automation and the preservation of personal privacy remains a contentious issue.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|11",
+    "s": "Consequently, users are forced to weigh the tangible benefits of a smart home against the intangible, yet critical, risks to their personal security.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|2",
+    "s": "Proponents argue that these interconnected systems offer unparalleled convenience and operational efficiency.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|3",
+    "s": "For instance, smart thermostats can intuitively learn a user’s daily schedule and adjust heating or cooling accordingly, leading to significant reductions in energy usage and utility bills.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|4",
+    "s": "Similarly, automated lighting systems ensure that electricity is not wasted in unoccupied rooms, contributing to a greener footprint.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|5",
+    "s": "However, this proliferation of connectivity brings with it substantial security and privacy challenges that cannot be ignored.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|6",
+    "s": "Unlike traditional appliances, smart devices are frequent targets for cybercriminals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|7",
+    "s": "Weak encryption standards or the failure of users to change default passwords can leave home networks vulnerable, potentially allowing hackers to disable security alarms or access video feeds from inside the home.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|8",
+    "s": "Furthermore, the very nature of these devices—often equipped with always-on microphones and cameras—raises profound concerns about surveillance.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-144|passage|9",
+    "s": "Tech companies frequently collect user data to refine artificial intelligence algorithms, leading to legitimate fears that private conversations are being recorded and analyzed without explicit consent.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-145|passage|0",
+    "s": "Contrary to the enduring stereotype of Vikings as lawless marauders, Norse society was governed by a sophisticated legal framework centered on the \"Thing.\" The Thing was a legislative and judicial assembly where free men convened to resolve disputes, adjudicate crimes, and make political decisions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-145|passage|1",
+    "s": "These gatherings occurred at specific times and locations, ranging from local community meetings to larger regional assemblies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-145|passage|2",
+    "s": "The Althing in Iceland, established in 930 AD, stands as a prominent example and is often cited as one of the world’s oldest functioning parliaments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-145|passage|3",
+    "s": "At the heart of these proceedings was the Lawspeaker, a respected official tasked with reciting the law from memory.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-145|passage|4",
+    "s": "Norse legal codes were primarily oral traditions passed down through generations before the eventual adoption of Christianity introduced Latin script and written statutes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-145|passage|5",
+    "s": "While the system emphasized consensus and financial compensation—often in the form of fines known as \"weregild\"—over state-sponsored execution or imprisonment, it was not without its hierarchies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-145|passage|6",
+    "s": "Participation was generally restricted to free landowning men, known as \"bóndi.\" Although women could not officially act as judges or chieftains in the assembly, they held significant influence in domestic spheres and retained rights regarding property and divorce that exceeded those of many contemporaries in Europe.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-145|passage|7",
+    "s": "Conversely, the lowest caste, the thralls or slaves, possessed no legal standing within this framework and were entirely excluded from the democratic process.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|0",
+    "s": "In recent years, a paradigm shift has occurred in urban planning, moving away from the car-centric models that dominated the 20th century.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|1",
+    "s": "Cities worldwide are increasingly embracing the concept of 'active transport,' prioritizing infrastructure for cyclists and pedestrians.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|2",
+    "s": "This transition is motivated not only by environmental concerns but also by the tangible public health benefits associated with integrating physical activity, such as walking or cycling to work, into daily life.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|3",
+    "s": "Consequently, urban designers are reallocating road space, widening sidewalks, and installing dedicated bicycle lanes to create more livable environments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|4",
+    "s": "However, the implementation of such infrastructure is complex and often contentious.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|5",
+    "s": "Research indicates that simply marking a lane on a busy street is often insufficient to convince risk-averse individuals to cycle; physical barriers separating bikes from motor vehicles are frequently necessary to ensure safety and encourage uptake.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|6",
+    "s": "Furthermore, these projects often encounter resistance from local stakeholders.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|7",
+    "s": "Business owners, for instance, frequently express concern that removing on-street parking will negatively impact trade.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|8",
+    "s": "Contrary to these apprehensions, however, empirical studies suggest that making streets more pedestrian-friendly can actually enhance local economic vitality, as walkers and cyclists tend to visit shops more frequently than drivers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-146|passage|9",
+    "s": "Despite the friction between competing road users, the move towards human-scale city design appears to be a sustained strategic goal for enhancing urban livability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|0",
+    "s": "The rapid integration of 'Internet of Things' (IoT) devices into residential environments has revolutionized the concept of domestic management.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|1",
+    "s": "From refrigerators that track expiration dates to thermostats that learn a family's heating preferences, the modern smart home promises a level of automation and convenience that was once the province of science fiction.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|10",
+    "s": "Hackers can exploit these weaknesses not only to steal personal data but also to gain control over physical home security systems, such as smart locks and cameras.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|11",
+    "s": "Thus, while the smart home offers unparalleled ease, it demands that consumers navigate a precarious balance between technological utility and the preservation of their digital and physical privacy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|2",
+    "s": "Voice-activated assistants serve as the central hubs for this ecosystem, allowing users to control their surroundings with spoken commands.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|3",
+    "s": "However, as these devices become ubiquitous, cybersecurity experts and privacy advocates are raising alarms regarding the hidden costs of this seamless connectivity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|4",
+    "s": "One primary concern focuses on the mechanism of voice activation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|5",
+    "s": "While smart speakers are designed to remain dormant until a specific 'wake word' is detected, analysis has shown that these devices can struggle to distinguish between the wake word and phonetically similar phrases in daily conversation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|6",
+    "s": "Consequently, they frequently activate in error, recording and transmitting private interactions to cloud servers without the user’s knowledge or consent.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|7",
+    "s": "Once in the cloud, this data is not merely processed by algorithms; several major tech companies have admitted to employing teams of human contractors to listen to recordings in an effort to grade and improve the nuance of their voice recognition software.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|8",
+    "s": "Furthermore, the rush to market has often resulted in security being a secondary consideration for hardware manufacturers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-147|passage|9",
+    "s": "Many IoT devices lack robust encryption or update capabilities, making them vulnerable entry points for cybercriminals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|0",
+    "s": "The transition of the \"smart home\" from a futuristic concept to a domestic reality has been driven by the proliferation of interconnected devices.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|1",
+    "s": "From intelligent lighting systems to voice-activated assistants, the Internet of Things (IoT) promises unparalleled convenience and efficiency.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|10",
+    "s": "As manufacturers cease software support for older models, consumers are often forced to discard physically functional hardware, contributing to the escalating global crisis of electronic waste.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|2",
+    "s": "Proponents highlight the ability of smart thermostats to optimize energy consumption by learning user schedules, thereby reducing utility bills and the household's carbon footprint during active operation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|3",
+    "s": "However, this digital integration brings a host of complications that extend beyond mere convenience.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|4",
+    "s": "A primary concern for many experts is data privacy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|5",
+    "s": "Because many smart devices are designed to be \"always listening\" for specific commands, there is a risk that they may inadvertently record private conversations, which are then transmitted to cloud servers for processing.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|6",
+    "s": "Additionally, the security protocols on many consumer-grade IoT products are often weaker than those found on traditional computing devices, creating vulnerabilities that hackers can exploit to gain access to private networks.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|7",
+    "s": "Furthermore, the environmental narrative surrounding smart homes is complex.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-148|passage|8",
+    "s": "While these devices can manage energy use more effectively, the aggregate impact of \"phantom load\"—the electricity drawn while devices are in standby mode—is significant.",
+    "p": "P1",
+    "native": false
+  }
+]

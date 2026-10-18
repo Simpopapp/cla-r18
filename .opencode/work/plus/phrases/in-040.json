@@ -1,0 +1,482 @@
+[
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-107|transcript|7",
+    "s": "To succeed, organizations must evaluate radical projects differently, focusing on strategic potential or learning milestones rather than immediate financial predictability.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-108|transcript|0",
+    "s": "Continuing our series on mechanical innovations, let's turn to the typewriter.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-108|transcript|1",
+    "s": "While various writing machines were patented in the 18th century, practical application remained elusive until the late 1860s.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-108|transcript|2",
+    "s": "That’s when Christopher Latham Sholes developed the first commercially successful model.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-108|transcript|3",
+    "s": "Interestingly, the early prototypes were prone to jamming if typists struck adjacent keys too quickly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-108|transcript|4",
+    "s": "To solve this, Sholes rearranged the keyboard layout to separate commonly used letter pairs.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-108|transcript|5",
+    "s": "This arrangement, known as QWERTY, was actually intended to prevent mechanical clashes rather than enhance speed.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-108|transcript|6",
+    "s": "Remarkably, this layout persists on modern devices today, long after the original mechanical necessity has vanished.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-109|transcript|0",
+    "s": "Many inventors fall into the trap of believing that a technically superior product will automatically succeed.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-109|transcript|1",
+    "s": "Yet, historical data on the diffusion of innovations reveals that adoption rates are often driven by perception rather than raw performance.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-109|transcript|2",
+    "s": "A key accelerator is 'trialability.' When individuals can test an idea on a small scale without significant commitment, anxiety decreases, and adoption speeds up.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-109|transcript|3",
+    "s": "Equally important is 'observability.' Innovations that are highly visible to others—like electric cars or solar panels—tend to spread faster because they generate discussion and peer awareness.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-109|transcript|4",
+    "s": "In contrast, innovations that are complex or demand rigid changes to established habits often stall, even if they offer substantial improvements in efficiency.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-110|transcript|0",
+    "s": "When examining global inequality, economists often ask why some nations prosper while others fail.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-110|transcript|1",
+    "s": "Historically, the geography hypothesis was popular, suggesting that climate or natural resources determined a country's fate.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-110|transcript|2",
+    "s": "Now, while these geographical factors certainly exert influence, they aren't the sole drivers.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-110|transcript|3",
+    "s": "Current thinking actually shifts the focus toward institutions—specifically, the legal and political frameworks that govern society.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-110|transcript|4",
+    "s": "The argument is that without secure property rights or an impartial legal system, individuals lack the incentive to invest or innovate because they fear their earnings could be, you know, arbitrarily taken away.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-110|transcript|5",
+    "s": "Consequently, even resource-rich nations can struggle economically if their institutions fail to protect the fruits of human labor.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-111|transcript|0",
+    "s": "When analyzing market inefficiencies, we encounter the problem of information asymmetry, where one party possesses more knowledge than the other.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-111|transcript|1",
+    "s": "A prime example is the labor market, where employers cannot fully assess a candidate's true productivity prior to hiring.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-111|transcript|2",
+    "s": "To overcome this information gap, job seekers engage in what economist Michael Spence termed 'signaling.' In this model, earning a university degree serves as a credible signal, not necessarily because it imparts specific job skills, but because it demonstrates inherent attributes like perseverance and intelligence.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-111|transcript|3",
+    "s": "Since obtaining a degree is significantly more taxing for less capable individuals, the qualification effectively filters candidates.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-111|transcript|4",
+    "s": "It allows employers to distinguish high-potential applicants from others, resolving the uncertainty that could otherwise stall hiring.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-112|transcript|0",
+    "s": "There is a long-held assumption in global business that innovation flows downhill: created in wealthy nations and effectively watered down for emerging markets.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-112|transcript|1",
+    "s": "But the concept of reverse innovation challenges this directly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-112|transcript|2",
+    "s": "Instead of modifying existing goods, companies design products from the ground up in developing countries to address specific local constraints, such as a lack of reliable electricity.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-112|transcript|3",
+    "s": "Crucially, these innovations then migrate upward to developed markets.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-112|transcript|4",
+    "s": "It's not merely about cost-cutting or removing features; it's about creating novel utility.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-112|transcript|5",
+    "s": "A battery-powered heart monitor designed for rural villages, for example, might be adopted by Western hospitals for its portability.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-112|transcript|6",
+    "s": "Thus, the developing world becomes a source of original technology, not just a recipient.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-113|transcript|0",
+    "s": "When we assess a nation's economic health, Gross Domestic Product, or GDP, is the standard yardstick.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-113|transcript|1",
+    "s": "It essentially tallies the total value of goods and services produced within a specific timeframe.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-113|transcript|2",
+    "s": "However, relying solely on GDP can be misleading because it prioritizes market transactions over actual welfare.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-113|transcript|3",
+    "s": "For instance, GDP completely ignores unpaid labor, such as domestic work or volunteerism, which are vital to societal function but hold no price tag.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-113|transcript|4",
+    "s": "Furthermore, it often counts detrimental activities as positive growth; if a disaster occurs and money is spent on rebuilding, GDP rises, despite the loss of assets.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-113|transcript|5",
+    "s": "So, while it indicates commercial activity, it fails to distinguish between productive sustainable growth and activity that might actually deplete our natural capital.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-114|transcript|0",
+    "s": "Many large corporations are now embracing the concept of intrapreneurship, where employees are encouraged to act like entrepreneurs within the organization.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-114|transcript|1",
+    "s": "Unlike traditional R&amp;D, which is often siloed, intrapreneurship allows innovation to emerge from any department, whether it is marketing or operations.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-114|transcript|2",
+    "s": "A key driver for this strategy is talent management; companies use it to retain ambitious staff who might otherwise quit to launch their own startups.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-114|transcript|3",
+    "s": "However, success is not automatic.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-114|transcript|4",
+    "s": "The biggest hurdle is often the corporate hierarchy itself.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-114|transcript|5",
+    "s": "To work effectively, these internal ventures need to be shielded from standard bureaucratic constraints and distinct from the usual reporting lines.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-114|transcript|6",
+    "s": "Without a protected environment where failure is accepted as part of the process, these initiatives rarely survive the pressure for immediate results.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-115|transcript|0",
+    "s": "In industrial economics, we often analyze why larger firms possess a cost advantage, a concept known as economies of scale.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-115|transcript|1",
+    "s": "Essentially, as a company increases its production output, the average cost of producing each unit declines.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-115|transcript|2",
+    "s": "This efficiency occurs because fixed expenses, such as machinery or research, are spread across a larger volume of goods.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-115|transcript|3",
+    "s": "However, this benefit does not continue indefinitely.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-115|transcript|4",
+    "s": "A firm can eventually reach a point of 'diseconomies of scale,' where the organization becomes too complex to manage effectively.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-115|transcript|5",
+    "s": "When this happens, internal communication slows down and coordination becomes difficult, causing the average cost per unit to rise again, which suggests there is an optimal size for efficiency.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-116|transcript|0",
+    "s": "When we think of innovation, we often picture high-tech laboratories and massive budgets.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-116|transcript|1",
+    "s": "However, frugal innovation challenges this assumption.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-116|transcript|2",
+    "s": "Originating largely in emerging economies, this approach prioritizes creating high value with minimal resources.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-116|transcript|3",
+    "s": "It is distinct from simply 'de-featuring' or stripping down existing products to make them cheaper.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-116|transcript|4",
+    "s": "Instead, it requires a complete rethinking of the design process to overcome local hurdles, such as intermittent electricity or harsh operating conditions.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-116|transcript|5",
+    "s": "For example, engineers might design a battery-powered medical device for rural use that is far more durable than its hospital equivalent.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-116|transcript|6",
+    "s": "Surprisingly, these cost-effective, robust solutions are now entering developed markets, reversing the traditional direction of global innovation flows.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-117|transcript|0",
+    "s": "We often picture innovation as high-tech laboratories creating expensive, feature-rich devices.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-117|transcript|1",
+    "s": "However, a counter-trend called frugal innovation is emerging.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-117|transcript|2",
+    "s": "Unlike traditional development, which often adds complexity, frugal innovation focuses on doing more with less, typically originating in resource-scarce emerging markets.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-117|transcript|3",
+    "s": "Crucially, this isn't simply about de-featuring existing Western products; merely stripping items down usually creates a poor user experience.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-117|transcript|4",
+    "s": "Instead, engineers must rethink the entire architecture to ensure durability and ease of repair in harsh environments.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-117|transcript|5",
+    "s": "Interestingly, these robust solutions are now entering wealthy nations.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-117|transcript|6",
+    "s": "Western consumers, tired of fragile, complex gadgets, are increasingly attracted to the simplicity and value these products offer, effectively reversing the traditional flow of global innovation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-118|transcript|0",
+    "s": "Continuing our series on transformative technologies, today we turn to the electric telegraph.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-118|transcript|1",
+    "s": "Before its widespread adoption in the mid-19th century, information could only travel as fast as a horse or ship could carry it.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-118|transcript|2",
+    "s": "The telegraph fundamentally collapsed distance, allowing messages to be sent almost instantaneously across continents.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-118|transcript|3",
+    "s": "This innovation revolutionized business practices, particularly in finance, where stock prices could be monitored in real-time between distant exchanges.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-118|transcript|4",
+    "s": "However, the early infrastructure was fragile.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-118|transcript|5",
+    "s": "The first transatlantic cable, laid in 1858, failed after only a few weeks of operation due to poor insulation and excessive voltage.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-118|transcript|6",
+    "s": "Despite this setback, the demand for rapid communication ensured that improved cables were successfully laid soon after.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-119|transcript|0",
+    "s": "Traditionally, large corporations relied on a 'closed innovation' model.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-119|transcript|1",
+    "s": "They built fortified research labs, hired the best minds, and kept everything secret until a product launch.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-119|transcript|2",
+    "s": "The logic was simple: if you generate the most ideas internally, you win.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-119|transcript|3",
+    "s": "However, this paradigm has shifted significantly toward 'open innovation.' Why?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-119|transcript|4",
+    "s": "Firstly, the mobility of skilled workers has increased; knowledge no longer stays trapped inside one company's walls.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-119|transcript|5",
+    "s": "When employees leave, they take their expertise with them.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-119|transcript|6",
+    "s": "Secondly, the abundance of venture capital allows external startups to commercialize ideas that big firms might overlook.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-119|transcript|7",
+    "s": "Consequently, successful firms now actively license inventions from other companies rather than relying solely on their own R&amp;D departments.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-120|transcript|0",
+    "s": "Traditionally, large corporations operated under a closed innovation model, relying entirely on internal research to maintain a competitive edge.",
+    "p": "P2",
+    "native": true
+  }
+]

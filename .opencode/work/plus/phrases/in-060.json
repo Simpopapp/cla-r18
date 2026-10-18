@@ -1,0 +1,482 @@
+[
+  {
+    "k": "sst|goarno-sst-143|transcript|5",
+    "s": "You are offered a small bucket for three dollars and a large one for seven dollars.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-143|transcript|6",
+    "s": "Most prudent shoppers would likely choose the cheaper, small option.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-143|transcript|7",
+    "s": "But if the theater adds a medium size for six dollars and fifty cents, the dynamic shifts entirely.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-143|transcript|8",
+    "s": "The medium option is the decoy.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-143|transcript|9",
+    "s": "It offers less value than the large one but costs nearly the same.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|0",
+    "s": "For centuries, ornithologists and casual observers alike have marveled at the ability of migratory birds to navigate thousands of miles with pinpoint accuracy, often returning to the exact same nesting site year after year.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|1",
+    "s": "How exactly do they accomplish this feat?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|10",
+    "s": "Although we have identified the protein, scientists are still working to decode exactly how the avian brain processes this magnetic data to steer the bird across continents.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|2",
+    "s": "While we have long known that birds utilize visual landmarks, star maps, and the position of the sun, recent research has shifted focus to a more invisible sense known as magnetoreception.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|3",
+    "s": "This is the ability to detect the Earth's magnetic field, acting essentially like a biological compass.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|4",
+    "s": "For a long time, the prevailing theory was that this sense relied on iron-rich cells located in the nerve endings of the birds' beaks.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|5",
+    "s": "However, newer studies suggest the primary mechanism is actually quantum mechanical and located in the eyes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|6",
+    "s": "It appears that a specific protein called cryptochrome, found in the retinas of migratory birds like European robins, becomes active when exposed to blue light.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|7",
+    "s": "This chemical reaction allows the bird to effectively 'see' magnetic fields as a visual pattern overlaid on their surroundings.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|8",
+    "s": "This shift in understanding—from iron in the beak to proteins in the eye—is significant.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-144|transcript|9",
+    "s": "It implies that migration relies on complex chemical physics at a molecular level.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|0",
+    "s": "We tend to assume that the 'natural' way to sleep involves a solid block of eight hours of unconsciousness every night.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|1",
+    "s": "If you wake up at 3 a.m., you might panic, thinking you have a disorder.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|10",
+    "s": "It might not be insomnia at all, but rather a biological echo of a rhythm that humans followed for centuries before the modern era imposed a new schedule on our bodies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|2",
+    "s": "However, historical research suggests that this monophasic sleep pattern—sleeping in one go—is actually a relatively modern invention.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|3",
+    "s": "Before the Industrial Revolution, particularly in Western societies, sleep was predominantly biphasic.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|4",
+    "s": "Historical records, from court depositions to literature, reveal that people used to experience two distinct phases of sleep.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|5",
+    "s": "They would have a 'first sleep' shortly after dusk, wake up for an hour or two around midnight, and then fall back into a 'second sleep' until morning.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|6",
+    "s": "During that waking interval, known as 'the watch,' people were quite active—they would pray, read, tend to the fire, or simply chat with family members.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|7",
+    "s": "It wasn't until the widespread adoption of artificial lighting and the rigid schedules of industrial factory work that we compressed our rest into a single block.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|8",
+    "s": "Streetlights and indoor gas lamps allowed us to stay up later, effectively pushing our bedtime back and eliminating that midnight break.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-145|transcript|9",
+    "s": "So, in many ways, the anxiety we feel today about waking up in the middle of the night is misplaced.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|0",
+    "s": "Now, I'd like to turn our attention to a remarkable sensory adaptation found in bats, known as echolocation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|1",
+    "s": "Unlike humans, who rely primarily on vision to interpret the world, bats navigate and hunt in absolute darkness using sound.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|2",
+    "s": "Essentially, the process involves the bat emitting a stream of high-frequency sounds—ultrasonic clicks that are generally inaudible to the human ear.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|3",
+    "s": "When these sound waves strike an object, they bounce back as echoes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|4",
+    "s": "The bat's brain then processes these returning signals instantaneously to construct a detailed 'sound map' of the environment.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|5",
+    "s": "What is particularly fascinating to biologists is the sheer precision of this system.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|6",
+    "s": "It allows bats to do far more than just avoid cave walls; they can determine the size, distance, and even the texture of a flying insect while moving at high speeds.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|7",
+    "s": "A significant area of interest has been how they manage this in large swarms without acoustic confusion.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|8",
+    "s": "Research indicates that bats utilize a 'jamming avoidance response,' meaning they instinctively shift the frequency of their calls to ensure they are tracking their own echoes rather than those of their neighbors.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-146|transcript|9",
+    "s": "This sophisticated biological sonar is, in many ways, more advanced than our best human-engineered radar technologies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|0",
+    "s": "When we admire the natural world, we are often struck by the vibrant, iridescent colors seen in creatures like the peacock or the Blue Morpho butterfly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|1",
+    "s": "Most of us naturally assume that these intense blues and greens come from pigments—classic chemical dyes similar to what we use in clothing or art.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|2",
+    "s": "However, for many of these species, the color isn't chemical at all; it is physical, a phenomenon known as structural coloration.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|3",
+    "s": "Unlike pigments, which produce color by absorbing certain wavelengths of light and reflecting others, structural color arises from the physical interaction of light with microscopic structures on the animal's surface.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|4",
+    "s": "For instance, the scales on a butterfly’s wing contain tiny, nano-scale layers that interfere with visible light.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|5",
+    "s": "Depending on the spacing of these layers, they amplify specific wavelengths—like blue—while canceling out others.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|6",
+    "s": "This distinction is actually crucial for material scientists today.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|7",
+    "s": "While chemical pigments inevitably fade over time due to exposure to UV light or heat, structural color is remarkably durable.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|8",
+    "s": "As long as the physical shape of the surface remains intact, the color will never dull.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-147|transcript|9",
+    "s": "Consequently, researchers are now looking to biomimicry—copying these natural designs—to engineer fade-resistant paints, innovative fabrics, and even new types of energy-efficient electronic displays that rely on light reflection rather than internal power.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|0",
+    "s": "Now, when we discuss camouflage in the marine environment, we inevitably turn our attention to cephalopods, specifically octopuses and cuttlefish.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|1",
+    "s": "Unlike chameleons, which are actually quite slow to change color, these marine animals can switch their appearance in a fraction of a second to blend into the background.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|10",
+    "s": "Understanding this mechanism holds massive potential for developing adaptive camouflage materials and smart textiles for human use.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|2",
+    "s": "This rapid transformation is primarily driven by specialized cells in their skin called chromatophores.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|3",
+    "s": "You can think of these as tiny, elastic sacs of pigment surrounded by muscles.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|4",
+    "s": "When the muscles contract, the sacs expand, making the color visible; when they relax, the color shrinks away to a tiny dot.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|5",
+    "s": "However, it’s not just about pigment.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|6",
+    "s": "These creatures can also manipulate the way light reflects off their skin using cells called iridophores, and they can even physically change their skin texture to mimic the roughness of a rock or the smoothness of kelp.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|7",
+    "s": "What makes this capability even more puzzling to scientists is that, according to physiological studies, most cephalopods are actually colorblind.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|8",
+    "s": "They don't see color the way we do, yet they match their surroundings with near-perfect accuracy.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-148|transcript|9",
+    "s": "Current research suggests they might actually sense light through their skin, independent of their eyes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|0",
+    "s": "When we talk about sleep hygiene, we often hear about the importance of a comfortable mattress or a quiet room.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|1",
+    "s": "But one factor that is frequently underestimated is the profound impact of light exposure on our circadian rhythms.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|10",
+    "s": "Current studies are showing that long-term exposure to artificial light at night is correlated with a higher risk of chronic diseases, such as diabetes and heart disease.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|11",
+    "s": "Therefore, treating light as a stimulus that needs to be managed—much like we manage our sugar intake—is becoming a central pillar of modern preventative medicine.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|2",
+    "s": "You have to remember that for the vast majority of human history, our biology was strictly regulated by the sun.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|3",
+    "s": "We evolved to be active during the light and to rest when it got dark.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|4",
+    "s": "Now, however, we are living in an era of constant illumination, and this has consequences.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|5",
+    "s": "The specific problem lies with the blue wavelengths found in modern LED lighting and digital screens.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|6",
+    "s": "When your eyes are exposed to this type of light in the evening, your brain receives a signal that it is still daytime.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|7",
+    "s": "This effectively blocks the release of melatonin, the hormone that prepares your body for sleep.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|8",
+    "s": "It’s not just about finding it hard to drift off, though.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-149|transcript|9",
+    "s": "This desynchronization of the body clock affects your metabolism, your immune system, and even your mood.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|0",
+    "s": "We tend to assume today that the only natural way to sleep is in one solid, continuous block of about eight hours.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|1",
+    "s": "If you wake up in the middle of the night, you might worry that you have a disorder.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|10",
+    "s": "So, ironically, when you wake up at 3 a.m.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|11",
+    "s": "and can't get back to sleep immediately, it might not be a medical problem at all.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|12",
+    "s": "It could just be your body reverting to an ancient, ancestral rhythm that our modern schedules no longer accommodate.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|2",
+    "s": "But historians and sleep scientists have found compelling evidence that this monophasic sleep—sleeping in one single phase—is actually a relatively modern invention.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|3",
+    "s": "Before the Industrial Revolution, and specifically before the widespread use of artificial lighting, it was quite common for people to sleep in two distinct segments.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|4",
+    "s": "In historical records and literature from pre-industrial Europe, we find frequent references to a 'first sleep' and a 'second sleep.' People would go to bed shortly after dusk, sleep for about four hours, and then wake up for an hour or two.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|5",
+    "s": "During this waking period, they might pray, read, or chat with family members before going back for their second sleep until morning.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-150|transcript|6",
+    "s": "So, what changed?",
+    "p": "P2",
+    "native": true
+  }
+]

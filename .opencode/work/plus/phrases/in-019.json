@@ -1,0 +1,482 @@
+[
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-008|paragraphs[4]|0",
+    "s": "Construction is scheduled to begin next spring and is expected to take eighteen months to complete.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-009|paragraphs[0]|0",
+    "s": "Globalization has increased the popularity of international cuisines.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-009|paragraphs[1]|0",
+    "s": "People are now more adventurous in their food choices, exploring dishes from different cultures.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-009|paragraphs[2]|0",
+    "s": "This curiosity has led to a rise in ethnic restaurants and food festivals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-009|paragraphs[3]|0",
+    "s": "Yet, this trend also challenges traditional food industries to innovate and adapt to changing consumer preferences.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-010|paragraphs[0]|0",
+    "s": "The phrase “One Health” was coined in 2004 in the context of human infectious diseases like SARS.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-010|paragraphs[1]|0",
+    "s": "Originally called One Medicine, the idea later evolved into One World One Health and is now most commonly referred to as One Health.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-010|paragraphs[2]|0",
+    "s": "One Health is built on the understanding that human, animal, and environmental health are deeply linked.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-010|paragraphs[3]|0",
+    "s": "It calls for a unified, cooperative, multi-expert, and cross-boundary strategy to tackle current or emerging threats arising at the intersection of people, animals, and ecosystems.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-010|paragraphs[4]|0",
+    "s": "Applying a One Health lens to complex, multifactorial conditions is justified by the increasing evidence that such illnesses involve numerous pathological alterations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-001|paragraphs[0]|0",
+    "s": "A local community garden has recently been revitalized by volunteers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-001|paragraphs[1]|0",
+    "s": "The project, which started last month, has brought together people of all ages.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-001|paragraphs[2]|0",
+    "s": "Residents now enjoy fresh vegetables and beautiful flowers grown in the garden.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-001|paragraphs[3]|0",
+    "s": "This initiative has also helped to reduce neighborhood waste, as composting is a key component of the garden's ecosystem.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-001|paragraphs[4]|0",
+    "s": "The city council has praised the project, noting its positive impact on community spirit and environmental awareness.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-002|paragraphs[0]|0",
+    "s": "Schools in our district will start the new year with updated technology in classrooms.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-002|paragraphs[1]|0",
+    "s": "Over the summer, tablets and interactive whiteboards were installed across multiple schools.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-002|paragraphs[2]|0",
+    "s": "Teachers have received training on how to integrate these tools into their lessons.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-002|paragraphs[3]|0",
+    "s": "The updates are part of a larger effort to enhance digital literacy among students.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-002|paragraphs[4]|0",
+    "s": "Parents and educators alike are hopeful that these improvements will make learning more engaging and effective.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-003|paragraphs[0]|0",
+    "s": "In the mid-15th century, a German inventor named Johannes Gutenberg developed the printing press, a machine that allowed books to be mass-produced.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-003|paragraphs[1]|0",
+    "s": "Before this invention, books were written by hand, making them expensive and rare.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-003|paragraphs[2]|0",
+    "s": "Gutenberg's press used movable type, which could be rearranged and reused, to print entire pages at once.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-003|paragraphs[3]|0",
+    "s": "His first major publication was the Gutenberg Bible, which became famous for its high quality and was widely distributed.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-003|paragraphs[4]|0",
+    "s": "The printing press revolutionized the spread of knowledge, making books accessible to a much larger audience and fostering the spread of literacy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-004|paragraphs[0]|0",
+    "s": "A new art exhibition opened this weekend at the downtown gallery, featuring works from several regional artists.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-004|paragraphs[1]|0",
+    "s": "The show includes paintings, sculptures, and photographs, all exploring the theme of 'Urban Life.'",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-004|paragraphs[2]|0",
+    "s": "Gallery owners hope to draw attention to the vibrant local art scene.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-004|paragraphs[3]|0",
+    "s": "The exhibition is free to the public and will run for the next three months.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-004|paragraphs[4]|0",
+    "s": "School groups and art students are especially encouraged to visit.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-005|paragraphs[0]|0",
+    "s": "Researchers at the University of Atlanta conducted a six-week study to explore the effects of varying sunlight exposure on the growth of tomato plants.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-005|paragraphs[1]|0",
+    "s": "They divided the plants into two groups: one received eight hours of direct sunlight daily, while the other received only four hours.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-005|paragraphs[2]|0",
+    "s": "Measurements taken weekly showed that the plants with more sunlight exposure had a 30% increase in height and produced more fruit.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-005|paragraphs[3]|0",
+    "s": "The study concluded that increased sunlight significantly enhances the growth and fruit production of tomato plants.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-005|paragraphs[4]|0",
+    "s": "These findings could provide valuable insights for agricultural practices, especially in regions with limited natural light.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-006|paragraphs[0]|0",
+    "s": "Local farmers faced challenges this season due to unexpected weather conditions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-006|paragraphs[1]|0",
+    "s": "Heavy rains in early spring followed by a dry summer affected crop yields.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-006|paragraphs[2]|0",
+    "s": "Despite the setbacks, the community market has remained open, featuring products from surrounding areas.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-006|paragraphs[3]|0",
+    "s": "Farmers are adapting by using more sustainable farming techniques.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-006|paragraphs[4]|0",
+    "s": "The agricultural department is offering workshops to help them cope with climate variability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-007|paragraphs[0]|0",
+    "s": "Yesterday in the British Parliament, members debated a new bill proposing stricter environmental regulations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-007|paragraphs[1]|0",
+    "s": "The debate began with the Environment Secretary outlining the benefits of the bill, emphasizing its potential to reduce pollution and protect natural habitats.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-007|paragraphs[2]|0",
+    "s": "Opposition members expressed concerns about the impact of these regulations on businesses, particularly small enterprises.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-007|paragraphs[3]|0",
+    "s": "Several amendments were proposed, aiming to balance environmental goals with economic interests.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-007|paragraphs[4]|0",
+    "s": "After hours of discussion, the debate was adjourned, with a vote scheduled for next week.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-008|paragraphs[0]|0",
+    "s": "A recent study shows that public transportation usage in the city has increased by 20% over the past year.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-008|paragraphs[1]|0",
+    "s": "Officials attribute the rise to improved service times and cleaner facilities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-008|paragraphs[2]|0",
+    "s": "Additional buses and trains have been added during peak hours to accommodate the growing number of passengers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-008|paragraphs[3]|0",
+    "s": "The city plans to continue investing in public transport to encourage more residents to use it.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-008|paragraphs[4]|0",
+    "s": "Environmental groups have applauded this trend, highlighting its benefits for air quality.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-009|paragraphs[0]|0",
+    "s": "The debate over data privacy focuses on how personal information is collected, used, and protected by companies and governments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-009|paragraphs[1]|0",
+    "s": "Advocates for stricter data privacy argue that individuals should have more control over their personal information to protect their privacy and prevent misuse.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-009|paragraphs[2]|0",
+    "s": "They call for stronger regulations that require companies to be transparent about data collection and to provide options for users to opt out.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-009|paragraphs[3]|0",
+    "s": "On the other hand, some argue that extensive data collection is necessary for technological advancements and security measures.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-009|paragraphs[4]|0",
+    "s": "They believe that limiting data access could hinder innovation and reduce the effectiveness of services tailored to user preferences.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-010|paragraphs[0]|0",
+    "s": "To brew coffee using a drip coffee maker, start by measuring out the coffee grounds.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-010|paragraphs[1]|0",
+    "s": "For every cup of coffee, you typically need one tablespoon of grounds.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-010|paragraphs[2]|0",
+    "s": "Place a coffee filter in the basket of the coffee maker and add the measured grounds.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-010|paragraphs[3]|0",
+    "s": "Next, fill the coffee maker's reservoir with cold water; use about six ounces of water for each cup you want to make.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-010|paragraphs[4]|0",
+    "s": "Finally, turn on the machine and wait for the coffee to drip into the pot below.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-011|paragraphs[0]|0",
+    "s": "Researchers from the Alpine Climate Study Group spent two years studying how temperature changes affect mountain ecosystems.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-011|paragraphs[1]|0",
+    "s": "Data was collected on plant and insect populations across different elevations, showing clear shifts in ecological patterns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-011|paragraphs[2]|0",
+    "s": "Rising temperatures were linked to earlier plant blooming and changes in insect migration routes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-011|paragraphs[3]|0",
+    "s": "The study highlights the fragility of mountain ecosystems to even minor climatic shifts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-011|paragraphs[4]|0",
+    "s": "These insights are crucial for developing adaptive strategies to combat the impacts of global warming in these areas.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-012|paragraphs[0]|0",
+    "s": "The city's annual festival is set to return next month after being canceled last year due to health concerns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-012|paragraphs[1]|0",
+    "s": "The event will feature live music, food stalls, and various entertainment activities for all ages.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-012|paragraphs[2]|0",
+    "s": "Safety measures will be in place to ensure the wellbeing of attendees.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-012|paragraphs[3]|0",
+    "s": "Local businesses are looking forward to the boost in customers that the festival traditionally brings.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-012|paragraphs[4]|0",
+    "s": "Tickets are available now, with early bird specials for those who purchase in advance.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-013|paragraphs[0]|0",
+    "s": "The Greenfield Agricultural Center conducted a season-long experiment to compare the effects of natural and chemical fertilizers on wheat production.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-013|paragraphs[1]|0",
+    "s": "Fields treated with natural fertilizers not only yielded more wheat, but also demonstrated better soil health, as indicated by increased microbial activity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-013|paragraphs[2]|0",
+    "s": "Conversely, chemical fertilizers showed no significant improvement in yield and had a less positive effect on soil condition.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-013|paragraphs[3]|0",
+    "s": "The results suggest that natural fertilizers could provide a sustainable alternative for crop management.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-013|paragraphs[4]|0",
+    "s": "Farmers might benefit from switching to environmentally friendly practices based on these findings.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-014|paragraphs[0]|0",
+    "s": "The Berlin Wall, which had divided East and West Berlin since 1961, was unexpectedly opened on November 9, 1989.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-014|paragraphs[1]|0",
+    "s": "This event was triggered by a mistaken announcement that East Germans could cross into West Berlin immediately.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-014|paragraphs[2]|0",
+    "s": "Crowds of East and West Germans climbed onto the wall, celebrating together and starting to break it apart piece by piece.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-014|paragraphs[3]|0",
+    "s": "The fall of the wall marked the beginning of German reunification, which was formally completed less than a year later.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-014|paragraphs[4]|0",
+    "s": "This event symbolized the end of the Cold War and the triumph of freedom over division.",
+    "p": "P1",
+    "native": false
+  }
+]

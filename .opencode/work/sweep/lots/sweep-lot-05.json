@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://goarno.io/blog/fill-in-the-blanks-dropdown-practice-questions-with-answers-pte-essential-questions/",
+    "types": ["read_fib_dropdown"],
+    "apparentVolume": "50 questões declaradas; exemplo visível com passagem, quatro lacunas, quatro opções por lacuna e respostas.",
+    "positiveSignals": ["Formato-alvo e gabarito explícitos; o exemplo visível supera o mínimo de três opções por lacuna.", "C2 fraco: a página se descreve como material essencial de prática, sem alegar memória de prova datada."],
+    "negativeSignals": ["A alegação de prática não comprova que os itens sejam questões reais de prova.", "Sem evidência de corroboração independente para o item citado."],
+    "quotes": ["“Each question below includes the passage, the options for each blank, and the correct answers.”", "“Blank 1 options: resist, insist, assist, consist”", "“Answers: Blank 1: assist”"]
+  },
+  {
+    "url": "https://www.edknot.com/pte-practice/reading-dropdown-blanks",
+    "types": ["read_fib_dropdown"],
+    "apparentVolume": "12 passagens declaradas; exemplo visível com passagem de 251 palavras e 7 lacunas numeradas.",
+    "positiveSignals": ["A página declara incluir passagem, opções por lacuna e escolha correta.", "Exemplo mostra formato dropdown e comprimento de passagem dentro do intervalo pretendido."],
+    "negativeSignals": ["A página chama os itens de reais do banco EdKnot, mas não apresenta evidência independente de origem em provas.", "A evidência recebida não mostra as opções e o gabarito do exemplo; validar esses campos antes de aceitar o item."],
+    "quotes": ["“Twelve real Reading Fill in the Blanks (Dropdown) items from the EdKnot bank”", "“the passage with its blanks, the options for each blank, and the correct choice.”", "“251 words”"]
+  },
+  {
+    "url": "https://www.pteexampreparation.com/pte-reading/fill-in-the-blanks-pte-reading/pte-academic-drop-down-fill-in-the-blanks-practice-test-sample-online/",
+    "types": ["read_fib_dropdown"],
+    "apparentVolume": "Ao menos 1 passagem visível, com 8 lacunas numeradas e 4 opções listadas em cada conjunto.",
+    "positiveSignals": ["Evidência direta de dropdown, passagem, opções e gabarito na mesma página.", "A evidência visível satisfaz o filtro de mínimo de três opções por lacuna."],
+    "negativeSignals": ["Página antiga (2017); atualidade e autenticidade não confirmadas.", "Não há evidência independente de corroboração nem alegação de prova datada no trecho visto."],
+    "quotes": ["“Practice PTE Drop Down Fill in the Blanks”", "“Teenagers rule but it seems strange to think that their reign began less than a century ago.”", "“1 – C”"]
+  },
+  {
+    "url": "https://pteacademy.in/wp-content/uploads/2024/01/Reading-writing-Fill-in-the-blanks-pdf-2024-2.pdf",
+    "types": ["read_fib_dropdown"],
+    "apparentVolume": "PDF indexado; trecho mostra uma passagem com 5 lacunas e conjuntos de opções.",
+    "positiveSignals": ["Trecho indexado expõe passagem com lacunas numeradas e opções para os espaços.", "PDF público indexado, sem barreira de acesso indicada nos resultados consultados."],
+    "negativeSignals": ["A citação consultada não inclui opções completas nem gabarito; não é elegível para ingestão sem conferir essas partes.", "Não há prova independente de origem real dos itens."],
+    "quotes": ["“Below is a text with blanks. Click on each blank, a list of choices will appear.”", "“This explains why these celestial visitors are fleeting”"]
+  },
+  {
+    "url": "https://www.edknot.com/pte-practice/reading-mcq-single",
+    "types": ["read_mcq_single"],
+    "apparentVolume": "12 questões declaradas; exemplo visível com passagem de 97 palavras e quatro opções.",
+    "positiveSignals": ["A página declara passagem, pergunta, opções e opção correta marcada.", "Exemplo visível atende às faixas-alvo: 97 palavras e quatro opções.", "Possível sinal C1 para o item “Tree Life Villa Complex”: mesma passagem também aparece em outro domínio encontrado, mas a identidade e independência das versões não foram verificadas."],
+    "negativeSignals": ["A alegação “real items” não é corroborada por evidência de origem em prova.", "Não foi possível confirmar no trecho consultado se o gabarito é exibido sem interação."],
+    "quotes": ["“Twelve real Reading Multiple Choice (Single Answer) items from the EdKnot bank”", "“Tree of Life is a peaceful villa complex set on the waters of Homestead, Florida”", "“B Every building in the complex has sharp angles.”"]
+  },
+  {
+    "url": "https://www.pteacademy.in/wp-content/uploads/2023/11/reading-MCCSA-pdf-2023.pdf",
+    "types": ["read_mcq_single"],
+    "apparentVolume": "PDF público com ao menos uma passagem extensa e instrução de resposta única; trecho consultado não expõe as opções nem o gabarito.",
+    "positiveSignals": ["Material identificado como Multiple-choice, choose single answer; contém texto de leitura substancial.", "PDF diretamente indexado, sem barreira de acesso indicada nos resultados consultados."],
+    "negativeSignals": ["Não comprova no trecho visto a faixa exigida de 3–5 opções nem resposta correta.", "Não elegível até confirmar opções, gabarito e contagem de palavras da passagem."],
+    "quotes": ["“Read the text and answer the multiple-choice question by selecting the correct response.”", "“Only one response is correct.”"]
+  },
+  {
+    "url": "https://hotshot24.com/pte-academic-reading-multiple-choice-single-answer-practice-sample-5.html",
+    "types": ["read_mcq_single"],
+    "apparentVolume": "Ao menos 1 questão visível; trecho mostra passagem e 5 opções, mas não inclui resposta.",
+    "positiveSignals": ["Formato Reading MCQ single answer e passagem diretamente visíveis.", "Cinco opções mencionadas, dentro do requisito de 3–5."],
+    "negativeSignals": ["Gabarito não consta no trecho consultado.", "Página antiga (2017); atualidade e autenticidade não confirmadas.", "A descrição menciona cinco opções, mas o exemplo citado não exibe todas."],
+    "quotes": ["“traditional multiple-choice questions with five answer choices, of which you must select one.”", "“Read the text and answer the multiple choice question by selecting the correct response.”"]
+  },
+  {
+    "url": "https://www.ptesprinters.com/multiple-choice-choose-single-answer/reading-multiple-choice-choose-single-answer/",
+    "types": ["read_mcq_single"],
+    "apparentVolume": "Ao menos 2 questões visíveis; os exemplos mostram passagens e quatro opções cada.",
+    "positiveSignals": ["Questões e quatro opções visíveis em texto na página.", "Formato Reading MCQ single answer identificado explicitamente."],
+    "negativeSignals": ["O trecho consultado não exibe gabarito.", "Página de 2020; autenticidade e atualidade não estabelecidas.", "Conteúdo não comprova comprimento da passagem dentro da faixa solicitada."],
+    "quotes": ["“Mock Test: PTE Reading: Reading Multiple-choice, Choose Single Answer-01”", "“Which of the following most accurately summarizes the opinion of the author in the text?”"]
+  },
+  {
+    "url": "https://goarno.io/blog/multiple-choice-single-answer-reading-practice-questions-with-answers-pte-essential-questions/",
+    "types": ["read_mcq_single"],
+    "apparentVolume": "50 questões declaradas; exemplo visível com passagem e resposta, mas as opções completas não aparecem no trecho consultado.",
+    "positiveSignals": ["A página declara passagem, opções e resposta correta para cada questão.", "A passagem visível tem conteúdo apropriado para pergunta de compreensão."],
+    "negativeSignals": ["A contagem de opções e a resposta do exemplo não podem ser validadas com o trecho recebido.", "Alegação de prática não prova origem em questões reais de prova."],
+    "quotes": ["“Each question includes a passage, answer options, and the correct answer.”", "“What is the main point the author makes by discussing Cahokia?”"]
+  }
+]

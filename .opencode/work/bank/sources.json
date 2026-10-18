@@ -1,0 +1,393 @@
+{
+ "version": 1,
+ "updated": "2026-10-17",
+ "sources": [
+  {
+   "id": "goarno",
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog",
+   "name": "Arno — PTE Essential Questions (blog)",
+   "types": [
+    "read_mcq_single",
+    "read_mcq_multi",
+    "lst_mcq_single",
+    "lst_mcq_multi",
+    "lst_hcs",
+    "lst_hiw",
+    "lst_smw",
+    "lst_fib",
+    "read_fib_dropdown",
+    "read_fib_drag",
+    "sst",
+    "swt",
+    "repeat_sentence",
+    "wfd"
+   ],
+   "volume": "50 itens por página (14 páginas, ~700 itens)",
+   "evidence": "Páginas públicas 200 OK sem login/captcha (cache 2026-10-17); gabarito e transcrições no texto; robots.txt permite /blog; formato fiel (passagem 40-400 palavras, 3-5 opções, respostas ∈ opções verificado na extração); amostra manual de 3 páginas + checagem estrutural de todas",
+   "confidence": 70,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal, sem redistribuição",
+   "notes": "Páginas de leitura-single e fala/escrita restantes avaliadas por tipo; corroboração cruzada pendente (recalcula a cada fonte nova). Páginas sem linha de pergunta (multi/listening MCQ) → item marcado para revisão.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "stormedugo",
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "name": "Storm EduGo — Read Aloud passages 2025",
+   "types": [
+    "read_aloud"
+   ],
+   "volume": "50 passagens",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); 50 itens numerados com texto completo; amostra manual de 12 itens; formato fiel (25–120 palavras em maioria)",
+   "confidence": 68,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Site chama de 'repeated' sem prova; nenhum cruzamento ainda. Alguns itens fora da faixa 25–120 vão para revisão.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "band9",
+   "domain": "band9pte.com.au",
+   "url": "https://band9pte.com.au/pte-essay-topics.html",
+   "name": "Band9PTE — 43 essay topics com Band 9 samples",
+   "types": [
+    "write_essay"
+   ],
+   "volume": "43 tópicos",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); cada tópico com redação-modelo completa; amostra manual de 3 redações; formato fiel (prompt 15–120 palavras)",
+   "confidence": 66,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Site promove IA de correção; tópicos alegam 'real exam reports' sem prova independente.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "langacad",
+   "domain": "languageacademy.com.au",
+   "url": "https://www.languageacademy.com.au/blog/50-most-repeated-questions-with-sample-answers/",
+   "name": "Language Academy — 50 essay topics",
+   "types": [
+    "write_essay"
+   ],
+   "volume": "50 tópicos (5 com redação-modelo)",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); tópicos por categoria; amostra manual de 10; só tópicos completos integrados",
+   "confidence": 62,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Redações-modelo só para 5 tópicos (vinculados por nome, não integrados automaticamente).",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "edknot",
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "name": "EdKnot — Answer Short Question (20 itens)",
+   "types": [
+    "answer_short"
+   ],
+   "volume": "20 itens",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); respostas no texto; amostra manual de 5; itens curtos e coerentes",
+   "confidence": 65,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Banco pequeno (mín. 80) — selo 'banco pequeno'.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "pearson",
+   "domain": "pearsonpte.com",
+   "url": "https://www.pearsonpte.com/content/dam/ELL/pte/pearsonpte/pdfs/pte-academic-pdfs/example-speaking-questions.zip",
+   "name": "Pearson — Example Speaking Questions 2025 (oficial)",
+   "types": [
+    "sgd",
+    "rts"
+   ],
+   "volume": "30 itens por tipo (texto + transcrição no PDF oficial)",
+   "evidence": "ZIP oficial da Pearson (página partners-and-teachers), 200 OK sem login; PDF com pergunta + transcrição por item; amostra manual de 6 itens; formato oficial confirmado",
+   "confidence": 95,
+   "status": "aprovada",
+   "provenance": "verificada",
+   "license": "© Pearson — material oficial; uso local e pessoal, sem redistribuição",
+   "notes": "Áudio oficial não incluído no banco (app usa TTS). Sample answers oficiais em áudio, não integradas.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "edknot-retell",
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/retell-lecture",
+   "name": "EdKnot — Retell Lecture (12 itens)",
+   "types": [
+    "retell_lecture"
+   ],
+   "volume": "12 itens com transcrição + retelling-modelo",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); amostra manual de 4 itens; transcrições com pequenos artefatos de digitação registrados",
+   "confidence": 65,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Banco pequeno (mín. 40) — selo 'banco pequeno'.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "goarno-reorder",
+   "domain": "goarno.io",
+   "url": "https://goarno.io/blog/50-re-order-paragraphs-examples-pte/",
+   "name": "Arno — 50 Re-order Paragraphs examples",
+   "types": [
+    "reorder_paragraphs"
+   ],
+   "volume": "exemplos com gabarito e texto na ordem correta",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); gabarito explícito; amostra manual de 6 itens",
+   "confidence": 64,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Suspeita de geração sintética alta (scout 2026-10-17) — itens rotulados comunitaria; texto de 4–6 parágrafos verificado na extração.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "edknot-reorder",
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/reorder-paragraph",
+   "name": "EdKnot — Re-order Paragraphs (12 itens)",
+   "types": [
+    "reorder_paragraphs"
+   ],
+   "volume": "12 itens com ordem correta visível",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); gabarito explícito; amostra manual de 2 itens",
+   "confidence": 65,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "owid",
+   "domain": "ourworldindata.org",
+   "url": "https://ourworldindata.org/grapher",
+   "name": "Our World in Data — gráficos (CC BY 4.0)",
+   "types": [
+    "describe_image"
+   ],
+   "volume": "0 gráficos com dados abertos",
+   "evidence": "API pública de gráficos (PNG, CSV, metadata); licença CC BY 4.0 confirmada na documentação oficial; facts calculados do próprio CSV (§6.10); amostra manual de 5",
+   "confidence": 90,
+   "status": "aprovada",
+   "provenance": "verificada",
+   "license": "CC BY 4.0 — atribuição registrada por item",
+   "notes": "Erros/pendências: life-expectancy: metadata inválida | life-expectancy-vs-gdp-per-capita: metadata inválida | gdp-per-capita-worldbank: metadata inválida | child-mortality: metadata inválida | population: metadata inválida | population-by-age-group: metadata inválida | co-emissions-per-capita: metadata inválida | maternal-mortality: metadata inválida | hospital-beds-per-1000-people: metadata inválida | literacy-rate-adults: metadata inválida | mean-years-of-schooling-long-run: metadata inválida | access-to-electricity-vs-gdp-per-capita: metadata inválida | trade-as-share-of-gdp: metadata inválida | share-of-women-in-parliament: metadata inválida | air-pollution-vs-gdp-per-capita: metadata inválida | pm25-air-pollution: metadata inválida | share-of-population-in-extreme-poverty: metadata inválida | share-of-population-urban: metadata inválida | fixed-telephone-subscriptions-per-100-people: metadata inválida | renewable-energy-consumption: metadata inválida",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "stormedugo",
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "name": "Storm EduGo — Read Aloud passages 2025",
+   "types": [
+    "read_aloud"
+   ],
+   "volume": "50 passagens",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); 50 itens numerados com texto completo; amostra manual de 12 itens; formato fiel (25–120 palavras em maioria)",
+   "confidence": 68,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Site chama de 'repeated' sem prova; nenhum cruzamento ainda. Alguns itens fora da faixa 25–120 vão para revisão.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "band9",
+   "domain": "band9pte.com.au",
+   "url": "https://band9pte.com.au/pte-essay-topics.html",
+   "name": "Band9PTE — 43 essay topics com Band 9 samples",
+   "types": [
+    "write_essay"
+   ],
+   "volume": "43 tópicos",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); cada tópico com redação-modelo completa; amostra manual de 3 redações; formato fiel (prompt 15–120 palavras)",
+   "confidence": 66,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Site promove IA de correção; tópicos alegam 'real exam reports' sem prova independente.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "langacad",
+   "domain": "languageacademy.com.au",
+   "url": "https://www.languageacademy.com.au/blog/50-most-repeated-questions-with-sample-answers/",
+   "name": "Language Academy — 50 essay topics",
+   "types": [
+    "write_essay"
+   ],
+   "volume": "50 tópicos (5 com redação-modelo)",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); tópicos por categoria; amostra manual de 10; só tópicos completos integrados",
+   "confidence": 62,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Redações-modelo só para 5 tópicos (vinculados por nome, não integrados automaticamente).",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "edknot",
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "name": "EdKnot — Answer Short Question (20 itens)",
+   "types": [
+    "answer_short"
+   ],
+   "volume": "20 itens",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); respostas no texto; amostra manual de 5; itens curtos e coerentes",
+   "confidence": 65,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Banco pequeno (mín. 80) — selo 'banco pequeno'.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "stormedugo",
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "name": "Storm EduGo — Read Aloud passages 2025",
+   "types": [
+    "read_aloud"
+   ],
+   "volume": "50 passagens",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); 50 itens numerados com texto completo; amostra manual de 12 itens; formato fiel (25–120 palavras em maioria)",
+   "confidence": 68,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Site chama de 'repeated' sem prova; nenhum cruzamento ainda. Alguns itens fora da faixa 25–120 vão para revisão.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "band9",
+   "domain": "band9pte.com.au",
+   "url": "https://band9pte.com.au/pte-essay-topics.html",
+   "name": "Band9PTE — 43 essay topics com Band 9 samples",
+   "types": [
+    "write_essay"
+   ],
+   "volume": "43 tópicos",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); cada tópico com redação-modelo completa; amostra manual de 3 redações; formato fiel (prompt 15–120 palavras)",
+   "confidence": 66,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Site promove IA de correção; tópicos alegam 'real exam reports' sem prova independente.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "langacad",
+   "domain": "languageacademy.com.au",
+   "url": "https://www.languageacademy.com.au/blog/50-most-repeated-questions-with-sample-answers/",
+   "name": "Language Academy — 50 essay topics",
+   "types": [
+    "write_essay"
+   ],
+   "volume": "50 tópicos (5 com redação-modelo)",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); tópicos por categoria; amostra manual de 10; só tópicos completos integrados",
+   "confidence": 62,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Redações-modelo só para 5 tópicos (vinculados por nome, não integrados automaticamente).",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "edknot",
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "name": "EdKnot — Answer Short Question (20 itens)",
+   "types": [
+    "answer_short"
+   ],
+   "volume": "20 itens",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); respostas no texto; amostra manual de 5; itens curtos e coerentes",
+   "confidence": 65,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Banco pequeno (mín. 80) — selo 'banco pequeno'.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "stormedugo",
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "name": "Storm EduGo — Read Aloud passages 2025",
+   "types": [
+    "read_aloud"
+   ],
+   "volume": "50 passagens",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); 50 itens numerados com texto completo; amostra manual de 12 itens; formato fiel (25–120 palavras em maioria)",
+   "confidence": 68,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Site chama de 'repeated' sem prova; nenhum cruzamento ainda. Alguns itens fora da faixa 25–120 vão para revisão.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "band9",
+   "domain": "band9pte.com.au",
+   "url": "https://band9pte.com.au/pte-essay-topics.html",
+   "name": "Band9PTE — 43 essay topics com Band 9 samples",
+   "types": [
+    "write_essay"
+   ],
+   "volume": "43 tópicos",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); cada tópico com redação-modelo completa; amostra manual de 3 redações; formato fiel (prompt 15–120 palavras)",
+   "confidence": 66,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Site promove IA de correção; tópicos alegam 'real exam reports' sem prova independente.",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "langacad",
+   "domain": "languageacademy.com.au",
+   "url": "https://www.languageacademy.com.au/blog/50-most-repeated-questions-with-sample-answers/",
+   "name": "Language Academy — 50 essay topics",
+   "types": [
+    "write_essay"
+   ],
+   "volume": "50 tópicos (5 com redação-modelo)",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); tópicos por categoria; amostra manual de 10; só tópicos completos integrados",
+   "confidence": 62,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Redações-modelo só para 5 tópicos (vinculados por nome, não integrados automaticamente).",
+   "checkedAt": "2026-10-17"
+  },
+  {
+   "id": "edknot",
+   "domain": "edknot.com",
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "name": "EdKnot — Answer Short Question (20 itens)",
+   "types": [
+    "answer_short"
+   ],
+   "volume": "20 itens",
+   "evidence": "Página pública 200 OK sem login (cache 2026-10-17); respostas no texto; amostra manual de 5; itens curtos e coerentes",
+   "confidence": 65,
+   "status": "aprovada",
+   "provenance": "comunitaria",
+   "license": "sem licença de reuso declarada; uso local e pessoal",
+   "notes": "Banco pequeno (mín. 80) — selo 'banco pequeno'.",
+   "checkedAt": "2026-10-17"
+  }
+ ]
+}

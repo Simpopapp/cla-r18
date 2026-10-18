@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-101|passage|0",
+    "s": "Sleep is a fundamental biological requirement that is essential for maintaining optimal physical health and cognitive performance.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-101|passage|1",
+    "s": "When individuals do not get adequate rest, their ability to concentrate and process information is significantly {{1}}.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-101|passage|2",
+    "s": "Studies have shown that sleep deprivation can lead to slower reaction times and impaired judgment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-101|passage|3",
+    "s": "Furthermore, chronic lack of sleep is often associated with a higher risk of developing serious medical conditions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-101|passage|4",
+    "s": "To ensure the brain functions efficiently, it is crucial to {{2}} a consistent sleep schedule.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-101|passage|5",
+    "s": "During deep sleep, the body undergoes restorative processes that repair tissues and strengthen the immune system.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-101|passage|6",
+    "s": "Consequently, neglecting sleep can have profound {{3}} on overall well-being, affecting both mental clarity and emotional stability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-101|passage|7",
+    "s": "Experts recommend that adults aim for between seven and nine hours of quality sleep each night to fully {{4}} their energy levels.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-102|passage|0",
+    "s": "Despite often being dismissed as mere swamps or wastelands suitable only for drainage and development, wetlands perform {{1}} functions within the global ecosystem.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-102|passage|1",
+    "s": "These distinct habitats are {{2}} in filtering pollutants from water and acting as natural sponges that control floods.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-102|passage|2",
+    "s": "When wetlands are systematically {{3}} to make way for agriculture or urban expansion, the landscape's inherent capacity to absorb excess rainfall is significantly {{4}}.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-102|passage|3",
+    "s": "Consequently, downstream communities face a higher risk of severe inundation during storms.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-102|passage|4",
+    "s": "Conservationists emphasize that safeguarding these areas is vital not only for preserving unique biodiversity but also for ensuring the resilience of human settlements against climate variability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-102|passage|5",
+    "s": "Restoration projects frequently focus on {{5}} native vegetation to stabilize substrates and revive local ecological networks.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-103|passage|0",
+    "s": "While the positive effects of physical activity on cardiovascular health are widely recognized, its impact on sleep quality is also profound.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-103|passage|1",
+    "s": "Studies indicate that moderate aerobic exercise increases the duration of deep sleep, a phase essential for the body to {{1}} and regenerate tissues.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-103|passage|2",
+    "s": "Furthermore, the rise and subsequent fall in body temperature caused by exertion can signal to the body that it is time to sleep.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-103|passage|3",
+    "s": "However, timing is critical; working out too close to bedtime may stimulate the nervous system, thereby {{2}} with the ability to fall asleep.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-103|passage|4",
+    "s": "Consequently, experts often {{3}} completing vigorous exercise at least a few hours before bed.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-103|passage|5",
+    "s": "This ensures the body has adequate time to return to a state of {{4}} necessary for a restful night.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-104|passage|0",
+    "s": "The integration of advanced technology into the workforce has fundamentally altered the nature of employment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-104|passage|1",
+    "s": "Rather than simply eliminating roles, automation often {{1}} the tasks that employees must perform.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-104|passage|2",
+    "s": "As routine manual activities are taken over by algorithms and robotics, there is a growing demand for workers who possess higher-level cognitive skills.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-104|passage|3",
+    "s": "Consequently, the focus of education and training systems must {{2}} toward fostering adaptability and critical thinking.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-104|passage|4",
+    "s": "This evolution ensures that the workforce remains relevant in a rapidly changing economic landscape.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-104|passage|5",
+    "s": "Instead of fearing obsolescence, workers are encouraged to {{3}} continuous learning as a vital component of their careers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-104|passage|6",
+    "s": "Ultimately, the successful collaboration between humans and technology depends on the ability to {{4}} these new tools effectively.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-105|passage|0",
+    "s": "Attachment theory posits that the emotional connections formed during early childhood significantly influence future behavior and interpersonal dynamics.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-105|passage|1",
+    "s": "The relationship between an infant and their primary caregiver serves as a critical {{1}} for subsequent social interactions throughout life.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-105|passage|2",
+    "s": "Securely attached children generally develop a positive self-image and operate under the assumption that they are worthy of love.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-105|passage|3",
+    "s": "Conversely, those who experience inconsistent or negligent care may struggle to {{2}} their emotions effectively, often displaying anxiety or avoidance in later relationships.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-105|passage|4",
+    "s": "These early patterns are not necessarily permanent, as significant life experiences and therapeutic interventions can {{3}} attachment styles over time.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-105|passage|5",
+    "s": "However, understanding these foundational dynamics remains crucial for psychologists attempting to {{4}} the root causes of adult relationship difficulties.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-105|passage|6",
+    "s": "By examining these initial {{5}}, individuals can gain valuable insight into their own behavioral tendencies and work towards more secure connections.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-106|passage|0",
+    "s": "For decades, psychologists believed that personality was largely set in stone by early adulthood.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-106|passage|1",
+    "s": "Recent research, however, has {{1}} this long-held view, demonstrating that personality traits are far more plastic than previously thought.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-106|passage|2",
+    "s": "While genetic factors provide a foundation, environmental influences play a crucial role in shaping how these traits are {{2}} over time.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-106|passage|3",
+    "s": "Studies indicate that as people mature, they generally become more conscientious and emotionally stable, a trend known as the maturity principle.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-106|passage|4",
+    "s": "This suggests that personality is an adaptive system that helps individuals {{3}} the changing expectations of social roles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-106|passage|5",
+    "s": "Ultimately, the development of character is a lifelong process that does not {{4}} after adolescence.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-107|passage|0",
+    "s": "Andreas Vesalius is widely recognized as a pivotal figure in the history of medicine, particularly for his contributions to the study of human anatomy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-107|passage|1",
+    "s": "Prior to his work, medical understanding was dominated by the ancient teachings of Galen, which were seldom questioned.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-107|passage|2",
+    "s": "Vesalius, however, {{1}} that accurate knowledge could only be acquired through the direct dissection of human bodies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-107|passage|3",
+    "s": "In 1543, he published his magnum opus, which {{2}} significant errors in traditional anatomical texts that relied heavily on animal studies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-107|passage|4",
+    "s": "By emphasizing the importance of empirical observation over blind faith in authority, Vesalius {{3}} a rigorous new approach to biological science.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-107|passage|5",
+    "s": "Although his radical methods initially faced opposition from traditionalists, they ultimately {{4}} the way for modern physiological research and surgical practice.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-108|passage|0",
+    "s": "The rapid expansion of the gig economy has fundamentally {{1}} the nature of employment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-108|passage|1",
+    "s": "By utilizing digital platforms, individuals can now secure short-term contracts and freelance work with unprecedented ease.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-108|passage|2",
+    "s": "While this model offers workers the {{2}} to choose their own schedules, it also presents distinct challenges regarding long-term security.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-108|passage|3",
+    "s": "The primary concern revolves around the lack of stability; gig workers often do not receive standard benefits like sick pay or pension contributions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-108|passage|4",
+    "s": "Consequently, many find themselves in a {{3}} financial position compared to their full-time counterparts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-108|passage|5",
+    "s": "Governments are now under pressure to ensure these independent contractors are {{4}} from exploitation without stifling the innovation that drives the sector.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-108|passage|6",
+    "s": "Ultimately, labor laws must adapt to accommodate this {{5}} economic reality.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-109|passage|0",
+    "s": "Sleep is frequently undervalued in today's fast-paced society, yet it plays a critical role in maintaining both physical and mental well-being.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-109|passage|1",
+    "s": "During periods of deep sleep, the body undergoes essential biological processes that {{1}} energy levels and repair muscle tissues damaged during daily activities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-109|passage|2",
+    "s": "Furthermore, adequate rest is vital for regulating the specific hormones that control appetite and metabolism.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-109|passage|3",
+    "s": "Consequently, a chronic lack of sleep can lead to a significant {{2}} in the risk of developing serious long-term conditions, such as obesity and heart disease.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-109|passage|4",
+    "s": "Therefore, establishing a consistent sleep schedule is a fundamental component of a healthy {{3}}.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-109|passage|5",
+    "s": "Medical experts strongly recommend that adults aim for between seven and nine hours of quality sleep each night to ensure optimal {{4}} throughout the following day.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-110|passage|0",
+    "s": "While sleep is frequently undervalued in our fast-paced society, it plays a {{1}} role in maintaining overall well-being.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-110|passage|1",
+    "s": "During periods of deep rest, the body engages in various {{2}} processes, such as repairing tissues and strengthening the immune system.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-110|passage|2",
+    "s": "For the brain, sleep is particularly significant; it is the time when the consolidation of memory occurs, allowing the mind to process interactions and transfer information into {{3}} storage.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-110|passage|3",
+    "s": "Conversely, a chronic {{4}} of sleep can severely impair cognitive functions, reducing an individual's ability to concentrate and make sound decisions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-110|passage|4",
+    "s": "Over time, persistent sleep deprivation is associated with an increased risk of {{5}} serious health conditions, including heart disease and diabetes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-111|passage|0",
+    "s": "Recent scientific inquiry into the neurological impact of music has yielded fascinating insights regarding how the human brain processes sound.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-111|passage|1",
+    "s": "Far from being a passive auditory experience, listening to music {{1}} a vast network of brain regions simultaneously, involving areas responsible for memory, emotion, and motor control.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-111|passage|2",
+    "s": "This widespread neural stimulation can {{2}} structural changes within the brain, a phenomenon commonly referred to as neuroplasticity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-111|passage|3",
+    "s": "Consequently, music therapy has emerged as a viable clinical intervention to assist patients recovering from significant neurological damage, such as that caused by a stroke or traumatic injury.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-111|passage|4",
+    "s": "By utilizing rhythmic cues to guide physical movement, therapists can effectively help patients {{3}} motor skills and speech patterns that were previously impaired.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-111|passage|5",
+    "s": "Thus, music serves a profound functional purpose that extends far beyond mere {{4}}.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-112|passage|0",
+    "s": "Music has long been recognized for its profound ability to influence human emotion and mental states.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-112|passage|1",
+    "s": "Research suggests that listening to familiar songs can {{1}} vivid memories, transporting individuals back to specific moments in their past.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-112|passage|2",
+    "s": "This phenomenon is particularly valuable in therapeutic settings, where it is used to assist patients suffering from memory loss or cognitive decline.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-112|passage|3",
+    "s": "By engaging with melodies they once knew, these individuals can sometimes {{2}} personal history that was previously inaccessible.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-112|passage|4",
+    "s": "Furthermore, the rhythmic structure of music can help to {{3}} breathing and heart rate, thereby promoting a state of physical relaxation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-112|passage|5",
+    "s": "Consequently, music therapy is increasingly being {{4}} into standard medical care as a non-invasive treatment option.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-112|passage|6",
+    "s": "It offers a unique {{5}} to communication for those who find verbal language difficult.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-113|passage|0",
+    "s": "The 17th century marked a significant shift in how the human body was perceived, moving away from ancient mystical interpretations toward a more mechanical view.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-113|passage|1",
+    "s": "William Harvey's description of the heart functioned as a pivotal moment in this transition.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_fib_drag|goarno-read_fib_drag-113|passage|2",
+    "s": "He conceptualized the organ not as a furnace producing heat, as was previously believed, but rather as a muscular {{1}} dedicated to propelling fluid through the system.",
+    "p": "P1",
+    "native": false
+  }
+]

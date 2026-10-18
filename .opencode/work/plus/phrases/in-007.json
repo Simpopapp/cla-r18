@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-104|passage|7",
+    "s": "New regulatory frameworks are being adopted, incorporating geofencing technology to enforce speed limits in crowded areas and mandating the use of designated parking corrals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-104|passage|8",
+    "s": "Thus, while micromobility promises increased efficiency, its integration requires a careful balancing act between innovation and public safety.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|0",
+    "s": "For the better part of the 20th century, the philosophy underpinning urban development was heavily skewed towards the automobile.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|1",
+    "s": "City engineers and planners focused relentlessly on maximizing traffic flow, often widening roads and sacrificing sidewalks to accommodate the surging number of private vehicles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|10",
+    "s": "Although local merchants often express trepidation that removing parking spaces will drive away customers, studies consistently demonstrate that pedestrianized environments attract more visitors who spend more time—and money—in local shops.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|11",
+    "s": "Thus, the transition away from car dominance is not merely an environmental crusade but a strategic evolution aimed at creating more vibrant, resilient urban centers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|2",
+    "s": "This car-centric approach reshaped cities into sprawling networks of tarmac, frequently severing neighborhoods and marginalizing those attempting to travel on foot or bicycle.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|3",
+    "s": "However, in recent years, a profound shift in urban policy has emerged, challenging the long-standing dominance of the car.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|4",
+    "s": "Municipalities worldwide are now retrofitting streets to prioritize 'active transport,' converting traffic lanes into protected cycle paths and transforming parking lots into green public spaces.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|5",
+    "s": "The motivations for this reversal are diverse and compelling.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|6",
+    "s": "Public health authorities are strong advocates, arguing that walkable cities encourage regular physical activity, thereby reducing the prevalence of lifestyle-related diseases such as obesity and heart conditions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|7",
+    "s": "Furthermore, the pressing need to improve air quality and meet international climate goals has made the reduction of vehicular emissions a top priority.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|8",
+    "s": "Additionally, reducing traffic speed and volume has been shown to significantly lower accident rates, making cities safer for vulnerable populations like children and the elderly.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-105|passage|9",
+    "s": "Interestingly, the economic argument has also gained traction.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|0",
+    "s": "While popular depictions of the Vikings often focus on their maritime prowess and violent raids, their domestic society was governed by a rigid yet functional class hierarchy and a sophisticated legal system.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|1",
+    "s": "At the apex of this social pyramid stood the Jarls, the aristocracy who owned vast estates and maintained their status through wealth acquired from effective trading or plundering.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|10",
+    "s": "Although social mobility was possible—Thralls could occasionally purchase their freedom or be manumitted by generous masters, and successful Karls could rise to the station of Jarl—the distinctions between these classes were strictly enforced by custom and law.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|2",
+    "s": "Below them were the Karls, a class of free peasants who constituted the backbone of Scandinavian society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|3",
+    "s": "These individuals, ranging from landowning farmers to skilled craftsmen, enjoyed significant rights, including the privilege to bear arms and the authority to participate in the 'Thing,' a local or regional assembly.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|4",
+    "s": "The Thing served as both a court and a parliament where free men convened to settle disputes, adjudicate crimes, and establish laws.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|5",
+    "s": "It was a democratic element within a stratified society, ensuring that governance was not solely the whim of a chieftain but a collective process involving the free population.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|6",
+    "s": "Furthermore, the laws debated at these gatherings were typically memorized and recited by a designated Lawspeaker, reflecting an oral tradition that prioritized public consensus over written edicts during the early period.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|7",
+    "s": "However, this inclusion did not extend to the lowest rung of the social ladder: the Thralls.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|8",
+    "s": "These enslaved individuals, often captured during expeditions or born into servitude, possessed no legal rights and were considered property rather than citizens.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-106|passage|9",
+    "s": "The economic interdependence between these groups was crucial; Jarls provided protection and patronage, while Karls and Thralls sustained the agricultural and productive needs of the community.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|0",
+    "s": "Historical narratives of the Viking Age frequently prioritize the exploits of male warriors and explorers, often overlooking the intricate social fabric that sustained their expansion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|1",
+    "s": "Norse society was hierarchically divided into three main classes: the Jarls (aristocracy), the Karls (free peasants), and the Thralls (enslaved people).",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|10",
+    "s": "Archaeological evidence reinforces this picture of high status; the Oseberg ship burial, one of the richest ever discovered, was built for two women, suggesting that in death, as in life, certain women commanded immense respect and power.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|11",
+    "s": "Thus, while they may not have wielded the sword in battle, their stewardship was the backbone of Norse society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|2",
+    "s": "Within this stratified system, the role of free women was complex and, in many respects, remarkably progressive compared to contemporary European standards.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|3",
+    "s": "While the political arena—exemplified by the local assembly or 'Thing'—was largely the domain of men, women were not devoid of influence or legal standing.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|4",
+    "s": "Unlike their counterparts in many Christianized regions of medieval Europe, Norse women retained their own identity before the law.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|5",
+    "s": "They could inherit significant wealth, own land independently, and, perhaps most notably, initiate divorce if a marriage failed—a right that offered a degree of autonomy rare for the period.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|6",
+    "s": "The symbol of a woman’s authority was the bunch of keys she wore at her belt, signifying her absolute control over the household’s pantry and strongbox.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|7",
+    "s": "This was a position of substantial economic power; the Viking farmstead was a self-sufficient production unit requiring skilled management.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|8",
+    "s": "When men departed for seasonal raiding or trading expeditions, the responsibility for the entire estate fell to the women.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-107|passage|9",
+    "s": "They directed the labor of servants and Thralls, managed agricultural schedules, and oversaw the production of textiles—a critical commodity for both sail-making and trade.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|0",
+    "s": "For nearly a century, urban planning has been heavily dictated by the automobile, specifically the need to store it when not in use.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|1",
+    "s": "In many modern cities, a staggering percentage of developable land—sometimes estimated to be as high as thirty percent in business districts—is dedicated to surface parking lots and multi-story garages.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|10",
+    "s": "The demand for curbside management will likely intensify; instead of rows of static parked cars, streets will need designated dynamic zones for passenger boarding and alighting to prevent congestion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|11",
+    "s": "Consequently, city planners must rethink the curb not as a storage boundary, but as a fluid interface for mobility.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|2",
+    "s": "However, the advent of autonomous vehicles (AVs) promises to radically reshape this spatial dynamic.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|3",
+    "s": "Unlike private cars that sit idle for roughly 95 percent of their lifespan, self-driving fleets are expected to operate almost continuously.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|4",
+    "s": "Once a passenger is dropped off at their destination, the vehicle can immediately move on to the next rider or retreat to a remote holding facility on the city outskirts, removing the need for prime downtown parking.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|5",
+    "s": "This shift offers urban designers a unique opportunity to reclaim valuable real estate.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|6",
+    "s": "Vast tracts of concrete currently reserved for vehicle storage could be transformed into affordable housing, public parks, or pedestrian plazas, fundamentally altering the texture of city life.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|7",
+    "s": "Furthermore, street geometry itself may evolve.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|8",
+    "s": "With the precision of machine navigation, lane widths could potentially be reduced, allowing for wider sidewalks or dedicated bicycle infrastructure.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-108|passage|9",
+    "s": "Yet, this transition is not without its complexities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|0",
+    "s": "In recent years, urban landscapes have been transformed by the proliferation of micromobility solutions, most notably electric scooters and dockless bicycle-sharing schemes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|1",
+    "s": "These lightweight, single-person vehicles were initially heralded as a revolutionary answer to the \"last mile\" problem—bridging the gap between public transit stations and a commuter's final destination.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|10",
+    "s": "Others are investing in infrastructure modifications, such as protected lanes that separate micromobility users from both cars and pedestrians.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|11",
+    "s": "The consensus among urban planners is that while micromobility offers tangible benefits for urban connectivity, its long-term viability depends on creating a structured environment that prioritizes safety and orderly public spaces.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|2",
+    "s": "By offering a convenient alternative for short-distance travel, proponents argued that micromobility could significantly reduce the volume of cars on the road, thereby alleviating congestion and lowering carbon emissions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|3",
+    "s": "However, the rapid and often unregulated deployment of these fleets has generated considerable friction.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|4",
+    "s": "A primary point of contention involves the use of public space.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|5",
+    "s": "Unlike traditional bicycles, which are typically secured to dedicated racks, dockless scooters are frequently abandoned on sidewalks, blocking wheelchair ramps and creating hazards for the visually impaired.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|6",
+    "s": "Furthermore, the ambiguity regarding where these vehicles should operate has led to safety risks.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|7",
+    "s": "Riders often oscillate between sidewalks, causing distress to pedestrians, and roadways, where they are vulnerable to faster-moving automotive traffic.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|8",
+    "s": "Municipalities are now grappling with how to integrate this mode of transport effectively.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-109|passage|9",
+    "s": "Some cities have responded by imposing strict caps on fleet numbers or requiring geofencing technology to prevent parking in prohibited zones.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|0",
+    "s": "As urbanization accelerates globally, the challenge of managing vehicular flow in dense metropolitan areas has necessitated innovative policy interventions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|1",
+    "s": "Among these, congestion pricing has emerged as a potent, albeit controversial, tool.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|10",
+    "s": "Despite these concerns, as cities grapple with gridlock, the shift from free-access roads to managed road space appears increasingly inevitable.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|2",
+    "s": "The fundamental economic logic is straightforward: by charging a fee for access to city centers during peak hours, authorities can shift discretionary travel to off-peak times or alternative modes of transport, thereby smoothing the demand curve.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|3",
+    "s": "Proponents argue that the benefits are twofold.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|4",
+    "s": "Firstly, the reduction in stop-and-go traffic significantly lowers localized air pollution and greenhouse gas emissions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|5",
+    "s": "Secondly, the substantial revenue generated is rarely hoarded; instead, it is frequently ring-fenced for reinvestment into public transportation infrastructure, creating a virtuous cycle that further reduces reliance on private cars.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|6",
+    "s": "London and Stockholm are often cited as success stories where such schemes have resulted in measurable improvements in air quality and journey times.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|7",
+    "s": "However, the implementation of road user charging is fraught with political and social hurdles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|8",
+    "s": "A primary criticism is that such fees are regressive, disproportionately affecting lower-income workers who may have no viable alternative to driving.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-110|passage|9",
+    "s": "Furthermore, there is often concern about the 'spillover effect,' where traffic is merely displaced to residential neighborhoods bordering the charging zone.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|0",
+    "s": "The integration of autonomous vehicles (AVs) into urban environments promises a radical reconfiguration of city life, yet the precise nature of this transformation remains a subject of intense debate among urban planners.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|1",
+    "s": "While proponents argue that AVs will streamline traffic flow through algorithmic optimization, removing human error and reaction times, others caution that the convenience of automated travel could ironically exacerbate congestion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|2",
+    "s": "A primary concern is the phenomenon of 'zero-occupancy cruising,' where private AVs roam the streets empty to avoid parking fees or return home after a drop-off.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|3",
+    "s": "Without strict regulation, this behavior could significantly increase the total vehicle miles traveled within city centers, cluttering roads that are already at capacity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|4",
+    "s": "Conversely, the spatial impact of AVs offers a compelling opportunity for urban redevelopment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|5",
+    "s": "Currently, vast swathes of valuable urban land are dedicated to parking lots and garages.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|6",
+    "s": "In an AV-dominated future, the necessity for proximate parking diminishes rapidly; vehicles can drop passengers at their destination and park in remote, less expensive areas, or simply move on to the next passenger in a shared-fleet model.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|7",
+    "s": "This shift could liberate prime real estate for housing, green spaces, or commercial development, fundamentally altering the architectural density of downtown areas.",
+    "p": "P1",
+    "native": false
+  }
+]

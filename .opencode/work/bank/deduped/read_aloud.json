@@ -1,0 +1,702 @@
+[
+ {
+  "id": "stormedugo-read_aloud-001",
+  "type": "read_aloud",
+  "topic": "Mitigation",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Climate change mitigation consists of actions to limit global warming and its related effects. These include reducing greenhouse gas emissions and enhancing sinks of greenhouse gases. Mitigation may also be achieved by increasing the capacity of carbon sinks, such as reforestation."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-002",
+  "type": "read_aloud",
+  "topic": "Botanic Gardens",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Botanic gardens are institutions holding documented collections of living plants for the purposes of scientific research, conservation, display, and education. They play a key role in preserving biodiversity and helping the public understand plant life."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-003",
+  "type": "read_aloud",
+  "topic": "London (Shakespeare)",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "London in Shakespeare’s time had a population of around 200,000, and it was a busy, noisy, and somewhat dangerous place. The theatres were located on the outskirts of the city, outside the jurisdiction of the strict city authorities."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-004",
+  "type": "read_aloud",
+  "topic": "Restaurant Location",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The location of a restaurant plays a crucial role in its success. High visibility, foot traffic, and accessibility are all important factors. Restaurants near commercial zones tend to attract more customers than those in residential areas."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-005",
+  "type": "read_aloud",
+  "topic": "Mammal (Elephants)",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The elephant is the largest land mammal on Earth. It has an incredible memory and can recognize individuals even after many years. Elephants live in herds and exhibit complex emotions like grief, joy, and empathy."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-006",
+  "type": "read_aloud",
+  "topic": "Shrimp Farming",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Shrimp farming is a rapidly growing industry that contributes significantly to global seafood production. However, it also raises environmental concerns, including water pollution and the destruction of coastal ecosystems."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-007",
+  "type": "read_aloud",
+  "topic": "Teenage Girls’ Performance",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Studies show that teenage girls often outperform boys in school subjects, especially in reading and writing. Researchers believe this may be due to social expectations, learning styles, and brain development differences."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-008",
+  "type": "read_aloud",
+  "topic": "Language and Evolution",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Language is considered a defining feature of human evolution. It allows us to share knowledge, build communities, and transmit culture. No other species on Earth has a communication system as complex as human language."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-009",
+  "type": "read_aloud",
+  "topic": "Street Neighbors",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Your street neighbors can have a big impact on your quality of life. Whether you live in an urban apartment or a suburban house, getting along with the people next door can reduce stress and increase community happiness."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-010",
+  "type": "read_aloud",
+  "topic": "Domestic Work Division",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "In many households, women still carry the larger share of domestic responsibilities. Despite social progress, studies show that men and women continue to divide household tasks along traditional gender lines."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-011",
+  "type": "read_aloud",
+  "topic": "Russia’s Uniqueness",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Russia is the largest country in the world by land area, stretching across eleven time zones. Its geography, history, and culture make it one of the most unique nations on Earth, rich with diverse languages and traditions."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-012",
+  "type": "read_aloud",
+  "topic": "Australian Mining Industry",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Australia’s mining industry is a major contributor to the national economy. With abundant natural resources like coal, iron ore, and gold, it exports raw materials globally and creates thousands of jobs."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-013",
+  "type": "read_aloud",
+  "topic": "Abstract Preparation",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Preparing a well-structured abstract is essential for academic writing. It should clearly summarize the purpose, methods, results, and conclusions of the research, allowing readers to quickly understand the study’s value."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-014",
+  "type": "read_aloud",
+  "topic": "Economies of Scale",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Economies of scale refer to the cost advantages businesses obtain due to size, output, or scale of operation. As production increases, the average cost per unit typically decreases, leading to higher efficiency."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-015",
+  "type": "read_aloud",
+  "topic": "Electricity Discoveries",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The discovery and use of electricity transformed human civilization. From lighting homes to powering industries, electricity is now an essential part of daily life, and innovations in this field continue to evolve rapidly."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-016",
+  "type": "read_aloud",
+  "topic": "Goods and Services Demand",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The demand for goods and services is influenced by many factors including income, tastes, and prices. As these factors change, so does consumer behavior, affecting markets and economies."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-017",
+  "type": "read_aloud",
+  "topic": "Hunter-Gatherer Life",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Hunter-gatherer societies lived off the land by hunting animals and gathering plants. They were nomadic, moved with the seasons, and developed close-knit communities with shared responsibilities."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-018",
+  "type": "read_aloud",
+  "topic": "Blue Whales",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Blue whales are the largest animals to have ever lived on Earth. Despite their enormous size, they feed mostly on tiny krill. Sadly, they are now endangered due to past hunting and current environmental threats."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-019",
+  "type": "read_aloud",
+  "topic": "Selective History",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "History is often selective in what it remembers. Certain events and figures are celebrated, while others are ignored or forgotten. Understanding these patterns helps us question who writes history and why."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-020",
+  "type": "read_aloud",
+  "topic": "Roman Constitution",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The Roman Constitution was a complex mix of monarchy, aristocracy, and democracy. It evolved over time and laid the foundation for many modern systems of governance."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-021",
+  "type": "read_aloud",
+  "topic": "The Power of Smiling",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Smiling can have a profound impact on both the person smiling and those around them. It’s associated with reduced stress, improved mood, and even a stronger immune system. A simple smile can spread positivity and build connections."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-022",
+  "type": "read_aloud",
+  "topic": "Great Barrier Reef",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the largest coral reef system in the world. It is home to thousands of marine species, but it faces threats from climate change and pollution."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-023",
+  "type": "read_aloud",
+  "topic": "Libraries in the Digital Age",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "In the digital age, libraries are evolving from traditional book repositories into modern information hubs. They now offer online resources, digital lending, and even tech workshops to stay relevant and accessible."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-024",
+  "type": "read_aloud",
+  "topic": "Work-Life Balance",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Maintaining a healthy work-life balance is essential for mental and physical well-being. Overworking can lead to burnout, while having personal time improves productivity, satisfaction, and relationships."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-025",
+  "type": "read_aloud",
+  "topic": "Cultural Diversity",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Cultural diversity enriches societies by bringing together different traditions, values, and perspectives. Embracing diversity encourages mutual respect, innovation, and global understanding."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-026",
+  "type": "read_aloud",
+  "topic": "Time Management",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Effective time management is key to academic and professional success. Prioritizing tasks, setting goals, and avoiding procrastination help individuals make the most of their time."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-027",
+  "type": "read_aloud",
+  "topic": "The Human Brain",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The human brain is the most complex organ in the body. It controls thought, memory, emotion, and coordination. Neuroscientists are still discovering how different regions of the brain interact and function."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-028",
+  "type": "read_aloud",
+  "topic": "Pollination",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Pollination is vital for plant reproduction. Bees, butterflies, and other insects transfer pollen from one flower to another, allowing plants to produce fruits and seeds. Pollinator decline poses a serious risk to agriculture."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-029",
+  "type": "read_aloud",
+  "topic": "The Role of Music",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Music plays an important role in human culture and emotion. It can evoke powerful feelings, aid in relaxation, and even enhance memory. Many studies show that music therapy benefits mental health and cognitive development."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-030",
+  "type": "read_aloud",
+  "topic": "Online Learning",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Online learning has revolutionized education by making it more flexible and accessible. Students can now study at their own pace, from anywhere in the world, using digital tools and virtual classrooms."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-031",
+  "type": "read_aloud",
+  "topic": "Volcanic Eruptions",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Volcanic eruptions occur when magma rises to the surface, releasing gas, ash, and lava. While destructive, they also create fertile land and contribute to the Earth’s geological processes."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-032",
+  "type": "read_aloud",
+  "topic": "Artificial Intelligence",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Artificial Intelligence, or AI, enables machines to mimic human intelligence. It powers applications from voice assistants to autonomous vehicles. While promising, it also raises ethical and societal questions."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-033",
+  "type": "read_aloud",
+  "topic": "Plastic Pollution",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Plastic pollution is one of the greatest environmental challenges today. Non-biodegradable plastics accumulate in oceans, harming marine life and entering the food chain. Reducing plastic use is critical."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-034",
+  "type": "read_aloud",
+  "topic": "Sleep and Memory",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Sleep is essential for consolidating memory and learning. During sleep, the brain processes information gathered throughout the day. Lack of sleep can impair judgment, mood, and cognitive function."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-035",
+  "type": "read_aloud",
+  "topic": "Renewable Energy",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Renewable energy sources like solar, wind, and hydro are essential for a sustainable future. Unlike fossil fuels, they produce little or no greenhouse gases, making them environmentally friendly alternatives."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-036",
+  "type": "read_aloud",
+  "topic": "Food Wastage",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Globally, one-third of all food produced is wasted. This not only leads to hunger but also wastes the resources used to grow, transport, and package food. Reducing waste helps fight climate change and promote food security."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-037",
+  "type": "read_aloud",
+  "topic": "Social Media Impact",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Social media connects billions of people worldwide but also influences behavior and mental health. While it facilitates communication, excessive use can lead to anxiety, misinformation, and reduced real-world interaction."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-038",
+  "type": "read_aloud",
+  "topic": "The Solar System",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Our solar system consists of the Sun, eight planets, moons, and various celestial bodies. It formed about 4.6 billion years ago from a giant cloud of gas and dust, eventually developing into the system we observe today."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-039",
+  "type": "read_aloud",
+  "topic": "Immigration and Society",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Immigration contributes to economic growth and cultural diversity. Migrants bring new skills, fill labor shortages, and enrich societies. However, successful integration depends on social policies and public attitudes."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-040",
+  "type": "read_aloud",
+  "topic": "Women in Science",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Despite historical barriers, women have made groundbreaking contributions to science. Encouraging more women to pursue STEM careers helps close the gender gap and enhances innovation."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-041",
+  "type": "read_aloud",
+  "topic": "Smartphones and Productivity",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "While smartphones increase connectivity, they can also distract from deep work. Constant notifications and multitasking reduce focus. Mindful smartphone use improves efficiency and mental well-being."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-042",
+  "type": "read_aloud",
+  "topic": "Mars Exploration",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Mars exploration has fascinated scientists for decades. Rovers like Perseverance are searching for signs of past life and testing technologies for future human missions. Mars could one day become humanity’s second home."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-043",
+  "type": "read_aloud",
+  "topic": "Internet of Things (IoT)",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The Internet of Things connects everyday devices to the internet, allowing them to send and receive data. From smart refrigerators to connected cars, IoT is transforming homes, industries, and cities."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-044",
+  "type": "read_aloud",
+  "topic": "Ocean Currents",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Ocean currents regulate Earth’s climate by distributing heat across the globe. These underwater ”rivers” affect weather patterns and marine life. Changes in currents can have serious environmental impacts."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-045",
+  "type": "read_aloud",
+  "topic": "Robotics in Medicine",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Robots are increasingly used in medical procedures, offering precision and reducing recovery time. From surgical robots to automated diagnostics, robotics is revolutionizing healthcare delivery."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-046",
+  "type": "read_aloud",
+  "topic": "Cryptocurrency",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Cryptocurrency is a digital form of money that uses encryption for security. Bitcoin, the first cryptocurrency, was launched in 2009. While volatile, crypto is gaining popularity as an alternative asset."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-047",
+  "type": "read_aloud",
+  "topic": "Endangered Species",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Species become endangered due to habitat loss, hunting, and climate change. Conservation efforts like protected areas and breeding programs aim to prevent extinction and preserve biodiversity."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-048",
+  "type": "read_aloud",
+  "topic": "Water Scarcity",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Water scarcity affects over two billion people worldwide. Causes include droughts, pollution, and overuse. Sustainable water management is essential for agriculture, industry, and daily life."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-049",
+  "type": "read_aloud",
+  "topic": "Peer Pressure",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "Peer pressure influences how people behave, especially during adolescence. While it can encourage positive habits, it may also lead to risky behavior. Teaching self-confidence helps resist negative pressure."
+  }
+ },
+ {
+  "id": "stormedugo-read_aloud-050",
+  "type": "read_aloud",
+  "topic": "The Industrial Revolution",
+  "source": {
+   "domain": "stormedugo.com",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "attribution": "Storm EduGo — Read Aloud passages, acesso 2026-10-17"
+  },
+  "provenance": "comunitaria",
+  "data": {
+   "text": "The Industrial Revolution transformed economies from agrarian to industrial. It introduced machines, improved transportation, and changed labor systems. It also led to urbanization and environmental changes."
+  }
+ }
+]

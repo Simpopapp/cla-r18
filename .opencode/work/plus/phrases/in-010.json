@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|4",
+    "s": "Within the domestic sphere, women wielded significant authority, symbolized by their possession of the keys to the household food stores.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|5",
+    "s": "Their influence extended beyond mere housekeeping; during the frequent and lengthy absences of men on overseas expeditions, women were tasked with the full management of farms and land, ensuring the economic continuity of the settlement.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|6",
+    "s": "Legally, they possessed rights that were progressive for the time, including the ability to own property, inherit wealth, and request a divorce.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|7",
+    "s": "However, this autonomy had clear boundaries.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|8",
+    "s": "The political sphere, centered around the 'Thing'—a legislative and judicial assembly—was predominantly male.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|9",
+    "s": "While women were not explicitly banned from observing proceedings, the power to cast ballots and adjudicate disputes was reserved for free men, leaving women with indirect rather than direct political agency.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|0",
+    "s": "In the United Kingdom, the mechanism for assessing university research quality, known as the Research Excellence Framework (REF), has reshaped the priorities of higher education institutions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|1",
+    "s": "Traditionally, government research funding was allocated principally on the basis of the volume and prestige of scholarly publications produced by faculty.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|10",
+    "s": "Furthermore, the complex bureaucracy required to track and document these external impacts is frequently cited as a significant burden that diverts time away from core research and teaching activities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|2",
+    "s": "However, recent iterations of the framework have elevated 'impact' to a decisive metric, now accounting for a substantial proportion of the score used to distribute billions of pounds in public grants.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|3",
+    "s": "This policy shift obliges institutions to provide concrete evidence that their investigations generate tangible benefits outside academia, influencing areas such as public policy, economic productivity, and cultural heritage.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|4",
+    "s": "Proponents of the system maintain that the impact agenda fosters necessary accountability for the use of taxpayer funds.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|5",
+    "s": "By incentivizing researchers to engage with non-academic partners, the framework aims to accelerate the translation of theoretical knowledge into societal solutions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|6",
+    "s": "Consequently, universities are increasingly collaborating with industrial sectors and charitable organizations to ensure their work addresses contemporary challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|7",
+    "s": "Nevertheless, the emphasis on quantifiable impact has drawn sharp criticism.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|8",
+    "s": "Detractors argue that this approach imperils 'blue-sky' research—exploratory, curiosity-driven inquiry that lacks immediate commercial or practical application but often lays the groundwork for future scientific paradigms.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-128|passage|9",
+    "s": "There is a concern that if funding is tied too strictly to near-term utility, scholars may avoid risky, innovative topics in favor of safe projects with predictable outcomes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|0",
+    "s": "The rapid pace of technological innovation has fostered a culture where consumers are frequently encouraged to upgrade their devices, often long before the hardware has actually failed.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|1",
+    "s": "While this cycle drives economic growth within the tech sector, it has precipitated a mounting global crisis regarding electronic waste, or e-waste.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|10",
+    "s": "This practice exposes workers and surrounding communities to concentrated toxic fumes, resulting in severe respiratory and neurological health issues.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|2",
+    "s": "Millions of metric tons of discarded smartphones, computers, and household appliances are generated annually, yet global statistics suggest that only a small fraction of this volume is formally collected and recycled in a safe manner.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|3",
+    "s": "A significant challenge in managing e-waste lies in the complex composition of modern electronics.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|4",
+    "s": "These devices often contain a mixture of hazardous substances, such as lead, mercury, and cadmium, alongside valuable precious metals like gold, silver, and copper.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|5",
+    "s": "When e-waste is improperly disposed of in landfills, toxic materials can eventually leach into the soil and groundwater, posing threats to local ecosystems.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|6",
+    "s": "Conversely, the failure to recover precious metals represents a substantial economic loss, estimated at billions of dollars each year.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|7",
+    "s": "Furthermore, the recycling process itself is fraught with logistical and economic difficulties.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|8",
+    "s": "Due to the high cost of adhering to environmental safety standards in developed nations, large quantities of e-waste are frequently exported, often illegally, to developing countries.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-129|passage|9",
+    "s": "In these regions, informal recycling sectors have emerged where workers dismantle devices by hand or burn them to extract metals without protective equipment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|0",
+    "s": "The market for wearable technology, particularly smartwatches and fitness trackers, has witnessed an exponential expansion in recent years.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|1",
+    "s": "What were once viewed as niche gadgets primarily for technology enthusiasts or elite athletes have transitioned into mainstream accessories found on wrists worldwide.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|10",
+    "s": "Manufacturers are under increasing scrutiny and regulatory pressure to ensure that the personal health information collected is stored securely and not exploited for commercial gain without explicit user consent.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|11",
+    "s": "Despite these challenges, industry analysts predict that the sector will continue to grow.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|12",
+    "s": "The next generation of devices is expected to evolve beyond simple tracking to include more medical-grade features that could assist in chronic disease management, thereby cementing the wearable's place in the ecosystem of essential personal technology.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|2",
+    "s": "These devices often serve as seamless extensions of the smartphone, allowing users to triage notifications and control media without reaching into their pockets.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|3",
+    "s": "However, a primary driver of this widespread adoption is undoubtedly the increasing consumer focus on personal health metrics.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|4",
+    "s": "Modern wearables offer sophisticated tracking capabilities, ranging from continuous heart rate monitoring and blood oxygen estimation to detailed sleep cycle analysis.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|5",
+    "s": "For a growing demographic, the utility of these devices has shifted from being a technological novelty to an integral component of daily health and lifestyle management.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|6",
+    "s": "Nevertheless, the trajectory of wearable technology is not devoid of hurdles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|7",
+    "s": "A significant technical constraint remains battery life; unlike traditional analog or digital timepieces that can operate for years on a single cell, high-function smartwatches frequently necessitate daily charging.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|8",
+    "s": "This requirement establishes a routine that some users find cumbersome and counterintuitive for a device meant to be worn continuously.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-130|passage|9",
+    "s": "Furthermore, the massive accumulation of sensitive biometric data raises substantial privacy and ethical concerns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|0",
+    "s": "For much of the mid-20th century, urban planning was strictly governed by the demands of the automobile, with engineers prioritizing vehicle speed and traffic flow above other considerations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|1",
+    "s": "However, a significant paradigm shift is currently reshaping metropolitan landscapes, as city planners increasingly embrace 'active mobility' strategies that favor pedestrians and cyclists over private vehicles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|2",
+    "s": "This transition represents a fundamental rethinking of how public space is allocated within dense urban environments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|3",
+    "s": "One significant approach involves 'road diets,' where traffic lanes are removed or narrowed to create space for wider sidewalks and protected bike lanes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|4",
+    "s": "While opponents often argue that removing lanes exacerbates congestion, evidence frequently points to the phenomenon of 'induced demand' working in reverse: reducing road capacity can actually discourage unnecessary car trips, shifting travelers toward more efficient modes of transport like cycling or walking.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|5",
+    "s": "Beyond traffic mechanics, the economic implications are profound.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|6",
+    "s": "Studies suggest that pedestrian-friendly streets often see higher retail turnover, as slower-moving foot traffic encourages impulse buying in a way that rapid drive-by traffic does not.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|7",
+    "s": "Furthermore, the public health dividends are substantial.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|8",
+    "s": "By integrating physical activity into daily commutes and reducing localized air pollution, cities can lower rates of respiratory illness and cardiovascular disease.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-131|passage|9",
+    "s": "Despite these clear benefits, the transition faces significant hurdles, as retrofitting infrastructure requires substantial capital and often encounters strong political opposition from motorists accustomed to the status quo.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|0",
+    "s": "The sudden ubiquity of dockless electric scooters and shared bicycles has marked a significant shift in urban transportation dynamics during the last decade.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|1",
+    "s": "Initially introduced as a novel solution to the \"last mile\" disconnect—the difficulty commuters face in traveling from transit stations to their final destinations—these micro-mobility services were embraced for their potential to reduce reliance on private automobiles for short trips.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|2",
+    "s": "By providing an on-demand, flexible mode of transit, they promised to alleviate traffic congestion and lower urban emission levels.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|3",
+    "s": "However, the reality of their deployment has introduced a complex set of challenges for city administrators.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|4",
+    "s": "The \"dockless\" nature of these systems, while convenient for users, has frequently resulted in public spaces being overrun by abandoned vehicles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|5",
+    "s": "Sidewalks cluttered with toppled scooters pose hazards to pedestrians, particularly those with limited mobility, forcing local governments to scramble to implement strict parking regulations and geofencing restrictions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|6",
+    "s": "Beyond the logistical headaches, the environmental impact of these shared electric fleets is the subject of growing scrutiny.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|7",
+    "s": "Although the scooters themselves emit no exhaust during operation, a comprehensive lifecycle analysis paints a less favorable picture.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|8",
+    "s": "The energy-intensive manufacturing process of lithium-ion batteries, the short lifespan of the shared vehicles due to rough use and vandalism, and the emissions from service vans that collect them for nightly charging all contribute to a significant carbon footprint.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-132|passage|9",
+    "s": "Consequently, while micro-mobility remains a promising component of modern urban planning, it requires a nuanced approach to regulation and sustainability that goes beyond the initial hype.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|0",
+    "s": "For decades, the financing of higher education in the UK has progressively moved away from a model of substantial state grants towards one driven primarily by tuition fees.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|1",
+    "s": "This structural transformation was designed to alleviate the fiscal burden on the general taxpayer while simultaneously injecting market-style competition into the academic sector.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|10",
+    "s": "Critics argue that the commodification of learning threatens to undervalue academic disciplines that do not yield immediate or high financial returns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|11",
+    "s": "There is a palpable fear that in the race for revenue, universities might prioritize vocational and technical courses over the arts and humanities, potentially eroding the broader cultural and intellectual mission of the university in favor of short-term economic utility.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|2",
+    "s": "Policymakers argued that by making funding contingent on student recruitment, universities would be incentivized to enhance the quality of their provision to survive in an open market.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|3",
+    "s": "Consequently, the operational culture of universities has shifted.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|4",
+    "s": "Institutions now function in a fiercely competitive marketplace, frequently adopting corporate strategies to secure their financial stability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|5",
+    "s": "To attract students—who have effectively become the primary source of revenue—many universities have invested heavily in sophisticated marketing campaigns and the extensive modernization of campus facilities, ranging from luxury accommodation to state-of-the-art sports centers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|6",
+    "s": "This marketization has also fundamentally redefined the psychological contract between students and their institutions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|7",
+    "s": "Bearing the weight of significant financial debt, students are increasingly viewing themselves as consumers of a service rather than merely scholars.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|8",
+    "s": "They tend to demand greater tangible value for their money, seeking rigorous assurances regarding contact hours, the timeliness of feedback, and, perhaps most crucially, graduate employability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-133|passage|9",
+    "s": "While proponents suggest this consumer pressure drives up standards of service, it has sparked intense debate regarding the true purpose of higher education.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-134|passage|0",
+    "s": "Urban planners and city officials have long wrestled with the intractable problem of traffic congestion, a phenomenon that stifles economic productivity, increases stress, and significantly degrades urban air quality.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-134|passage|1",
+    "s": "For decades, the standard response to clogged arteries was to expand road capacity, operating under the assumption that more lanes would naturally alleviate bottlenecks.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-134|passage|10",
+    "s": "They contend that such charges disproportionately burden lower-income drivers who may live in areas underserved by transit and thus lack viable alternatives to the private car.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-134|passage|11",
+    "s": "Consequently, the political viability of congestion pricing often hinges on how effectively revenue is redistributed to mitigate these social inequities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-134|passage|2",
+    "s": "However, this approach has largely fallen out of favor due to the theory of induced demand, which suggests that increasing supply merely encourages more driving, quickly filling any new capacity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-134|passage|3",
+    "s": "Consequently, policymakers have turned their attention to demand-side management strategies, with congestion pricing emerging as a particularly potent, albeit controversial, tool.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-134|passage|4",
+    "s": "By levying a fee on vehicles entering designated high-traffic zones during peak hours, cities aim to internalize the external costs of driving—such as pollution and time lost to gridlock—effectively incentivizing motorists to shift their travel times, modify their routes, or switch to alternative modes of transport.",
+    "p": "P1",
+    "native": false
+  }
+]

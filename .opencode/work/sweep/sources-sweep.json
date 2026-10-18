@@ -1,0 +1,1630 @@
+{
+ "version": 1,
+ "updated": "2026-10-18",
+ "note": "Fontes herdadas do projeto 1 (.opencode/work/bank/sources.json) + operatorGroup (independência para corroboração, PRD2 §3.2). Novas candidatas da varredura entram aqui pelo gate (PRD2 Ap. E).",
+ "sources": [
+  {
+   "id": "pearson",
+   "operatorGroup": "pearson",
+   "tier": "verificada",
+   "confidence": 95,
+   "url": "https://www.pearsonpte.com",
+   "origin": "projeto 1"
+  },
+  {
+   "id": "owid",
+   "operatorGroup": "owid",
+   "tier": "verificada",
+   "confidence": 90,
+   "url": "https://ourworldindata.org/grapher",
+   "origin": "projeto 1"
+  },
+  {
+   "id": "goarno",
+   "operatorGroup": "goarno",
+   "tier": "comunitaria",
+   "confidence": 70,
+   "url": "https://goarno.io/blog",
+   "origin": "projeto 1",
+   "status": "aprovada",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "gate herdado do projeto 1 (fonte aprovada em sources.json); re-avaliação de tier na Fase 5"
+   }
+  },
+  {
+   "id": "goarno-reorder",
+   "operatorGroup": "goarno",
+   "tier": "comunitaria",
+   "confidence": 64,
+   "url": "https://goarno.io/blog/50-re-order-paragraphs-examples-pte/",
+   "origin": "projeto 1"
+  },
+  {
+   "id": "stormedugo",
+   "operatorGroup": "stormedugo",
+   "tier": "comunitaria",
+   "confidence": 68,
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic",
+   "origin": "projeto 1"
+  },
+  {
+   "id": "band9",
+   "operatorGroup": "band9",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "url": "https://band9pte.com.au/pte-essay-topics.html",
+   "origin": "projeto 1"
+  },
+  {
+   "id": "langacad",
+   "operatorGroup": "langacad",
+   "tier": "comunitaria",
+   "confidence": 62,
+   "url": "https://www.languageacademy.com.au/blog/50-most-repeated-questions-with-sample-answers",
+   "origin": "projeto 1"
+  },
+  {
+   "id": "edknot",
+   "operatorGroup": "edknot",
+   "tier": "comunitaria",
+   "confidence": 65,
+   "url": "https://www.edknot.com/pte-practice/answer-short-question",
+   "origin": "projeto 1"
+  },
+  {
+   "id": "edknot-reorder",
+   "operatorGroup": "edknot",
+   "tier": "comunitaria",
+   "confidence": 65,
+   "url": "https://www.edknot.com/pte-practice/reorder-paragraph",
+   "origin": "projeto 1"
+  },
+  {
+   "id": "edknot-retell",
+   "operatorGroup": "edknot",
+   "tier": "comunitaria",
+   "confidence": 65,
+   "url": "https://www.edknot.com/pte-practice/retell-lecture",
+   "origin": "projeto 1",
+   "status": "aprovada",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "gate herdado do projeto 1 (fonte aprovada em sources.json); re-avaliação de tier na Fase 5"
+   }
+  },
+  {
+   "id": "cand-11",
+   "url": "https://pteking.com/listening",
+   "types": [
+    "lst_hcs",
+    "lst_hiw",
+    "lst_smw",
+    "lst_mcq_single",
+    "lst_mcq_multi"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C2 alegado pelo índice: Real and repeated questions; sem confirmação independente."
+    ],
+    "negativeSignals": [
+     "Índice sem gabaritos visíveis; volume apenas anunciado; curadoria humana C3 não demonstrada.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "Real and repeated questions",
+     "Your progress: 0/58",
+     "Your progress: 0/320",
+     "Your progress: 0/88",
+     "Your progress: 0/87",
+     "Your progress: 0/69"
+    ]
+   },
+   "apparentVolume": "Índice anuncia HCS 58, HIW 320, SMW 88, single 87, multi 69; não são contagens de itens/gabaritos lidos.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "índice sem gabaritos visíveis; volume apenas anunciado; nada para amostrar"
+   }
+  },
+  {
+   "id": "cand-12",
+   "url": "https://realpte.com/practice/highlight-correct-summary",
+   "types": [
+    "lst_hcs"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C2 indiciário: contador de relatos I sat this associado a IDs."
+    ],
+    "negativeSignals": [
+     "Lista sem texto de questão e sem gabarito no retorno; C3 não demonstrado.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "43 Highlight Correct Summary questions in the RealPTE bank; 43 of them open directly in the practice screen.",
+     "107 students marked \"I sat this\""
+    ]
+   },
+   "apparentVolume": "43 anunciados; lista de IDs visível; 0 gabaritos lidos.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "HTTP 403 ao acesso direto (bloqueio de agente) após robots permitido; sem contorno (PRD2 §5.7/§6.4)"
+   }
+  },
+  {
+   "id": "cand-13",
+   "url": "https://realpte.com/practice/listening-multiple-choice-single",
+   "types": [
+    "lst_mcq_single"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C2 indiciário: relatos I sat this associados às questões."
+    ],
+    "negativeSignals": [
+     "Lista sem gabarito; autenticação do relato não demonstrada.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "49 Listening: Multiple Choice, Single Answer questions in the RealPTE bank; 49 of them open directly in the practice screen.",
+     "What is lecture mainly about?"
+    ]
+   },
+   "apparentVolume": "49 anunciados; enunciados truncados visíveis; 0 gabaritos lidos.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "mesmo operador das URLs realpte reprovadas; 403"
+   }
+  },
+  {
+   "id": "cand-14",
+   "url": "https://www.ptebank.com/product/ptematerial/",
+   "types": [
+    "lst_hcs",
+    "lst_hiw",
+    "lst_smw",
+    "lst_mcq_single",
+    "lst_mcq_multi"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C2 alegado: equipe diz coletar questões reais e verificar autenticidade."
+    ],
+    "negativeSignals": [
+     "REPROVA: pagamento de $79; entrega via e-mail/conta; nenhum gabarito público lido.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "PTE Bank team collected real exam questions from many different sources.",
+     "The question files will be delivered via email / online account immediately after purchase."
+    ]
+   },
+   "apparentVolume": "Anuncia single 39, multi 46, outros quatro tipos agrupados em 146; 0 itens visíveis.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "pagamento $79; entrega via e-mail/conta (PRD2 §5.7)"
+   }
+  },
+  {
+   "id": "cand-15",
+   "url": "https://www.pteexampreparation.com/pte-listening/mcq-choose-single-answer/pte-listening-multiple-choice-single-answer-practice-questions/",
+   "types": [
+    "lst_mcq_single"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C3 parcial: material datado de 8 dezembro 2017, áudio, transcrição e resposta explícita; revisão humana não confirmada."
+    ],
+    "negativeSignals": [
+     "Sem C2 específico: prática, não recall comprovado; licença não demonstrada.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "What is the focus of this year’s expedition energy concept demonstration?",
+     "#Right Answer: 2.",
+     "To learn about the technology that can help make the company landing team better"
+    ]
+   },
+   "apparentVolume": "Questão 13 com transcrição e resposta 2 lidas; início da questão 14 visível.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "volume visível insuficiente (≤2 itens nesta página); amostra mínima 10 impossível — re-avaliar com paginação na onda 2"
+   }
+  },
+  {
+   "id": "cand-16",
+   "url": "https://www.radiusenglish.com/pte-listening-select-missing-word/",
+   "types": [
+    "lst_smw"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Transcrição literal pública de item SMW; útil para checagem posterior, sem C2 confirmado."
+    ],
+    "negativeSignals": [
+     "REPROVA enquanto sem gabarito; C3 completo não demonstrado.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "You will hear a recording about income inequality.",
+     "In fact, in our work, you can remove those countries at the extreme, and you’ve still got a significant correlation."
+    ]
+   },
+   "apparentVolume": "1 item sobre income inequality com transcrição; sem alternativas/gabarito no retorno.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "1 item sem alternativas/gabarito; volume insuficiente para amostra"
+   }
+  },
+  {
+   "id": "cand-17",
+   "url": "https://alfapte.com/pte-listening-practice/highlight-incorrect-words/sample-questions",
+   "types": [
+    "lst_hiw"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Site de preparo com exemplos numerados e instruções; insuficiente para C3 completo."
+    ],
+    "negativeSignals": [
+     "REPROVA: gabarito/transcrição não aparecem no texto retornado; não afirmar se JS ou login é a causa.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "Sample Question 9:",
+     "Note that this task has negative marking, so selecting the correct word will reduce your marks."
+    ]
+   },
+   "apparentVolume": "9 cabeçalhos Sample Question visíveis; nenhum par incorreto/correto lido.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "gabarito/transcrição não visíveis no retorno; não demonstrado sem JS/login"
+   }
+  },
+  {
+   "id": "cand-18",
+   "url": "https://leapscholar.com/exams/pte/practice-test/listening/highlight-correct-summary",
+   "types": [
+    "lst_hcs"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C3 parcial: página de preparo anuncia respostas e explicações."
+    ],
+    "negativeSignals": [
+     "Não comprova ocorrência em prova; gabarito do item 1 não apareceu no retorno lido.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "Practice with 15 real recordings below, answers and explanations included.",
+     "Attempt each one, then open the sample answer to compare."
+    ]
+   },
+   "apparentVolume": "Anuncia 15 gravações; opções do item 1 Urban Heat Islands lidas.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "gabarito do item não apareceu no retorno; sem C2; amostra não viável"
+   }
+  },
+  {
+   "id": "cand-19",
+   "url": "https://www.aliensbrain.com/quiz/17442/pte-listening-select-missing-word-2",
+   "types": [
+    "lst_smw"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C3 parcial: exemplo com alternativas e explicação contextual; revisão não confirmada."
+    ],
+    "negativeSignals": [
+     "Não há letra do gabarito explícita no retorno; sem C2 de prova real.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "You will hear a recording about solar energy.",
+     "A. location",
+     "B. tilt",
+     "C. distance",
+     "D. position",
+     "E. harness"
+    ]
+   },
+   "apparentVolume": "4 itens com alternativas; explicação textual do item 1 lida.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "4 itens, letra do gabarito não explícita no retorno; volume insuficiente"
+   }
+  },
+  {
+   "id": "cand-20",
+   "url": "https://bandladder.com/pte-practice/listening-multiple-choice-multiple-answers",
+   "types": [
+    "lst_mcq_multi"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Página oferece prática gratuita e explicações; C3 apenas parcial."
+    ],
+    "negativeSignals": [
+     "Gravações descritas como originais, não recall; gabarito não visível no trecho lido; não confundir material autoral com questão real.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "PTE listening multiple choice multiple answer practice with original recordings in four English accents.",
+     "Free, no login",
+     "Traditional Violin Varnish and Ground Layers"
+    ]
+   },
+   "apparentVolume": "Anuncia 70+ sets/100+ questions; 1 título de amostra visível, sem gabarito lido.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "gravações declaradas originais (não recall); gabarito não visível; volume não demonstrado"
+   }
+  },
+  {
+   "id": "cand-21",
+   "url": "https://online.britfort.com/wp-content/uploads/Part_3_Listening_PTEA_Practice_Test.pdf",
+   "types": [
+    "lst_hcs",
+    "lst_hiw",
+    "lst_smw",
+    "lst_mcq_single",
+    "lst_mcq_multi"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C4 indiciário: documento se identifica como Pearson Education Ltd 2011; hospedagem terceira não prova licença."
+    ],
+    "negativeSignals": [
+     "REPROVA por copyright restritivo sem licença de redistribuição demonstrada; áudios externos ao PDF; gabaritos não lidos integralmente.",
+     "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+     "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+     "PTE Academic Offline Practice Test",
+     "The practice items are on pages 2-17 and the Answer Key and Transcripts on pages 18-28.",
+     "No part of this publication may be reproduced without the prior written permission of Pearson Education Ltd."
+    ]
+   },
+   "apparentVolume": "PDF anuncia itens pp. 2–17 e gabaritos/transcrições pp. 18–28; não contados individualmente.",
+   "origin": "sweep-lot-01.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "© Pearson Education 2011 sem licença de redistribuição (PRD2 §5.7)"
+   }
+  },
+  {
+   "id": "cand-22",
+   "url": "https://ptehelper.com.au/tu-de-thi-pte-200-cau-answer-short-question-asq/",
+   "types": [
+    "answer_short"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptehelper",
+   "evidence": {
+    "positiveSignals": [
+     "C2: equipe afirma ter extraído de provas reais (đề thi thật); alegação da fonte, não confirmação Pearson.",
+     "Questões e respostas abertas no HTML."
+    ],
+    "negativeSignals": [
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "C1 não demonstrado por texto idêntico em domínios com independência confirmada."
+    ],
+    "quotes": [
+     "Helper Team lấy từ đề thi thật",
+     "365 What does ice become when you heat it? Water",
+     "367 What is the antonym of predecessor? Successor"
+    ]
+   },
+   "apparentVolume": "Página anuncia 200; lista numerada visível, incluindo 365–415; não assumido que todos os 200 sejam únicos.",
+   "origin": "sweep-lot-02.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "gate": {
+    "decision": "aprovada",
+    "date": "2026-10-18",
+    "sample": 11,
+    "sampleOf": 102,
+    "defects": 0,
+    "evidence": "C2 alegado pela fonte: 'lấy từ đề thi thật' (extraído de provas reais); 102 itens Q/A inline parseados (regex N q a)",
+    "note": "página em vietnamita; conteúdo das questões em inglês; dedupe contra sumlingo/gurully obrigatório"
+   }
+  },
+  {
+   "id": "cand-23",
+   "url": "https://www.gurully.com/blog/pte-short-answer-questions-list/",
+   "types": [
+    "answer_short"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "gurully",
+   "evidence": {
+    "positiveSignals": [
+     "C3 parcial: autoria Vidhi e revisão Brijesh Dhanani identificadas; perguntas, respostas e dicas abertas."
+    ],
+    "negativeSignals": [
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "C2 não confirmado na página atual; não confundir título most repeated do PDF indexado com evidência desta página."
+    ],
+    "quotes": [
+     "Which country is both a continent and a country?",
+     "Australia",
+     "Reviewed by - Brijesh Dhanani"
+    ]
+   },
+   "apparentVolume": "66 entradas numeradas observadas, Question 1–66, com respostas e links MP3.",
+   "origin": "sweep-lot-02.json",
+   "tier": "comunitaria",
+   "confidence": 67,
+   "gate": {
+    "decision": "aprovada",
+    "date": "2026-10-18",
+    "sample": 10,
+    "sampleOf": 66,
+    "defects": 0,
+    "evidence": "C3: autoria (Vidhi) + revisão (Brijesh Dhanani); 66 pares Q/A + MP3 (verificado: 66 Q / 69 Answer)",
+    "note": "mesmo operador das páginas SGD/RTS abaixo — corroboração C1 NÃO válida entre elas"
+   }
+  },
+  {
+   "id": "cand-24",
+   "url": "https://sumlingo.com/blog/most-100-repeated-pte-answer-short-questions/",
+   "types": [
+    "answer_short"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "sumlingo",
+   "evidence": {
+    "positiveSignals": [
+     "C2: texto atribui os itens a relatos recentes de candidatos; data visível June 2, 2025."
+    ],
+    "negativeSignals": [
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "Sem identificação de candidatos, datas das provas ou verificação independente; revisão humana não demonstrada."
+    ],
+    "quotes": [
+     "These have been frequently reported by PTE candidates in recent tests.",
+     "Question: What do we call a doctor who performs operations?",
+     "Answer: Surgeon"
+    ]
+   },
+   "apparentVolume": "100 questões anunciadas; lista extensa com perguntas e respostas visíveis no HTML.",
+   "origin": "sweep-lot-02.json",
+   "tier": "comunitaria",
+   "confidence": 68,
+   "gate": {
+    "decision": "aprovada",
+    "date": "2026-10-18",
+    "sample": 10,
+    "sampleOf": 100,
+    "defects": 0,
+    "evidence": "C2: 'most 100 repeated', data June 2, 2025; 100 pares Q/A abertos no HTML (verificado: 100/100); amostra manual em review/manual-samples-wave1.json",
+    "note": "reuso local; licença não explícita — registrado como pendência honesta"
+   }
+  },
+  {
+   "id": "cand-25",
+   "url": "http://www.ptesprinters.com/exam-recall/50-answer-short-questions-prediction-list-1-dec-2019/",
+   "types": [
+    "answer_short"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptesprinters",
+   "evidence": {
+    "positiveSignals": [
+     "C2 parcial: página em exam-recall, título Prediction List-1: Dec-2019; chamada Recent Exam Memories."
+    ],
+    "negativeSignals": [
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "Lista antiga/preditiva, sem confirmação de aplicação de cada item."
+    ],
+    "quotes": [
+     "Check out \"Exam Recall\" section for Recent Exam Memories",
+     "3.How many days are in a leap year? – – 366"
+    ]
+   },
+   "apparentVolume": "50 itens anunciados; lista numerada aberta com gabaritos junto às perguntas.",
+   "origin": "sweep-lot-02.json",
+   "tier": "comunitaria",
+   "confidence": 62,
+   "gate": {
+    "decision": "aprovada",
+    "date": "2026-10-18",
+    "sample": 10,
+    "sampleOf": 49,
+    "defects": 0,
+    "evidence": "C2 parcial: canal 'exam-recall', 'Prediction List-1 Dec-2019'; 49 itens com gabarito inline (verificado)",
+    "note": "lista preditiva antiga (2019) — corroboração C1 com fontes atuais é o critério decisivo na integração"
+   }
+  },
+  {
+   "id": "cand-26",
+   "url": "https://www.gurully.com/exam/pte/pte-summarize-group-discussion-sample",
+   "types": [
+    "sgd"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "gurully",
+   "evidence": {
+    "positiveSignals": [
+     "C3 parcial: plataforma de preparação com respostas-modelo abertas e instruções de comparação."
+    ],
+    "negativeSignals": [
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "C1/C2 não demonstrados para os itens; exemplos de prática não comprovam recall real."
+    ],
+    "quotes": [
+     "Check the sample answer.",
+     "The discussion focuses on improving the effectiveness of recycling programs at the university and how institutions can promote more sustainable waste practices."
+    ]
+   },
+   "apparentVolume": "11 entradas Question 1–11 observadas; respostas-modelo em texto e áudio; transcrições integrais dos estímulos não verificadas.",
+   "origin": "sweep-lot-02.json",
+   "tier": "comunitaria",
+   "confidence": 67,
+   "gate": {
+    "decision": "aprovada (condicional)",
+    "date": "2026-10-18",
+    "sample": 11,
+    "sampleOf": 11,
+    "defects": 0,
+    "evidence": "C3: 11 itens com respostas-modelo abertas; transcrições dos estímulos",
+    "note": "tipo raro (sgd); amostra = total disponível (11 < mínimo 10% × volume — total da página); C1/C2 ausentes"
+   }
+  },
+  {
+   "id": "cand-27",
+   "url": "https://alfapte.com/pte-speaking-practice/summarize-group-discussion/sample-questions",
+   "types": [
+    "sgd"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Scripts de diálogos abertos; identificação Academic & UKVI."
+    ],
+    "negativeSignals": [
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "REPROVA: scripts são estímulos, não gabaritos; nenhum resumo-modelo observado.",
+     "C1/C2/C3 completo não demonstrados; candidata negativa, não fonte aprovada."
+    ],
+    "quotes": [
+     "Sample Que 10:",
+     "Man1: Did you guys hear about the student club fair next week?"
+    ]
+   },
+   "apparentVolume": "10 Sample Que observadas com scripts; nenhum resumo-modelo textual identificado.",
+   "origin": "sweep-lot-02.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "só estímulos (scripts), sem resumo-modelo/gabarito observado"
+   }
+  },
+  {
+   "id": "cand-28",
+   "url": "https://www.gurully.com/pte-speaking-practice/respond-to-situation",
+   "types": [
+    "rts"
+   ],
+   "status": "aprovada (condicional)",
+   "operatorGroup": "gurully",
+   "evidence": {
+    "positiveSignals": [
+     "C3 parcial: prática de provedor de preparação, cenários e respostas abertas."
+    ],
+    "negativeSignals": [
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "Mistura Academic e Core; instrução inicial usa 20 segundos (Core), inadequada ao Academic de 10 segundos.",
+     "C1/C2 de ocorrência em exame não demonstrados."
+    ],
+    "quotes": [
+     "You will have 20 seconds to think about your answer.",
+     "Hi, team! I'm glad to design the poster for the academic conference,",
+     "Could you share everything with me by Wednesday so I have enough time to plan the layout and make it look clear and engaging?"
+    ]
+   },
+   "apparentVolume": "5 cenários visíveis; respostas textuais sob Transcript, incluindo poster e edição do trabalho.",
+   "origin": "sweep-lot-02.json",
+   "tier": "comunitaria",
+   "confidence": 64,
+   "gate": {
+    "decision": "aprovada (condicional)",
+    "date": "2026-10-18",
+    "sample": 5,
+    "sampleOf": 5,
+    "defects": 1,
+    "evidence": "C3: 5 cenários com respostas-modelo; instrução usa 20 s (Core) — defeito registrado (Academic: 10 s prep/40 s resposta)",
+    "note": "rts raro; amostra = total disponível (5 < mínimo 10); mistura Academic/Core a tratar na extração"
+   }
+  },
+  {
+   "id": "cand-29",
+   "url": "https://www.gurully.com/blog/pte-academic-respond-to-a-situation/",
+   "types": [
+    "rts"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C3 parcial: autor/revisor Brijesh Dhanani identificado; diferencia Academic e traz resposta-modelo."
+    ],
+    "negativeSignals": [
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "C2 não demonstrado para o exemplo; trata-se de amostra de preparação."
+    ],
+    "quotes": [
+     "You will have 10 seconds to prepare and 40 seconds to speak",
+     "Hi Dr. Singh, thank you so much for inviting me to contribute a section to the collaborative research paper."
+    ]
+   },
+   "apparentVolume": "Ao menos 1 exemplo aberto com áudio RTS_A_0031.mp3 e resposta-modelo textual.",
+   "origin": "sweep-lot-02.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "duplicata operacional da URL gurully rts já aprovada (cand-28); 1 exemplo só — mantida a página principal"
+   }
+  },
+  {
+   "id": "cand-30",
+   "url": "https://leapscholar.com/exams/pte/practice-test/reading/multiple-choice-multiple-answers",
+   "types": [
+    "read_mcq_multi"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C2 fraco: página afirma 15 real questions; não oferece data de prova no trecho lido.",
+     "Passagem sobre sharing economy, opções e chave visíveis na extração do buscador."
+    ],
+    "negativeSignals": [
+     "REPROVA: robots.txt retornou HTTP 403; acesso direto encerrado, sem contorno.",
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+     "Sem corroboração independente nem revisão humana verificada."
+    ],
+    "quotes": [
+     "Practice with 15 real questions below, answers and explanations included.",
+     "Which of the following statements can be inferred from the passage?",
+     "B,C,D,E"
+    ]
+   },
+   "apparentVolume": "Extração do buscador anuncia 15; primeiro item e chave B,C,D,E efetivamente lidos; volume total não conferido diretamente.",
+   "origin": "sweep-lot-02.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "robots.txt 403 na extração do buscador (bloqueio); sem gabarito completo lido"
+   }
+  },
+  {
+   "id": "cand-31",
+   "url": "https://realpte.com/practice/reading-multiple-choice-multiple",
+   "types": [
+    "read_mcq_multi"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C2 parcial: índice atribui contagens I sat this a alunos; autodeclaração não verificada."
+    ],
+    "negativeSignals": [
+     "REPROVA: página HTTP 403 após robots permitido; sem nova tentativa.",
+     "REPROVA: somente títulos/contagens, sem gabarito lido.",
+     "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate."
+    ],
+    "quotes": [
+     "41 Reading: Multiple Choice, Multiple Answers questions in the RealPTE bank;",
+     "130 students marked \"I sat this\""
+    ]
+   },
+   "apparentVolume": "41 anunciadas; índice lido via buscador; nenhum gabarito de item observado.",
+   "origin": "sweep-lot-02.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "HTTP 403; apenas títulos/contagens anunciadas"
+   }
+  },
+  {
+   "id": "cand-32",
+   "url": "https://www.usgs.gov/media/images/water-cycle-png",
+   "types": [
+    "describe_image"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "usgs",
+   "evidence": {
+    "positiveSignals": [
+     "Licença da imagem: domínio público, declarada em Sources/Usage: Public Domain.",
+     "Fonte científica governamental com facts descritivos: armazenamento, fluxos e interferência humana; autoria USGS VizLab.",
+     "Leitura direta HTTP 200 após robots permitido; imagem própria e descrição, não apenas template."
+    ],
+    "negativeSignals": [
+     "Não é questão real PTE comprovada: nenhum C1–C4 de autenticidade PTE estabelecido; candidata suplementar para adaptação, não recall."
+    ],
+    "quotes": [
+     "This diagram, released in 2022, depicts the global water cycle.",
+     "Ninety-six percent of all water is saline and stored in oceans.",
+     "Water moves between the atmosphere and the Earth’s surface through evaporation, evapotranspiration, and precipitation.",
+     "Public Domain."
+    ]
+   },
+   "apparentVolume": "1 diagrama de processo (2022), imagem PNG e descrição textual extensa disponíveis.",
+   "origin": "sweep-lot-03.json",
+   "tier": "verificada",
+   "confidence": 88,
+   "gate": {
+    "decision": "aprovada",
+    "date": "2026-10-18",
+    "sample": 1,
+    "sampleOf": 1,
+    "defects": 0,
+    "evidence": "C4-equivalente: fonte governamental; imagem domínio público declarada; facts descritivos extensos",
+    "note": "material bruto para describe_image (padrão OWID do projeto 1); amostra = total desta página; re-avaliar C1–C4 por item"
+   }
+  },
+  {
+   "id": "cand-33",
+   "url": "https://www.usgs.gov/media/images/natural-water-cycle-jpg",
+   "types": [
+    "describe_image"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "usgs",
+   "evidence": {
+    "positiveSignals": [
+     "Licença da imagem: domínio público (Sources/Usage: Public Domain.).",
+     "Facts científicos e créditos: Howard Perlman, USGS and John Evans, USGS.",
+     "Leitura direta HTTP 200; conjunto imagem + explicação acessível sem conta."
+    ],
+    "negativeSignals": [
+     "Sem evidência de questão real PTE; C1–C4 não estabelecidos.",
+     "Mesmo tema da versão 2022; não contar como dois recalls distintos."
+    ],
+    "quotes": [
+     "Water is always changing states between liquid, vapor, and ice,",
+     "Public Domain.",
+     "Howard Perlman, USGS and John Evans, USGS"
+    ]
+   },
+   "apparentVolume": "1 diagrama em JPG; PDF também indicado, sem contá-lo como outro item.",
+   "origin": "sweep-lot-03.json",
+   "tier": "verificada",
+   "confidence": 88,
+   "gate": {
+    "decision": "aprovada",
+    "date": "2026-10-18",
+    "sample": 1,
+    "sampleOf": 1,
+    "defects": 0,
+    "evidence": "Domínio público declarado; facts + créditos",
+    "note": "mesmo tema da 2022 — não contar como 2 recalls distintos; usar um só item"
+   }
+  },
+  {
+   "id": "cand-34",
+   "url": "https://commons.wikimedia.org/wiki/File:Half-life_example_graph.jpg",
+   "types": [
+    "describe_image"
+   ],
+   "status": "candidata",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Licença da imagem: CC0 1.0 Universal Public Domain Dedication, declarada na seção Licensing.",
+     "Facts: gráfico de amostra radioativa com meia-vida de dois minutos; autor Pradana Aumars."
+    ],
+    "negativeSignals": [
+     "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+     "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+     "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso."
+    ],
+    "quotes": [
+     "Line graph of radioactive sample with a half-life of 2 minutes",
+     "This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication."
+    ]
+   },
+   "apparentVolume": "1 gráfico de linha, 1006 × 564 pixels segundo metadados indexados.",
+   "origin": "sweep-lot-03.json",
+   "gate": {
+    "decision": "pendente",
+    "date": "2026-10-18",
+    "motivo": "licenças CC0/CC BY 4.0 declaradas; acesso 403 ao texto no site — validar imagem via upload.wikimedia.org antes de aprovar (onda 2)"
+   }
+  },
+  {
+   "id": "cand-35",
+   "url": "https://commons.wikimedia.org/wiki/File:World_human_population_density_map.png",
+   "types": [
+    "describe_image"
+   ],
+   "status": "candidata",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Licença da imagem: CC0 1.0 Universal Public Domain Dedication.",
+     "Facts: densidade populacional global em 2005; autoria daysleeperrr, origem Reddit declarada."
+    ],
+    "negativeSignals": [
+     "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+     "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+     "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso.",
+     "Sem descrição das regiões de maior/menor densidade no texto lido; gabarito insuficiente."
+    ],
+    "quotes": [
+     "Map showing human population density across the globe in 2005.",
+     "This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication."
+    ]
+   },
+   "apparentVolume": "1 mapa mundial, 8639 × 3431 pixels segundo metadados indexados.",
+   "origin": "sweep-lot-03.json",
+   "gate": {
+    "decision": "pendente",
+    "date": "2026-10-18",
+    "motivo": "licenças CC0/CC BY 4.0 declaradas; acesso 403 ao texto no site — validar imagem via upload.wikimedia.org antes de aprovar (onda 2)"
+   }
+  },
+  {
+   "id": "cand-36",
+   "url": "https://commons.wikimedia.org/wiki/File:1988-_Deforestation_rates_in_Brazil_-_Terra_Brasilis_(party_colors).svg",
+   "types": [
+    "describe_image"
+   ],
+   "status": "candidata",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Licença da imagem: CC BY 4.0; atribuir RCraig09, linkar licença e indicar alterações.",
+     "Facts: desmatamento no Brasil desde 1988 e presidentes; fonte de dados TerraBrasilis explicitada."
+    ],
+    "negativeSignals": [
+     "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+     "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+     "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso.",
+     "Dados numéricos não lidos; descrição temática não equivale a gabarito PTE completo."
+    ],
+    "quotes": [
+     "Vertical bar chart showing deforestation rates in Brazil beginning in 1988, in conjunction with Brazil's presidents during respective time periods.",
+     "This file is licensed under the Creative Commons Attribution 4.0 International license."
+    ]
+   },
+   "apparentVolume": "1 gráfico de barras SVG, 1250 × 675 pixels.",
+   "origin": "sweep-lot-03.json",
+   "gate": {
+    "decision": "pendente",
+    "date": "2026-10-18",
+    "motivo": "licenças CC0/CC BY 4.0 declaradas; acesso 403 ao texto no site — validar imagem via upload.wikimedia.org antes de aprovar (onda 2)"
+   }
+  },
+  {
+   "id": "cand-37",
+   "url": "https://commons.wikimedia.org/wiki/File:Temperature_Bar_Chart_Europe-United_Kingdom--1884-2020--2021-07-13.png",
+   "types": [
+    "describe_image"
+   ],
+   "status": "candidata",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Licença da imagem: CC BY 4.0, Ed Hawkins, University of Reading.",
+     "Facts editoriais: cada faixa representa temperatura média anual; dados UK Met Office."
+    ],
+    "negativeSignals": [
+     "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+     "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+     "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso."
+    ],
+    "quotes": [
+     "Temperature bar chart for United Kingdom",
+     "Each stripe represents the temperature averaged over a year.",
+     "This file is licensed under the Creative Commons Attribution 4.0 International license."
+    ]
+   },
+   "apparentVolume": "1 gráfico, 3780 × 2126 pixels, Reino Unido 1884–2020.",
+   "origin": "sweep-lot-03.json",
+   "gate": {
+    "decision": "pendente",
+    "date": "2026-10-18",
+    "motivo": "licenças CC0/CC BY 4.0 declaradas; acesso 403 ao texto no site — validar imagem via upload.wikimedia.org antes de aprovar (onda 2)"
+   }
+  },
+  {
+   "id": "cand-38",
+   "url": "https://commons.wikimedia.org/wiki/File:Water_cycle_flowchart.png",
+   "types": [
+    "describe_image"
+   ],
+   "status": "candidata",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Licença da imagem: CC0 1.0 Universal Public Domain Dedication; autor Entropyrider.",
+     "Diagrama próprio, e não template textual."
+    ],
+    "negativeSignals": [
+     "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+     "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+     "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso.",
+     "Legenda genérica: etapas individuais não transcritas no resultado; gabarito ainda ausente."
+    ],
+    "quotes": [
+     "This flowchart details all steps in the hydrological cycle.",
+     "This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication."
+    ]
+   },
+   "apparentVolume": "1 fluxograma, 1154 × 600 pixels.",
+   "origin": "sweep-lot-03.json",
+   "gate": {
+    "decision": "pendente",
+    "date": "2026-10-18",
+    "motivo": "licenças CC0/CC BY 4.0 declaradas; acesso 403 ao texto no site — validar imagem via upload.wikimedia.org antes de aprovar (onda 2)"
+   }
+  },
+  {
+   "id": "cand-39",
+   "url": "https://commons.wikimedia.org/wiki/File:CO2_emission_pie_chart.svg",
+   "types": [
+    "describe_image"
+   ],
+   "status": "candidata",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Licença da imagem: domínio público por geometria simples, explicitado na ficha.",
+     "Facts: emissões globais por país; atualização versão 10 remete ao EDGAR 2024."
+    ],
+    "negativeSignals": [
+     "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+     "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+     "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso.",
+     "Inconsistência entre caption 2023 e Summary 2015; fixar revisão/data antes de formular resposta."
+    ],
+    "quotes": [
+     "Global CO2 gas emissions in the year 2023 by country",
+     "This image of simple geometry is ineligible for copyright and therefore in the public domain,"
+    ]
+   },
+   "apparentVolume": "1 gráfico de setores SVG; versões 2015/2023 não contadas como itens adicionais.",
+   "origin": "sweep-lot-03.json",
+   "gate": {
+    "decision": "pendente",
+    "date": "2026-10-18",
+    "motivo": "licenças CC0/CC BY 4.0 declaradas; acesso 403 ao texto no site — validar imagem via upload.wikimedia.org antes de aprovar (onda 2)"
+   }
+  },
+  {
+   "id": "cand-40",
+   "url": "https://www.ptebank.com/recently-asked-pte-describe-images/",
+   "types": [
+    "describe_image"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C2: menção explícita de repetição em prova, com janela temporal: recent PTE exams (October – November 2019).",
+     "Respostas completas legíveis sem login, HTTP 200; imagens presentes no HTML.",
+     "Licença da imagem: NÃO há licença aberta comprovada; registro negativo para triagem, NÃO reutilizar."
+    ],
+    "negativeSignals": [
+     "REPROVADA para reuso: copyright sem licença aberta; rodapé All Rights Reserved.",
+     "C2 é alegação do próprio site; sem corroboração independente C1 nem chancela Pearson C4.",
+     "Banco comercial adicional não acessado; não extrapolar volume para produto pago."
+    ],
+    "quotes": [
+     "recent PTE exams (October – November 2019)",
+     "The flow chart represents the life cycle of a tomato plant.",
+     "COPYRIGHT (©) 2025 PTEBANK. All Rights Reserved."
+    ]
+   },
+   "apparentVolume": "3 itens com imagens HTML e respostas abertas; não inclui banco pago.",
+   "origin": "sweep-lot-03.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "copyright 'All Rights Reserved' sem licença aberta para imagens (PRD1 §9)"
+   }
+  },
+  {
+   "id": "cand-41",
+   "url": "https://www.ptebank.com/recently-asked-pte-describe-images-2021/",
+   "types": [
+    "describe_image"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "C2: menção explícita de repetição em prova, com janela temporal: recent PTE exams (January – June 2021).",
+     "Respostas completas legíveis sem login, HTTP 200; imagens presentes no HTML.",
+     "Licença da imagem: NÃO há licença aberta comprovada; registro negativo para triagem, NÃO reutilizar."
+    ],
+    "negativeSignals": [
+     "REPROVADA para reuso: copyright sem licença aberta; rodapé All Rights Reserved.",
+     "C2 é alegação do próprio site; sem corroboração independente C1 nem chancela Pearson C4.",
+     "Banco comercial adicional não acessado; não extrapolar volume para produto pago."
+    ],
+    "quotes": [
+     "recent PTE exams (January – June 2021)",
+     "There was a slight decrease from 1991 to 2001.",
+     "COPYRIGHT (©) 2025 PTEBANK. All Rights Reserved."
+    ]
+   },
+   "apparentVolume": "5 itens com imagens HTML e respostas abertas; não inclui banco pago.",
+   "origin": "sweep-lot-03.json",
+   "gate": {
+    "decision": "reprovada",
+    "date": "2026-10-18",
+    "motivo": "idem — sem licença aberta; mesmo operador ptebank"
+   }
+  },
+  {
+   "id": "cand-42",
+   "url": "https://goarno.io/blog/re-tell-lecture-practice-questions-with-answers-pte-essential-questions/",
+   "types": [
+    "retell_lecture"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "goarno",
+   "evidence": {
+    "positiveSignals": [
+     "C2: página datada/atualizada em 2026 e intitulada “50 Re-tell Lecture Practice Questions with Answers”.",
+     "cadeia a partir de goarno.io (fonte aprovada do projeto 1)"
+    ],
+    "negativeSignals": [
+     "A origem como questões reais ou recordadas não é confirmada no trecho.",
+     "Sem licença de reutilização identificada."
+    ],
+    "quotes": [
+     "“each with the lecture audio, the full transcript, and a high-scoring sample answer”"
+    ]
+   },
+   "apparentVolume": "50 itens declarados; 1 transcript visível no trecho consultado",
+   "origin": "sweep-lot-04.json",
+   "decisionReason": "G1–G3 ok: acesso livre, 50 lectures com transcript completo + resposta-modelo no HTML (re-verificado no cache); operatorGroup=goarno (mesmo operador da fonte do projeto 1)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G1–G3 ok: acesso livre, 50 lectures com transcript completo + resposta-modelo no HTML (re-verificado no cache); operatorGroup=goarno (mesmo operador da fonte do projeto 1)"
+   },
+   "tier": "comunitaria"
+  },
+  {
+   "id": "cand-43",
+   "url": "https://ptehelper.com.au/20-cau-pte-retell-lecture/",
+   "types": [
+    "retell_lecture"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "ptehelper",
+   "evidence": {
+    "positiveSignals": [
+     "C2: página intitulada “20 Câu PTE Retell Lecture Kèm Đáp Án” e atualizada em 2026.",
+     "O trecho inclui transcript de lecture e identificação de questão."
+    ],
+    "negativeSignals": [
+     "O trecho consultado direciona à plataforma para ver questões; não confirma que todos os gabaritos estejam acessíveis nessa página.",
+     "Sem licença de reutilização identificada."
+    ],
+    "quotes": [
+     "“#### RL-146”"
+    ]
+   },
+   "apparentVolume": "20 itens declarados; 1 transcript parcial visível no trecho consultado",
+   "origin": "sweep-lot-04.json",
+   "decisionReason": "G2 falha: página lista só IDs (RL-146 etc.), sem transcript/answer no texto (re-verificado no cache)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2 falha: página lista só IDs (RL-146 etc.), sem transcript/answer no texto (re-verificado no cache)"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-44",
+   "url": "https://www.pteexampreparation.com/pte-speaking/retell-lecture/retell-lecture-in-pte-practice-test-5/",
+   "types": [
+    "retell_lecture"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "pteexampreparation",
+   "evidence": {
+    "positiveSignals": [
+     "C2: página de 2018 identificada como prática de Retell Lecture com respostas de áudio.",
+     "Inclui transcript, key points e início de resposta-modelo."
+    ],
+    "negativeSignals": [
+     "O trecho não comprova independentemente que o material seja de prova real ou recordado.",
+     "Sem licença de reutilização identificada."
+    ],
+    "quotes": [
+     "“Transcript is given for reference and practice purpose only”"
+    ]
+   },
+   "apparentVolume": "1 transcript e resposta-modelo parcial visíveis no trecho consultado",
+   "origin": "sweep-lot-04.json",
+   "decisionReason": "volume insuficiente (1 item, 2018) e sem alegação de autenticidade de prova real",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "volume insuficiente (1 item, 2018) e sem alegação de autenticidade de prova real"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-45",
+   "url": "https://www.examenglishforfree.com/an-example-of-pte-part-1-item-type-5-retell-a-lecture/",
+   "types": [
+    "retell_lecture"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "examenglishforfree",
+   "evidence": {
+    "positiveSignals": [
+     "A página oferece transcript e model answer para uma questão de Retell Lecture.",
+     "A página declara acesso sem conta ou pagamento."
+    ],
+    "negativeSignals": [
+     "A página identifica o material como exemplo de prática, não comprova que seja questão real/recordada.",
+     "Sem licença de reutilização identificada."
+    ],
+    "quotes": [
+     "“A model answer has also been provided”"
+    ]
+   },
+   "apparentVolume": "1 lecture, transcript e resposta-modelo visíveis",
+   "origin": "sweep-lot-04.json",
+   "decisionReason": "volume insuficiente (1 item identificado como exemplo de prática, sem alegação de prova real)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "volume insuficiente (1 item identificado como exemplo de prática, sem alegação de prova real)"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-46",
+   "url": "https://goarno.io/blog/fill-in-the-blanks-dropdown-practice-questions-with-answers-pte-essential-questions/",
+   "types": [
+    "read_fib_dropdown"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "goarno",
+   "evidence": {
+    "positiveSignals": [
+     "Formato-alvo e gabarito explícitos; o exemplo visível supera o mínimo de três opções por lacuna.",
+     "C2 fraco: a página se descreve como material essencial de prática, sem alegar memória de prova datada."
+    ],
+    "negativeSignals": [
+     "A alegação de prática não comprova que os itens sejam questões reais de prova.",
+     "Sem evidência de corroboração independente para o item citado."
+    ],
+    "quotes": [
+     "“Each question below includes the passage, the options for each blank, and the correct answers.”",
+     "“Blank 1 options: resist, insist, assist, consist”",
+     "“Answers: Blank 1: assist”"
+    ]
+   },
+   "apparentVolume": "50 questões declaradas; exemplo visível com passagem, quatro lacunas, quatro opções por lacuna e respostas.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "G1–G3 ok: 50 passagens com opções por lacuna e gabarito explícitos no HTML; 4 opções por lacuna ≥ 3 (fidelidade)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G1–G3 ok: 50 passagens com opções por lacuna e gabarito explícitos no HTML; 4 opções por lacuna ≥ 3 (fidelidade)"
+   },
+   "tier": "comunitaria"
+  },
+  {
+   "id": "cand-47",
+   "url": "https://www.edknot.com/pte-practice/reading-dropdown-blanks",
+   "types": [
+    "read_fib_dropdown"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "edknot",
+   "evidence": {
+    "positiveSignals": [
+     "A página declara incluir passagem, opções por lacuna e escolha correta.",
+     "Exemplo mostra formato dropdown e comprimento de passagem dentro do intervalo pretendido."
+    ],
+    "negativeSignals": [
+     "A página chama os itens de reais do banco EdKnot, mas não apresenta evidência independente de origem em provas.",
+     "A evidência recebida não mostra as opções e o gabarito do exemplo; validar esses campos antes de aceitar o item."
+    ],
+    "quotes": [
+     "“Twelve real Reading Fill in the Blanks (Dropdown) items from the EdKnot bank”",
+     "“the passage with its blanks, the options for each blank, and the correct choice.”",
+     "“251 words”"
+    ]
+   },
+   "apparentVolume": "12 passagens declaradas; exemplo visível com passagem de 251 palavras e 7 lacunas numeradas.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "G1–G3 ok: 12 passagens com lacunas, opções e gabarito visíveis no HTML; updated 2026-10-06",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G1–G3 ok: 12 passagens com lacunas, opções e gabarito visíveis no HTML; updated 2026-10-06"
+   },
+   "tier": "comunitaria"
+  },
+  {
+   "id": "cand-48",
+   "url": "https://www.pteexampreparation.com/pte-reading/fill-in-the-blanks-pte-reading/pte-academic-drop-down-fill-in-the-blanks-practice-test-sample-online/",
+   "types": [
+    "read_fib_dropdown"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "pteexampreparation",
+   "evidence": {
+    "positiveSignals": [
+     "Evidência direta de dropdown, passagem, opções e gabarito na mesma página.",
+     "A evidência visível satisfaz o filtro de mínimo de três opções por lacuna."
+    ],
+    "negativeSignals": [
+     "Página antiga (2017); atualidade e autenticidade não confirmadas.",
+     "Não há evidência independente de corroboração nem alegação de prova datada no trecho visto."
+    ],
+    "quotes": [
+     "“Practice PTE Drop Down Fill in the Blanks”",
+     "“Teenagers rule but it seems strange to think that their reign began less than a century ago.”",
+     "“1 – C”"
+    ]
+   },
+   "apparentVolume": "Ao menos 1 passagem visível, com 8 lacunas numeradas e 4 opções listadas em cada conjunto.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "volume insuficiente (1 item, 2017); autenticidade não estabelecida",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "volume insuficiente (1 item, 2017); autenticidade não estabelecida"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-49",
+   "url": "https://pteacademy.in/wp-content/uploads/2024/01/Reading-writing-Fill-in-the-blanks-pdf-2024-2.pdf",
+   "types": [
+    "read_fib_dropdown"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "pteacademy",
+   "evidence": {
+    "positiveSignals": [
+     "Trecho indexado expõe passagem com lacunas numeradas e opções para os espaços.",
+     "PDF público indexado, sem barreira de acesso indicada nos resultados consultados."
+    ],
+    "negativeSignals": [
+     "A citação consultada não inclui opções completas nem gabarito; não é elegível para ingestão sem conferir essas partes.",
+     "Não há prova independente de origem real dos itens."
+    ],
+    "quotes": [
+     "“Below is a text with blanks. Click on each blank, a list of choices will appear.”",
+     "“This explains why these celestial visitors are fleeting”"
+    ]
+   },
+   "apparentVolume": "PDF indexado; trecho mostra uma passagem com 5 lacunas e conjuntos de opções.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "G2/G3 não comprovados no trecho: opções completas e gabarito ausentes; direitos de reuso incertos",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2/G3 não comprovados no trecho: opções completas e gabarito ausentes; direitos de reuso incertos"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-50",
+   "url": "https://www.edknot.com/pte-practice/reading-mcq-single",
+   "types": [
+    "read_mcq_single"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "edknot",
+   "evidence": {
+    "positiveSignals": [
+     "A página declara passagem, pergunta, opções e opção correta marcada.",
+     "Exemplo visível atende às faixas-alvo: 97 palavras e quatro opções.",
+     "Possível sinal C1 para o item “Tree Life Villa Complex”: mesma passagem também aparece em outro domínio encontrado, mas a identidade e independência das versões não foram verificadas."
+    ],
+    "negativeSignals": [
+     "A alegação “real items” não é corroborada por evidência de origem em prova.",
+     "Não foi possível confirmar no trecho consultado se o gabarito é exibido sem interação."
+    ],
+    "quotes": [
+     "“Twelve real Reading Multiple Choice (Single Answer) items from the EdKnot bank”",
+     "“Tree of Life is a peaceful villa complex set on the waters of Homestead, Florida”",
+     "“B Every building in the complex has sharp angles.”"
+    ]
+   },
+   "apparentVolume": "12 questões declaradas; exemplo visível com passagem de 97 palavras e quatro opções.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "G2 falha: gabarito exibido apenas no player (JS) — 'Answer it in the player', sem resposta em texto",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2 falha: gabarito exibido apenas no player (JS) — 'Answer it in the player', sem resposta em texto"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-51",
+   "url": "https://www.pteacademy.in/wp-content/uploads/2023/11/reading-MCCSA-pdf-2023.pdf",
+   "types": [
+    "read_mcq_single"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "pteacademy",
+   "evidence": {
+    "positiveSignals": [
+     "Material identificado como Multiple-choice, choose single answer; contém texto de leitura substancial.",
+     "PDF diretamente indexado, sem barreira de acesso indicada nos resultados consultados."
+    ],
+    "negativeSignals": [
+     "Não comprova no trecho visto a faixa exigida de 3–5 opções nem resposta correta.",
+     "Não elegível até confirmar opções, gabarito e contagem de palavras da passagem."
+    ],
+    "quotes": [
+     "“Read the text and answer the multiple-choice question by selecting the correct response.”",
+     "“Only one response is correct.”"
+    ]
+   },
+   "apparentVolume": "PDF público com ao menos uma passagem extensa e instrução de resposta única; trecho consultado não expõe as opções nem o gabarito.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "G2/G3 não comprovados no trecho: opções e gabarito ausentes; direitos de reuso incertos",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2/G3 não comprovados no trecho: opções e gabarito ausentes; direitos de reuso incertos"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-52",
+   "url": "https://hotshot24.com/pte-academic-reading-multiple-choice-single-answer-practice-sample-5.html",
+   "types": [
+    "read_mcq_single"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "hotshot24",
+   "evidence": {
+    "positiveSignals": [
+     "Formato Reading MCQ single answer e passagem diretamente visíveis.",
+     "Cinco opções mencionadas, dentro do requisito de 3–5."
+    ],
+    "negativeSignals": [
+     "Gabarito não consta no trecho consultado.",
+     "Página antiga (2017); atualidade e autenticidade não confirmadas.",
+     "A descrição menciona cinco opções, mas o exemplo citado não exibe todas."
+    ],
+    "quotes": [
+     "“traditional multiple-choice questions with five answer choices, of which you must select one.”",
+     "“Read the text and answer the multiple choice question by selecting the correct response.”"
+    ]
+   },
+   "apparentVolume": "Ao menos 1 questão visível; trecho mostra passagem e 5 opções, mas não inclui resposta.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "G2 falha: sem gabarito visível no texto (re-verificado no cache)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2 falha: sem gabarito visível no texto (re-verificado no cache)"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-53",
+   "url": "https://www.ptesprinters.com/multiple-choice-choose-single-answer/reading-multiple-choice-choose-single-answer/",
+   "types": [
+    "read_mcq_single"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "ptesprinters",
+   "evidence": {
+    "positiveSignals": [
+     "Questões e quatro opções visíveis em texto na página.",
+     "Formato Reading MCQ single answer identificado explicitamente."
+    ],
+    "negativeSignals": [
+     "O trecho consultado não exibe gabarito.",
+     "Página de 2020; autenticidade e atualidade não estabelecidas.",
+     "Conteúdo não comprova comprimento da passagem dentro da faixa solicitada."
+    ],
+    "quotes": [
+     "“Mock Test: PTE Reading: Reading Multiple-choice, Choose Single Answer-01”",
+     "“Which of the following most accurately summarizes the opinion of the author in the text?”"
+    ]
+   },
+   "apparentVolume": "Ao menos 2 questões visíveis; os exemplos mostram passagens e quatro opções cada.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "G2 falha (sem gabarito visível no trecho) + fetch falhou na re-verificação (site indisponível)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2 falha (sem gabarito visível no trecho) + fetch falhou na re-verificação (site indisponível)"
+   },
+   "tier": null
+  },
+  {
+   "id": "cand-54",
+   "url": "https://goarno.io/blog/multiple-choice-single-answer-reading-practice-questions-with-answers-pte-essential-questions/",
+   "types": [
+    "read_mcq_single"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "goarno",
+   "evidence": {
+    "positiveSignals": [
+     "A página declara passagem, opções e resposta correta para cada questão.",
+     "A passagem visível tem conteúdo apropriado para pergunta de compreensão."
+    ],
+    "negativeSignals": [
+     "A contagem de opções e a resposta do exemplo não podem ser validadas com o trecho recebido.",
+     "Alegação de prática não prova origem em questões reais de prova."
+    ],
+    "quotes": [
+     "“Each question includes a passage, answer options, and the correct answer.”",
+     "“What is the main point the author makes by discussing Cahokia?”"
+    ]
+   },
+   "apparentVolume": "50 questões declaradas; exemplo visível com passagem e resposta, mas as opções completas não aparecem no trecho consultado.",
+   "origin": "sweep-lot-05.json",
+   "decisionReason": "G1–G3 ok: 50 questões com passagem 40–400 palavras, 4 opções (a–d) e resposta explícitas no HTML",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G1–G3 ok: 50 questões com passagem 40–400 palavras, 4 opções (a–d) e resposta explícitas no HTML"
+   },
+   "tier": "comunitaria"
+  },
+  {
+   "id": "cand-55",
+   "url": "https://ptehelper.com.au/pte-summarize-written-text-with-answers/",
+   "types": [
+    "swt"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptehelper",
+   "evidence": {
+    "positiveSignals": [
+     "A página identifica a coleção como “With Answers” e declara atualização em fevereiro de 2025.",
+     "Há passagem e solução-modelo para cada item; a primeira contém cerca de 150 palavras."
+    ],
+    "negativeSignals": [
+     "A alegação de questões reais/repetidas é editorial e não foi corroborada por uma segunda fonte independente.",
+     "A solução de exemplo tem 62 palavras, mas o site descreve o formato como 50–75 palavras; verificar a compatibilidade com o formato vigente antes de importar."
+    ],
+    "quotes": [
+     "“We all, including the ‘experts’, seem to be peculiarly inept at predicting the likely development of our technologies”",
+     "“(62 words)”"
+    ]
+   },
+   "apparentVolume": "3 passagens com soluções visíveis na página; conteúdo acessível sem cadastro.",
+   "origin": "sweep-lot-06.json",
+   "tier": "comunitaria",
+   "decisionReason": "G1–G3 ok: 3 itens SWT completos (Original Text 150+ palavras + Solution em 1 frase, 54–67 palavras) no HTML; operatorGroup=ptehelper (mesmo operador de cand-22)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G1–G3 ok: 3 itens SWT completos (Original Text 150+ palavras + Solution em 1 frase, 54–67 palavras) no HTML; operatorGroup=ptehelper (mesmo operador de cand-22)"
+   }
+  },
+  {
+   "id": "cand-56",
+   "url": "https://www.pteexampreparation.com/pte-reading/re-order-paragraphs/pte-academic-reading-reorder-paragraphs-practice-sample-answers/",
+   "types": [
+    "reorder_paragraphs"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "pteexampreparation",
+   "evidence": {
+    "positiveSignals": [
+     "Blocos embaralhados e sequências de resposta aparecem como texto legível na página.",
+     "O item 32 oferece cinco blocos e uma ordem explícita."
+    ],
+    "negativeSignals": [
+     "Conteúdo datado de 2018.",
+     "A página é material de preparação e não prova que os itens sejam questões reais de exame; copyright/licença de reutilização não confirmado."
+    ],
+    "quotes": [
+     "“D – A- B- C”",
+     "“C-A-E-B-D”"
+    ]
+   },
+   "apparentVolume": "Página declara Practice Test 7; no conteúdo aberto, itens 31 e 32 tinham 4 e 5 blocos, respectivamente, com ordem indicada.",
+   "origin": "sweep-lot-06.json",
+   "tier": "comunitaria",
+   "decisionReason": "G1–G3 ok: 5 itens reorder (31–35) com blocos rotulados e ordem-correta explícita no HTML; volume pequeno mas tipo já na meta (esforço oportunista)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G1–G3 ok: 5 itens reorder (31–35) com blocos rotulados e ordem-correta explícita no HTML; volume pequeno mas tipo já na meta (esforço oportunista)"
+   }
+  },
+  {
+   "id": "cand-57",
+   "url": "https://leverageedu.com/learn/satp-pte-writing-essay-topics-with-answers-pdf/",
+   "types": [
+    "write_essay"
+   ],
+   "status": "reprovada",
+   "operatorGroup": "leverageedu",
+   "evidence": {
+    "positiveSignals": [
+     "Página aberta; prompts de essay legíveis no texto, incluindo tópico sobre tabaco com formulação de opinião."
+    ],
+    "negativeSignals": [
+     "Na página aberta, não foi localizado modelo de resposta; requisito de prompt mais modelo não demonstrado.",
+     "PDF de download não aberto nem avaliado; conteúdo, volume e gabarito fora da página permanecem não verificados.",
+     "A alegação de “most common” não foi corroborada independentemente."
+    ],
+    "quotes": [
+     "“Do Governments have a legitimate role in protecting citizens from the harmful effects of their own decisions to smoke”"
+    ]
+   },
+   "apparentVolume": "Lista pública de prompts PTE; a página oferece link para PDF, mas não foi verificada a obtenção do arquivo.",
+   "origin": "sweep-lot-06.json",
+   "tier": null,
+   "decisionReason": "G2/C3 não comprovados: prompts sem resposta-modelo visível; PDF não verificado — item sem solução não atende à F2 (gabarito)",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2/C3 não comprovados: prompts sem resposta-modelo visível; PDF não verificado — item sem solução não atende à F2 (gabarito)"
+   }
+  }
+ ],
+ "gateLog": {
+  "date": "2026-10-18",
+  "wave": 1,
+  "summary": {
+   "candidatas": 6,
+   "aprovadas": 7,
+   "aprovadasCondicional": 0,
+   "reprovadas": 17,
+   "pendentes": 6,
+   "observacao": "aprovadas condicionais registradas dentro de 'aprovada' com note; amostras em review/manual-samples-wave1.json"
+  }
+ }
+}

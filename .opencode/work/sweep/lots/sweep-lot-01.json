@@ -1,0 +1,234 @@
+[
+  {
+    "url": "https://pteking.com/listening",
+    "types": [
+      "lst_hcs",
+      "lst_hiw",
+      "lst_smw",
+      "lst_mcq_single",
+      "lst_mcq_multi"
+    ],
+    "apparentVolume": "Índice anuncia HCS 58, HIW 320, SMW 88, single 87, multi 69; não são contagens de itens/gabaritos lidos.",
+    "positiveSignals": [
+      "C2 alegado pelo índice: Real and repeated questions; sem confirmação independente."
+    ],
+    "negativeSignals": [
+      "Índice sem gabaritos visíveis; volume apenas anunciado; curadoria humana C3 não demonstrada.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "Real and repeated questions",
+      "Your progress: 0/58",
+      "Your progress: 0/320",
+      "Your progress: 0/88",
+      "Your progress: 0/87",
+      "Your progress: 0/69"
+    ]
+  },
+  {
+    "url": "https://realpte.com/practice/highlight-correct-summary",
+    "types": [
+      "lst_hcs"
+    ],
+    "apparentVolume": "43 anunciados; lista de IDs visível; 0 gabaritos lidos.",
+    "positiveSignals": [
+      "C2 indiciário: contador de relatos I sat this associado a IDs."
+    ],
+    "negativeSignals": [
+      "Lista sem texto de questão e sem gabarito no retorno; C3 não demonstrado.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "43 Highlight Correct Summary questions in the RealPTE bank; 43 of them open directly in the practice screen.",
+      "107 students marked \"I sat this\""
+    ]
+  },
+  {
+    "url": "https://realpte.com/practice/listening-multiple-choice-single",
+    "types": [
+      "lst_mcq_single"
+    ],
+    "apparentVolume": "49 anunciados; enunciados truncados visíveis; 0 gabaritos lidos.",
+    "positiveSignals": [
+      "C2 indiciário: relatos I sat this associados às questões."
+    ],
+    "negativeSignals": [
+      "Lista sem gabarito; autenticação do relato não demonstrada.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "49 Listening: Multiple Choice, Single Answer questions in the RealPTE bank; 49 of them open directly in the practice screen.",
+      "What is lecture mainly about?"
+    ]
+  },
+  {
+    "url": "https://www.ptebank.com/product/ptematerial/",
+    "types": [
+      "lst_hcs",
+      "lst_hiw",
+      "lst_smw",
+      "lst_mcq_single",
+      "lst_mcq_multi"
+    ],
+    "apparentVolume": "Anuncia single 39, multi 46, outros quatro tipos agrupados em 146; 0 itens visíveis.",
+    "positiveSignals": [
+      "C2 alegado: equipe diz coletar questões reais e verificar autenticidade."
+    ],
+    "negativeSignals": [
+      "REPROVA: pagamento de $79; entrega via e-mail/conta; nenhum gabarito público lido.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "PTE Bank team collected real exam questions from many different sources.",
+      "The question files will be delivered via email / online account immediately after purchase."
+    ]
+  },
+  {
+    "url": "https://www.pteexampreparation.com/pte-listening/mcq-choose-single-answer/pte-listening-multiple-choice-single-answer-practice-questions/",
+    "types": [
+      "lst_mcq_single"
+    ],
+    "apparentVolume": "Questão 13 com transcrição e resposta 2 lidas; início da questão 14 visível.",
+    "positiveSignals": [
+      "C3 parcial: material datado de 8 dezembro 2017, áudio, transcrição e resposta explícita; revisão humana não confirmada."
+    ],
+    "negativeSignals": [
+      "Sem C2 específico: prática, não recall comprovado; licença não demonstrada.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "What is the focus of this year’s expedition energy concept demonstration?",
+      "#Right Answer: 2.",
+      "To learn about the technology that can help make the company landing team better"
+    ]
+  },
+  {
+    "url": "https://www.radiusenglish.com/pte-listening-select-missing-word/",
+    "types": [
+      "lst_smw"
+    ],
+    "apparentVolume": "1 item sobre income inequality com transcrição; sem alternativas/gabarito no retorno.",
+    "positiveSignals": [
+      "Transcrição literal pública de item SMW; útil para checagem posterior, sem C2 confirmado."
+    ],
+    "negativeSignals": [
+      "REPROVA enquanto sem gabarito; C3 completo não demonstrado.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "You will hear a recording about income inequality.",
+      "In fact, in our work, you can remove those countries at the extreme, and you’ve still got a significant correlation."
+    ]
+  },
+  {
+    "url": "https://alfapte.com/pte-listening-practice/highlight-incorrect-words/sample-questions",
+    "types": [
+      "lst_hiw"
+    ],
+    "apparentVolume": "9 cabeçalhos Sample Question visíveis; nenhum par incorreto/correto lido.",
+    "positiveSignals": [
+      "Site de preparo com exemplos numerados e instruções; insuficiente para C3 completo."
+    ],
+    "negativeSignals": [
+      "REPROVA: gabarito/transcrição não aparecem no texto retornado; não afirmar se JS ou login é a causa.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "Sample Question 9:",
+      "Note that this task has negative marking, so selecting the correct word will reduce your marks."
+    ]
+  },
+  {
+    "url": "https://leapscholar.com/exams/pte/practice-test/listening/highlight-correct-summary",
+    "types": [
+      "lst_hcs"
+    ],
+    "apparentVolume": "Anuncia 15 gravações; opções do item 1 Urban Heat Islands lidas.",
+    "positiveSignals": [
+      "C3 parcial: página de preparo anuncia respostas e explicações."
+    ],
+    "negativeSignals": [
+      "Não comprova ocorrência em prova; gabarito do item 1 não apareceu no retorno lido.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "Practice with 15 real recordings below, answers and explanations included.",
+      "Attempt each one, then open the sample answer to compare."
+    ]
+  },
+  {
+    "url": "https://www.aliensbrain.com/quiz/17442/pte-listening-select-missing-word-2",
+    "types": [
+      "lst_smw"
+    ],
+    "apparentVolume": "4 itens com alternativas; explicação textual do item 1 lida.",
+    "positiveSignals": [
+      "C3 parcial: exemplo com alternativas e explicação contextual; revisão não confirmada."
+    ],
+    "negativeSignals": [
+      "Não há letra do gabarito explícita no retorno; sem C2 de prova real.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "You will hear a recording about solar energy.",
+      "A. location",
+      "B. tilt",
+      "C. distance",
+      "D. position",
+      "E. harness"
+    ]
+  },
+  {
+    "url": "https://bandladder.com/pte-practice/listening-multiple-choice-multiple-answers",
+    "types": [
+      "lst_mcq_multi"
+    ],
+    "apparentVolume": "Anuncia 70+ sets/100+ questions; 1 título de amostra visível, sem gabarito lido.",
+    "positiveSignals": [
+      "Página oferece prática gratuita e explicações; C3 apenas parcial."
+    ],
+    "negativeSignals": [
+      "Gravações descritas como originais, não recall; gabarito não visível no trecho lido; não confundir material autoral com questão real.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "PTE listening multiple choice multiple answer practice with original recordings in four English accents.",
+      "Free, no login",
+      "Traditional Violin Varnish and Ground Layers"
+    ]
+  },
+  {
+    "url": "https://online.britfort.com/wp-content/uploads/Part_3_Listening_PTEA_Practice_Test.pdf",
+    "types": [
+      "lst_hcs",
+      "lst_hiw",
+      "lst_smw",
+      "lst_mcq_single",
+      "lst_mcq_multi"
+    ],
+    "apparentVolume": "PDF anuncia itens pp. 2–17 e gabaritos/transcrições pp. 18–28; não contados individualmente.",
+    "positiveSignals": [
+      "C4 indiciário: documento se identifica como Pearson Education Ltd 2011; hospedagem terceira não prova licença."
+    ],
+    "negativeSignals": [
+      "REPROVA por copyright restritivo sem licença de redistribuição demonstrada; áudios externos ao PDF; gabaritos não lidos integralmente.",
+      "Evidência limitada ao texto retornado por websearch; página integral, robots.txt e licença de reuso não verificados; não aprovada para ingestão.",
+      "C1 não demonstrado; não atribuir independência editorial entre domínios sem checagem."
+    ],
+    "quotes": [
+      "PTE Academic Offline Practice Test",
+      "The practice items are on pages 2-17 and the Answer Key and Transcripts on pages 18-28.",
+      "No part of this publication may be reproduced without the prior written permission of Pearson Education Ltd."
+    ]
+  }
+]

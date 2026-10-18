@@ -1,0 +1,482 @@
+[
+  {
+    "k": "write_essay|langacad-write_essay-007|prompt|1",
+    "s": "Do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-008|prompt|0",
+    "s": "Robots and computers will eventually replace workers in all fields.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-008|prompt|1",
+    "s": "Do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-009|prompt|0",
+    "s": "Social media platforms have had a negative effect on individuals and society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-009|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-010|prompt|0",
+    "s": "In the modern world, it is possible to shop, work, and communicate entirely via the internet.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-010|prompt|1",
+    "s": "Do the benefits of this outweigh the disadvantages?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-011|prompt|0",
+    "s": "Artificial intelligence will soon surpass human capability in most areas of work and decision-making.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-011|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-012|prompt|0",
+    "s": "The only way to reduce traffic congestion in cities is to make private car ownership very expensive.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-012|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-013|prompt|0",
+    "s": "Unpaid community service should be a compulsory part of high school programmes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-013|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-014|prompt|0",
+    "s": "Governments spend large amounts of money on space exploration.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-014|prompt|1",
+    "s": "Some people think this is a waste of public money.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-014|prompt|2",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-015|prompt|0",
+    "s": "Some countries have introduced laws to limit working hours for employees.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-015|prompt|1",
+    "s": "Why are these laws introduced?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-015|prompt|2",
+    "s": "Do you think they are a good idea?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-016|prompt|0",
+    "s": "Wealthy nations should be required to share their wealth with poorer nations by providing food, education, and technology.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-016|prompt|1",
+    "s": "Do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-017|prompt|0",
+    "s": "The government should control the amount of violence shown in films and on television in order to reduce violent crime in society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-017|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-018|prompt|0",
+    "s": "Laws that make it illegal to drive after drinking alcohol should be introduced in all countries.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-018|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-019|prompt|0",
+    "s": "People should reduce the amount of travel they undertake because it is one of the main causes of pollution.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-019|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-020|prompt|0",
+    "s": "The use of fossil fuels such as coal and oil is harming the planet.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-020|prompt|1",
+    "s": "We should transition to renewable energy sources such as solar and wind power.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-020|prompt|2",
+    "s": "To what extent do you agree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-021|prompt|0",
+    "s": "Global warming is one of the greatest threats humans face in the 21st century.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-021|prompt|1",
+    "s": "What problems are associated with this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-021|prompt|2",
+    "s": "What solutions can you suggest?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-022|prompt|0",
+    "s": "Human activity has had a largely negative impact on plants and animals around the world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-022|prompt|1",
+    "s": "Some believe this is not important as long as we protect human populations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-022|prompt|2",
+    "s": "Do you agree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-023|prompt|0",
+    "s": "Large corporations and multinational companies should bear the primary responsibility for addressing environmental damage.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-023|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-024|prompt|0",
+    "s": "Advertising targeted at children is harmful and should be banned.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-024|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-025|prompt|0",
+    "s": "The media has a powerful influence on people&#8217;s lives and opinions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-025|prompt|1",
+    "s": "How does the media influence people?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-025|prompt|2",
+    "s": "Is this influence positive or negative?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-026|prompt|0",
+    "s": "Some people think that the media should not report details of crimes because this could be harmful to society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-026|prompt|1",
+    "s": "Do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-027|prompt|0",
+    "s": "Social media has replaced traditional forms of communication such as letter writing and face-to-face interaction.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-027|prompt|1",
+    "s": "Do the benefits of this outweigh the disadvantages?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-028|prompt|0",
+    "s": "The growth of online news means that print media such as newspapers and magazines is no longer relevant.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-028|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-029|prompt|0",
+    "s": "The development of global trade has led to a decline in the sales of locally produced goods.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-029|prompt|1",
+    "s": "What are the causes of this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-029|prompt|2",
+    "s": "What solutions can you suggest?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-030|prompt|0",
+    "s": "Some people think that foreign visitors should be charged more than local residents when visiting cultural or tourist attractions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-030|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-031|prompt|0",
+    "s": "The gap between the wealthy and the poor continues to widen in many countries.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-031|prompt|1",
+    "s": "What are the causes of this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-031|prompt|2",
+    "s": "What should governments do to address this issue?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-032|prompt|0",
+    "s": "Stress is now a major problem in many countries around the world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-032|prompt|1",
+    "s": "What are some of the factors in modern society that cause this stress, and how can we reduce it?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-033|prompt|0",
+    "s": "The increase in life expectancy in many countries means the population is ageing, creating problems for both individuals and society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-033|prompt|1",
+    "s": "What are these problems and how can they be addressed?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-034|prompt|0",
+    "s": "The best way to improve public health is to increase the number of sports facilities available to the public.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-034|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-035|prompt|0",
+    "s": "The average weight of people in many countries is increasing while health and fitness levels are declining.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-035|prompt|1",
+    "s": "What are the main causes of this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-035|prompt|2",
+    "s": "What measures could governments and individuals take?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-039|prompt|0",
+    "s": "After writing, check your essay against the scoring rubric: Does it address the prompt fully?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-039|prompt|1",
+    "s": "Is it 200–300 words?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-039|prompt|2",
+    "s": "Does it have a clear intro, two body paragraphs, and a conclusion?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-039|prompt|3",
+    "s": "Did you vary your connective language?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-101|transcript|0",
+    "s": "We frequently encounter news stories about public emergencies where bystanders fail to intervene, often leading to accusations that modern society has become morally bankrupt or indifferent.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-101|transcript|1",
+    "s": "While it is easy to label these witnesses as uncaring, social psychology offers a more nuanced concept known as the bystander effect.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-101|transcript|2",
+    "s": "This phenomenon suggests that the presence of others actually inhibits helping behavior through a process called diffusion of responsibility.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-101|transcript|3",
+    "s": "When a single individual witnesses an accident, they feel a direct burden to act.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-101|transcript|4",
+    "s": "However, in a group, that sense of obligation is diluted; individuals frequently assume someone else—perhaps someone more qualified—will take charge.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-101|transcript|5",
+    "s": "Additionally, in ambiguous situations, we look to those around us for guidance.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-101|transcript|6",
+    "s": "If others appear calm or detached, we often collectively assume there is no real danger, creating a cycle of inaction.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-101|transcript|7",
+    "s": "Thus, the failure to act is rarely due to a lack of compassion, but rather a complex reaction to the social dynamic of the crowd.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-102|transcript|0",
+    "s": "While we often discuss the serialisation of Victorian novels, another dominant force in nineteenth-century publishing was the circulating library.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-102|transcript|1",
+    "s": "For much of the century, purchasing a new novel outright was a luxury few could afford—a standard work cost roughly the same as a week’s wages for a clerk.",
+    "p": "P2",
+    "native": true
+  }
+]

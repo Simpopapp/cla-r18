@@ -1,0 +1,482 @@
+[
+  {
+    "k": "swt|goarno-swt-136|text|9",
+    "s": "However, using Ozempic off-label for weight loss raises concerns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|0",
+    "s": "Privacy concerns are intensifying in the era of big data as companies and governments collect vast amounts of personal information.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|1",
+    "s": "The proliferation of digital devices and online services has led to unprecedented data gathering, raising questions about how this information is used and protected.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|10",
+    "s": "Despite regulatory efforts, challenges remain.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|11",
+    "s": "The sheer volume of data being collected makes it difficult to ensure comprehensive protection.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|12",
+    "s": "Additionally, the global nature of data flow complicates enforcement, as data often crosses international borders.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|13",
+    "s": "\"Effective privacy protection requires global cooperation and robust legal frameworks,\" stated privacy expert Bruce Schneier.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|2",
+    "s": "\"In the age of big data, privacy is more vulnerable than ever,\" said Marietje Schaake, a former Member of the European Parliament and digital rights advocate.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|3",
+    "s": "Major tech companies, such as Google and Facebook, analyze user data to tailor advertisements and improve services.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|4",
+    "s": "While these practices can enhance user experience, they also pose significant risks.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|5",
+    "s": "Data breaches and unauthorized access to personal information can lead to identity theft, financial loss, and other harms.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|6",
+    "s": "High-profile incidents, like the Cambridge Analytica scandal, have highlighted the potential for misuse of data in ways that can influence elections and manipulate public opinion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|7",
+    "s": "Governments are responding with stricter regulations to protect consumer privacy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|8",
+    "s": "The European Union's General Data Protection Regulation (GDPR) is a landmark example, setting rigorous standards for data protection and giving individuals greater control over their information.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|text|9",
+    "s": "In the United States, states like California have enacted their own privacy laws, such as the California Consumer Privacy Act (CCPA), to address these concerns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|0",
+    "s": "Social media has dramatically transformed modern activism, creating unprecedented opportunities for organizing, awareness-raising, and advocacy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|1",
+    "s": "Platforms like Twitter, Facebook, and Instagram allow activists to connect with global audiences, share real-time updates, and galvanize support for various causes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|10",
+    "s": "Despite these drawbacks, the ability of social media to amplify marginalized voices and drive collective action is undeniable.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|2",
+    "s": "\"Social media has become the backbone of contemporary movements, enabling us to reach millions instantly and mobilize resources quickly,\" said Alicia Garza, co-founder of the Black Lives Matter movement.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|3",
+    "s": "\"It has changed the game by providing a direct line to the public, bypassing traditional media gatekeepers.\"\n\nThe impact of social media is evident in movements like Black Lives Matter and #MeToo, which have used these platforms to unify voices and shed light on systemic injustices.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|4",
+    "s": "Hashtags such as #BlackLivesMatter and #MeToo have gone viral, facilitating the spread of personal stories and amplifying calls for action.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|5",
+    "s": "The video of George Floyd's death, for example, was widely shared on social media, sparking global protests and renewed discussions on police reform.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|6",
+    "s": "\"Social media enables us to document our realities and demand accountability in ways that were not possible before,\" remarked Tarana Burke, founder of the #MeToo movement.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|7",
+    "s": "\"It provides a platform for survivors to be heard and for communities to rally around them.\"\n\nHowever, the use of social media in activism is not without its challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|8",
+    "s": "The rapid spread of information can lead to misinformation and the creation of echo chambers where opposing views are drowned out.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|text|9",
+    "s": "Additionally, online activism, often dubbed \"slacktivism,\" is sometimes criticized for encouraging passive engagement rather than sustained, impactful action.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|0",
+    "s": "Climate change is having profound effects on global agriculture, posing significant challenges to food security and livelihoods.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|1",
+    "s": "Rising temperatures, shifting precipitation patterns, and increased frequency of extreme weather events are disrupting agricultural productivity worldwide.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|10",
+    "s": "Farmers are adapting to these challenges through various strategies, including the adoption of climate-resilient crop varieties, improved irrigation techniques, and sustainable farming practices.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|11",
+    "s": "\"We need to invest in agricultural research and extension services to help farmers adapt to changing conditions,\" urged José Graziano da Silva, former Director-General of the Food and Agriculture Organization (FAO).",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|12",
+    "s": "\"This includes developing crops that can withstand heat and drought, and implementing practices that conserve water and soil health.\"\n\nGovernments and international organizations are also playing a crucial role in addressing these challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|13",
+    "s": "Policies and initiatives aimed at reducing greenhouse gas emissions from agriculture, such as promoting sustainable land management and reducing food waste, are critical.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|14",
+    "s": "Furthermore, financial support and insurance schemes can help farmers recover from climate-related losses and invest in adaptive technologies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|2",
+    "s": "\"Climate change is already affecting crop yields and farming practices in many parts of the world,\" said Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|3",
+    "s": "Cynthia Rosenzweig, a senior climate scientist at NASA.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|4",
+    "s": "\"We are seeing changes in growing seasons, increased pest and disease pressures, and more frequent droughts and floods.\"\n\nThe impact of climate change varies by region.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|5",
+    "s": "In some areas, warmer temperatures and longer growing seasons can benefit certain crops.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|6",
+    "s": "However, these potential gains are often offset by adverse conditions such as heat stress, water scarcity, and soil degradation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|7",
+    "s": "For instance, staple crops like wheat, rice, and maize are highly sensitive to temperature increases, with studies predicting significant yield declines if current trends continue.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|8",
+    "s": "\"In the tropics, even small increases in temperature can lead to substantial drops in crop productivity, exacerbating hunger and poverty,\" noted Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|text|9",
+    "s": "Rosenzweig.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|0",
+    "s": "Archaeology continues to unveil the mysteries of ancient civilizations, providing invaluable insights into human history and cultural development.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|1",
+    "s": "Recent discoveries are shedding new light on how our ancestors lived, worked, and interacted with their environments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|10",
+    "s": "Techniques such as satellite imagery, ground-penetrating radar, and DNA analysis allow researchers to locate and study sites with unprecedented precision.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|11",
+    "s": "\"Technology is revolutionizing archaeology, enabling us to discover and analyze sites in ways that were previously unimaginable,\" said Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|12",
+    "s": "Parcak.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|2",
+    "s": "\"Each archaeological find adds a piece to the complex puzzle of our past,\" said Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|3",
+    "s": "Sarah Parcak, a renowned archaeologist and professor at the University of Alabama at Birmingham.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|4",
+    "s": "\"These discoveries allow us to understand the evolution of societies and their adaptation to changing conditions.\"\n\nOne of the most groundbreaking recent discoveries is the unearthing of a vast, well-preserved city beneath the sands of Luxor, Egypt.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|5",
+    "s": "Dubbed the \"Lost Golden City,\" this site dates back to the reign of Amenhotep III, over 3,400 years ago.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|6",
+    "s": "Archaeologists have found homes, workshops, and artifacts that provide a glimpse into daily life during one of ancient Egypt's most prosperous periods.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|7",
+    "s": "\"This city is a time capsule, offering a unique window into the lives of ordinary Egyptians,\" said Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|8",
+    "s": "Zahi Hawass, an eminent Egyptologist involved in the excavation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|text|9",
+    "s": "\"The level of preservation is extraordinary, and it will take years to fully understand its significance.\"\n\nTechnological advancements are playing a crucial role in modern archaeology.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|0",
+    "s": "Community gardens are becoming increasingly significant in urban areas, offering a range of social, environmental, and economic benefits.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|1",
+    "s": "These green spaces provide residents with opportunities to grow their own food, foster community engagement, and promote sustainable living.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|10",
+    "s": "Laura Lawson, a professor of landscape architecture at Rutgers University.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|11",
+    "s": "\"They create a shared space where everyone can contribute and benefit.\"",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|2",
+    "s": "\"Community gardens are vital in creating healthier, more connected urban environments,\" said Karen Washington, a well-known urban farmer and community activist.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|3",
+    "s": "\"They offer a sanctuary in the city where people can come together and reconnect with nature.\"\n\nOne of the primary advantages of community gardens is their contribution to food security.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|4",
+    "s": "In many urban areas, access to fresh, affordable produce is limited, often described as \"food deserts.\" Community gardens help to alleviate this issue by providing a local source of nutritious food.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|5",
+    "s": "\"Growing your own vegetables not only reduces grocery bills but also ensures access to healthy, organic produce,\" noted Ron Finley, the \"Gangsta Gardener\" from Los Angeles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|6",
+    "s": "\"It's about empowerment and self-sufficiency.\"\n\nBeyond food production, community gardens enhance social cohesion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|7",
+    "s": "They serve as gathering places where people of all ages and backgrounds can work together, share knowledge, and build relationships.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|8",
+    "s": "This sense of community is especially important in cities, where social isolation can be prevalent.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|9",
+    "s": "\"Community gardens break down barriers and bring neighbors together,\" said Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|0",
+    "s": "Music streaming services have fundamentally transformed the music industry, reshaping how music is distributed, consumed, and monetized.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|1",
+    "s": "Platforms like Spotify, Apple Music, and Amazon Music have made vast catalogs of songs accessible to listeners worldwide, anytime and anywhere.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|10",
+    "s": "Many musicians argue that the per-stream payouts from streaming services are insufficient, leading to calls for higher royalties and more transparent payment models.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|2",
+    "s": "\"Streaming services have revolutionized the way we listen to music, providing instant access to millions of tracks at our fingertips,\" said Daniel Ek, CEO of Spotify.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|3",
+    "s": "One of the most significant impacts of streaming services is their influence on music discovery.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|4",
+    "s": "Algorithms and curated playlists help users discover new artists and genres, often propelling unknown musicians to global fame overnight.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|5",
+    "s": "\"Streaming has democratized music discovery, giving emerging artists a platform to reach audiences they could never have accessed before,\" noted Troy Carter, a music industry executive and artist manager.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|6",
+    "s": "This has led to a more diverse and dynamic music landscape, where niche genres and independent artists can thrive alongside mainstream acts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|7",
+    "s": "Economically, streaming has changed the revenue model for the music industry.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|8",
+    "s": "While physical album sales and digital downloads have declined, streaming has become the dominant revenue stream, generating billions of dollars annually.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|9",
+    "s": "However, this shift has sparked debates about fair compensation for artists.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|0",
+    "s": "Philanthropy plays a crucial role in addressing social issues, providing essential funding and resources to initiatives that aim to improve communities and promote social justice.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|1",
+    "s": "Charitable donations from individuals, foundations, and corporations support a wide range of causes, from education and healthcare to environmental conservation and human rights.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|2",
+    "s": "\"Philanthropy has the power to drive significant social change by supporting innovative solutions and empowering marginalized communities,\" said Darren Walker, President of the Ford Foundation.",
+    "p": "P1",
+    "native": false
+  }
+]

@@ -1,0 +1,11 @@
+file:///dev-server/scripts/plus/merge-glossary.mjs:37
+    if (translations.has(e.w)) throw new Error(`palavra traduzida 2×: ${e.w}`);
+                                     ^
+
+Error: palavra traduzida 2×: higher-level
+    at file:///dev-server/scripts/plus/merge-glossary.mjs:37:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+
+Node.js v22.22.0

@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|passage|7",
+    "s": "Rather than empowering the user, the navigational overhead of hypertext may actually impede the ability to absorb complex arguments, suggesting that for deep analytical work, a solitary, unlinked path may still be superior.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-145|question|0",
+    "s": "According to the passage, what is the primary disadvantage of reading hypertext compared to linear text?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|0",
+    "s": "Subvocalization, often described as the internal speech made when reading words silently, allows the reader to imagine the sound of the word as it is processed.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|1",
+    "s": "This natural mechanism helps the mind access meanings, thereby facilitating understanding and information recall.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|2",
+    "s": "For decades, speed-reading advocates have categorized subvocalization as a detrimental habit, arguing that it creates a bottleneck by limiting reading speed to the pace of speaking—roughly 150 to 200 words per minute.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|3",
+    "s": "Consequently, many training programs focus on techniques to suppress this inner voice to boost velocity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|4",
+    "s": "However, contemporary psycholinguistic research challenges the view that subvocalization should be completely eliminated.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|5",
+    "s": "Studies indicate that while suppressing inner speech may indeed increase the raw number of words scanned per minute, it frequently leads to a significant drop in the grasp of the material, particularly when dealing with complex or nuanced arguments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|6",
+    "s": "The inner voice functions as a critical component of the phonological loop, holding data in working memory long enough for the brain to integrate concepts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|7",
+    "s": "Thus, rather than viewing subvocalization as a flaw to be eradicated, it is better understood as a regulatory tool.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|passage|8",
+    "s": "Proficient readers unconsciously adjust their reliance on this internal narration, minimizing it for simple texts while fully engaging it to navigate dense content.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-146|question|0",
+    "s": "Which of the following best summarizes the author's perspective on subvocalization?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-147|passage|0",
+    "s": "The Chaco Canyon civilization in the American Southwest is celebrated for its complex social structure and monumental great houses.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-147|passage|1",
+    "s": "For years, the prevailing theory attributed the sudden abandonment of these settlements in the 12th century primarily to a severe, decades-long drought.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-147|passage|2",
+    "s": "However, recent bioarchaeological and geological studies have begun to paint a more nuanced picture involving human agency.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-147|passage|3",
+    "s": "Analysis of ancient packrat middens—rodent nests that preserve plant materials over millennia—demonstrates that the canyon was once surrounded by dense pinyon and juniper woodlands.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-147|passage|4",
+    "s": "Over centuries, the Chacoans harvested this timber extensively for construction and firewood.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-147|passage|5",
+    "s": "The removal of this critical ground cover likely triggered a cycle of soil erosion and arroyo cutting, which lowered the water table and decimated the maize crops upon which the society depended.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-147|passage|6",
+    "s": "Thus, while climate variability was undeniably a factor, the society’s collapse was likely compounded by their unsustainable exploitation of the local environment, challenging the view that pre-colonial populations always lived in perfect equilibrium with their surroundings.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-147|question|0",
+    "s": "Which of the following best summarizes the writer's argument regarding the decline of the Chaco Canyon civilization?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-148|passage|0",
+    "s": "For decades, a fierce pedagogical debate known as the \"reading wars\" has divided educators and policymakers regarding the most effective method for teaching children to read.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-148|passage|1",
+    "s": "On one side, proponents of phonics argue that explicit instruction in the relationships between letters and sounds is the essential building block of literacy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-148|passage|2",
+    "s": "They maintain that before children can comprehend text, they must first be able to decode words systematically.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-148|passage|3",
+    "s": "Conversely, advocates of the whole-language approach emphasize the importance of immersion in meaningful texts, suggesting that reading is a natural process acquired through exposure, much like spoken language.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-148|passage|4",
+    "s": "Recent cognitive research has increasingly tipped the scales in favor of structured phonics instruction for early learners, demonstrating that specific neural pathways must be rewired to connect visual symbols with spoken language centers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-148|passage|5",
+    "s": "While exposure to rich literature remains vital for vocabulary and motivation, the evidence suggests it cannot replace the foundational skills of decoding.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-148|passage|6",
+    "s": "Consequently, many educational systems are now pivoting away from pure whole-language methodologies toward structured literacy programs, although the practical implementation of these changes in classrooms remains uneven and often contentious.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-148|question|0",
+    "s": "According to the passage, what has recent research indicated about learning to read?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-149|passage|0",
+    "s": "The Garden City movement, initiated in 1898 by Sir Ebenezer Howard in the United Kingdom, represented a radical departure from the unplanned sprawl of the industrial Victorian era.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-149|passage|1",
+    "s": "Howard envisioned self-contained communities surrounded by \"greenbelts,\" containing proportionate areas of residences, industry, and agriculture.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-149|passage|2",
+    "s": "The core philosophy was to marry the economic opportunities of the city with the environmental benefits of the countryside, thereby eliminating the squalor and pollution characteristic of 19th-century urban centers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-149|passage|3",
+    "s": "Letchworth and Welwyn Garden City were the first tangible realizations of this ideal.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-149|passage|4",
+    "s": "However, while the aesthetic and sanitary objectives were largely met, the economic self-sufficiency Howard dreamed of proved elusive.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-149|passage|5",
+    "s": "Instead of becoming independent hubs of commerce and culture, many later iterations of the concept devolved into dormitory suburbs, where residents commuted back to major metropolises for employment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-149|passage|6",
+    "s": "Despite this deviation from the original blueprint, the movement fundamentally reshaped modern town planning, influencing suburban design principles across the globe well into the 20th century.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-149|question|0",
+    "s": "According to the passage, in what way did the actual development of Garden Cities differ from Howard’s original vision?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-150|passage|0",
+    "s": "When English settlers described the dense, impenetrable woodlands of New England in the early seventeenth century, they believed they were observing a primordial wilderness that had existed unchanged for millennia.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-150|passage|1",
+    "s": "However, modern environmental historians suggest that what these settlers encountered was not an ancient, untouched ecosystem, but rather a landscape in the midst of a dramatic ecological rebound.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-150|passage|2",
+    "s": "Prior to European contact, large Indigenous populations had cleared extensive tracts of land for maize agriculture and village sites.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-150|passage|3",
+    "s": "Tragically, the introduction of Old World pathogens in the sixteenth century resulted in a catastrophic demographic collapse among Native American communities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-150|passage|4",
+    "s": "As populations dwindled, vast areas of cultivated land were abandoned.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-150|passage|5",
+    "s": "Consequently, the forests rapidly reclaimed these open fields through the process of secondary succession.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-150|passage|6",
+    "s": "Thus, the \"virgin\" forest described in colonial chronicles was, in reality, a relatively young, dense overgrowth masking the footprint of a once-thriving agricultural society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_single|goarno-read_mcq_single-150|question|0",
+    "s": "What is the central argument regarding the New England forests described in the text?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-001|paragraphs[0]|0",
+    "s": "With the aim of ending the frequent and bloody conflicts that culminated in the Second World War, European politicians begin the process of building what we know today as the European Union.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-001|paragraphs[1]|0",
+    "s": "The European Coal and Steel Community, founded in 1951, is the first step in securing a lasting peace.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-001|paragraphs[2]|0",
+    "s": "In 1957, the Treaty of Rome establishes the European Economic Community (EEC) and a new era of ever-closer cooperation in Europe.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-001|paragraphs[3]|0",
+    "s": "This period, however, also sees the emergence of a Cold War that divides the continent for more than 40 years.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-002|paragraphs[0]|0",
+    "s": "In just a few decades, the internet has become an integral part of our daily lives.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-002|paragraphs[1]|0",
+    "s": "It has transformed industries, from retail and entertainment to education and healthcare.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-002|paragraphs[2]|0",
+    "s": "The internet has also opened up new opportunities for businesses to reach global markets and for individuals to connect with people from around the world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-002|paragraphs[3]|0",
+    "s": "This innovation has revolutionized the way we communicate, work, and access information.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-003|paragraphs[0]|0",
+    "s": "In order to establish whether diversity matters in the sea as well as on land, 11 marine biologists, along with three economists, have joined forces.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-003|paragraphs[1]|0",
+    "s": "They have spent the past three years crunching all the numbers they could lay their hands on.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-003|paragraphs[2]|0",
+    "s": "These ranged from the current UN Food and Agriculture Organization's database to information hundreds of years old, gleaned from kitchen records and archeology.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-003|paragraphs[3]|0",
+    "s": "The results of this comprehensive analysis have been published in Science.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-004|paragraphs[0]|0",
+    "s": "The job of a manager in the workplace is to get things done through the employees.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-004|paragraphs[1]|0",
+    "s": "In order to do this , the manager should be able to motivate its employees.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-004|paragraphs[2]|0",
+    "s": "However, this easier said than done.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-004|paragraphs[3]|0",
+    "s": "Motivation practice and theory are difficult, complex subjects touching on several disciplines .",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-005|paragraphs[0]|0",
+    "s": "One explanation of dreams holds that they reflect the ongoing conscious preoccupations of waking life, such as concerns over health.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-005|paragraphs[1]|0",
+    "s": "For example, psychologist Gayle Delaney told of a woman who dreamed she was swimming underwater.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-005|paragraphs[2]|0",
+    "s": "The woman's eight-year-old son was on her back, his head above water.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-005|paragraphs[2]|1",
+    "s": "Her husuband was supposed to take pictures, but wasn't, and she was starting to feel she was going to drown.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-005|paragraphs[3]|0",
+    "s": "To Delaney, the message was obvious: the woman was &quot;drowning' under the responsibilities of child care, and her husband wasn't &quot;getting the picture&quot;.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-005|paragraphs[4]|0",
+    "s": "In this approach to dreaming, the symbols in a dream do not disguise its true meaning; they convey it.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-006|paragraphs[0]|0",
+    "s": "Before the widespread use of petroleum, whale oil was the primary source of fuel for lamps and lubrication.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-006|paragraphs[1]|0",
+    "s": "Whaling fleets from Europe and America hunted extensively, leading to a sharp decline in whale populations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-006|paragraphs[2]|0",
+    "s": "This shift was driven largely by the discovery of large oil fields in the Middle East during the early 20th century.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-006|paragraphs[3]|0",
+    "s": "As petroleum became cheaper and more abundant, the whaling industry gradually collapsed.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-006|paragraphs[4]|0",
+    "s": "Today, petroleum remains a dominant energy source, though renewable alternatives are gaining ground.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-007|paragraphs[0]|0",
+    "s": "In Montana as elsewhere, companies that have acquired older mines respond to demands to pay for cleanup in either of two ways.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-007|paragraphs[1]|0",
+    "s": "Especially if the company is small, its owners may declare the company bankrupt, in some cases conceal its assets, and transfer their business efforts to other companies or to new companies that do not bear responsibility for cleanup at the old mine.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-007|paragraphs[2]|0",
+    "s": "If the company is so large that it cannot claim that it would be bankrupted by cleanup costs (as in the case of ARCO that I shall discuss below), the company instead denies its responsibility or else seeks to minimize the costs.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-007|paragraphs[3]|0",
+    "s": "In either case, either the mine site and areas downstream of it remain toxic, thereby endangering people, or else the U.S.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-007|paragraphs[3]|1",
+    "s": "federal government and the Montana state government (hence ultimately all taxpayers) pay for the cleanup through the federal Superfund and a corresponding Montana state fund.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-008|paragraphs[0]|0",
+    "s": "For years, the downtown area had suffered from a lack of green spaces for residents to enjoy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-008|paragraphs[1]|0",
+    "s": "A proposal to convert an abandoned railway yard into a public park was first introduced in 2019.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-008|paragraphs[2]|0",
+    "s": "Community groups argued that the new park would improve air quality and provide a safe area for children.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|edknot-reorder_paragraphs-008|paragraphs[3]|0",
+    "s": "The city council approved the plan after a heated debate that lasted well past midnight.",
+    "p": "P1",
+    "native": false
+  }
+]

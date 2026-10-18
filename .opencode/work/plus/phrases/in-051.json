@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_aloud|stormedugo-read_aloud-030|text|1",
+    "s": "Students can now study at their own pace, from anywhere in the world, using digital tools and virtual classrooms.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-031|text|0",
+    "s": "Volcanic eruptions occur when magma rises to the surface, releasing gas, ash, and lava.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-031|text|1",
+    "s": "While destructive, they also create fertile land and contribute to the Earth’s geological processes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-032|text|0",
+    "s": "Artificial Intelligence, or AI, enables machines to mimic human intelligence.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-032|text|1",
+    "s": "It powers applications from voice assistants to autonomous vehicles.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-032|text|2",
+    "s": "While promising, it also raises ethical and societal questions.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-033|text|0",
+    "s": "Plastic pollution is one of the greatest environmental challenges today.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-033|text|1",
+    "s": "Non-biodegradable plastics accumulate in oceans, harming marine life and entering the food chain.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-033|text|2",
+    "s": "Reducing plastic use is critical.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-034|text|0",
+    "s": "Sleep is essential for consolidating memory and learning.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-034|text|1",
+    "s": "During sleep, the brain processes information gathered throughout the day.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-034|text|2",
+    "s": "Lack of sleep can impair judgment, mood, and cognitive function.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-035|text|0",
+    "s": "Renewable energy sources like solar, wind, and hydro are essential for a sustainable future.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-035|text|1",
+    "s": "Unlike fossil fuels, they produce little or no greenhouse gases, making them environmentally friendly alternatives.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-036|text|0",
+    "s": "Globally, one-third of all food produced is wasted.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-036|text|1",
+    "s": "This not only leads to hunger but also wastes the resources used to grow, transport, and package food.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-036|text|2",
+    "s": "Reducing waste helps fight climate change and promote food security.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-037|text|0",
+    "s": "Social media connects billions of people worldwide but also influences behavior and mental health.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-037|text|1",
+    "s": "While it facilitates communication, excessive use can lead to anxiety, misinformation, and reduced real-world interaction.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-038|text|0",
+    "s": "Our solar system consists of the Sun, eight planets, moons, and various celestial bodies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-038|text|1",
+    "s": "It formed about 4.6 billion years ago from a giant cloud of gas and dust, eventually developing into the system we observe today.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-039|text|0",
+    "s": "Immigration contributes to economic growth and cultural diversity.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-039|text|1",
+    "s": "Migrants bring new skills, fill labor shortages, and enrich societies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-039|text|2",
+    "s": "However, successful integration depends on social policies and public attitudes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-040|text|0",
+    "s": "Despite historical barriers, women have made groundbreaking contributions to science.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-040|text|1",
+    "s": "Encouraging more women to pursue STEM careers helps close the gender gap and enhances innovation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-041|text|0",
+    "s": "While smartphones increase connectivity, they can also distract from deep work.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-041|text|1",
+    "s": "Constant notifications and multitasking reduce focus.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-041|text|2",
+    "s": "Mindful smartphone use improves efficiency and mental well-being.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-042|text|0",
+    "s": "Mars exploration has fascinated scientists for decades.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-042|text|1",
+    "s": "Rovers like Perseverance are searching for signs of past life and testing technologies for future human missions.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-042|text|2",
+    "s": "Mars could one day become humanity’s second home.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-043|text|0",
+    "s": "The Internet of Things connects everyday devices to the internet, allowing them to send and receive data.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-043|text|1",
+    "s": "From smart refrigerators to connected cars, IoT is transforming homes, industries, and cities.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-044|text|0",
+    "s": "Ocean currents regulate Earth’s climate by distributing heat across the globe.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-044|text|1",
+    "s": "These underwater ”rivers” affect weather patterns and marine life.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-044|text|2",
+    "s": "Changes in currents can have serious environmental impacts.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-045|text|0",
+    "s": "Robots are increasingly used in medical procedures, offering precision and reducing recovery time.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-045|text|1",
+    "s": "From surgical robots to automated diagnostics, robotics is revolutionizing healthcare delivery.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-046|text|0",
+    "s": "Cryptocurrency is a digital form of money that uses encryption for security.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-046|text|1",
+    "s": "Bitcoin, the first cryptocurrency, was launched in 2009.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-046|text|2",
+    "s": "While volatile, crypto is gaining popularity as an alternative asset.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-047|text|0",
+    "s": "Species become endangered due to habitat loss, hunting, and climate change.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-047|text|1",
+    "s": "Conservation efforts like protected areas and breeding programs aim to prevent extinction and preserve biodiversity.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-048|text|0",
+    "s": "Water scarcity affects over two billion people worldwide.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-048|text|1",
+    "s": "Causes include droughts, pollution, and overuse.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-048|text|2",
+    "s": "Sustainable water management is essential for agriculture, industry, and daily life.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-049|text|0",
+    "s": "Peer pressure influences how people behave, especially during adolescence.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-049|text|1",
+    "s": "While it can encourage positive habits, it may also lead to risky behavior.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-049|text|2",
+    "s": "Teaching self-confidence helps resist negative pressure.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-050|text|0",
+    "s": "The Industrial Revolution transformed economies from agrarian to industrial.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-050|text|1",
+    "s": "It introduced machines, improved transportation, and changed labor systems.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "read_aloud|stormedugo-read_aloud-050|text|2",
+    "s": "It also led to urbanization and environmental changes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-001|transcript|0",
+    "s": "Reducing stress levels can significantly improve your overall quality of life.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-002|transcript|0",
+    "s": "All course materials will be available online from next week.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-003|transcript|0",
+    "s": "Advertising revenue is crucial for the survival of many local newspapers.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-004|transcript|0",
+    "s": "Effective financial management is crucial for the stability of any business.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-005|transcript|0",
+    "s": "Effective note-taking is crucial for retaining information from lectures.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-005|transcript|1",
+    "s": "Want to practice Repeat Sentence with instant AI scoring and feedback?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-005|transcript|2",
+    "s": "Try Arno's PTE practice platform.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-006|transcript|0",
+    "s": "Digital resources can be accessed through the university website.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-007|transcript|0",
+    "s": "You may reserve a private study room at the reception desk.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-008|transcript|0",
+    "s": "Parking permits can be obtained from the administrative office.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-009|transcript|0",
+    "s": "Most of the relevant materials are available in the library.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-010|transcript|0",
+    "s": "The tutorial sessions are designed to support the main lectures.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-011|transcript|0",
+    "s": "Geographical barriers often influenced the development of early human settlements.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-012|transcript|0",
+    "s": "Understanding consumer behavior is key to developing effective marketing strategies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-013|transcript|0",
+    "s": "Ancient civilizations often settled near rivers to ensure a steady water supply.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-014|transcript|0",
+    "s": "You should support your arguments with evidence from the reading list.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-015|transcript|0",
+    "s": "All library books must be returned before the summer vacation begins.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-016|transcript|0",
+    "s": "Regular physical activity is essential for preventing chronic health conditions.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-017|transcript|0",
+    "s": "Quiet study areas are available on the top floor of the library.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-018|transcript|0",
+    "s": "Effective project management ensures that resources are utilized efficiently.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-019|transcript|0",
+    "s": "Students should verify their class schedules before the term begins.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-020|transcript|0",
+    "s": "The assignment requires a significant amount of independent research.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-021|transcript|0",
+    "s": "The final exam schedule will be posted on the notice board.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-022|transcript|0",
+    "s": "Students can download the lecture notes from the course website.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-023|transcript|0",
+    "s": "Regular breaks are essential for maintaining concentration during study sessions.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-024|transcript|0",
+    "s": "Effective stress management is vital for maintaining psychological well-being.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-025|transcript|0",
+    "s": "The soundtrack plays a vital role in building tension during key scenes.",
+    "p": "P2",
+    "native": true
+  }
+]

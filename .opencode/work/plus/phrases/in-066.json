@@ -1,0 +1,482 @@
+[
+  {
+    "k": "lst_fib|goarno-lst_fib-147|template|3",
+    "s": "Ironically, many ancient {{4}} survive today precisely because they were subjected to fires that destroyed the cities around them.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-147|template|4",
+    "s": "The heat baked the clay into a permanent ceramic form, preserving everything from royal decrees to ordinary business {{5}} for modern archaeologists to study.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-148|template|0",
+    "s": "Volcanic eruptions are often viewed as localized disasters, yet their atmospheric consequences can be global.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-148|template|1",
+    "s": "A critical issue is the {{1}} of volcanic ash, which consists of tiny, jagged particles of rock and glass.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-148|template|2",
+    "s": "This material represents a substantial hazard to aviation, as the {{2}} dust can damage flight control systems and cause engine {{3}} Beyond immediate safety risks, suspended ash reflects solar radiation, potentially {{4}} global weather patterns.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-148|template|3",
+    "s": "Researchers utilize satellite data to predict the movement of these clouds, ensuring that air traffic can be diverted in time to avoid {{5}} encounters.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-149|template|0",
+    "s": "The emerging field of nutrigenomics explores the complex relationship between our diet and our genome.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-149|template|1",
+    "s": "It suggests that food is not merely a source of caloric energy but acts as a biological {{1}} that can influence our long-term health.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-149|template|2",
+    "s": "Unlike traditional views where food simply fuels the body, this science posits that specific nutrients have the capacity to {{2}} switches in our DNA.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-149|template|3",
+    "s": "This mechanism could be pivotal in reducing the risk of {{3}} diseases such as diabetes.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-149|template|4",
+    "s": "Consequently, understanding this connection allows for {{4}} dietary recommendations, effectively moving away from a generic, one-size-fits-all approach to modern {{5}}.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-150|template|0",
+    "s": "Honeybees {{1}} remarkable navigational skills when foraging for nectar.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-150|template|1",
+    "s": "Upon returning to the hive, a scout bee performs a {{2}} series of movements known as the waggle dance.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-150|template|2",
+    "s": "This behavior {{3}} both the distance and the direction of a food source to the rest of the colony.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-150|template|3",
+    "s": "The angle of the dance {{4}} with the position of the sun, providing precise coordinates for other bees to follow.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-150|template|4",
+    "s": "However, recent studies indicate that pesticides may impair their cognitive functions, making it difficult for them to {{5}} these instructions effectively.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|shown|0",
+    "s": "Effective learning in higher education relies heavily on the continuous feedback loop between instructors and students.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|shown|1",
+    "s": "While statistical grades provide a quick snapshot of performance, they often fail to demonstrate specific areas for improvement or detailed guidance.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|shown|2",
+    "s": "Constructive commentary allows students to clearly identify their weaknesses and adjust their study techniques accordingly.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|shown|3",
+    "s": "However, for this process to be truly successful, students must be willing to actively interact with the criticism rather than simply looking at the final score.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|shown|4",
+    "s": "Unfortunately, many learners view assessment purely as a scholastic hurdle to overcome, ignoring the valuable insights that could significantly enhance their future academic careers.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|shown|0",
+    "s": "Effective learning in higher education relies heavily on the quality of feedback students receive on their assignments.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|shown|1",
+    "s": "It is not efficient to simply grade a paper and move on; instructors must provide instructive comments that highlight specific strengths and weaknesses.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|shown|2",
+    "s": "This outgoing dialogue allows students to understand where their reading may be flawed or where their arguments lack accurate evidence.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|shown|3",
+    "s": "Without this crucial guidance, learners often struggle to prove their academic performance significantly over time.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|shown|4",
+    "s": "Consequently, many universities are now prioritizing specialized training for staff to ensure they can deliver assessments that truly foster intellectual worth rather than merely measuring a student's current ability.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|shown|0",
+    "s": "Many students discover that the most memorable aspect of their university journey actually happens outside the lecture hall.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|shown|1",
+    "s": "Running student organizations provides a useful opportunity to broaden one's horizons beyond the standard curriculum.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|shown|2",
+    "s": "It is not merely about pursuing a fun hobby; it is fundamentally about building a robust support network.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|shown|3",
+    "s": "When you collaborate on complex projects with people from distinct backgrounds, you cultivate accountability and resilience.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|shown|4",
+    "s": "These soft skills are increasingly sought after in the modern job market, often weighing heavily in recruitment decisions.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|shown|5",
+    "s": "Moreover, the bonds formed during these activities frequently turn into lifelong professional relationships, proving that social interaction is key to future prosperity.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-104|shown|0",
+    "s": "Rituals play a fundamental role in maintaining social order within traditional communities and modern societies alike.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-104|shown|1",
+    "s": "Anthropologists observe that these ceremonies often mark significant transactions in an individual's life, effectively guarding them from one status to another, such as during marriage or coming-of-age events.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-104|shown|2",
+    "s": "Through these structured preferences, shared values are reinforced, and group stability is significantly strengthened.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-104|shown|3",
+    "s": "Symbols used during these rituals carry precise meanings that are understood immediately by members of the culture but may seem absurd to outsiders.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-104|shown|4",
+    "s": "By analyzing these symbolic actions, researchers can gain valuable insight into the underlying beliefs that govern a society’s daily behavior.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-105|shown|0",
+    "s": "For decades, final examinations served as the definitive method for evaluating student performance in higher education institutions.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-105|shown|1",
+    "s": "This conventional approach relied heavily on memory retention and the ability to focus under significant time pressure.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-105|shown|2",
+    "s": "However, many modern universities are increasingly shifting towards continuous assessment models to better reflect real-world demands.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-105|shown|3",
+    "s": "These methods allow for a more historic evaluation of a student's development throughout the entire academic year.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-105|shown|4",
+    "s": "By interpreting diverse tasks like research essays, oral presentations and group projects, educators can accurately monitor a wider range of skills, including critical analysis and communication.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-105|shown|5",
+    "s": "This transition acknowledges that true academic success implies far more than just passing a single high-stakes test.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-106|shown|0",
+    "s": "One of the biggest adjustments international students face is the shift in assessment methods at western universities.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-106|shown|1",
+    "s": "In many traditional systems, grades depend largely on final exams, but here, continuous assessment is far more common.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-106|shown|2",
+    "s": "This means that actual participation in tutorials and regular written assignments contribute sufficiently to your overall mark.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-106|shown|3",
+    "s": "At first, I found this approach quite demanding because it requires consistent effort throughout the semester, rather than a frantic period of review at the very end.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-106|shown|4",
+    "s": "However, I soon realized that this structure actually reduces stress levels by spreading the academic workload more evenly across the year.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-107|shown|0",
+    "s": "Upon arriving at university, particularly in a foreign nation, many international students find themselves feeling somewhat insulated initially.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-107|shown|1",
+    "s": "While academic achievements are obviously a primary focus, engaging in extracurricular activities is equally valid for long-term personal growth.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-107|shown|2",
+    "s": "Joining societies or sports clubs offers a unique avenue to meet peers with similar interests outside the formal lecture theatre setting.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-107|shown|3",
+    "s": "These groups often initiate social events that help newcomers migrate into the campus community much faster than studying alone would allow.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-107|shown|4",
+    "s": "Furthermore, holding a position within a club committee can develop potential leadership skills that future employers rate highly.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-107|shown|5",
+    "s": "Therefore, getting involved is about more than just having fun; it is a strategic step towards a well-rounded university experience.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-108|shown|0",
+    "s": "When I first arrived, I assumed my language skills were quite sufficient because I had studied English for years.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-108|shown|1",
+    "s": "However, the reality of daily interaction was surprisingly different from the classroom environment.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-108|shown|2",
+    "s": "I struggled significantly with local dialects and the speed at which people spoke during casual conversations.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-108|shown|3",
+    "s": "It wasn't just about vocabulary; it was the rhythm and pronunciation that confused me.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-108|shown|4",
+    "s": "I found myself nodding along quietly even when I had missed the point entirely.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-108|shown|5",
+    "s": "Gradually, by joining social clubs and forcing myself to interact with locals, I began to pick up the basics.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-108|shown|6",
+    "s": "Now, I feel much more confident, but that initial period of adjustment was certainly challenging.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-109|shown|0",
+    "s": "Universities often pride themselves on the vibrant community they feature outside the lecture halls.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-109|shown|1",
+    "s": "For international students, joining a society or a sports club can be a positive step in settling into campus life.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-109|shown|2",
+    "s": "It is not merely about pursuing a hobby; it is a strategic way to build a network of friends from diverse backgrounds.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-109|shown|3",
+    "s": "These extracurricular activities provide a structured environment to practice language skills formally, away from the pleasure of the classroom.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-109|shown|4",
+    "s": "Furthermore, being part of a team or a committee develops soft skills like leadership and negotiation, which are highly rewarded by future employers.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-109|shown|5",
+    "s": "Ultimately, engaging in student organizations transforms the university experience from a purely academic pursuit into a historic journey of personal growth.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-110|shown|0",
+    "s": "Writing a successful introduction is beneficial for any academic essay.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-110|shown|1",
+    "s": "It acts as a rulebook for your paper, leading the reader through your main agreements.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-110|shown|2",
+    "s": "The opening sentence should capture attention, often called a hook, while providing necessary content about the topic.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-110|shown|3",
+    "s": "Following this, you must present a clear thesis statement, which outlines the central claim you attend to support.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-110|shown|4",
+    "s": "Many students struggle here because they make their thesis statement too vague or broad.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-110|shown|5",
+    "s": "Remember, a precise argument allows you to contain focus throughout the body paragraphs, ensuring that every point relates back to your clear idea.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-111|shown|0",
+    "s": "Moving to a new country for higher education presents significant challenges beyond just academic expectations.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-111|shown|1",
+    "s": "One of the most intimidating hurdles students face is managing their finances effectively in an unfamiliar academic environment.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-111|shown|2",
+    "s": "The cost of living can vary greatly depending on the city, and unexpected events often arise during the first few months.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-111|shown|3",
+    "s": "It is crucial for students to establish a rigid budget early on, factoring in accommodation, transport, and daily necessities.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-111|shown|4",
+    "s": "Many universities offer workshops on financial literacy to help newcomers navigate booking systems.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-111|shown|5",
+    "s": "Without careful planning, mental stress can distract from studies and impact overall well-being.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-112|shown|0",
+    "s": "In the realm of higher education, the academic focus often shifts from the passive consumption of information to an active engagement with complex contexts.",
+    "p": "P3",
+    "native": false
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "url": "https://www.usgs.gov/media/images/water-cycle-png",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "1 diagrama de processo (2022), imagem PNG e descrição textual extensa disponíveis.",
+    "positiveSignals": [
+      "Licença da imagem: domínio público, declarada em Sources/Usage: Public Domain.",
+      "Fonte científica governamental com facts descritivos: armazenamento, fluxos e interferência humana; autoria USGS VizLab.",
+      "Leitura direta HTTP 200 após robots permitido; imagem própria e descrição, não apenas template."
+    ],
+    "negativeSignals": [
+      "Não é questão real PTE comprovada: nenhum C1–C4 de autenticidade PTE estabelecido; candidata suplementar para adaptação, não recall."
+    ],
+    "quotes": [
+      "This diagram, released in 2022, depicts the global water cycle.",
+      "Ninety-six percent of all water is saline and stored in oceans.",
+      "Water moves between the atmosphere and the Earth’s surface through evaporation, evapotranspiration, and precipitation.",
+      "Public Domain."
+    ]
+  },
+  {
+    "url": "https://www.usgs.gov/media/images/natural-water-cycle-jpg",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "1 diagrama em JPG; PDF também indicado, sem contá-lo como outro item.",
+    "positiveSignals": [
+      "Licença da imagem: domínio público (Sources/Usage: Public Domain.).",
+      "Facts científicos e créditos: Howard Perlman, USGS and John Evans, USGS.",
+      "Leitura direta HTTP 200; conjunto imagem + explicação acessível sem conta."
+    ],
+    "negativeSignals": [
+      "Sem evidência de questão real PTE; C1–C4 não estabelecidos.",
+      "Mesmo tema da versão 2022; não contar como dois recalls distintos."
+    ],
+    "quotes": [
+      "Water is always changing states between liquid, vapor, and ice,",
+      "Public Domain.",
+      "Howard Perlman, USGS and John Evans, USGS"
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Half-life_example_graph.jpg",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "1 gráfico de linha, 1006 × 564 pixels segundo metadados indexados.",
+    "positiveSignals": [
+      "Licença da imagem: CC0 1.0 Universal Public Domain Dedication, declarada na seção Licensing.",
+      "Facts: gráfico de amostra radioativa com meia-vida de dois minutos; autor Pradana Aumars."
+    ],
+    "negativeSignals": [
+      "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+      "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+      "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso."
+    ],
+    "quotes": [
+      "Line graph of radioactive sample with a half-life of 2 minutes",
+      "This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication."
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:World_human_population_density_map.png",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "1 mapa mundial, 8639 × 3431 pixels segundo metadados indexados.",
+    "positiveSignals": [
+      "Licença da imagem: CC0 1.0 Universal Public Domain Dedication.",
+      "Facts: densidade populacional global em 2005; autoria daysleeperrr, origem Reddit declarada."
+    ],
+    "negativeSignals": [
+      "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+      "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+      "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso.",
+      "Sem descrição das regiões de maior/menor densidade no texto lido; gabarito insuficiente."
+    ],
+    "quotes": [
+      "Map showing human population density across the globe in 2005.",
+      "This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication."
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:1988-_Deforestation_rates_in_Brazil_-_Terra_Brasilis_(party_colors).svg",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "1 gráfico de barras SVG, 1250 × 675 pixels.",
+    "positiveSignals": [
+      "Licença da imagem: CC BY 4.0; atribuir RCraig09, linkar licença e indicar alterações.",
+      "Facts: desmatamento no Brasil desde 1988 e presidentes; fonte de dados TerraBrasilis explicitada."
+    ],
+    "negativeSignals": [
+      "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+      "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+      "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso.",
+      "Dados numéricos não lidos; descrição temática não equivale a gabarito PTE completo."
+    ],
+    "quotes": [
+      "Vertical bar chart showing deforestation rates in Brazil beginning in 1988, in conjunction with Brazil's presidents during respective time periods.",
+      "This file is licensed under the Creative Commons Attribution 4.0 International license."
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Temperature_Bar_Chart_Europe-United_Kingdom--1884-2020--2021-07-13.png",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "1 gráfico, 3780 × 2126 pixels, Reino Unido 1884–2020.",
+    "positiveSignals": [
+      "Licença da imagem: CC BY 4.0, Ed Hawkins, University of Reading.",
+      "Facts editoriais: cada faixa representa temperatura média anual; dados UK Met Office."
+    ],
+    "negativeSignals": [
+      "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+      "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+      "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso."
+    ],
+    "quotes": [
+      "Temperature bar chart for United Kingdom",
+      "Each stripe represents the temperature averaged over a year.",
+      "This file is licensed under the Creative Commons Attribution 4.0 International license."
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Water_cycle_flowchart.png",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "1 fluxograma, 1154 × 600 pixels.",
+    "positiveSignals": [
+      "Licença da imagem: CC0 1.0 Universal Public Domain Dedication; autor Entropyrider.",
+      "Diagrama próprio, e não template textual."
+    ],
+    "negativeSignals": [
+      "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+      "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+      "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso.",
+      "Legenda genérica: etapas individuais não transcritas no resultado; gabarito ainda ausente."
+    ],
+    "quotes": [
+      "This flowchart details all steps in the hydrological cycle.",
+      "This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication."
+    ]
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:CO2_emission_pie_chart.svg",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "1 gráfico de setores SVG; versões 2015/2023 não contadas como itens adicionais.",
+    "positiveSignals": [
+      "Licença da imagem: domínio público por geometria simples, explicitado na ficha.",
+      "Facts: emissões globais por país; atualização versão 10 remete ao EDGAR 2024."
+    ],
+    "negativeSignals": [
+      "Leitura somente do texto indexado retornado pela busca; robots.txt respondeu 403 no acesso direto, que não foi contornado.",
+      "Sem evidência de questão real PTE (C1–C4 não estabelecidos); fonte suplementar de imagem/facts, não aprovação para ingestão.",
+      "Imagem não inspecionada visualmente; conferir rótulos e preparar gabarito humano antes de uso.",
+      "Inconsistência entre caption 2023 e Summary 2015; fixar revisão/data antes de formular resposta."
+    ],
+    "quotes": [
+      "Global CO2 gas emissions in the year 2023 by country",
+      "This image of simple geometry is ineligible for copyright and therefore in the public domain,"
+    ]
+  },
+  {
+    "url": "https://www.ptebank.com/recently-asked-pte-describe-images/",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "3 itens com imagens HTML e respostas abertas; não inclui banco pago.",
+    "positiveSignals": [
+      "C2: menção explícita de repetição em prova, com janela temporal: recent PTE exams (October – November 2019).",
+      "Respostas completas legíveis sem login, HTTP 200; imagens presentes no HTML.",
+      "Licença da imagem: NÃO há licença aberta comprovada; registro negativo para triagem, NÃO reutilizar."
+    ],
+    "negativeSignals": [
+      "REPROVADA para reuso: copyright sem licença aberta; rodapé All Rights Reserved.",
+      "C2 é alegação do próprio site; sem corroboração independente C1 nem chancela Pearson C4.",
+      "Banco comercial adicional não acessado; não extrapolar volume para produto pago."
+    ],
+    "quotes": [
+      "recent PTE exams (October – November 2019)",
+      "The flow chart represents the life cycle of a tomato plant.",
+      "COPYRIGHT (©) 2025 PTEBANK. All Rights Reserved."
+    ]
+  },
+  {
+    "url": "https://www.ptebank.com/recently-asked-pte-describe-images-2021/",
+    "types": [
+      "describe_image"
+    ],
+    "apparentVolume": "5 itens com imagens HTML e respostas abertas; não inclui banco pago.",
+    "positiveSignals": [
+      "C2: menção explícita de repetição em prova, com janela temporal: recent PTE exams (January – June 2021).",
+      "Respostas completas legíveis sem login, HTTP 200; imagens presentes no HTML.",
+      "Licença da imagem: NÃO há licença aberta comprovada; registro negativo para triagem, NÃO reutilizar."
+    ],
+    "negativeSignals": [
+      "REPROVADA para reuso: copyright sem licença aberta; rodapé All Rights Reserved.",
+      "C2 é alegação do próprio site; sem corroboração independente C1 nem chancela Pearson C4.",
+      "Banco comercial adicional não acessado; não extrapolar volume para produto pago."
+    ],
+    "quotes": [
+      "recent PTE exams (January – June 2021)",
+      "There was a slight decrease from 1991 to 2001.",
+      "COPYRIGHT (©) 2025 PTEBANK. All Rights Reserved."
+    ]
+  }
+]

@@ -1,0 +1,845 @@
+{
+  "edknot-retell_lecture-001": {
+    "transcript": [
+      {
+        "h": "22787733",
+        "l": "A tectônica de placas é a teoria científica que descreve o movimento em grande escala da litosfera da Terra.",
+        "c": ""
+      },
+      {
+        "h": "a55456a8",
+        "l": "A litosfera é dividida em várias placas rígidas que flutuam sobre a astenosfera semifluida abaixo delas.",
+        "c": ""
+      },
+      {
+        "h": "75bd4d94",
+        "l": "Existem três tipos principais de limites de placas.",
+        "c": ""
+      },
+      {
+        "h": "ccb4cb1b",
+        "l": "Primeiro, os limites divergentes ocorrem onde as placas se afastam umas das outras.",
+        "c": ""
+      },
+      {
+        "h": "d82303b5",
+        "l": "Esse processo permite que o magma suba do manto, criando nova crosta oceânica.",
+        "c": ""
+      },
+      {
+        "h": "e06fa6a9",
+        "l": "A Mid-Atlantic Ridge é um exemplo clássico de limite divergente.",
+        "c": ""
+      },
+      {
+        "h": "db7dd070",
+        "l": "Segundo, os limites convergentes ocorrem onde as placas colidem.",
+        "c": ""
+      },
+      {
+        "h": "18a1425a",
+        "l": "Dependendo do tipo de crosta envolvida, uma placa pode ser forçada para baixo da outra em um processo chamado subducção, que pode gerar fossas oceânicas profundas e arcos vulcânicos.",
+        "c": ""
+      },
+      {
+        "h": "2aa0e216",
+        "l": "Quando duas placas continentais colidem, elas formam grandes cadeias montanhosas, como os Himalayas.",
+        "c": ""
+      },
+      {
+        "h": "0ecab192",
+        "l": "Terceiro, os limites transformantes existem onde as placas deslizam horizontalmente umas em relação às outras.",
+        "c": ""
+      },
+      {
+        "h": "4c0441ab",
+        "l": "O atrito ao longo desses limites pode causar terremotos poderosos, como se observa ao longo da falha de San Andreas, na California.",
+        "c": ""
+      },
+      {
+        "h": "c8949d5a",
+        "l": "Compreender a tectônica de placas é essencial para prever terremotos, entender a atividade vulcânica e reconstruir a história geológica do nosso planeta.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-002": {
+    "transcript": [
+      {
+        "h": "38083f3a",
+        "l": "Bem, vocês talvez achem estranho que, em uma aula de biologia, eu vá falar muito sobre matemática...",
+        "c": ""
+      },
+      {
+        "h": "308f48f8",
+        "l": "Hum...",
+        "c": ""
+      },
+      {
+        "h": "c090294f",
+        "l": "Se me permitem fazer uma pequena digressão...",
+        "c": ""
+      },
+      {
+        "h": "04f17405",
+        "l": "Quando eu era estudante, a matemática, a linguagem da querida abstração, não tinha nada a ver com as ciências da vida, como a biologia, o domínio das formas orgânicas desordenadas, da dissecação de sapos no laboratório e assim por diante...",
+        "c": ""
+      },
+      {
+        "h": "604338c7",
+        "l": "Hum...",
+        "c": ""
+      },
+      {
+        "h": "804e2433",
+        "l": "Na verdade, comecei a estudar biologia justamente para evitar matemática e física.",
+        "c": ""
+      },
+      {
+        "h": "570da4be",
+        "l": "Por isso, tive de correr bastante atrás do que não havia aprendido.",
+        "c": ""
+      },
+      {
+        "h": "432de4b5",
+        "l": "Todos sabemos como as ciências vêm se inter-relacionando cada vez mais, e não só a matemática influenciará cada vez mais a biologia, mas também, pelo que me dizem, no século 21, a força motriz por trás da matemática será a biologia.",
+        "c": ""
+      },
+      {
+        "h": "862badf7",
+        "l": "Isso ocorre em parte porque os matemáticos estão sempre em busca de mais áreas para conquistar.",
+        "c": ""
+      },
+      {
+        "h": "a95bdb7d",
+        "l": "Mas uma razão muito mais importante é que a área foi reduzida à física e à química — atrativos óbvios para os matemáticos; diversos campos da matemática podem ser aplicados à biologia.",
+        "c": ""
+      },
+      {
+        "h": "fa643dc8",
+        "l": "Por exemplo, a teoria dos nós é usada na análise dos filamentos emaranhados de DNA, e a geometria abstrata em quatro ou mais dimensões é usada para nos informar sobre os vírus.",
+        "c": ""
+      },
+      {
+        "h": "3ca8a3ee",
+        "l": "Além disso, a neurociência parece ser receptiva à matemática, e as equações também podem explicar por que drogas alucinógenas fazem os usuários verem espirais.",
+        "c": ""
+      },
+      {
+        "h": "011a4f18",
+        "l": "Portanto, se os matemáticos estão demonstrando tanto interesse pela biologia, o mínimo que podemos fazer como biólogos é retribuir a gentileza.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-003": {
+    "transcript": [
+      {
+        "h": "26e48f4e",
+        "l": "Vamos falar sobre um modelo econômico que está ganhando força no mundo todo: a economia circular.",
+        "c": ""
+      },
+      {
+        "h": "86ac4d44",
+        "l": "Tradicionalmente, nossa economia tem sido linear.",
+        "c": ""
+      },
+      {
+        "h": "26e5e820",
+        "l": "Extraímos matérias-primas da terra, fabricamos produtos, usamos esses produtos e depois os jogamos fora.",
+        "c": ""
+      },
+      {
+        "h": "d2e61b8b",
+        "l": "Esse modelo linear gera desperdício e é insustentável.",
+        "c": ""
+      },
+      {
+        "h": "f0947506",
+        "l": "Uma economia circular, por outro lado, é regenerativa desde sua concepção.",
+        "c": ""
+      },
+      {
+        "h": "23033c87",
+        "l": "Ela busca desvincular o crescimento econômico do consumo de recursos finitos.",
+        "c": ""
+      },
+      {
+        "h": "8a043e90",
+        "l": "Os princípios centrais são eliminar o desperdício e a poluição, manter produtos e materiais em uso e regenerar os sistemas naturais.",
+        "c": ""
+      },
+      {
+        "h": "0c8a828f",
+        "l": "Como isso funciona na prática?",
+        "c": ""
+      },
+      {
+        "h": "954b56b4",
+        "l": "Em vez de comprar uma máquina de lavar, você poderia alugá-la de um fabricante.",
+        "c": ""
+      },
+      {
+        "h": "924e1c39",
+        "l": "Quando a máquina chega ao fim de sua vida útil, o fabricante a recolhe, recupera os materiais valiosos e os utiliza para construir novas máquinas.",
+        "c": ""
+      },
+      {
+        "h": "6dea38d0",
+        "l": "Outro exemplo está na indústria eletrônica, em que empresas estão projetando smartphones modulares que podem ser facilmente consertados e atualizados, reduzindo o lixo eletrônico.",
+        "c": ""
+      },
+      {
+        "h": "6853924e",
+        "l": "Os resíduos alimentares podem passar por compostagem para enriquecer o solo, fechando o ciclo de nutrientes.",
+        "c": ""
+      },
+      {
+        "h": "db1a61cd",
+        "l": "A economia circular não se resume à reciclagem; trata-se de repensar todo o ciclo de vida dos produtos.",
+        "c": ""
+      },
+      {
+        "h": "7404eaf6",
+        "l": "As empresas que adotam princípios circulares podem reduzir custos, criar novas fontes de receita e desenvolver resiliência diante da volatilidade dos preços dos recursos.",
+        "c": ""
+      },
+      {
+        "h": "72ea8a8d",
+        "l": "Ela representa uma mudança fundamental na maneira como produzimos e consumimos.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-004": {
+    "transcript": [
+      {
+        "h": "18a43126",
+        "l": "As montanhas não são apenas belas paisagens; elas são o resultado de imensas forças geológicas que atuam ao longo de milhões de anos.",
+        "c": ""
+      },
+      {
+        "h": "36598539",
+        "l": "O principal processo que forma montanhas é a tectônica de placas.",
+        "c": ""
+      },
+      {
+        "h": "a3509f51",
+        "l": "Quando duas placas tectônicas colidem, a imensa pressão faz a crosta terrestre se deformar, se dobrar e ser empurrada para cima.",
+        "c": ""
+      },
+      {
+        "h": "edbbff17",
+        "l": "Isso é chamado de orogenia.",
+        "c": ""
+      },
+      {
+        "h": "7bfe2bff",
+        "l": "A cordilheira dos Himalayas, por exemplo, começou a se formar há cerca de cinquenta milhões de anos, quando a placa indiana colidiu com a placa eurasiática.",
+        "c": ""
+      },
+      {
+        "h": "8b82c68f",
+        "l": "Essa colisão ainda está em curso, e é por isso que os Himalayas continuam se elevando lentamente a cada ano.",
+        "c": ""
+      },
+      {
+        "h": "7ed8880d",
+        "l": "Outra forma de surgimento das montanhas é por meio da atividade vulcânica, em que o magma sobe através da crosta e se acumula ao longo do tempo.",
+        "c": ""
+      },
+      {
+        "h": "e5c7d4e2",
+        "l": "Montanhas vulcânicas como o monte Fuji, no Japão, são criadas dessa maneira.",
+        "c": ""
+      },
+      {
+        "h": "20c44bb5",
+        "l": "Montanhas de blocos falhados, como a Sierra Nevada, nos Estados Unidos, se formam quando grandes blocos da crosta terrestre são elevados ao longo de linhas de falha.",
+        "c": ""
+      },
+      {
+        "h": "edc0f164",
+        "l": "Independentemente do mecanismo específico, a formação de montanhas é um processo lento e poderoso que molda a superfície do planeta e influencia os padrões climáticos, os ecossistemas e o povoamento humano.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-005": {
+    "transcript": [
+      {
+        "h": "f753fb4f",
+        "l": "Nesta aldeia global, a 'empatia cultural' surge como um farol de união em meio às nossas diversas origens.",
+        "c": ""
+      },
+      {
+        "h": "79a3aafe",
+        "l": "É a compreensão sincera de que o mundo é um mosaico de culturas, em que cada peça é tão significativa quanto a outra.",
+        "c": ""
+      },
+      {
+        "h": "2a7d2d5b",
+        "l": "Encontrar uma cultura diferente da nossa pode ser como entrar em um mundo novo.",
+        "c": ""
+      },
+      {
+        "h": "5ba90a67",
+        "l": "São a arte sutil de ouvir e a humildade discreta de aprender que superam essa distância.",
+        "c": ""
+      },
+      {
+        "h": "fb63b343",
+        "l": "Quando viajamos ou interagimos com estudantes internacionais, não estamos apenas trocando palavras; estamos compartilhando partes da nossa herança cultural.",
+        "c": ""
+      },
+      {
+        "h": "848a452c",
+        "l": "Além disso, a empatia cultural vai além da mera tolerância.",
+        "c": ""
+      },
+      {
+        "h": "e32faaef",
+        "l": "Trata-se de celebração e participação.",
+        "c": ""
+      },
+      {
+        "h": "eca6ddbc",
+        "l": "Uma coisa é reconhecer festividades do mundo todo; outra é dançar ao ritmo de melodias estrangeiras e provar os temperos de culinárias exóticas.",
+        "c": ""
+      },
+      {
+        "h": "bf85718e",
+        "l": "É assim que entrelaçamos os fios da compreensão e do respeito no tecido da nossa vida cotidiana.",
+        "c": ""
+      },
+      {
+        "h": "ba136a8f",
+        "l": "Vamos, como estudantes e futuros líderes, defender a causa da empatia cultural, pois ela é o caminho para um mundo mais coeso, compassivo e pacífico.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-006": {
+    "transcript": [
+      {
+        "h": "66fd9d5a",
+        "l": "Nossa sociedade está cada vez mais em movimento.",
+        "c": ""
+      },
+      {
+        "h": "8ce0dfdf",
+        "l": "Tudo está em movimento.",
+        "c": ""
+      },
+      {
+        "h": "3aeee584",
+        "l": "Quer dizer, a parte boa é que isso é conveniente.",
+        "c": ""
+      },
+      {
+        "h": "13ad44f9",
+        "l": "Você pode tomar café em qualquer lugar.",
+        "c": ""
+      },
+      {
+        "h": "883b474c",
+        "l": "Você não precisa ficar na lanchonete.",
+        "c": ""
+      },
+      {
+        "h": "3003d422",
+        "l": "Pode ser no metrô.",
+        "c": ""
+      },
+      {
+        "h": "a731e170",
+        "l": "Você pode estar caminhando.",
+        "c": ""
+      },
+      {
+        "h": "88c6d2c4",
+        "l": "A parte ruim é que fica mais difícil saborear um café quando você o toma enquanto se desloca.",
+        "c": ""
+      },
+      {
+        "h": "294dfad0",
+        "l": "A primeira patente de uma tampa para copo foi de 1934, mas era para bebidas frias, e em 1950 um sujeito chamado James Reifsnyder inventou a primeira tampa de encaixe, mas ela não tinha uma abertura para beber.",
+        "c": ""
+      },
+      {
+        "h": "a15216d2",
+        "l": "Nos anos 60, houve uma enorme mudança cultural, quando as pessoas começaram a tomar café enquanto se deslocavam, e a 7-Eleven foi a primeira a vender café para viagem.",
+        "c": ""
+      },
+      {
+        "h": "2ce392ba",
+        "l": "E então veio essa revolução.",
+        "c": ""
+      },
+      {
+        "h": "08606c1e",
+        "l": "Em 1967, um homem chamado Alan Frank inventou uma tampa da qual era possível destacar uma aba, mais ou menos no formato de uma palheta de guitarra, e beber por ali.",
+        "c": ""
+      },
+      {
+        "h": "93693b2f",
+        "l": "Em 1975, houve outro grande avanço: era possível puxar uma aba para trás e prendê-la na própria tampa.",
+        "c": ""
+      },
+      {
+        "h": "818fe036",
+        "l": "Assim, cada vez mais pessoas começaram a tomar café enquanto se deslocavam.",
+        "c": ""
+      },
+      {
+        "h": "c104a098",
+        "l": "Em 1984, um marco na história das tampas de copos de café: o nascimento da tampa para viagem, que é icônica.",
+        "c": ""
+      },
+      {
+        "h": "83f3de27",
+        "l": "Você já a viu um milhão de vezes, e ela resolveu uma série de problemas.",
+        "c": ""
+      },
+      {
+        "h": "93502208",
+        "l": "Ela foi projetada para que o café não respingue no seu rosto, porque é mais alta do que qualquer uma das outras.",
+        "c": ""
+      },
+      {
+        "h": "e5157699",
+        "l": "Ela tem essa borda saliente, que esfria um pouco o café antes de ele chegar aos seus lábios.",
+        "c": ""
+      },
+      {
+        "h": "1ca79f0a",
+        "l": "Ela tem uma pequena depressão no centro para o nariz, permitindo que você se aproxime bem e aproveite ao máximo o aroma.",
+        "c": ""
+      },
+      {
+        "h": "060b9b92",
+        "l": "Ela tem um minúsculo orifício de ventilação que deixa o vapor sair e impede a formação de vácuo.",
+        "c": ""
+      },
+      {
+        "h": "50541ec2",
+        "l": "Esse é um daqueles objetos em que você só repara quando ele pinga no seu colo, então acho que a tampa do copo de café continuará evoluindo, e veremos uma transição das tampas plásticas descartáveis para tampas um pouco mais sustentáveis.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-007": {
+    "transcript": [
+      {
+        "h": "b4236857",
+        "l": "Mudanças climáticas, alguns efeitos adversos das mudanças climáticas sobre a produção agrícola.",
+        "c": ""
+      },
+      {
+        "h": "9863e6a0",
+        "l": "Algumas terras são inadequadas para o cultivo agrícola.",
+        "c": ""
+      },
+      {
+        "h": "7f014880",
+        "l": "Haverá milhões de pessoas enfrentando a fome na África no futuro.",
+        "c": ""
+      },
+      {
+        "h": "3e470a26",
+        "l": "As mudanças climáticas resultarão em menor produção e menos alimentos.",
+        "c": ""
+      },
+      {
+        "h": "c6389a31",
+        "l": "É difícil para os países em desenvolvimento lidar com as mudanças climáticas devido à sua situação financeira e a outras questões.",
+        "c": ""
+      },
+      {
+        "h": "2f78fb96",
+        "l": "Há muitas pessoas passando fome, especialmente na África.",
+        "c": ""
+      },
+      {
+        "h": "33e8f228",
+        "l": "As mudanças climáticas têm efeitos devastadores sobre a economia mundial.",
+        "c": ""
+      },
+      {
+        "h": "952971ab",
+        "l": "As áreas tropicais da Terra são secas e quentes e, originalmente, não são adequadas para a produção de alimentos.",
+        "c": ""
+      },
+      {
+        "h": "46a918b8",
+        "l": "A mudança do clima leva a condições meteorológicas extremas, como enchentes e furacões, o que agrava os problemas da produção de alimentos.",
+        "c": ""
+      },
+      {
+        "h": "28f15116",
+        "l": "Como resultado, isso leva a uma queda contínua na oferta de alimentos, de cerca de 10-17% ao ano.",
+        "c": ""
+      },
+      {
+        "h": "8db68307",
+        "l": "E considera-se que essa tendência continuará no futuro, até 2070.",
+        "c": ""
+      },
+      {
+        "h": "0fecca3f",
+        "l": "As regiões que mais sofrerão serão alguns países africanos.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-008": {
+    "transcript": [
+      {
+        "h": "d840c154",
+        "l": "Toda a minha pesquisa, que realizei com meus mais de 60 alunos de pós-graduação, foi motivada pela necessidade deles de aprender, para que possamos ensinar.",
+        "c": ""
+      },
+      {
+        "h": "f07cf9cb",
+        "l": "Claro, hum, algumas invenções surgiram pelo caminho, mas sempre considerei o objetivo final, o resultado.",
+        "c": ""
+      },
+      {
+        "h": "88cab185",
+        "l": "E sempre considero essas invenções um subproduto, subprodutos do processo de aprendizagem.",
+        "c": ""
+      },
+      {
+        "h": "5f72a8ce",
+        "l": "Para mim, o produto final sempre foi uma compreensão melhor ou, quando realmente se tinha sucesso, uma teoria unificadora que pudesse nos ajudar a ensinar o assunto.",
+        "c": ""
+      },
+      {
+        "h": "42f127e9",
+        "l": "Também vejo o ensino como um meio de testar novas ideias, novas maneiras de fazer as coisas, com um grupo inteligente de aprendizes.",
+        "c": ""
+      },
+      {
+        "h": "79dfcf69",
+        "l": "Ou seja, como um meio de ensinar os resultados da pesquisa.",
+        "c": ""
+      },
+      {
+        "h": "ffa4bf22",
+        "l": "E, na minha experiência, esse tipo de ensino é o mais estimulante e motivador para os alunos.",
+        "c": ""
+      },
+      {
+        "h": "c3d176b2",
+        "l": "Também descobri muitos problemas de pesquisa interessantes ao ensinar uma suposição.",
+        "c": ""
+      },
+      {
+        "h": "ade1461d",
+        "l": "É essa união entre pesquisa e ensino, sua estreita conexão e os benefícios obtidos ao exercitar essa interação que, para mim, caracterizam o professor bem-sucedido.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-009": {
+    "transcript": [
+      {
+        "h": "f34f51ef",
+        "l": "Confiabilidade e validade são dois conceitos essenciais para compreender os testes padronizados.",
+        "c": ""
+      },
+      {
+        "h": "c71e3eb9",
+        "l": "Para entender a diferença entre elas, podemos usar a analogia de dois termômetros com defeito.",
+        "c": ""
+      },
+      {
+        "h": "8c9265ca",
+        "l": "Um termômetro não confiável dá uma leitura diferente toda vez que você mede sua temperatura, enquanto um termômetro confiável, mas sem validade, marca consistentemente dez graus a mais.",
+        "c": ""
+      },
+      {
+        "h": "f565c37c",
+        "l": "A validade também depende de interpretações corretas dos resultados.",
+        "c": ""
+      },
+      {
+        "h": "e718257d",
+        "l": "Se as pessoas afirmam que os resultados de um teste significam algo que não significam, esse teste pode apresentar um problema de validade.",
+        "c": ""
+      },
+      {
+        "h": "cbaf3312",
+        "l": "Assim como não esperaríamos que uma régua revelasse o peso de um elefante ou o que ele comeu no café da manhã, não podemos esperar que testes padronizados, sozinhos, indiquem com segurança a inteligência de alguém, como diplomatas lidarão com uma situação difícil ou quanta coragem um bombeiro demonstrará.",
+        "c": ""
+      },
+      {
+        "h": "e3ee239b",
+        "l": "Assim, os testes padronizados podem nos ajudar a saber um pouco sobre muitas pessoas rapidamente, mas geralmente não conseguem nos dizer muito sobre um único indivíduo.",
+        "c": ""
+      },
+      {
+        "h": "d80aca3a",
+        "l": "Muitos cientistas sociais se preocupam com o fato de que as pontuações dos testes levam a mudanças amplas e frequentemente prejudiciais para quem os realiza, às vezes com impactos duradouros na vida.",
+        "c": ""
+      },
+      {
+        "h": "0534112c",
+        "l": "No entanto, não podemos culpar os testes.",
+        "c": ""
+      },
+      {
+        "h": "429b7667",
+        "l": "É nossa responsabilidade usar os testes apropriados para as finalidades apropriadas e interpretar os resultados corretamente.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-010": {
+    "transcript": [
+      {
+        "h": "823e1022",
+        "l": "Hoje vamos praticar a avaliação do principal instrumento usado ao falar para grupos: a voz.",
+        "c": ""
+      },
+      {
+        "h": "8a24d42d",
+        "l": "Três elementos fundamentais se combinam para produzir uma experiência favorável ou desfavorável para o público.",
+        "c": ""
+      },
+      {
+        "h": "7e39f1d3",
+        "l": "Eles podem resultar em uma voz agradável de ouvir e que pode ser usada de forma eficaz.",
+        "c": ""
+      },
+      {
+        "h": "555611b7",
+        "l": "Ou podem produzir uma voz que não consegue captar a atenção ou, pior, provoca uma reação negativa.",
+        "c": ""
+      },
+      {
+        "h": "da913933",
+        "l": "Os três elementos são volume, altura e ritmo.",
+        "c": ""
+      },
+      {
+        "h": "564671cb",
+        "l": "Ao avaliar o volume, lembrem-se de que um orador eficaz se ajusta tanto às dimensões da sala quanto ao tamanho do público.",
+        "c": ""
+      },
+      {
+        "h": "477096ab",
+        "l": "Naturalmente, com um recurso de amplificação como um microfone, o orador pode usar um tom descontraído.",
+        "c": ""
+      },
+      {
+        "h": "05a38576",
+        "l": "Mas os oradores não devem depender inteiramente dos microfones; um orador habilidoso consegue projetar a voz com intensidade sem gritar.",
+        "c": ""
+      },
+      {
+        "h": "ec5e7736",
+        "l": "O segundo elemento, a altura, diz respeito a quão agudos ou graves são os sons.",
+        "c": ""
+      },
+      {
+        "h": "873f3cc6",
+        "l": "Sons agudos geralmente são mais difíceis de ouvir para a maioria das pessoas, por isso os oradores normalmente devem usar as faixas mais graves da voz.",
+        "c": ""
+      },
+      {
+        "h": "0cc77310",
+        "l": "Durante uma apresentação, é crucial variar um pouco a altura da voz para manter o interesse.",
+        "c": ""
+      },
+      {
+        "h": "49d50cea",
+        "l": "O terceiro elemento, o ritmo, que se refere à velocidade com que palavras e sons são pronunciados, também deve ser variado.",
+        "c": ""
+      },
+      {
+        "h": "f4968f5c",
+        "l": "Um ritmo mais lento pode ser usado para destacar pontos importantes.",
+        "c": ""
+      },
+      {
+        "h": "1860fc5f",
+        "l": "Observem que os momentos de silêncio também podem ser significativos.",
+        "c": ""
+      },
+      {
+        "h": "638e3fb5",
+        "l": "As pausas devem ser usadas para indicar transições ou criar expectativa.",
+        "c": ""
+      },
+      {
+        "h": "0473eee2",
+        "l": "Como uma pausa dá aos ouvintes tempo para refletir sobre o que acabou de ser dito ou até imaginar o que virá a seguir, ela pode ser muito eficaz na transição de um assunto para outro.",
+        "c": ""
+      },
+      {
+        "h": "f40a8a30",
+        "l": "O que quero que vocês façam agora é assistir a um vídeo, ouvindo-o com atenção, e usar os formulários que forneci para avaliar as vozes que ouvirem.",
+        "c": ""
+      },
+      {
+        "h": "1fab323a",
+        "l": "Depois, hoje à noite, quero que vocês vão para casa, leiam um trecho em voz alta gravando a leitura e avaliem a própria voz.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-011": {
+    "transcript": [
+      {
+        "h": "2058e810",
+        "l": "Há dois fatores principais que fazem os alimentos estragarem: os micróbios e a oxidação.",
+        "c": ""
+      },
+      {
+        "h": "451faa12",
+        "l": "Micróbios como bactérias e fungos invadem os alimentos e se alimentam de seus nutrientes.",
+        "c": ""
+      },
+      {
+        "h": "341349b5",
+        "l": "Alguns deles podem causar doenças, como listeriose e botulismo.",
+        "c": ""
+      },
+      {
+        "h": "77d19441",
+        "l": "Outros apenas transformam os alimentos em uma massa malcheirosa, viscosa e mofada.",
+        "c": ""
+      },
+      {
+        "h": "ddcc303d",
+        "l": "Enquanto isso, a oxidação é uma alteração química nas moléculas dos alimentos causada por enzimas ou radicais livres que tornam as gorduras rançosas e escurecem produtos como maçãs e batatas.",
+        "c": ""
+      },
+      {
+        "h": "f0ed9506",
+        "l": "Os conservantes podem evitar os dois tipos de deterioração.",
+        "c": ""
+      },
+      {
+        "h": "bfa8d7aa",
+        "l": "Antes da invenção da refrigeração artificial, fungos e bactérias podiam proliferar descontroladamente nos alimentos.",
+        "c": ""
+      },
+      {
+        "h": "f8ab5e7f",
+        "l": "Então encontramos maneiras de criar um ambiente inóspito para os micróbios.",
+        "c": ""
+      },
+      {
+        "h": "385f489f",
+        "l": "Por exemplo, tornar o alimento mais ácido desfaz a estrutura de enzimas de que os micróbios precisam para sobreviver.",
+        "c": ""
+      },
+      {
+        "h": "4ef89835",
+        "l": "E alguns tipos de bactérias podem, na verdade, ajudar.",
+        "c": ""
+      },
+      {
+        "h": "90fe6902",
+        "l": "Durante milhares de anos, as pessoas conservaram alimentos usando bactérias que produzem ácido lático.",
+        "c": ""
+      },
+      {
+        "h": "3600b53e",
+        "l": "O ácido transforma vegetais perecíveis e leite em alimentos mais duráveis, como o chucrute na Europa, o kimchi na Coreia e o iogurte no Oriente Médio.",
+        "c": ""
+      },
+      {
+        "h": "c64421d0",
+        "l": "Esses alimentos fermentados também povoam seu trato digestivo com micróbios benéficos.",
+        "c": ""
+      },
+      {
+        "h": "b3fc4d9d",
+        "l": "Muitos conservantes sintéticos também são ácidos.",
+        "c": ""
+      },
+      {
+        "h": "49e222bb",
+        "l": "Ácido benzoico em molhos para salada, ácido sórbico em queijos e ácido propiônico em produtos de panificação.",
+        "c": ""
+      }
+    ]
+  },
+  "edknot-retell_lecture-012": {
+    "transcript": [
+      {
+        "h": "9d6e8f35",
+        "l": "O serviço comunitário é um componente importante da educação aqui na nossa universidade.",
+        "c": ""
+      },
+      {
+        "h": "338719df",
+        "l": "Incentivamos todos os alunos a se voluntariarem para pelo menos uma atividade comunitária antes de se formarem.",
+        "c": ""
+      },
+      {
+        "h": "a421ba5d",
+        "l": "Um novo programa comunitário chamado \"One On One\" ajuda alunos do ensino fundamental que estão com dificuldades para acompanhar os estudos.",
+        "c": ""
+      },
+      {
+        "h": "3cd47e54",
+        "l": "Os alunos de vocês que cursam educação podem se interessar especialmente por ele, porque oferece a oportunidade de lecionar, isto é, dar aulas de reforço de matemática e inglês.",
+        "c": ""
+      },
+      {
+        "h": "7a962f93",
+        "l": "Vocês teriam de dedicar duas horas por semana ao trabalho voluntário durante um semestre.",
+        "c": ""
+      },
+      {
+        "h": "863a676c",
+        "l": "Vocês podem escolher ajudar uma criança com matemática, inglês ou ambas as matérias.",
+        "c": ""
+      },
+      {
+        "h": "dcb16d65",
+        "l": "Aulas de meia hora são suficientes, então vocês poderiam dar meia hora de cada matéria dois dias por semana.",
+        "c": ""
+      },
+      {
+        "h": "8336e3cc",
+        "l": "O professor Dodge atuará como mentor dos tutores.",
+        "c": ""
+      },
+      {
+        "h": "90dd7573",
+        "l": "Ele estará disponível para ajudar vocês com planos de aula ou oferecer sugestões de atividades.",
+        "c": ""
+      },
+      {
+        "h": "680650f2",
+        "l": "Ele tem horário de atendimento todas as terças e quintas à tarde.",
+        "c": ""
+      },
+      {
+        "h": "77f5647c",
+        "l": "Vocês podem se inscrever no programa com ele e começar as aulas de reforço na próxima semana.",
+        "c": ""
+      },
+      {
+        "h": "72d0c2e3",
+        "l": "Tenho certeza de que vocês vão gostar desse serviço comunitário e, ao mesmo tempo, adquirir uma experiência valiosa.",
+        "c": ""
+      },
+      {
+        "h": "111fad90",
+        "l": "Isso também fica bem no currículo, mostrando que vocês têm experiência com crianças e se importam com sua comunidade.",
+        "c": ""
+      },
+      {
+        "h": "1b178273",
+        "l": "Se quiserem se inscrever ou tiverem alguma dúvida, passem no gabinete do professor Dodge esta semana.",
+        "c": ""
+      }
+    ]
+  }
+}

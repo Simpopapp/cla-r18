@@ -1,0 +1,482 @@
+[
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-143|transcript|4",
+    "s": "This modification liberated industry from the geographical constraints of water power, allowing factories to migrate away from riverbanks and into urban centers.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-144|transcript|0",
+    "s": "Traditionally, companies relied on a closed innovation model, keeping all research and development within their own secret laboratories.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-144|transcript|1",
+    "s": "They believed that to lead the market, they had to originate every idea internally.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-144|transcript|2",
+    "s": "However, this approach is fading in favor of 'Open Innovation,' where firms actively integrate external concepts with their own.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-144|transcript|3",
+    "s": "One major advantage is speed; by collaborating with partners or licensing technology, companies can bring products to market much faster than if they started from scratch.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-144|transcript|4",
+    "s": "Additionally, it mitigates risk, as development costs are often shared.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-144|transcript|5",
+    "s": "However, it is not seamless.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-144|transcript|6",
+    "s": "Managing intellectual property rights becomes significantly more complicated when multiple parties are involved, and internal teams may reject outside ideas due to cultural biases, often referred to as the 'Not Invented Here' syndrome.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-145|transcript|0",
+    "s": "While many businesses are eager to adopt artificial intelligence to boost efficiency, they often underestimate the foundational work required.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-145|transcript|1",
+    "s": "The most significant barrier is usually the state of the company's data.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-145|transcript|2",
+    "s": "AI models crave structured, high-quality information, but in reality, corporate data is often fragmented across different departments or incomplete.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-145|transcript|3",
+    "s": "Before any AI can be useful, this data mess must be cleaned up.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-145|transcript|4",
+    "s": "Another common pitfall is neglecting the human element.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-145|transcript|5",
+    "s": "Introducing automation can create anxiety among staff who worry about redundancy.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-145|transcript|6",
+    "s": "Unless managers clearly communicate that AI is intended to augment human roles rather than eliminate them, they will likely face internal pushback.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-145|transcript|7",
+    "s": "Unlike traditional software updates, AI requires a shift in mindset, where employees are encouraged to collaborate with the technology rather than view it as a threat.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-146|transcript|0",
+    "s": "When we talk about decision-making in economics, we often focus on the concept of opportunity cost.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-146|transcript|1",
+    "s": "Now, strictly speaking, this isn't simply the financial price tag you see on a product.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-146|transcript|2",
+    "s": "It’s actually the value of the next best alternative that you give up when you make a choice.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-146|transcript|3",
+    "s": "Crucially, this applies to resources like time just as much as it does to capital.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-146|transcript|4",
+    "s": "For instance, if a business owner decides to use their own empty warehouse for a new project, they often forget to account for the rent they could have earned by leasing it out to someone else.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-146|transcript|5",
+    "s": "That lost rent is a real economic cost.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-146|transcript|6",
+    "s": "By ignoring these implicit costs, companies frequently overestimate their potential profits, leading to strategic errors.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-147|transcript|0",
+    "s": "In the context of technological evolution, the S-curve illustrates how performance changes relative to effort.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-147|transcript|1",
+    "s": "At the outset, progress is often frustratingly slow.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-147|transcript|2",
+    "s": "Despite heavy investment, technical obstacles limit performance gains, keeping the curve flat.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-147|transcript|3",
+    "s": "This changes once foundational problems are solved, leading to a period of explosive growth where minor tweaks yield major advancements.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-147|transcript|4",
+    "s": "Ultimately, however, the technology matures and hits a ceiling.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-147|transcript|5",
+    "s": "At this stage, throwing more money at the problem results in diminishing returns.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-147|transcript|6",
+    "s": "The critical strategic challenge for established firms is recognizing this plateau.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-147|transcript|7",
+    "s": "They must be willing to jump to a new, rising S-curve, which often means leaving behind the legacy technology that defined their past success.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-148|transcript|0",
+    "s": "When we discuss innovation, the spotlight almost always falls on product innovation—the tangible, shiny new gadget that consumers can hold.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-148|transcript|1",
+    "s": "However, process innovation is often where the real, sustainable competitive advantage lies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-148|transcript|2",
+    "s": "Unlike a new product feature, which can be reverse-engineered by competitors within months, a radically efficient manufacturing process or a unique logistics system is far more difficult to observe and replicate.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-148|transcript|3",
+    "s": "Consider how changing the sequence of assembly or reducing waste in the supply chain can lower costs dramatically.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-148|transcript|4",
+    "s": "While product innovation generally drives revenue growth, process innovation typically drives efficiency and profit margins.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-148|transcript|5",
+    "s": "It’s less visible to the public, but for a company’s long-term survival, it is often the stronger pillar.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-149|transcript|0",
+    "s": "Let's consider the economic geography of cities.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-149|transcript|1",
+    "s": "You might wonder why firms, particularly in finance or technology, insist on locating in the most expensive districts despite exorbitant rents and congestion.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-149|transcript|2",
+    "s": "This clustering is driven by what economists term 'agglomeration benefits.' First, there's the advantage of labor pooling.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-149|transcript|3",
+    "s": "If a firm needs a highly specific skill set, a dense urban center offers a deep reservoir of talent that isn't available elsewhere.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-149|transcript|4",
+    "s": "Secondly, we see significant knowledge spillovers.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-149|transcript|5",
+    "s": "In these hubs, information flows informally—often face-to-face—accelerating innovation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-149|transcript|6",
+    "s": "While the tangible costs of operation are high, these intangible benefits of physical proximity often justify the premium, effectively locking companies into these crowded metropolises.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-150|transcript|0",
+    "s": "Continuing our series on pivotal inventions, today we turn to the mechanical clock.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-150|transcript|1",
+    "s": "Before its emergence in the late 13th century, societies relied on unreliable sundials or water clocks.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-150|transcript|2",
+    "s": "The drive for a purely mechanical solution actually originated in monasteries, where monks needed to adhere to strict prayer schedules regardless of the sun's position.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-150|transcript|3",
+    "s": "These early weight-driven devices were massive and initially lacked dials or hands; instead, they simply struck a bell to signal the hour.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-150|transcript|4",
+    "s": "While they drifted by up to 15 minutes a day, they represented a monumental shift.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-150|transcript|5",
+    "s": "For the first time, humanity began to measure time as an abstract quantity, separating daily life from the natural rhythms of sunrise and sunset.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-101|transcript|0",
+    "s": "Sociologists have long observed how we display social status, famously using the term 'conspicuous consumption' to describe how the wealthy historically flaunted their leisure time as a sign of prestige.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-101|transcript|1",
+    "s": "If you didn't have to work, you were effectively at the top of the hierarchy.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-101|transcript|2",
+    "s": "However, in the contemporary economy, we are witnessing a fascinating reversal.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-101|transcript|3",
+    "s": "Today, a lack of leisure time has become the new status symbol.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-101|transcript|4",
+    "s": "We now observe 'conspicuous busyness,' where high-status individuals signal their importance not by how much free time they possess, but by how little.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-101|transcript|5",
+    "s": "The implication is that if you are incredibly busy, your skills are in high demand, making you a scarce and valuable resource.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-102|transcript|0",
+    "s": "Many assume that human memory functions like a video camera, faithfully recording events as they unfold and archiving them for later playback.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-102|transcript|1",
+    "s": "In reality, psychological research demonstrates that memory is fundamentally reconstructive.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-102|transcript|2",
+    "s": "When we retrieve a memory, we aren't replaying a file; we are actively rebuilding the event from fragmented data points stored across different neural networks.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-102|transcript|3",
+    "s": "Since these fragments are often incomplete, our brains unconsciously fill in the missing pieces with plausible details or current knowledge.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-102|transcript|4",
+    "s": "This reconstructive nature implies that our recollections are susceptible to distortion, which is why eyewitness accounts can sometimes be inaccurate, especially when influenced by external suggestions or subsequent information.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-103|transcript|0",
+    "s": "In the academic world, there is a significant bias toward publishing positive results—experiments that prove a hypothesis correct.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-103|transcript|1",
+    "s": "However, this tendency often overlooks the immense value of negative results.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-103|transcript|2",
+    "s": "When a researcher fails to find a significant link between two variables, or when an experiment does not go as planned, that data is still vital.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-103|transcript|3",
+    "s": "It prevents other scientists from wasting resources repeating the same dead-end paths.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-103|transcript|4",
+    "s": "Furthermore, analyzing why an approach failed often leads to deeper theoretical understanding than a straightforward success would.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-103|transcript|5",
+    "s": "Therefore, encouraging the dissemination of these so-called 'failures' is essential for a more efficient and transparent scientific community, ensuring that the collective knowledge base is comprehensive rather than just selectively successful.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-104|transcript|0",
+    "s": "In contemporary research, we frequently see a drive toward interdisciplinary work, merging fields like computer science and the humanities.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-104|transcript|1",
+    "s": "While this approach is celebrated for generating innovative problem-solving strategies, it introduces a significant friction point: the compatibility of methodologies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-104|transcript|2",
+    "s": "A major issue arises because scholars are conditioned by their specific disciplines to value different types of verification.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-104|transcript|3",
+    "s": "For instance, a quantitative analyst prioritizes statistical robustness, while an ethnographer values subjective narrative depth.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-104|transcript|4",
+    "s": "Therefore, before any actual discovery can occur, these teams must often dedicate substantial time simply to negotiating a common framework for what qualifies as reliable data.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-105|transcript|0",
+    "s": "When we examine the concept of success across different cultures, we see a distinct divergence in priorities.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-105|transcript|1",
+    "s": "In individualistic societies, success is frequently viewed as a personal trajectory—standing out, achieving autonomy, and accumulating accolades.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-105|transcript|2",
+    "s": "Conversely, in many collectivist cultures, the definition shifts.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-105|transcript|3",
+    "s": "Here, success is less about rising above the crowd and more about the ability to fulfill one's role within the social fabric, maintaining harmony, and contributing to the family's standing.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-105|transcript|4",
+    "s": "It’s not that personal achievement is disregarded, but rather that it is validated primarily through the lens of group cohesion.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-105|transcript|5",
+    "s": "Consequently, someone who achieves significant wealth but alienates their community might actually be viewed as unsuccessful in these contexts.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-106|transcript|0",
+    "s": "When we observe high achievers, we typically assume their success stems from innate genius.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_single|goarno-lst_mcq_single-106|transcript|1",
+    "s": "Yet, psychology suggests that 'grit'—a blend of passion and perseverance—is a far more reliable predictor of long-term results.",
+    "p": "P2",
+    "native": true
+  }
+]

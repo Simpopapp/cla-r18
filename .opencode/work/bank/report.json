@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-17",
+  "phase": "Fase 2 — Banco de questões (PRD §6)",
+  "totals": {
+    "questions": 954,
+    "typesWithBank": 22,
+    "typesTotal": 22,
+    "images": 20
+  },
+  "pipeline": {
+    "extractors": [
+      "scripts/bank/extract-goarno.mjs",
+      "scripts/bank/extract-sources.mjs",
+      "scripts/bank/extract-pearson-edknot.mjs",
+      "scripts/bank/extract-reorder.mjs",
+      "scripts/bank/di-facts.mjs"
+    ],
+    "quality": ["scripts/bank/validate.mjs", "scripts/bank/dedupe.mjs", "scripts/bank/integrate.mjs", "scripts/bank/build-manifest.mjs"],
+    "test": "src/test/bank-integrity.test.ts (10 testes, §6.9)"
+  },
+  "sources": "ver .opencode/work/bank/sources.json (7 fontes avaliadas, 7 aprovadas; 2 verificadas — Pearson e OWID; 5 comunitárias)",
+  "filters": [
+    "passagem < 20 palavras descartada (MCQ); sentença fora de 3–20/4–25 descartada (wfd/repeat)",
+    "dropdown com blank < 3 opções descartado (fidelidade: 4 opções oficiais)",
+    "blob > faixa oficial cortado (read_aloud item 50) ou descartado (repeat/wfd)",
+    "dedupe exato por chave + próximo por Dice 0,85 dentro do tipo",
+    "itens com pergunta ausente (páginas multi/listening MCQ) marcados para revisão no trabalho, integrados com question=\"\""
+  ],
+  "honestLabels": {
+    "banco pequeno": ["read_aloud", "repeat_sentence", "retell_lecture", "answer_short", "swt", "read_fib_dropdown", "read_fib_drag", "sst", "lst_fib", "wfd"],
+    "abaixo do ideal": ["describe_image", "sgd", "rts", "write_essay", "read_mcq_multi", "reorder_paragraphs", "read_mcq_single", "lst_mcq_multi", "lst_mcq_single"],
+    "ok": ["lst_hcs", "lst_smw", "lst_hiw"]
+  },
+  "provenanceMix": {
+    "verificada": ["sgd (25)", "rts (27)", "describe_image (20)"],
+    "comunitaria": ["704 goarno", "50 stormedugo", "43 band9 + 36 langacad", "32 edknot", "45+10 reorder"]
+  },
+  "manifest": "src/data/pte/manifest.json (TOTAL_ALL_QUESTIONS = 954, TYPE_META 22/22, contagens derivadas)",
+  "pending": [
+    "sgd: 25 itens (5 do PDF não parsearam — transcript com quebras diferentes); aceitável, banco pequeno",
+    "corroboração cruzada entre fontes comunitárias pendente (recalcula a cada fonte nova)",
+    "dedupe entre tipos distintos NÃO roda por design (perguntas de tipos diferentes não competem)",
+    "aliases.json vazio (nenhuma colisão entre fontes)",
+    "redações-modelo da Language Academy (5) não vinculadas automaticamente"
+  ],
+  "gates": {
+    "vitest": "66/66",
+    "tsgo": "clean",
+    "build": "OK",
+    "lint": "0 erros (6 warnings pré-existentes)"
+  }
+}

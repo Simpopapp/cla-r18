@@ -1,0 +1,482 @@
+[
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[0]|0",
+    "s": "3D printing, or additive manufacturing, starts with designing a 3D model on a computer.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[1]|0",
+    "s": "This model is then sent to a 3D printer, which builds the object layer by layer from the bottom up.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[2]|0",
+    "s": "The printer uses materials such as plastic, metal, or resin, which it deposits in thin layers and then fuses together, typically using heat.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[3]|0",
+    "s": "Each layer corresponds to a cross-section of the final object.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[4]|0",
+    "s": "This process allows for the creation of complex and customized items that would be difficult to produce with traditional manufacturing methods.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[0]|0",
+    "s": "The French Revolution began in 1789, triggered by deep social and economic inequalities and discontent with the monarchy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[1]|0",
+    "s": "It led to the rise of the French Republic and significant changes in French society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[2]|0",
+    "s": "The Revolution saw the overthrow of the monarchy, the establishment of a republic, and drastic and violent shifts in power.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[3]|0",
+    "s": "The infamous Reign of Terror, marked by mass executions, was a significant phase of the Revolution.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[4]|0",
+    "s": "The French Revolution had a profound influence on modern political ideologies and the development of democratic principles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[0]|0",
+    "s": "Solar panels convert sunlight into electricity through a process called photovoltaic (PV) conversion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[1]|0",
+    "s": "First, solar panels, which are made of semiconductor materials, absorb sunlight.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[2]|0",
+    "s": "The sunlight’s energy then frees electrons in the material, creating an electrical current.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[3]|0",
+    "s": "This current is captured by wiring in the panels and is then converted from direct current (DC) to alternating current (AC) using an inverter.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[4]|0",
+    "s": "The AC electricity is then usable in homes or businesses, or can be fed back into the power grid.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[0]|0",
+    "s": "Glass making begins with mixing sand (silicon dioxide) with soda ash and limestone.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[1]|0",
+    "s": "This mixture is then heated to a very high temperature in a furnace until it melts and becomes liquid.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[2]|0",
+    "s": "The molten glass is then poured into molds or floated on a bed of molten tin to form sheets.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[3]|0",
+    "s": "Once shaped, the glass is slowly cooled in a process called annealing, which prevents it from becoming too brittle.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[4]|0",
+    "s": "After cooling, the glass can be cut to size and further processed, such as by adding coatings or treatments to enhance strength or reduce glare.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[0]|0",
+    "s": "Researchers at EcoPack Solutions are working on developing new bio-degradable packaging materials from plant-based polymers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[1]|0",
+    "s": "Their process involves extracting cellulose from agricultural waste, which is then treated with enzymes to produce a flexible, durable material.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[2]|0",
+    "s": "The team conducts various tests to evaluate the material's decomposition rate, resilience, and safety for food contact.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[3]|0",
+    "s": "Success in this area could significantly reduce reliance on conventional plastics and the environmental damage they cause.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[4]|0",
+    "s": "The company aims to commercialize their bio-degradable packaging within the next three years, offering a sustainable alternative to industries.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|0",
+    "s": "The increase in global temperatures has led to more frequent and severe weather events, posing a significant threat to ecosystems and human societies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|1",
+    "s": "One of the major impacts of climate change is the rise in sea levels, which results from the melting of polar ice caps and glaciers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|2",
+    "s": "Coastal areas are particularly vulnerable, as they face higher risks of flooding, storm surges, and erosion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|3",
+    "s": "Additionally, the warming atmosphere can hold more moisture, leading to intense and unpredictable precipitation patterns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|4",
+    "s": "This variability can cause both severe droughts and devastating floods, affecting agricultural productivity and water resources.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|5",
+    "s": "The effects of climate change are widespread, influencing not only the environment but also the socio-economic stability of communities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|6",
+    "s": "For example, changing weather patterns can disrupt food supply chains, increase the prevalence of diseases, and force people to migrate from their homes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|7",
+    "s": "To mitigate these effects, countries are investing in adaptive infrastructure, developing early warning systems, and implementing policies to reduce greenhouse gas emissions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|8",
+    "s": "The collaboration between governments, scientists, and communities is crucial to building resilience against the adverse impacts of climate change.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|text|9",
+    "s": "By taking proactive measures, societies can better prepare for the challenges posed by a changing climate and work towards a more sustainable future.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|0",
+    "s": "The rise of artificial intelligence (AI) and automation is transforming industries and reshaping the job market, sparking both optimism and concern about the future of work.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|1",
+    "s": "Proponents argue that AI has the potential to increase efficiency, reduce costs, and spur innovation across various sectors, from healthcare and finance to manufacturing and transportation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|10",
+    "s": "Issues such as data privacy, algorithmic bias, and the potential for misuse of AI technology need to be addressed to ensure that AI developments align with societal values and norms.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|11",
+    "s": "Governments and organizations are working towards establishing frameworks and guidelines to promote responsible AI use.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|12",
+    "s": "As the integration of AI continues to accelerate, a balanced approach that maximizes benefits while mitigating risks will be essential to harnessing the full potential of this transformative technology.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|2",
+    "s": "\"AI is the next frontier of technological advancement, offering unprecedented opportunities for growth and development,\" said Sundar Pichai, CEO of Alphabet Inc.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|3",
+    "s": "AI-driven technologies are being used to enhance decision-making, streamline operations, and improve customer experiences.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|4",
+    "s": "However, the rapid adoption of AI and automation also raises significant challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|5",
+    "s": "There are widespread fears about job displacement, as machines and algorithms can perform tasks previously done by humans.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|6",
+    "s": "A report by the World Economic Forum estimates that by 2025, automation could displace 85 million jobs globally, while also creating 97 million new roles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|7",
+    "s": "This transition necessitates a focus on reskilling and upskilling the workforce to prepare for new job demands.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|8",
+    "s": "Educational institutions and businesses are increasingly investing in training programs to equip workers with the necessary skills to thrive in an AI-driven economy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|text|9",
+    "s": "Ethical considerations and regulatory concerns also play a critical role in the AI discourse.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|0",
+    "s": "The rise of remote work has been one of the most significant shifts in the labor market in recent years.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|1",
+    "s": "With advancements in technology and changing attitudes towards work-life balance, many companies have adopted flexible working arrangements.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|10",
+    "s": "Providing support for mental health and well-being is also crucial in maintaining a healthy and productive remote workforce.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|11",
+    "s": "The future of work is likely to be a blend of remote and in-person arrangements, reflecting the diverse needs and preferences of the modern workforce.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|2",
+    "s": "This trend was accelerated by the COVID-19 pandemic, which forced businesses worldwide to transition to remote operations almost overnight.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|3",
+    "s": "The ability to work from anywhere has opened up new opportunities for employees and employers alike, providing greater flexibility and access to a global talent pool.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|4",
+    "s": "However, the remote work model also presents several challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|5",
+    "s": "One of the main issues is maintaining productivity and communication among team members who are dispersed across different locations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|6",
+    "s": "Companies have had to invest in digital collaboration tools and develop new management strategies to ensure that work is completed efficiently and on time.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|7",
+    "s": "Additionally, the blurring of boundaries between work and personal life can lead to burnout, as employees may struggle to disconnect from their jobs outside of regular working hours.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|8",
+    "s": "As businesses and employees adapt to this new way of working, it is essential to find a balance that maximizes the benefits while addressing the challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|text|9",
+    "s": "Companies are experimenting with hybrid models that combine remote work with in-office days to foster team cohesion and collaboration.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|text|0",
+    "s": "The discovery of CRISPR-Cas9 has revolutionized the field of genetics, providing scientists with a powerful tool for editing genes with unprecedented precision.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|text|1",
+    "s": "This technology allows for the targeted modification of DNA, enabling researchers to correct genetic defects, study gene function, and develop new therapies for a range of diseases.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|text|2",
+    "s": "The potential applications of CRISPR are vast, including the treatment of genetic disorders such as cystic fibrosis and sickle cell anemia, as well as the enhancement of agricultural crops for better yield and disease resistance.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|text|3",
+    "s": "Despite its promise, the use of CRISPR also raises ethical questions and concerns about unintended consequences.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|text|4",
+    "s": "The possibility of off-target effects, where unintended parts of the genome are edited, poses risks to safety.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|text|5",
+    "s": "Furthermore, the prospect of gene editing in human embryos brings up debates about the moral implications and the potential for creating \"designer babies.\" These concerns highlight the need for rigorous scientific research and ethical considerations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|text|6",
+    "s": "As the technology advances, it is crucial to establish clear ethical guidelines and regulatory oversight to ensure that CRISPR is used responsibly and for the benefit of society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|text|7",
+    "s": "Engaging in public discourse and involving a broad range of stakeholders, including ethicists, policymakers, and the general public, will help navigate the complexities and ensure that the benefits of CRISPR are realized without compromising ethical standards.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|0",
+    "s": "The concept of the gig economy has gained significant traction over the past decade, fundamentally altering the traditional employment landscape.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|1",
+    "s": "Characterized by short-term contracts or freelance work, the gig economy offers flexibility and independence to workers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|10",
+    "s": "These platforms often operate across multiple jurisdictions, making regulation complex.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|11",
+    "s": "As the gig economy continues to grow, finding a balance between flexibility for workers and fair labor practices remains a critical challenge.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|12",
+    "s": "Ensuring that gig workers have access to essential benefits and protections is crucial for the sustainable development of this economic model.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|2",
+    "s": "Companies benefit from reduced labor costs and access to a broader talent pool.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|3",
+    "s": "However, this shift also presents challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|4",
+    "s": "Gig workers often face job insecurity, lack of benefits, and income instability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|5",
+    "s": "The absence of employer-provided health insurance, retirement plans, and paid leave places a significant burden on these workers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|6",
+    "s": "Moreover, the gig economy blurs the line between employment and entrepreneurship, complicating tax regulations and worker protections.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|7",
+    "s": "Regulators and policymakers are grappling with how to address these issues.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|text|8",
+    "s": "Some countries have introduced laws to provide basic protections and benefits for gig workers, while others debate whether these workers should be classified as employees or independent contractors.",
+    "p": "P1",
+    "native": false
+  }
+]

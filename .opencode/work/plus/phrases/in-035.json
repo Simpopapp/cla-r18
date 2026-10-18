@@ -1,0 +1,482 @@
+[
+  {
+    "k": "lst_hcs|goarno-lst_hcs-142|transcript|1",
+    "s": "In the early 1800s, books intended for young readers were largely didactic, designed principally to impart moral lessons, religious values, or strict behavioral codes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-142|transcript|2",
+    "s": "Essentially, the narrative was secondary to the message.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-142|transcript|3",
+    "s": "However, as the Victorian period advanced, a transition took place, ushering in what is frequently termed the 'Golden Age' of children's literature.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-142|transcript|4",
+    "s": "The release of Lewis Carroll’s Alice’s Adventures in Wonderland in the 1860s marks a pivotal point in this development.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-142|transcript|5",
+    "s": "Literature began to detach from the rigid necessity of preaching to the child, instead embracing fantasy, nonsense, and playfulness.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-142|transcript|6",
+    "s": "While instructional tales did not vanish, the monopoly of utilitarian texts was dismantled, creating space for stories that valued the child’s imagination and the enjoyment of reading over simple moral instruction.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-143|transcript|0",
+    "s": "For much of the 19th century, the prestige format for fiction in Britain was the so-called 'three-decker'—a novel split into three substantial volumes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-143|transcript|1",
+    "s": "The standard price for a set was exorbitant, often amounting to an entire week's wages for a skilled worker, which naturally restricted direct sales.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-143|transcript|2",
+    "s": "However, this high price point was actually sustained by a specific ecosystem: the circulating library.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-143|transcript|3",
+    "s": "Institutions like Mudie’s Select Library bought these expensive volumes in bulk and lent them to subscribers for a modest annual fee.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-143|transcript|4",
+    "s": "This arrangement gave library owners like Charles Mudie immense leverage over the literary marketplace.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-143|transcript|5",
+    "s": "To secure a lucrative order from Mudie, publishers often forced authors to stretch their plots to fill three volumes, leading to somewhat 'padded' narratives.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-143|transcript|6",
+    "s": "Furthermore, authors had to sanitize their themes to satisfy the library's strict demand for morally unobjectionable, family-friendly reading material.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-144|transcript|0",
+    "s": "When we examine the consumption of fiction in the mid-19th century, we find that for the middle classes, the primary mode of access was not purchase, but borrowing through circulating libraries, most notably Mudie’s Select Library.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-144|transcript|1",
+    "s": "Charles Mudie wielded immense influence over the publishing industry simply because he purchased books in such massive quantities.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-144|transcript|2",
+    "s": "He could essentially dictate the format to publishers, and his preferred format was the 'three-decker,' or three-volume novel.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-144|transcript|3",
+    "s": "The rationale was commercially driven: by splitting a single title into three separate physical volumes, the library could circulate parts of the same novel to three different subscribers at once, maximizing the utility of their stock.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-144|transcript|4",
+    "s": "This economic model had a tangible impact on literary content.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-144|transcript|5",
+    "s": "Authors were frequently pressured to stretch their narratives or invent superfluous subplots—often called 'padding'—merely to fill the requisite pages.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-144|transcript|6",
+    "s": "Thus, the sprawling structure of many Victorian novels was often a result of the commercial requirements of the lending library system rather than purely artistic choices.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-145|transcript|0",
+    "s": "When we consider the reading habits of the 19th century, we often picture a quiet study or a private library.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-145|transcript|1",
+    "s": "However, the rapid expansion of the railway network in the 1840s and 50s radically altered this landscape by creating a captive audience of travelers.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-145|transcript|2",
+    "s": "Suddenly, people had hours to fill on long journeys and required portable entertainment.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-145|transcript|3",
+    "s": "This led to the emergence of the 'railway library' and the phenomenon of the 'yellowback.' These were cheap editions of popular novels, distinctively bound in bright yellow glazed boards that were designed to stand out on the bustling newsstands of railway stations.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-145|transcript|4",
+    "s": "Unlike the expensive, multi-volume sets meant for home display, yellowbacks were created to be bought on impulse, read amidst the noise and smoke of the train, and were often treated as disposable.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-145|transcript|5",
+    "s": "This shift didn't just increase book sales; it fundamentally changed the nature of consumption.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-145|transcript|6",
+    "s": "Literature became a travel companion, a casual distraction for the masses on the move, rather than solely a serious intellectual pursuit reserved for the elite in their parlors.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-146|transcript|0",
+    "s": "An often overlooked aspect of the modern automotive revolution is the lifecycle of the power source itself.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-146|transcript|1",
+    "s": "While the headline goal is replacing internal combustion engines to eliminate exhaust fumes, the rapid adoption of electric vehicles, or EVs, introduces a complex challenge regarding battery sustainability.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-146|transcript|2",
+    "s": "These massive battery packs are chemically complex, relying on finite resources such as lithium and cobalt, the extraction of which carries a significant carbon footprint.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-146|transcript|3",
+    "s": "The industry is currently grappling with what happens when these vehicles reach the end of their road.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-146|transcript|4",
+    "s": "Simply landfilling old batteries is hazardous and wasteful.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-146|transcript|5",
+    "s": "Thus, the pressing objective now is to develop a robust infrastructure for battery recycling—essentially a 'circular economy' where valuable materials are recovered and reused in new cells.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-146|transcript|6",
+    "s": "Unless we close the loop on battery production and disposal, the environmental benefits of the electric switch could be severely undermined by the waste generated by the technology itself.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-147|transcript|0",
+    "s": "If we look at the trajectory of children's literature in Britain during the 19th century, we see a profound transformation in purpose and tone.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-147|transcript|1",
+    "s": "At the beginning of the century, books for children were largely didactic tools.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-147|transcript|2",
+    "s": "They were steeped in the rationalist or religious traditions of the era, designed explicitly to instill moral values, obedience, and proper behavior.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-147|transcript|3",
+    "s": "The concept of reading purely for amusement was viewed with suspicion by many educators and parents, who felt that literature should serve a constructive educational function.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-147|transcript|4",
+    "s": "However, as we move into the mid-Victorian period, traditionally termed the 'Golden Age' of children's literature, a distinct shift occurs.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-147|transcript|5",
+    "s": "Authors began to abandon the heavy-handed moralizing of the past in favor of fantasy, nonsense, and imagination.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-147|transcript|6",
+    "s": "The publication of works like Alice’s Adventures in Wonderland marked a turning point where the narrative didn't need a clear ethical lesson; it could simply be a playful exploration of a child's perspective.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-147|transcript|7",
+    "s": "This literary evolution mirrored a broader societal change in how childhood itself was perceived—no longer just a training ground for adulthood, but a distinct, cherished stage of life characterized by innocence and the right to play.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-148|transcript|0",
+    "s": "The expansion of the railway network in the mid-19th century did more than just speed up travel; it fundamentally transformed the reading habits of the British public.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-148|transcript|1",
+    "s": "Prior to the rail boom, travel was often too bumpy or chaotic for reading, but the relative smoothness of the train carriage created a new block of idle time—hours that needed to be filled.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-148|transcript|2",
+    "s": "To meet this specific need, the 'railway library' was born.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-148|transcript|3",
+    "s": "Entrepreneurs secured exclusive rights to sell books at stations, but they realized that the standard three-volume novels of the aristocracy were ill-suited for travelers.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-148|transcript|4",
+    "s": "They were too expensive and too cumbersome to carry.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-148|transcript|5",
+    "s": "In response, publishers developed a new format known as 'Yellowbacks.' These were inexpensive reprints or new sensation novels bound in straw-colored boards with striking, often garish illustrations on the cover designed to catch the eye of a rushing commuter.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-148|transcript|6",
+    "s": "Unlike the grim educational texts or the expensive leather-bound volumes of the past, Yellowbacks were purely for entertainment, sold for a shilling or two.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-148|transcript|7",
+    "s": "This innovation not only made literature portable but also solidified the idea of reading as a leisure activity for the middle classes, effectively paving the way for the modern paperback industry.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-149|transcript|0",
+    "s": "One of the most compelling frameworks in criminology is the interactionist perspective, specifically known as labeling theory.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-149|transcript|1",
+    "s": "Unlike traditional theories that ask why an individual breaks the rules, this approach examines the consequences of applying rules and sanctions to an 'offender.' The core argument is that deviance is not a quality of the act the person commits, but rather a consequence of the application of rules by others.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-149|transcript|2",
+    "s": "We distinguish between primary deviance—say, a momentary lapse in judgment or a minor rule-breaking act—and secondary deviance.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-149|transcript|3",
+    "s": "Primary deviance usually has little effect on a person's self-concept.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-149|transcript|4",
+    "s": "However, if the community or legal system reacts strongly, publicly labeling the individual as a 'criminal' or 'deviant,' the individual may accept this label as their master status.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-149|transcript|5",
+    "s": "Consequently, they reorganize their life and identity around this label, leading to secondary deviance.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-149|transcript|6",
+    "s": "In this view, social control agents, like police or courts, can ironically amplify deviance by stigmatizing individuals, pushing them further into the margins of society rather than reintegrating them.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|0",
+    "s": "When we look at the periodic table, it is fascinating to trace the origins of the atoms that make up our world.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|1",
+    "s": "The early universe, moments after the Big Bang, consisted almost entirely of hydrogen and helium, the simplest elements.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|2",
+    "s": "There was practically nothing else.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|3",
+    "s": "So, where did the carbon in our cells, the calcium in our bones, or the iron in our blood come from?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|4",
+    "s": "The answer lies in the fiery cores of stars.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|5",
+    "s": "For billions of years, stars function as cosmic factories, fusing simple atoms into heavier ones through nuclear fusion.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|6",
+    "s": "However, ordinary stellar fusion can generally only create elements up to iron.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|7",
+    "s": "To generate anything heavier, or to disperse these materials into space where they can coalesce into rocky planets and living organisms, a cataclysmic event is required: a supernova.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|8",
+    "s": "When a massive star collapses and explodes, it not only creates heavier elements like gold and uranium but also blasts this enriched debris across the galaxy.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hcs|goarno-lst_hcs-150|transcript|9",
+    "s": "Essentially, the violent death of stars is a prerequisite for biological existence; we are, in a very real sense, made of stardust.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|spoken|0",
+    "s": "Effective learning in higher education relies heavily on the continuous feedback loop between instructors and students.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|spoken|1",
+    "s": "While numerical grades provide a quick snapshot of performance, they often fail to communicate specific areas for improvement or detailed guidance.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|spoken|2",
+    "s": "Constructive commentary allows students to clearly identify their weaknesses and adjust their study strategies accordingly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|spoken|3",
+    "s": "However, for this process to be truly successful, students must be willing to actively engage with the criticism rather than simply looking at the final score.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-101|spoken|4",
+    "s": "Unfortunately, many learners view assessment purely as a bureaucratic hurdle to overcome, ignoring the valuable insights that could significantly enhance their future academic endeavors.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|spoken|0",
+    "s": "Effective learning in higher education relies heavily on the quality of feedback students receive on their assignments.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|spoken|1",
+    "s": "It is not sufficient to simply grade a paper and move on; instructors must provide constructive comments that highlight specific strengths and weaknesses.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|spoken|2",
+    "s": "This ongoing dialogue allows students to understand where their reasoning may be flawed or where their arguments lack adequate evidence.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|spoken|3",
+    "s": "Without this crucial guidance, learners often struggle to improve their academic performance significantly over time.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-102|spoken|4",
+    "s": "Consequently, many universities are now prioritizing specialized training for staff to ensure they can deliver assessments that truly foster intellectual growth rather than merely measuring a student's current ability.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|spoken|0",
+    "s": "Many students discover that the most beneficial aspect of their university journey actually happens outside the lecture hall.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|spoken|1",
+    "s": "Joining student organizations provides a unique opportunity to broaden one's horizons beyond the standard curriculum.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_hiw|goarno-lst_hiw-103|spoken|2",
+    "s": "It is not merely about pursuing a fun hobby; it is fundamentally about building a robust support network.",
+    "p": "P2",
+    "native": true
+  }
+]

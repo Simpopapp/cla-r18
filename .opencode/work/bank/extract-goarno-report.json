@@ -1,0 +1,20 @@
+{
+ "source": "goarno.io",
+ "extractedAt": "2026-10-17T14:24:22.409Z",
+ "types": {
+  "read_mcq_single": 50,
+  "read_mcq_multi": 50,
+  "lst_mcq_single": 50,
+  "lst_mcq_multi": 50,
+  "lst_hcs": 50,
+  "lst_hiw": 50,
+  "lst_smw": 50,
+  "lst_fib": 50,
+  "read_fib_dropdown": 29,
+  "read_fib_drag": 50,
+  "sst": 50,
+  "swt": 50,
+  "repeat_sentence": 49,
+  "wfd": 48
+ }
+}

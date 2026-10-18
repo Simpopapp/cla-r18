@@ -1,0 +1,482 @@
+[
+  {
+    "k": "write_essay|band9-write_essay-007|sample|13",
+    "s": "Educational institutions adopting blended evaluation methods will better prepare students for diverse future demands.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-007|sample|2",
+    "s": "This essay will argue that written tests should form only part of assessment strategies.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-007|sample|3",
+    "s": "Firstly, written exams provide measurable consistency across large student cohorts.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-007|sample|4",
+    "s": "Standardised testing allows fair comparison of academic performance through identical questions and marking criteria.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-007|sample|5",
+    "s": "For instance, GCSE examinations in the UK demonstrate how written assessments create nationally comparable results.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-007|sample|6",
+    "s": "However, this approach primarily evaluates information retention under timed conditions rather than practical application of knowledge, which limits its effectiveness.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-007|sample|7",
+    "s": "Furthermore, formal examinations fail to assess crucial skills required in modern workplaces.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-007|sample|8",
+    "s": "Many professions value problem-solving abilities and creativity more than memorisation, yet traditional tests rarely measure these competencies.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-007|sample|9",
+    "s": "Nursing education exemplifies this discrepancy – while written exams test medical theory, clinical placements better evaluate practical patient care skills.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|0",
+    "s": "The shift from printed textbooks to digital learning materials in universities has become increasingly common.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|1",
+    "s": "While this transition offers clear benefits related to accessibility and cost, it also raises concerns about academic focus and technological reliability.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|10",
+    "s": "A 2023 University of Melbourne study demonstrated that students using tablets scored 12% lower on retention tests compared to textbook users.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|11",
+    "s": "Additionally, technological failures could disrupt learning – server outages during exam periods at Sydney University in 2022 left thousands unable to access critical materials.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|12",
+    "s": "In conclusion, while digital media improves accessibility and affordability in education, institutions must address its potential to distract students and depend on unstable infrastructure.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|13",
+    "s": "A balanced approach combining curated digital resources with essential printed materials may optimise learning outcomes while mitigating risks associated with full digital conversion.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|2",
+    "s": "This essay will examine both perspectives before reaching a balanced conclusion.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|3",
+    "s": "One significant advantage is enhanced accessibility.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|4",
+    "s": "Digital resources can be accessed instantly on laptops, tablets, or smartphones, eliminating the need to carry heavy books.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|5",
+    "s": "For instance, medical students at Johns Hopkins University now use interactive 3D anatomy models that allow zooming and rotation – features impossible in static textbooks.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|6",
+    "s": "Furthermore, digital materials are often more cost-effective.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|7",
+    "s": "Open educational resources like MIT OpenCourseWare provide free, comprehensive course materials, reducing financial burdens for students.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|8",
+    "s": "However, over-reliance on digital media presents notable drawbacks.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-008|sample|9",
+    "s": "Screen-based learning may lead to distractions from social media notifications or unrelated websites, potentially reducing study efficiency.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|0",
+    "s": "The inclusion of historical plays in school curricula generates debate regarding its educational value.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|1",
+    "s": "While studying centuries-old theatre offers cultural insights, it also presents challenges in modern pedagogy.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|10",
+    "s": "Furthermore, excessive focus on historical works might limit exposure to contemporary issues.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|11",
+    "s": "Valuable classroom time spent analysing Restoration comedy conventions could alternatively address modern themes like digital citizenship or environmental ethics.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|12",
+    "s": "In conclusion, while classical theatre studies preserve cultural heritage and develop analytical skills, their pedagogical effectiveness depends on balanced implementation.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|13",
+    "s": "Schools should curate selections that demonstrate historical relevance while allocating equal time to modern drama.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|14",
+    "s": "This dual approach would equip students with both literary appreciation and skills to interpret current societal narratives.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|2",
+    "s": "This essay will examine both perspectives to assess their validity.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|3",
+    "s": "Firstly, classical drama provides a window into historical societal norms and linguistic evolution.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|4",
+    "s": "For instance, analysing Shakespearean works like Macbeth helps students understand Elizabethan values regarding ambition and power structures.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|5",
+    "s": "Such studies also enhance critical thinking through interpreting complex themes like fate versus free will in Sophocles' Oedipus Rex.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|6",
+    "s": "These plays serve as foundational texts that demonstrate the universality of human experiences across eras.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|7",
+    "s": "However, significant drawbacks emerge when implementing this approach.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|8",
+    "s": "Many students struggle to engage with archaic language and outdated social contexts, potentially fostering disengagement.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-009|sample|9",
+    "s": "A 2022 Australian education study revealed that 68% of Year 10 students found Chaucer's Middle English texts inaccessible without excessive guidance.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|0",
+    "s": "The debate between experiential learning and traditional classroom education remains significant in pedagogical discussions.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|1",
+    "s": "While academic instruction provides foundational theoretical knowledge, hands-on experiences through internships and fieldwork offer superior practical preparation.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|10",
+    "s": "Educational institutions should therefore prioritise integrating internships and fieldwork into curricula, ensuring graduates possess both theoretical understanding and practical expertise to navigate evolving professional landscapes.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|2",
+    "s": "This essay argues that experiential learning holds greater value in developing workplace readiness and problem-solving abilities.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|3",
+    "s": "Experiential learning effectively bridges the gap between theoretical concepts and real-world application.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|4",
+    "s": "For instance, medical students undertaking clinical rotations demonstrate enhanced diagnostic skills compared to peers limited to textbook study.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|5",
+    "s": "This immersion in professional environments allows learners to synthesise information dynamically, adapting knowledge to unpredictable situations that mirror actual workplace challenges.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|6",
+    "s": "Furthermore, practical training cultivates essential soft skills that lecture-based education often neglects.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|7",
+    "s": "A 2022 study by the University of Melbourne revealed that engineering students completing industry placements developed 40% stronger communication and teamwork competencies than those solely engaged in laboratory sessions.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|8",
+    "s": "These interpersonal abilities prove critical for career advancement, particularly in collaborative modern industries.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-010|sample|9",
+    "s": "In conclusion, while classroom education remains vital for establishing core principles, experiential learning provides irreplaceable skill development opportunities.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|0",
+    "s": "Exposure to different cultures through travel provides unparalleled educational value for young people.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|1",
+    "s": "I strongly agree that exploring diverse environments offers more effective learning than classroom-based education alone, as it develops cultural understanding and practical life skills.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|10",
+    "s": "In conclusion, travel serves as a powerful educational tool by combining cultural immersion with skill development.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|11",
+    "s": "While traditional schooling remains important, real-world exposure prepares youth for global citizenship more effectively.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|12",
+    "s": "Governments and educational institutions should therefore prioritise exchange programmes to maximise these benefits for future generations.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|2",
+    "s": "Firstly, travel enables immersive learning that textbooks cannot replicate.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|3",
+    "s": "When students visit historical sites like the Colosseum in Rome or interact with indigenous communities in Australia, they gain firsthand perspective about global heritage.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|4",
+    "s": "For instance, Japanese students visiting Hiroshima Peace Memorial Park typically demonstrate deeper understanding of wartime consequences than peers studying through documents.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|5",
+    "s": "This direct engagement fosters critical thinking and long-term knowledge retention.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|6",
+    "s": "Furthermore, international travel cultivates essential interpersonal skills.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|7",
+    "s": "Navigating foreign transport systems or communicating across language barriers requires adaptability and problem-solving.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|8",
+    "s": "A British student volunteering in Kenyan wildlife conservation projects, for example, would develop resilience while learning about ecological balance.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-011|sample|9",
+    "s": "Such experiences build emotional intelligence and independence that formal education often overlooks.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|0",
+    "s": "The integration of technology in educational settings has become ubiquitous in recent years.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|1",
+    "s": "While this development offers significant benefits such as personalised learning and global resource access, it also presents challenges including reduced human interaction and potential over-reliance.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|10",
+    "s": "Moreover, the ease of accessing pre-made solutions through tools like ChatGPT could encourage academic dishonesty and superficial understanding of concepts.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|11",
+    "s": "In conclusion, while technology undeniably enriches education through customisation and resource availability, its implementation requires careful regulation.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|12",
+    "s": "Schools must prioritise balanced approaches that preserve essential human elements of teaching.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|13",
+    "s": "With proper safeguards, educational technology can serve as a powerful supplement rather than a replacement for conventional methods.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|2",
+    "s": "This essay will examine both perspectives before reaching a balanced conclusion.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|3",
+    "s": "One major advantage lies in enhanced learning opportunities through adaptive technologies.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|4",
+    "s": "Educational platforms now use artificial intelligence to tailor content to individual student needs, allowing learners to progress at their optimal pace.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|5",
+    "s": "For instance, language learning applications like Duolingo adjust difficulty levels based on user performance, demonstrating improved retention rates.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|6",
+    "s": "Furthermore, technology grants access to a myriad of global resources, from virtual museum tours to academic databases, which were previously inaccessible to many students.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|7",
+    "s": "However, excessive technological dependence carries notable risks.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|8",
+    "s": "Reduced face-to-face interaction in digital classrooms may hinder the development of crucial social skills, particularly in younger students.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-012|sample|9",
+    "s": "A 2023 Cambridge University study revealed that children using tablets for over 4 hours daily showed 18% lower collaboration abilities than peers in traditional classrooms.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-013|sample|0",
+    "s": "The increasing integration of artificial intelligence in educational systems presents both significant opportunities and challenges.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-013|sample|1",
+    "s": "While AI enhances learning efficiency and accessibility, it also raises concerns about reduced human interaction and data security.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-013|sample|10",
+    "s": "These incidents highlight how technological dependence could undermine academic integrity and personal security if unregulated.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-013|sample|11",
+    "s": "In conclusion, while AI improves educational accessibility and efficiency through adaptive tools, institutions must address its potential to encourage intellectual complacency and privacy violations.",
+    "p": "P3",
+    "native": false
+  }
+]

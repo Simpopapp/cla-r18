@@ -1,0 +1,569 @@
+{
+ "version": 1,
+ "pairs": [
+  {
+   "key": "f228f10ceb82941af8d88c0eb6a0d3a674972c8d",
+   "matched": "cand-73",
+   "source": "sumlingo.com",
+   "sim": 0.875
+  },
+  {
+   "key": "700b6bb86a69beab0ec9b30f1e06e63b3f2999f0",
+   "matched": "cand-70",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "fff6bf18aa6fed6e2b48d00ee7a1bdde03fb6097",
+   "matched": "cand-78",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "d8f05981ab5d92f7b6eac7267bb648ddb0a18826",
+   "matched": "cand-97",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "205b19f9e3e043e28d251d544ac770d013898ebd",
+   "matched": "cand-117",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "e5b9cb94c220eb500813881ef4958e11d91b3022",
+   "matched": "cand-118",
+   "source": "www.ptesprinters.com",
+   "sim": 0.875
+  },
+  {
+   "key": "6a28b813f1f261df8c740db875650a6a6ac2ff84",
+   "matched": "cand-121",
+   "source": "www.ptesprinters.com",
+   "sim": 0.889
+  },
+  {
+   "key": "6307f5bce04f2bc6c0b930712b2a22c20329e2f1",
+   "matched": "cand-143",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "a5483c05dc5f67cd782b013817827564848fa59f",
+   "matched": "cand-153",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "e8f3ae88e603fda62fcc2e9c8ad653e62b1a9b7e",
+   "matched": "cand-155",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "268e59515939550c72dc4e2c91475af1980ba057",
+   "matched": "cand-162",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "50096596b99b26bcc341fd52cd54e2947fa35a9c",
+   "matched": "cand-164",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "1ace9d8640f33dac4b2f1cbfdacd0dbb79a8c580",
+   "matched": "cand-167",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "f1d8e44591983d2a9863048814ae7c7c5f0d06ac",
+   "matched": "cand-185",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "f46f63f30aef949b0122ec6eb750b5f15d21164a",
+   "matched": "cand-186",
+   "source": "www.ptesprinters.com",
+   "sim": 1
+  },
+  {
+   "key": "a0f8d7ff311210ddb9eb3a33dbea668a322e1de0",
+   "matched": "goarno-read_fib_dropdown-001",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "1a661daba5006c0903617dfbb861bc144f371029",
+   "matched": "goarno-read_fib_dropdown-002",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "0927e010da72ded28837d982eb53ca09d25bc6ac",
+   "matched": "goarno-read_fib_dropdown-003",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "e7b926cf9eef9332e5d0fdc815399b57f0afbaf4",
+   "matched": "goarno-read_fib_dropdown-004",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "b2cdaedf44303000695a2f1ddc2e4c33a43ab9f3",
+   "matched": "goarno-read_fib_dropdown-005",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "7ccc4acf77acc2fd101d963d674efbd37fb800d3",
+   "matched": "goarno-read_fib_dropdown-006",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "89d70c90c8206303b5370d388f7cbe51a0f12256",
+   "matched": "goarno-read_fib_dropdown-007",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "887f5596cea71434d098a77d466791cb62ce25fa",
+   "matched": "goarno-read_fib_dropdown-008",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "fcebaee22fd788270f18fefe7c8e41a831e12726",
+   "matched": "goarno-read_fib_dropdown-009",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "da36ef012555b6c7efe6cfb5f081a4c0985d19fb",
+   "matched": "goarno-read_fib_dropdown-010",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "10e53744a2b171ee0cf151bbdad9475d89059543",
+   "matched": "goarno-read_fib_dropdown-011",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "b3db38391f90e135427a7be80458e74a7473c4a9",
+   "matched": "goarno-read_fib_dropdown-012",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "c017e4edefbff7e5d5729d99c925e4e613d0dbc5",
+   "matched": "goarno-read_fib_dropdown-013",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "8314bac85d797394291c1acb4aa03b66e814c238",
+   "matched": "goarno-read_fib_dropdown-014",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "f0aa5154f942fcbc169f7264425bbd9c33c97ead",
+   "matched": "goarno-read_fib_dropdown-015",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "ec991598ceacbc67cbb7b2ce2e1a25f6b4f85e25",
+   "matched": "goarno-read_fib_dropdown-016",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "34c142c11afa46a7e8bf8259aa2379c234a64d79",
+   "matched": "goarno-read_fib_dropdown-017",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "7a36f28e817f0cfdb738771007bab00ce6f75c07",
+   "matched": "goarno-read_fib_dropdown-018",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "a9c06b7d98169fd7c277a06aa3cbb45727c5f721",
+   "matched": "goarno-read_fib_dropdown-019",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "e9ddbf8457998e333a2a413b0ac38e6ad991336c",
+   "matched": "goarno-read_fib_dropdown-020",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "b628313bd5fd01defe9bcf322b87a6a3f5a0e7e9",
+   "matched": "goarno-read_fib_dropdown-021",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "fa943744b77f364a22412c7e4c827b7567028988",
+   "matched": "goarno-read_fib_dropdown-022",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "bf6e1c5f8161ea8dd60937b3ad1f70c58a85f70b",
+   "matched": "goarno-read_fib_dropdown-023",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "1e2e80192b63d9703bb126efe49f5784c9952ee5",
+   "matched": "goarno-read_fib_dropdown-024",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "4b7433cc6a3fa6380c79581cdb5f8bf27971e97d",
+   "matched": "goarno-read_fib_dropdown-025",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "bbf2930550b0f376eff482405c88e8a5057d3f66",
+   "matched": "goarno-read_fib_dropdown-026",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "603990f309eb34a33ef2b9cdf72cddc38fcf65eb",
+   "matched": "goarno-read_fib_dropdown-027",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "fba13a8c9bde79acff2ceecdf0d3006003e8cdd0",
+   "matched": "goarno-read_fib_dropdown-028",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "bf61dce0370f5631daae3be6df2e86740eaf54b9",
+   "matched": "goarno-read_fib_dropdown-029",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "6b72a4cdfb001e0ace1a4866d54f845174a144e3",
+   "matched": "goarno-read_mcq_single-101",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "621f59f9dc2d43b33f1d5fc5834901b9c2e073a8",
+   "matched": "goarno-read_mcq_single-102",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "0c5839ffd6f3220b1755dd2e62901696e60fd8b7",
+   "matched": "goarno-read_mcq_single-103",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "af26b10c36c748f9e28db8a81f0bf11c060b1ecb",
+   "matched": "goarno-read_mcq_single-104",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "746e86c97d24e5d0aa8ee1c788836809811271f9",
+   "matched": "goarno-read_mcq_single-105",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "f894a1401874da69c05b830ec05123b1268772e1",
+   "matched": "goarno-read_mcq_single-106",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "97ae89ed48b100585ed4f742c6a3d1d56b80b5ca",
+   "matched": "goarno-read_mcq_single-107",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "be813cda31ae13fee6bb56b07253667b521028eb",
+   "matched": "goarno-read_mcq_single-108",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "37b9cbbab9de6b05fd4e946a679fe9043e9f0649",
+   "matched": "goarno-read_mcq_single-109",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "b29d0d96cee802e340694a00814c592ac74a6fd8",
+   "matched": "goarno-read_mcq_single-110",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "57f8dc186af7c021ddaa98a00e937327f3120ec9",
+   "matched": "goarno-read_mcq_single-111",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "7b4509755cce693d8d9207ee687b6f0357997953",
+   "matched": "goarno-read_mcq_single-112",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "147d6e9f3cc9a5d245e0e32a5275f758a60f2335",
+   "matched": "goarno-read_mcq_single-113",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "96653f5d909382817ac8c15fa134c9c22965ddcc",
+   "matched": "goarno-read_mcq_single-114",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "a2ccb33254fef96ff8cc7dacec6ad5505aa001ea",
+   "matched": "goarno-read_mcq_single-115",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "3751d734e5313dea81ba8f88e292801abf045a14",
+   "matched": "goarno-read_mcq_single-116",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "5cfdcf5ad8789e38825ab9e4d5d9824320cad77b",
+   "matched": "goarno-read_mcq_single-117",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "82e556b6c5430450ebc2a8437ddb831480ad114c",
+   "matched": "goarno-read_mcq_single-118",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "2e9e9832faeb054776f5816a00396396f34452e9",
+   "matched": "goarno-read_mcq_single-119",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "6b0e2d03e107305de05a1a398701e9774be55a54",
+   "matched": "goarno-read_mcq_single-120",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "d88d12128daa9186137a3467db158af82a2e03c9",
+   "matched": "goarno-read_mcq_single-121",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "437633b39032c1fe14c9f4722053fa4280422f2a",
+   "matched": "goarno-read_mcq_single-122",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "8e3ba91ae75a644feaa3e07f9cc275b3e4e62df6",
+   "matched": "goarno-read_mcq_single-123",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "199bc4fa594c6eeaf950de703e00e7ffdc854de7",
+   "matched": "goarno-read_mcq_single-124",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "1a72f2e7b4f88a7bfa7f14ae9860ce0d786dbee7",
+   "matched": "goarno-read_mcq_single-125",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "9a241a632c0c326c297d5cbe276758453e9658a7",
+   "matched": "goarno-read_mcq_single-126",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "e5485419c8d2f62c58326cea84ec677e4d65826a",
+   "matched": "goarno-read_mcq_single-127",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "b8b718ff16b7c31ca6c868117cced7bdf604a212",
+   "matched": "goarno-read_mcq_single-128",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "c24d6453ab1683dce86d3ba8ceeed70741013517",
+   "matched": "goarno-read_mcq_single-129",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "3ed66229f86fe3173e811ee8f2458ede9af12957",
+   "matched": "goarno-read_mcq_single-130",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "5918d7eb89d4e5169fac01d25f66db80e059955f",
+   "matched": "goarno-read_mcq_single-131",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "9dee4d11563a09806d21c7b210beaf5a24f1d98f",
+   "matched": "goarno-read_mcq_single-132",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "51c67f2b33189054049736da0e3254d48284cd8a",
+   "matched": "goarno-read_mcq_single-133",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "1ab6c62beb9732c755a8ec703f53755e471addd0",
+   "matched": "goarno-read_mcq_single-134",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "701d41a2d2c30aeaf55d101fac3a4d9704be0e66",
+   "matched": "goarno-read_mcq_single-135",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "4169dd1d8f6bec9184a646d3bc23ea077f992b3e",
+   "matched": "goarno-read_mcq_single-136",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "bb838209c989ef6092151cbc04a3357ff7251cb0",
+   "matched": "goarno-read_mcq_single-137",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "e62c756bca626c0fea21011c2fd0bfdfc4cfb53e",
+   "matched": "goarno-read_mcq_single-138",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "de4ff9b8cd9abc41de0495d8918d92bfd1c6efef",
+   "matched": "goarno-read_mcq_single-139",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "5f135b84ab50cfd5f8b287df5a6c9ee4aaa973e4",
+   "matched": "goarno-read_mcq_single-140",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "d3d17069aebd7a831dda0598e098ec3041723b10",
+   "matched": "goarno-read_mcq_single-141",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "d9446ff73f53bc95d44bab14d3524c6b5205a9aa",
+   "matched": "goarno-read_mcq_single-142",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "e8d5825d34188a2adb734e2c40329eb13a674b84",
+   "matched": "goarno-read_mcq_single-143",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "1291526c168a8f954fd7be8a0db9308a937d0b40",
+   "matched": "goarno-read_mcq_single-144",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "3b5804e2316116196964dc9cc37f755b6fae297d",
+   "matched": "goarno-read_mcq_single-145",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "25d86070dadd7ceacc34dbeea444a0c800f1d86f",
+   "matched": "goarno-read_mcq_single-146",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "36cfcaf2ebb55ac780342c7c8b89dbd2c17b71b4",
+   "matched": "goarno-read_mcq_single-147",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "1495c24687566d015722fe13beb48d0cab516505",
+   "matched": "goarno-read_mcq_single-148",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "b3901073eb0b13a67e2e90923d0170b7ebbbbec2",
+   "matched": "goarno-read_mcq_single-149",
+   "source": "goarno.io",
+   "sim": 1
+  },
+  {
+   "key": "d1b5f4bbdd1bc7be993e37e073c2bb50f05cc088",
+   "matched": "goarno-read_mcq_single-150",
+   "source": "goarno.io",
+   "sim": 1
+  }
+ ]
+}

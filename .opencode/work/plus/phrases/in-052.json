@@ -1,0 +1,482 @@
+[
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-026|transcript|0",
+    "s": "The methodology section describes how the data was gathered and analyzed.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-027|transcript|0",
+    "s": "You can find the relevant books in the library reference section.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-028|transcript|0",
+    "s": "All students must attend the introductory seminar on Monday.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-029|transcript|0",
+    "s": "The new irrigation system has significantly reduced water consumption.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-030|transcript|0",
+    "s": "The assignment submission guidelines are available on the course website.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-031|transcript|0",
+    "s": "Automated machines are capable of working continuously without fatigue.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-032|transcript|0",
+    "s": "A compelling script is the foundation of any successful movie production.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-033|transcript|0",
+    "s": "Medical experts recommend daily exercise to improve cardiovascular health.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-034|transcript|0",
+    "s": "Geological maps illustrate the distribution of rock formations across the region.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-035|transcript|0",
+    "s": "Adequate sleep is essential for memory retention and learning.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-036|transcript|0",
+    "s": "The campus car park will be closed for maintenance next week.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-037|transcript|0",
+    "s": "Formulating a clear hypothesis is the first step in the research process.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-038|transcript|0",
+    "s": "Adequate sleep is crucial for maintaining focus and academic performance.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-039|transcript|0",
+    "s": "Smart technology is playing a larger role in modern healthcare systems.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-040|transcript|0",
+    "s": "All borrowed books must be returned by the end of the semester.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-041|transcript|0",
+    "s": "The equator divides the earth into the northern and southern hemispheres.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-042|transcript|0",
+    "s": "Educational software allows students to practice skills at their own pace.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-043|transcript|0",
+    "s": "Investigative journalism requires a great deal of patience and dedication.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-044|transcript|0",
+    "s": "All course materials will be available on the website from tomorrow.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-045|transcript|0",
+    "s": "Thorough market research is crucial before launching a new product.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-046|transcript|0",
+    "s": "Advanced software can now recognize patterns in large sets of data.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-047|transcript|0",
+    "s": "You must present a valid identification card to enter the library.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-048|transcript|0",
+    "s": "Medical robots are increasingly used to assist surgeons during complex procedures.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "repeat_sentence|goarno-repeat_sentence-049|transcript|0",
+    "s": "Public transportation is a key component of sustainable urban development.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|0",
+    "s": "Plate tectonics is the scientific theory that describes the large-scale movement of Earth's lithosphere.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|1",
+    "s": "The lithosphere is broken into several rigid plates that float on the semi-fluid asthenosphere beneath them.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|10",
+    "s": "The friction along these boundaries can cause powerful earthquakes, as seen along the San Andreas Fault in California.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|11",
+    "s": "Understanding plate tectonics is essential for predicting earthquakes, understanding volcanic activity, and reconstructing the geological history of our planet.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|2",
+    "s": "There are three main types of plate boundaries.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|3",
+    "s": "First, divergent boundaries occur where plates move away from each other.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|4",
+    "s": "This process allows magma to rise from the mantle, creating new oceanic crust.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|5",
+    "s": "The Mid-Atlantic Ridge is a classic example of a divergent boundary.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|6",
+    "s": "Second, convergent boundaries happen where plates collide.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|7",
+    "s": "Depending on the type of crust involved, one plate may be forced beneath the other in a process called subduction, which can generate deep ocean trenches and volcanic arcs.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|8",
+    "s": "When two continental plates collide, they form large mountain ranges like the Himalayas.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-001|transcript|9",
+    "s": "Third, transform boundaries exist where plates slide horizontally past one another.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|0",
+    "s": "Now, you might think it strange that in a lecture on biology, I will be talking a lot about mathematics...",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|1",
+    "s": "urn ...",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|10",
+    "s": "For example, knot theory is used in the analysis of the tangled strands of DNA, and abstract geometry in four or more dimensions is used to tell us about viruses.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|11",
+    "s": "Again, neuroscience appears to be mathsfriendly and equations can also explain why hallucinogenic drugs cause the users to see spirals.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|12",
+    "s": "So, if mathematicians are taking such a keen interest in biology, the least we can do as biologists is return the compliment.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|2",
+    "s": "If I may digress a bit ...",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|3",
+    "s": "When I was a student, mathematics, the language of dear abstraction, had nothing to do with life sciences like biology, the sphere of messy organic forms, cutting up frogs in the lab, and so on...",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|4",
+    "s": "um ...",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|5",
+    "s": "In fact, I started doing biology precisely to avoid matlls and physics.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|6",
+    "s": "So, I've had a lot of catching up to do.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|7",
+    "s": "We are all aware of how the sciences have come to inter-relate more and more, and not only will mathematics impinge more and more on biology but also, I am told, in the 21&quot; century, the driving force behind mathematics will be biology.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|8",
+    "s": "This is partly because mathematicians are always on the look out for more areas to conquer.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-002|transcript|9",
+    "s": "But a far greater reason is that the subject has been boiled down to physics and chemistry - obvious attractions for mathematicians.A number of mathematical fields can be applied to biology.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|0",
+    "s": "Let's talk about an economic model that is gaining traction around the world: the circular economy.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|1",
+    "s": "Traditionally, our economy has been linear.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|10",
+    "s": "Another example is in the electronics industry, where companies are designing modular smartphones that can be easily repaired and upgraded, reducing electronic waste.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|11",
+    "s": "Food waste can be composted to enrich soil, closing the nutrient loop.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|12",
+    "s": "The circular economy is not just about recycling; it is about rethinking the entire lifecycle of products.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|13",
+    "s": "Businesses that adopt circular principles can reduce costs, create new revenue streams, and build resilience against resource price volatility.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|14",
+    "s": "It represents a fundamental shift in how we produce and consume.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|2",
+    "s": "We take raw materials from the earth, make products, use them, and then throw them away.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|3",
+    "s": "This linear model is wasteful and unsustainable.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|4",
+    "s": "A circular economy, on the other hand, is regenerative by design.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|5",
+    "s": "It aims to decouple economic growth from the consumption of finite resources.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|6",
+    "s": "The core principles are to eliminate waste and pollution, keep products and materials in use, and regenerate natural systems.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|7",
+    "s": "How does this work in practice?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|8",
+    "s": "Instead of buying a washing machine, you might lease it from a manufacturer.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-003|transcript|9",
+    "s": "When the machine reaches the end of its life, the manufacturer takes it back, recovers the valuable materials, and uses them to build new machines.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|0",
+    "s": "Mountains are not just beautiful landscapes; they are the result of immense geological forces acting over millions of years.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|1",
+    "s": "The primary process that builds mountains is plate tectonics.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|2",
+    "s": "When two tectonic plates collide, the immense pressure causes the Earth's crust to buckle, fold, and thrust upward.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|3",
+    "s": "This is called orogeny.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|4",
+    "s": "The Himalayan mountain range, for example, began forming around fifty million years ago when the Indian plate collided with the Eurasian plate.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|5",
+    "s": "That collision is still ongoing, which is why the Himalayas continue to rise slowly each year.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|6",
+    "s": "Another way mountains form is through volcanic activity, where magma pushes up through the crust and accumulates over time.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|7",
+    "s": "Volcanic mountains like Mount Fuji in Japan are created this way.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|8",
+    "s": "Fault-block mountains, such as the Sierra Nevada in the United States, form when large blocks of the Earth's crust are lifted along fault lines.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-004|transcript|9",
+    "s": "Regardless of the specific mechanism, mountain building is a slow and powerful process that shapes the planet's surface and influences weather patterns, ecosystems, and human settlement.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-005|transcript|0",
+    "s": "In this global village, 'Cultural Empathy' emerges as a beacon of unity amidst our diverse backgrounds.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-005|transcript|1",
+    "s": "It is the heartfelt understanding that the world is a mosaic of cultures, each piece as significant as the other.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-005|transcript|2",
+    "s": "Encountering a culture different from our own can be like stepping into a new world.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-005|transcript|3",
+    "s": "It's the subtle art of listening and the quiet humility of learning that bridges the gap.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-005|transcript|4",
+    "s": "When we travel or interact with international students, we're not just exchanging words; we're sharing pieces of our heritage.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "retell_lecture|edknot-retell_lecture-005|transcript|5",
+    "s": "Moreover, cultural empathy extends beyond mere tolerance.",
+    "p": "P2",
+    "native": true
+  }
+]

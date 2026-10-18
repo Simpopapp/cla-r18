@@ -1,0 +1,482 @@
+[
+  {
+    "k": "sst|goarno-sst-128|transcript|5",
+    "s": "It turns out that the brain has a unique housekeeping mechanism, often referred to as the glymphatic system.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|6",
+    "s": "When you are awake, your brain cells are busy processing information and generating metabolic waste products—essentially biological trash.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|7",
+    "s": "Now, here is the fascinating part: during sleep, studies suggest that brain cells actually shrink in size, increasing the space between them by up to sixty percent.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|8",
+    "s": "This creates channels that allow cerebrospinal fluid to flow through the tissue and flush out these toxic waste products, including proteins linked to neurodegenerative diseases.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|9",
+    "s": "So, if you skip a night's sleep, you aren't just tired; you are failing to clean your brain.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|0",
+    "s": "It was long assumed that when we fall asleep, the brain effectively shuts down to rest, much like turning off a computer at the end of the day.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|1",
+    "s": "However, neuroscientific research over the last few decades has completely overturned this passive view.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|2",
+    "s": "We now know that the sleeping brain is incredibly active, particularly when it comes to the consolidation of memory.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|3",
+    "s": "You see, when you learn a new fact or experience an event during the day, that information is initially stored in a part of the brain called the hippocampus.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|4",
+    "s": "You can think of this as a temporary holding area with limited capacity.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|5",
+    "s": "If you don't move those memories, they can easily be overwritten or lost.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|6",
+    "s": "What happens during sleep—specifically during deep, slow-wave sleep—is that the hippocampus communicates with the neocortex, which is the brain's long-term storage drive.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|7",
+    "s": "Essentially, the brain replays the day's neural patterns, strengthening the connections and transferring information from short-term to long-term memory.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|8",
+    "s": "This process transforms fragile initial memories into more stable, permanent ones.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-129|transcript|9",
+    "s": "So, the old advice to 'sleep on it' actually has a firm biological basis; without that period of offline processing, our ability to retain new information is significantly compromised.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|0",
+    "s": "One of the most persistent misconceptions about sleep is that it represents a period of dormancy, where the brain simply shuts down to recover from the day's activities.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|1",
+    "s": "However, neuroscientists have increasingly found that the sleeping brain is surprisingly active, particularly when it comes to the crucial process of memory consolidation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|10",
+    "s": "You might encounter the information, but without sleep, your brain cannot file it away permanently.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|2",
+    "s": "When we learn new information during the day—whether it's a list of vocabulary or a new motor skill—that data is initially stored in a temporary, fragile state.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|3",
+    "s": "It is only during sleep that these memories are stabilized and strengthened, effectively moving them to long-term storage.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|4",
+    "s": "Now, research suggests that different sleep stages specialize in different types of learning.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|5",
+    "s": "For instance, deep, slow-wave sleep appears to be essential for declarative memory, which covers facts and events.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|6",
+    "s": "In contrast, REM sleep—the phase where we dream—seems more critical for procedural memory, or 'how-to' skills.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|7",
+    "s": "This biological reality has significant implications for learning strategies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|8",
+    "s": "If you cut your sleep short, you aren't just feeling fatigued; you are actively interfering with the neural processes required to retain new knowledge.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-130|transcript|9",
+    "s": "So, the student habit of pulling an 'all-nighter' to cram is actually counterproductive.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|0",
+    "s": "In the realm of behavioral economics, there is a fascinating concept often utilized in pricing strategies called the decoy effect.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|1",
+    "s": "Now, classical economic theory would tell us that a consumer’s preference between two products shouldn't change just because a third, irrelevant option is added to the mix.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|10",
+    "s": "Psychologically, we struggle to judge value in isolation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|11",
+    "s": "We rely on comparisons.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|12",
+    "s": "When the decoy is introduced, it creates a situation where one option clearly dominates another.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|13",
+    "s": "This reduces the cognitive burden of decision-making.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|14",
+    "s": "Instead of weighing complex trade-offs, the customer spots an obvious 'win'—the large popcorn—and feels good about choosing it.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|15",
+    "s": "Marketers, therefore, use decoys not to give you more variety, but to nudge you toward the product with the highest profit margin.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|2",
+    "s": "However, psychological research shows us that this simply isn't how the human mind works.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|3",
+    "s": "Let’s consider a practical example.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|4",
+    "s": "Imagine you are at the cinema buying popcorn.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|5",
+    "s": "You see a small size for three dollars and a large size for seven dollars.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|6",
+    "s": "You might think the large is too expensive and stick with the small.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|7",
+    "s": "But suppose the cinema adds a medium size for six dollars and fifty cents.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|8",
+    "s": "This medium size is the 'decoy.' It is priced so close to the large that the large now seems like a much better value—only fifty cents more for a significant upgrade.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-131|transcript|9",
+    "s": "The medium option isn't really there to be sold; it is there to shift your perspective.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-132|transcript|0",
+    "s": "We often hear the old proverb that 'the early bird catches the worm,' which essentially implies that waking up early is a virtue while staying up late is, well, a sign of laziness or poor discipline.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-132|transcript|1",
+    "s": "However, chronobiologists—those are scientists who study our internal body clocks—are increasingly pushing back against this moral judgment.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-132|transcript|2",
+    "s": "They argue that being a so-called 'lark' or an 'owl' isn't simply a lifestyle choice you can just switch off; it is largely determined by your genetics.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-132|transcript|3",
+    "s": "Now, while about half the population falls somewhere in the middle, substantial minorities are biologically hardwired to be active either early in the morning or late at night.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-132|transcript|4",
+    "s": "The real issue we face is that our modern society is almost exclusively designed for the early risers.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-132|transcript|5",
+    "s": "Schools and corporate jobs typically start between 8 and 9 a.m., a schedule that aligns perfectly with larks but forces night owls to wake up when their bodies are practically still in a state of deep sleep.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-132|transcript|6",
+    "s": "This mismatch results in a phenomenon researchers call 'social jetlag.' Essentially, night owls living on an early bird schedule suffer from symptoms similar to travel jetlag every single day.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-132|transcript|7",
+    "s": "Consequently, they are at higher risk for health issues like cardiovascular disease and depression, not because their sleep is inherently worse, but because they are constantly fighting their own biology to fit into a rigid social structure.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-133|transcript|0",
+    "s": "We tend to assume that a solid eight-hour block of sleep is the natural biological standard for humans, but historical evidence suggests this is actually a relatively recent phenomenon.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-133|transcript|1",
+    "s": "If you look at diaries, court records, and literature from before the Industrial Revolution, you find frequent references to what was called 'first sleep' and 'second sleep.' People would typically go to bed shortly after sundown, sleep for about four hours, and then wake up for an hour or two.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-133|transcript|2",
+    "s": "During this waking period, known as 'the watch,' they might read, pray, or even visit neighbors, before going back for a second phase of rest.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-133|transcript|3",
+    "s": "What changed this rhythm was the widespread introduction of artificial lighting—first gas lamps and later electric bulbs.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-133|transcript|4",
+    "s": "By effectively extending the daylight hours, we pushed our bedtimes later, which forced our sleep into a single, condensed block to fit the demands of a structured workday.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-133|transcript|5",
+    "s": "This shift is significant because it reframes how we view modern sleep struggles.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-133|transcript|6",
+    "s": "Many people who wake up in the middle of the night and cannot immediately fall back asleep are often diagnosed with maintenance insomnia.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-133|transcript|7",
+    "s": "However, some sleep historians argue that these individuals aren't necessarily suffering from a medical disorder; rather, their bodies may simply be reverting to this older, ancestral pattern of biphasic sleep that has been suppressed by modern technology.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|0",
+    "s": "When we think about traditional marketing, we usually picture visual cues: billboards, logos, or flashy television commercials.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|1",
+    "s": "However, contemporary research in consumer psychology suggests that retailers are increasingly turning to a more subtle sense to influence behavior: the sense of smell.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|2",
+    "s": "This field, often called olfactory marketing, operates on the biological premise that our sense of smell is directly linked to the limbic system, the part of the brain responsible for emotion and memory.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|3",
+    "s": "Unlike visual images, which we process cognitively and logically, scents can trigger immediate emotional responses before a customer even realizes what is happening.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|4",
+    "s": "Studies have shown that introducing ambient scents into a retail environment can have a measurable impact on sales figures.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|5",
+    "s": "For instance, in experiments where a store was lightly scented with a pleasant fragrance—like vanilla or citrus—customers not only lingered longer but also perceived the merchandise as being of higher quality.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|6",
+    "s": "Consequently, they were often willing to pay a premium price.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|7",
+    "s": "But there is a caveat: the scent must be congruent with the brand and the products on display.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|8",
+    "s": "If a clothing store selling rugged outdoor gear smells like fresh floral perfume, the mismatch, or cognitive dissonance, can actually confuse consumers and drive them away.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-134|transcript|9",
+    "s": "So, while powerful, scent marketing requires a delicate, strategic balance to be effective.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|0",
+    "s": "We often tend to think of sleep as a time when the brain goes offline, a sort of passive state where nothing much happens while our bodies recover.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|1",
+    "s": "But modern neuroscience has completely overturned this view.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|10",
+    "s": "This changes how we should view sleep—not as a luxury or a break from productivity, but as an absolute biological necessity for cognitive function and the consolidation of knowledge.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|2",
+    "s": "In fact, while you are sleeping, your brain is engaged in a highly active and critical process, particularly when it comes to learning and memory.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|3",
+    "s": "What happens is that during the day, your brain takes in new information and stores it temporarily in a region called the hippocampus.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|4",
+    "s": "Think of this as a sort of inbox or a temporary holding area that has a limited capacity.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|5",
+    "s": "If you don't clear it out, you can't learn anything new.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|6",
+    "s": "During sleep, specifically deep sleep, there is a transfer of data.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|7",
+    "s": "The brain replays these memories and shifts them from the vulnerable, temporary storage of the hippocampus to the neocortex, which is like the hard drive where long-term memories are securely stored.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|8",
+    "s": "So, sleep essentially acts as a save button.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-135|transcript|9",
+    "s": "If you deprive yourself of sleep after learning something, you effectively stop that save process from happening, and those memories can be lost.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-136|transcript|0",
+    "s": "You might think that when you fall asleep, your brain simply shuts down for the night to recover energy, but actually, it engages in a very active and critical process, particularly regarding learning and memory.",
+    "p": "P2",
+    "native": true
+  }
+]

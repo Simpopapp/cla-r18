@@ -1,0 +1,565 @@
+{
+ "files": {
+  "wave2-candidates.validated.json": {
+   "candidates": 149,
+   "integrated": 70
+  }
+ },
+ "integrated": 70,
+ "corroborated": 79,
+ "discarded": [
+  {
+   "cand": "cand-50",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-001",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-51",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-002",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-52",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-003",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-53",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-004",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-54",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-005",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-55",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-006",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-56",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-007",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-57",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-008",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-58",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-009",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-59",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-010",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-60",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-011",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-61",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-012",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-62",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-013",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-63",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-014",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-64",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-015",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-65",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-016",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-66",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-017",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-67",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-018",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-68",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-019",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-69",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-020",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-70",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-021",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-71",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-022",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-72",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-023",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-73",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-024",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-74",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-025",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-75",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-026",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-76",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-027",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-77",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-028",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-78",
+   "why": "match banco",
+   "match": "goarno-read_fib_dropdown-029",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-79",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-101",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-80",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-102",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-81",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-103",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-82",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-104",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-83",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-105",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-84",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-106",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-85",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-107",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-86",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-108",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-87",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-109",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-88",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-110",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-89",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-111",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-90",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-112",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-91",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-113",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-92",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-114",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-93",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-115",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-94",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-116",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-95",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-117",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-96",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-118",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-97",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-119",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-98",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-120",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-99",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-121",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-100",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-122",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-101",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-123",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-102",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-124",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-103",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-125",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-104",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-126",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-105",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-127",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-106",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-128",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-107",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-129",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-108",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-130",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-109",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-131",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-110",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-132",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-111",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-133",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-112",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-134",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-113",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-135",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-114",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-136",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-115",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-137",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-116",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-138",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-117",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-139",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-118",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-140",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-119",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-141",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-120",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-142",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-121",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-143",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-122",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-144",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-123",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-145",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-124",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-146",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-125",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-147",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-126",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-148",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-127",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-149",
+   "sim": 1,
+   "source": "goarno.io"
+  },
+  {
+   "cand": "cand-128",
+   "why": "match banco",
+   "match": "goarno-read_mcq_single-150",
+   "sim": 1,
+   "source": "goarno.io"
+  }
+ ]
+}

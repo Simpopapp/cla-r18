@@ -1,0 +1,482 @@
+[
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[0]|0",
+  "s": "3D printing, or additive manufacturing, starts with designing a 3D model on a computer.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[1]|0",
+  "s": "This model is then sent to a 3D printer, which builds the object layer by layer from the bottom up.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[2]|0",
+  "s": "The printer uses materials such as plastic, metal, or resin, which it deposits in thin layers and then fuses together, typically using heat.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[3]|0",
+  "s": "Each layer corresponds to a cross-section of the final object.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-031|paragraphs[4]|0",
+  "s": "This process allows for the creation of complex and customized items that would be difficult to produce with traditional manufacturing methods.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[0]|0",
+  "s": "The French Revolution began in 1789, triggered by deep social and economic inequalities and discontent with the monarchy.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[1]|0",
+  "s": "It led to the rise of the French Republic and significant changes in French society.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[2]|0",
+  "s": "The Revolution saw the overthrow of the monarchy, the establishment of a republic, and drastic and violent shifts in power.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[3]|0",
+  "s": "The infamous Reign of Terror, marked by mass executions, was a significant phase of the Revolution.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-032|paragraphs[4]|0",
+  "s": "The French Revolution had a profound influence on modern political ideologies and the development of democratic principles.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[0]|0",
+  "s": "Solar panels convert sunlight into electricity through a process called photovoltaic (PV) conversion.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[1]|0",
+  "s": "First, solar panels, which are made of semiconductor materials, absorb sunlight.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[2]|0",
+  "s": "The sunlight’s energy then frees electrons in the material, creating an electrical current.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[3]|0",
+  "s": "This current is captured by wiring in the panels and is then converted from direct current (DC) to alternating current (AC) using an inverter.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-033|paragraphs[4]|0",
+  "s": "The AC electricity is then usable in homes or businesses, or can be fed back into the power grid.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[0]|0",
+  "s": "Glass making begins with mixing sand (silicon dioxide) with soda ash and limestone.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[1]|0",
+  "s": "This mixture is then heated to a very high temperature in a furnace until it melts and becomes liquid.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[2]|0",
+  "s": "The molten glass is then poured into molds or floated on a bed of molten tin to form sheets.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[3]|0",
+  "s": "Once shaped, the glass is slowly cooled in a process called annealing, which prevents it from becoming too brittle.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-034|paragraphs[4]|0",
+  "s": "After cooling, the glass can be cut to size and further processed, such as by adding coatings or treatments to enhance strength or reduce glare.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[0]|0",
+  "s": "Researchers at EcoPack Solutions are working on developing new bio-degradable packaging materials from plant-based polymers.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[1]|0",
+  "s": "Their process involves extracting cellulose from agricultural waste, which is then treated with enzymes to produce a flexible, durable material.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[2]|0",
+  "s": "The team conducts various tests to evaluate the material's decomposition rate, resilience, and safety for food contact.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[3]|0",
+  "s": "Success in this area could significantly reduce reliance on conventional plastics and the environmental damage they cause.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "reorder_paragraphs|goarno-reorder_paragraphs-035|paragraphs[4]|0",
+  "s": "The company aims to commercialize their bio-degradable packaging within the next three years, offering a sustainable alternative to industries.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-116|text|10",
+  "s": "As the world continues to embrace electric mobility, these efforts will be crucial in ensuring a sustainable and environmentally friendly transportation future.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-122|text|11",
+  "s": "\"By investing in mental health education and services, we can help young people develop resilience and lead healthier, more fulfilling lives.\" As awareness of the mental health crisis grows, continued efforts to address these challenges are essential for the well-being of future generations.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-123|text|9",
+  "s": "As the education landscape evolves, the integration of technology in teaching and learning is likely to have a lasting impact, shaping the future of education.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-126|text|12",
+  "s": "As we learn more about our migratory past, we gain insights into the resilience and adaptability that have been hallmarks of human history.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-127|text|12",
+  "s": "These policies are part of a broader shift towards more ethical and sustainable scientific practices.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-130|text|11",
+  "s": "As researchers continue to study these newly discovered microbes, they hope to uncover more about the fundamental processes that sustain life and the potential for its existence in the universe.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-130|text|12",
+  "s": "This breakthrough not only enhances our understanding of life's origins on Earth but also fuels the quest to find life beyond our planet.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-132|text|13",
+  "s": "Some schools and youth leagues are considering measures such as limiting contact practices and delaying the age at which children can begin playing tackle football.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-136|text|12",
+  "s": "Novo Nordisk, the manufacturer, is seeking FDA approval for a higher-dose version specifically for weight management, following successful trials.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-136|text|13",
+  "s": "If approved, it could provide an effective option for those struggling with other weight loss methods.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-139|text|13",
+  "s": "Policies and initiatives aimed at reducing greenhouse gas emissions from agriculture, such as promoting sustainable land management and reducing food waste, are critical.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-139|text|14",
+  "s": "Furthermore, financial support and insurance schemes can help farmers recover from climate-related losses and invest in adaptive technologies.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-140|text|10",
+  "s": "Techniques such as satellite imagery, ground-penetrating radar, and DNA analysis allow researchers to locate and study sites with unprecedented precision.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-140|text|11",
+  "s": "\"Technology is revolutionizing archaeology, enabling us to discover and analyze sites in ways that were previously unimaginable,\" said Dr.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-140|text|12",
+  "s": "Parcak.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-141|text|11",
+  "s": "\"They create a shared space where everyone can contribute and benefit.\"",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-145|text|12",
+  "s": "This dynamic can lead to the decline of local industries and crafts that are integral to cultural heritage.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-145|text|13",
+  "s": "Efforts to protect and promote local cultures include supporting artisanal products, fostering cultural tourism, and implementing fair trade practices.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-146|text|15",
+  "s": "This includes limiting visitor numbers, using eco-friendly infrastructure, and involving local communities in tourism management.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-146|text|16",
+  "s": "\"Sustainable tourism balances economic benefits with environmental protection,\" explained Dr.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-146|text|17",
+  "s": "Smart.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-146|text|18",
+  "s": "\"It ensures that tourism supports conservation goals.\"",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-147|text|10",
+  "s": "Anne Helen Petersen, an author and expert on work culture.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-148|text|12",
+  "s": "\"It's important to be mindful of your caffeine intake and understand your body's response to it,\" warned Dr.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-148|text|13",
+  "s": "Roland Griffiths, a professor of psychiatry and neuroscience at Johns Hopkins University.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-148|text|14",
+  "s": "\"Everyone's tolerance levels are different, and what works for one person may not be suitable for another.\"",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-149|text|11",
+  "s": "\"Maintaining the integrity of this infrastructure is a constant battle against both natural and man-made threats,\" explained Starosielski.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-150|text|15",
+  "s": "This treaty has been crucial in preserving Antarctica's pristine environment and facilitating international research efforts.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-150|text|16",
+  "s": "\"The Antarctic Treaty is a model of international cooperation,\" emphasized Dr.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-150|text|17",
+  "s": "Francis.",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "swt|goarno-swt-150|text|18",
+  "s": "\"It shows how nations can work together to protect and study a common heritage.\"",
+  "p": "P1",
+  "native": false
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-101|transcript|0",
+  "s": "We frequently encounter news stories about public emergencies where bystanders fail to intervene, often leading to accusations that modern society has become morally bankrupt or indifferent.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-101|transcript|1",
+  "s": "While it is easy to label these witnesses as uncaring, social psychology offers a more nuanced concept known as the bystander effect.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-101|transcript|2",
+  "s": "This phenomenon suggests that the presence of others actually inhibits helping behavior through a process called diffusion of responsibility.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-101|transcript|3",
+  "s": "When a single individual witnesses an accident, they feel a direct burden to act.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-101|transcript|4",
+  "s": "However, in a group, that sense of obligation is diluted; individuals frequently assume someone else—perhaps someone more qualified—will take charge.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-101|transcript|5",
+  "s": "Additionally, in ambiguous situations, we look to those around us for guidance.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-101|transcript|6",
+  "s": "If others appear calm or detached, we often collectively assume there is no real danger, creating a cycle of inaction.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-101|transcript|7",
+  "s": "Thus, the failure to act is rarely due to a lack of compassion, but rather a complex reaction to the social dynamic of the crowd.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|0",
+  "s": "While we often discuss the serialisation of Victorian novels, another dominant force in nineteenth-century publishing was the circulating library.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|1",
+  "s": "For much of the century, purchasing a new novel outright was a luxury few could afford—a standard work cost roughly the same as a week’s wages for a clerk.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|2",
+  "s": "Enter the subscription library, most famously Charles Mudie’s Select Library.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|3",
+  "s": "Subscribers paid an annual fee for the right to borrow volumes, which fundamentally altered how books were written and produced.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|4",
+  "s": "Mudie favoured the 'three-decker' format, where a single novel was split into three separate physical volumes.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|5",
+  "s": "This wasn't just an aesthetic choice; it was a shrewd commercial strategy.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|6",
+  "s": "It allowed the library to circulate one novel among three different subscribers simultaneously, tripling the efficiency of their stock.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|7",
+  "s": "Consequently, authors were often pressured to pad out their plots to fill the requisite three volumes, affecting the pacing and structure of Victorian fiction.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-102|transcript|8",
+  "s": "It wasn't until the 1890s, when the libraries finally stopped insisting on this format, that the single-volume novel became the industry standard.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-103|transcript|0",
+  "s": "The expansion of the railway network in Victorian Britain did more than just speed up travel; it fundamentally altered the nation's reading habits.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-103|transcript|1",
+  "s": "Before the railway boom, books were generally expensive, heavy commodities intended for the private libraries of the wealthy or the quiet contemplation of the study.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-103|transcript|2",
+  "s": "However, the railway created a new kind of captive audience: the commuter.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-103|transcript|3",
+  "s": "Passengers found themselves sitting for hours with little to do, creating a demand for literature that was portable, entertaining, and, crucially, affordable.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-103|transcript|4",
+  "s": "This led to the emergence of the 'railway library' and the 'yellow-back'—cheaply produced novels sold at station bookstalls, most notably by W.H.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-103|transcript|5",
+  "s": "Smith.",
+  "p": "P2",
+  "native": true
+ },
+ {
+  "k": "lst_hcs|goarno-lst_hcs-103|transcript|6",
+  "s": "These books were often reprints of popular fiction, bound in straw boards with eye-catching illustrated covers designed to appeal to the traveler.",
+  "p": "P2",
+  "native": true
+ }
+]

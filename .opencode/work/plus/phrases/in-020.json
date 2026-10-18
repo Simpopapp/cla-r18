@@ -1,0 +1,482 @@
+[
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-015|paragraphs[0]|0",
+    "s": "On July 20, 1969, astronauts Neil Armstrong and Buzz Aldrin became the first humans to land on the moon as part of NASA's Apollo 11 mission.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-015|paragraphs[1]|0",
+    "s": "Their spacecraft, the Eagle, touched down on the lunar surface in an area called the Sea of Tranquility.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-015|paragraphs[2]|0",
+    "s": "Neil Armstrong was the first to step onto the moon, famously saying, \"That's one small step for man, one giant leap for mankind.\"",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-015|paragraphs[3]|0",
+    "s": "The astronauts collected moon rocks and conducted experiments for over two hours.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-015|paragraphs[4]|0",
+    "s": "They returned safely to Earth, landing in the Pacific Ocean, where they were picked up by a waiting ship.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-016|paragraphs[0]|0",
+    "s": "To set up a basic home Wi-Fi network, start by unboxing your wireless router and connecting it to your modem using an Ethernet cable.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-016|paragraphs[1]|0",
+    "s": "Plug the Ethernet cable into the WAN or internet port on your router, then connect the other end to your modem.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-016|paragraphs[2]|0",
+    "s": "Next, power on your router and wait for it to fully boot up; this usually involves waiting for certain lights on the router to stabilize, indicating it is operational.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-016|paragraphs[3]|0",
+    "s": "Using a computer or mobile device, connect to the router’s default Wi-Fi network, which is typically listed in the router's manual or on a sticker on the router itself.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-016|paragraphs[4]|0",
+    "s": "Open a web browser and enter the router’s default IP address to access the configuration page, where you can set your network name (SSID), encryption type (preferably WPA2 for security), and a strong password.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-016|paragraphs[5]|0",
+    "s": "Once configured, save your settings and your Wi-Fi network should be ready to use.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-017|paragraphs[0]|0",
+    "s": "Penicillin, the first true antibiotic, was discovered by accident by Scottish scientist Alexander Fleming in 1928.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-017|paragraphs[1]|0",
+    "s": "While researching staphylococcus bacteria, Fleming noticed that a mold had contaminated one of his petri dishes and was killing the surrounding bacteria.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-017|paragraphs[2]|0",
+    "s": "The mold was later identified as Penicillium notatum.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-017|paragraphs[3]|0",
+    "s": "Fleming's discovery has had a profound impact on medicine, significantly reducing the number of deaths from bacterial infections.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-018|paragraphs[0]|0",
+    "s": "King John of England was forced by his barons to sign the Magna Carta, a document that limited royal power.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-018|paragraphs[1]|0",
+    "s": "The Magna Carta was created because the king had abused his power and heavily taxed the nobles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-018|paragraphs[2]|0",
+    "s": "This document established the principle that everyone, including the king, was subject to the law.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-018|paragraphs[3]|0",
+    "s": "It also laid the foundations for individual rights and ensured the protection of these rights through the establishment of a council of 25 barons.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-018|paragraphs[4]|0",
+    "s": "Although originally intended to address immediate political crises, the Magna Carta has become a cornerstone of democratic ideals and legal principles worldwide.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-019|paragraphs[0]|0",
+    "s": "A new initiative at the local library aims to increase access to digital resources for all residents.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-019|paragraphs[1]|0",
+    "s": "Launched last week, the program includes the addition of new computers and tablets available for public use.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-019|paragraphs[2]|0",
+    "s": "Workshops on digital literacy skills are scheduled to help users of all ages navigate these resources effectively.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-019|paragraphs[3]|0",
+    "s": "This initiative is expected to bridge the digital divide in the community, making educational and job-related resources more accessible.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-019|paragraphs[4]|0",
+    "s": "The library staff is excited about the potential positive impact on the community's educational growth.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-020|paragraphs[0]|0",
+    "s": "Researchers from City University recently conducted a study on the impact of urban green spaces on mental health.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-020|paragraphs[1]|0",
+    "s": "Over a period of three months, they surveyed residents living near parks and those without nearby green spaces.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-020|paragraphs[2]|0",
+    "s": "The results indicated that proximity to green spaces significantly reduced stress levels and improved overall mental well-being.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-020|paragraphs[3]|0",
+    "s": "The study advocates for urban planning that incorporates more green areas to enhance public health.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-020|paragraphs[4]|0",
+    "s": "These insights could influence future city development policies to include more nature in urban environments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-021|paragraphs[0]|0",
+    "s": "Last Monday, the city council held a debate on the proposal to increase funding for public transportation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-021|paragraphs[1]|0",
+    "s": "The Transportation Secretary argued that boosting the budget would improve bus and train services, making them more reliable and frequent.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-021|paragraphs[2]|0",
+    "s": "However, some council members were concerned about the financial burden this increase would place on taxpayers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-021|paragraphs[3]|0",
+    "s": "They suggested looking into more cost-effective solutions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-021|paragraphs[4]|0",
+    "s": "The debate was intense, and the decision was postponed to gather more public opinion on the matter.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-022|paragraphs[0]|0",
+    "s": "Making homemade bread is a rewarding process that starts with mixing flour, water, yeast, and salt.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-022|paragraphs[1]|0",
+    "s": "Begin by combining these ingredients in a large bowl to form a dough.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-022|paragraphs[2]|0",
+    "s": "Knead the dough on a floured surface for about 10 minutes until it's smooth and elastic.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-022|paragraphs[3]|0",
+    "s": "Let the dough rise in a warm place until it doubles in size, which usually takes about an hour.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-022|paragraphs[4]|0",
+    "s": "Bake the bread in a preheated oven at 375 degrees Fahrenheit for 30 minutes or until the crust is golden brown and sounds hollow when tapped.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-023|paragraphs[0]|0",
+    "s": "The hometown heroes, the Springfield Spartans, clinched the state football championship last weekend.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-023|paragraphs[1]|0",
+    "s": "In a thrilling match that went into overtime, the Spartans secured their victory with a last-minute field goal.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-023|paragraphs[2]|0",
+    "s": "The team celebrated their hard-earned win with a parade through downtown Springfield on Wednesday.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-023|paragraphs[3]|0",
+    "s": "Local businesses have reported a surge in sales from the festivities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-023|paragraphs[4]|0",
+    "s": "The coach praised the team's dedication and the community's unwavering support throughout the season.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-024|paragraphs[0]|0",
+    "s": "The historic Grand Theater, which has stood in the heart of downtown for over a century, is undergoing a significant renovation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-024|paragraphs[1]|0",
+    "s": "The project aims to restore the theater's original Art Deco features while updating its sound and lighting systems.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-024|paragraphs[2]|0",
+    "s": "Local performing arts groups have expressed enthusiasm about the prospect of performing in the updated facility.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-024|paragraphs[3]|0",
+    "s": "The city hopes that the renovated theater will attract more visitors and revitalize the surrounding area.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-024|paragraphs[4]|0",
+    "s": "The Grand Theater is scheduled to reopen next fall with a gala celebration.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-025|paragraphs[0]|0",
+    "s": "Email encryption is a process that secures email content to protect it from being read by anyone other than the intended recipients.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-025|paragraphs[1]|0",
+    "s": "First, when an email is sent, encryption software converts the message from readable text into scrambled cipher text.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-025|paragraphs[2]|0",
+    "s": "This is done using an encryption key, which only the sender and receiver possess.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-025|paragraphs[3]|0",
+    "s": "When the recipient receives the email, their software uses a decryption key to convert the cipher text back into readable text.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-025|paragraphs[4]|0",
+    "s": "This ensures that even if someone intercepts the email, they cannot understand its contents without the key.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-026|paragraphs[0]|0",
+    "s": "A typical water filtration system works by passing water through multiple layers that trap and remove contaminants.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-026|paragraphs[1]|0",
+    "s": "First, water enters through a sediment filter that catches large particles like dirt and rust.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-026|paragraphs[2]|0",
+    "s": "Next, it may pass through an activated carbon filter that removes chemicals and impurities through a process called adsorption.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-026|paragraphs[3]|0",
+    "s": "Additional stages might include reverse osmosis, which uses a semi-permeable membrane to remove smaller particles, and UV filters that disinfect water by killing bacteria and viruses.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-026|paragraphs[4]|0",
+    "s": "The final product is clean, safe drinking water.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-027|paragraphs[0]|0",
+    "s": "A new community art project titled 'Walls of Expression' has transformed the city’s blank walls into vibrant murals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-027|paragraphs[1]|0",
+    "s": "Local artists and community groups collaborated on the designs, which reflect the city's cultural diversity and history.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-027|paragraphs[2]|0",
+    "s": "The project not only beautifies the area but also provides a platform for artists to showcase their talents.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-027|paragraphs[3]|0",
+    "s": "Walking tours of the murals are now offered, drawing both residents and tourists.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-027|paragraphs[4]|0",
+    "s": "Organizers hope these murals will inspire more public art projects across the city.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-028|paragraphs[0]|0",
+    "s": "Bestselling author Jane Smith celebrated the launch of her latest novel with a special event at Booktown Library on Saturday.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-028|paragraphs[1]|0",
+    "s": "Fans had the opportunity to meet the author, get their books signed, and hear Jane read excerpts from her new book.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-028|paragraphs[2]|0",
+    "s": "The evening also included a Q&amp;A session where Jane discussed her inspirations and writing process.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-028|paragraphs[3]|0",
+    "s": "Local aspiring writers and literature enthusiasts filled the venue, eager to engage with one of their favorite authors",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-028|paragraphs[4]|0",
+    "s": "The event was a success, further solidifying Jane's reputation as a key figure in contemporary literature.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-029|paragraphs[0]|0",
+    "s": "In an innovative study by nutritionists at the Health and Wellness Research Center, the impact of different diets on mental health was explored.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-029|paragraphs[1]|0",
+    "s": "Participants followed specific dietary plans rich in either processed foods or whole foods for six months",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-029|paragraphs[2]|0",
+    "s": "Researchers measured changes in mood and anxiety levels through regular psychological assessments and blood tests, which monitored markers of inflammation and neurotransmitter activity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-029|paragraphs[3]|0",
+    "s": "The preliminary results suggest a strong correlation between a whole food diet and improved mental health indicators.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-029|paragraphs[4]|0",
+    "s": "This research could lead to dietary recommendations for managing mental health conditions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-030|paragraphs[0]|0",
+    "s": "In 1928, Amelia Earhart became the first woman to fly across the Atlantic Ocean as a passenger.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-030|paragraphs[1]|0",
+    "s": "Four years later, in 1932, she made the solo nonstop flight across the Atlantic.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-030|paragraphs[2]|0",
+    "s": "Her courage and determination made her a symbol of the advancement of women in non-traditional fields.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-030|paragraphs[3]|0",
+    "s": "Earhart's achievements promoted aviation and inspired a generation of female aviators.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "reorder_paragraphs|goarno-reorder_paragraphs-030|paragraphs[4]|0",
+    "s": "Her mysterious disappearance during an attempt to circumnavigate the globe in 1937 remains one of aviation's greatest mysteries.",
+    "p": "P1",
+    "native": false
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "k": "swt|goarno-swt-141|text|1",
+    "s": "These green spaces provide residents with opportunities to grow their own food, foster community engagement, and promote sustainable living.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|10",
+    "s": "Laura Lawson, a professor of landscape architecture at Rutgers University.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|11",
+    "s": "\"They create a shared space where everyone can contribute and benefit.\"",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|2",
+    "s": "\"Community gardens are vital in creating healthier, more connected urban environments,\" said Karen Washington, a well-known urban farmer and community activist.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|3",
+    "s": "\"They offer a sanctuary in the city where people can come together and reconnect with nature.\"\n\nOne of the primary advantages of community gardens is their contribution to food security.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|4",
+    "s": "In many urban areas, access to fresh, affordable produce is limited, often described as \"food deserts.\" Community gardens help to alleviate this issue by providing a local source of nutritious food.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|5",
+    "s": "\"Growing your own vegetables not only reduces grocery bills but also ensures access to healthy, organic produce,\" noted Ron Finley, the \"Gangsta Gardener\" from Los Angeles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|6",
+    "s": "\"It's about empowerment and self-sufficiency.\"\n\nBeyond food production, community gardens enhance social cohesion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|7",
+    "s": "They serve as gathering places where people of all ages and backgrounds can work together, share knowledge, and build relationships.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|8",
+    "s": "This sense of community is especially important in cities, where social isolation can be prevalent.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|text|9",
+    "s": "\"Community gardens break down barriers and bring neighbors together,\" said Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|0",
+    "s": "Music streaming services have fundamentally transformed the music industry, reshaping how music is distributed, consumed, and monetized.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|1",
+    "s": "Platforms like Spotify, Apple Music, and Amazon Music have made vast catalogs of songs accessible to listeners worldwide, anytime and anywhere.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|10",
+    "s": "Many musicians argue that the per-stream payouts from streaming services are insufficient, leading to calls for higher royalties and more transparent payment models.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|2",
+    "s": "\"Streaming services have revolutionized the way we listen to music, providing instant access to millions of tracks at our fingertips,\" said Daniel Ek, CEO of Spotify.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|3",
+    "s": "One of the most significant impacts of streaming services is their influence on music discovery.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|4",
+    "s": "Algorithms and curated playlists help users discover new artists and genres, often propelling unknown musicians to global fame overnight.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|5",
+    "s": "\"Streaming has democratized music discovery, giving emerging artists a platform to reach audiences they could never have accessed before,\" noted Troy Carter, a music industry executive and artist manager.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|6",
+    "s": "This has led to a more diverse and dynamic music landscape, where niche genres and independent artists can thrive alongside mainstream acts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|7",
+    "s": "Economically, streaming has changed the revenue model for the music industry.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|8",
+    "s": "While physical album sales and digital downloads have declined, streaming has become the dominant revenue stream, generating billions of dollars annually.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|text|9",
+    "s": "However, this shift has sparked debates about fair compensation for artists.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|0",
+    "s": "Philanthropy plays a crucial role in addressing social issues, providing essential funding and resources to initiatives that aim to improve communities and promote social justice.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|1",
+    "s": "Charitable donations from individuals, foundations, and corporations support a wide range of causes, from education and healthcare to environmental conservation and human rights.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|2",
+    "s": "\"Philanthropy has the power to drive significant social change by supporting innovative solutions and empowering marginalized communities,\" said Darren Walker, President of the Ford Foundation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|3",
+    "s": "One of the key areas where philanthropy makes an impact is education.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|4",
+    "s": "Donations to schools, scholarship programs, and educational nonprofits help to bridge the gap in access to quality education, particularly in underserved areas.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|5",
+    "s": "Initiatives like the Bill and Melinda Gates Foundation's investments in education reform aim to improve educational outcomes and reduce disparities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|6",
+    "s": "\"Investing in education is investing in the future,\" noted Melinda Gates.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|7",
+    "s": "\"It opens doors to opportunities and helps break the cycle of poverty.\"\n\nPhilanthropy also addresses social justice issues by funding organizations that advocate for human rights, equality, and social reform.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|8",
+    "s": "The Open Society Foundations, established by George Soros, support initiatives that promote democracy, fight discrimination, and protect civil liberties.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|text|9",
+    "s": "\"Philanthropy can amplify the voices of those fighting for justice and help create a more equitable society,\" stated Soros.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|0",
+    "s": "Citizen journalism is playing an increasingly vital role in modern media, transforming how news is reported and consumed.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|1",
+    "s": "Equipped with smartphones and social media platforms, ordinary people are now able to capture and share news events in real time, often bypassing traditional media outlets.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|10",
+    "s": "\"Integrating citizen journalism with traditional reporting can create a more comprehensive and responsive media ecosystem,\" said Rosen.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|2",
+    "s": "\"Citizen journalism has democratized news reporting, giving a voice to those who were previously unheard,\" said Jay Rosen, a media scholar at New York University.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|3",
+    "s": "\"It empowers individuals to document their realities and bring attention to issues that mainstream media might overlook.\"\n\nOne of the most significant impacts of citizen journalism is its ability to provide immediate, on-the-ground coverage of breaking news.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|4",
+    "s": "During the Arab Spring, for instance, citizen journalists played a crucial role in documenting protests and government crackdowns, often at great personal risk.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|5",
+    "s": "These firsthand accounts provided the world with unfiltered insights into the events unfolding across the Middle East and North Africa.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|6",
+    "s": "\"Citizen journalists were the lifeline of information during the Arab Spring,\" noted Rosen.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|7",
+    "s": "\"Their contributions were indispensable in shaping global understanding and response.\"\n\nTraditional media organizations are increasingly recognizing the value of citizen journalism and incorporating it into their news coverage.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|8",
+    "s": "Many news outlets now feature user-generated content and encourage public contributions through social media and dedicated platforms.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|text|9",
+    "s": "This collaboration enhances news reporting by combining professional journalistic expertise with the immediacy and reach of citizen journalism.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|0",
+    "s": "The exchange of goods, ideas, and practices between countries fosters cultural diversity and innovation but can also lead to the erosion of traditional customs and identities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|1",
+    "s": "\"Global trade has the power to enrich cultures through the exchange of diverse goods and ideas,\" said Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|10",
+    "s": "However, the influence of global trade on local cultures is not without drawbacks.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|11",
+    "s": "Global trade can exacerbate economic inequalities, with local producers facing competition from larger multinational companies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|12",
+    "s": "This dynamic can lead to the decline of local industries and crafts that are integral to cultural heritage.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|13",
+    "s": "Efforts to protect and promote local cultures include supporting artisanal products, fostering cultural tourism, and implementing fair trade practices.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|2",
+    "s": "Amartya Sen, a Nobel Prize-winning economist.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|3",
+    "s": "\"However, it also poses challenges to cultural preservation.\"\n\nOne of the significant benefits of global trade is the introduction of new products and technologies that enhance daily life.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|4",
+    "s": "For instance, culinary traditions around the world have been transformed by the availability of foreign ingredients and cuisines.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|5",
+    "s": "Sushi, pizza, and tacos, once regional specialties, are now enjoyed globally.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|6",
+    "s": "Similarly, global trade encourages the exchange of cultural goods such as music, film, and fashion, contributing to a more interconnected and cosmopolitan world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|7",
+    "s": "Popular culture from Hollywood, Bollywood, and K-pop has a global audience, influencing fashion trends, entertainment, and lifestyle choices.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|8",
+    "s": "\"Cultural products circulating through global trade networks create shared experiences and understanding among diverse populations,\" remarked Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|text|9",
+    "s": "Sen.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|0",
+    "s": "The impact of tourism on natural habitats is an escalating concern as global travel surges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|1",
+    "s": "While tourism can drive economic growth and raise awareness about conservation, it often threatens ecosystems and wildlife.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|10",
+    "s": "Activities such as safaris, diving, and hiking can disrupt animal behaviors, leading to stress and population declines.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|11",
+    "s": "\"Frequent boat traffic harms marine life, while noise pollution from tourist vehicles disturbs terrestrial animals,\" said Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|12",
+    "s": "Jane Smart, Global Director of the IUCN Biodiversity Conservation Group.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|13",
+    "s": "Despite these challenges, sustainable tourism practices can mitigate negative impacts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|14",
+    "s": "Eco-tourism, which focuses on responsible travel, aims to minimize environmental footprints.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|15",
+    "s": "This includes limiting visitor numbers, using eco-friendly infrastructure, and involving local communities in tourism management.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|16",
+    "s": "\"Sustainable tourism balances economic benefits with environmental protection,\" explained Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|17",
+    "s": "Smart.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|18",
+    "s": "\"It ensures that tourism supports conservation goals.\"",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|2",
+    "s": "\"Tourism is a double-edged sword,\" explained Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|3",
+    "s": "Martha Honey, co-founder of the Center for Responsible Travel.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|4",
+    "s": "\"It generates much-needed revenue but can also lead to habitat destruction and biodiversity loss if not managed properly.\"\n\nTourism affects natural habitats primarily through physical degradation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|5",
+    "s": "The construction of hotels, resorts, and infrastructure can lead to deforestation, soil erosion, and water pollution.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|6",
+    "s": "Popular destinations like coral reefs and national parks suffer from overuse.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|7",
+    "s": "\"We see significant environmental stress in places like the Great Barrier Reef and Machu Picchu due to the sheer number of tourists,\" noted Dr.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|8",
+    "s": "Honey.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|text|9",
+    "s": "Wildlife disturbance is another critical issue.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-147|text|0",
+    "s": "The future of work-life balance in a digital world is a topic of growing importance as technology continues to reshape how we work and live.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-147|text|1",
+    "s": "The COVID-19 pandemic accelerated the adoption of remote work, revealing both the potential benefits and challenges of a digitally connected workforce.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-147|text|10",
+    "s": "Anne Helen Petersen, an author and expert on work culture.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-147|text|2",
+    "s": "\"Digital tools have transformed the way we work, offering flexibility but also blurring the lines between personal and professional life,\" said Arianna Huffington, founder of Thrive Global.",
+    "p": "P1",
+    "native": false
+  }
+]

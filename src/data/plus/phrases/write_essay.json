@@ -1,0 +1,1203 @@
+{
+  "band9-write_essay-001": {
+    "prompt": [
+      {
+        "h": "82343ffd",
+        "l": "No futuro, as pessoas trabalharão menos horas do que trabalham hoje.",
+        "c": "A afirmação prevê jornadas de trabalho menores no futuro."
+      },
+      {
+        "h": "f356fe44",
+        "l": "Você concorda ou discorda?",
+        "c": "Declare se é a favor ou contra essa ideia."
+      },
+      {
+        "h": "52f46012",
+        "l": "Apresente sua opinião com razões e exemplos.",
+        "c": "Justifique seu ponto de vista com argumentos e situações ilustrativas."
+      }
+    ]
+  },
+  "band9-write_essay-002": {
+    "prompt": [
+      {
+        "h": "a383634b",
+        "l": "Algumas organizações acreditam que os trabalhadores devem participar dos processos de tomada de decisões.",
+        "c": "Certas empresas defendem que seus funcionários tenham voz nas decisões."
+      },
+      {
+        "h": "545f97c8",
+        "l": "Discuta as vantagens e desvantagens dessa abordagem.",
+        "c": "Analise os pontos positivos e negativos dessa proposta."
+      }
+    ]
+  },
+  "band9-write_essay-003": {
+    "prompt": [
+      {
+        "h": "e487b5e1",
+        "l": "Uma semana de trabalho mais curta beneficiaria tanto os funcionários quanto os empregadores.",
+        "c": "Reduzir os dias ou horas de trabalho poderia favorecer empregados e empresas."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Indique o quanto apoia ou rejeita essa afirmação."
+      },
+      {
+        "h": "52f46012",
+        "l": "Apresente sua opinião com razões e exemplos.",
+        "c": "Defenda sua posição usando justificativas e exemplos."
+      }
+    ]
+  },
+  "band9-write_essay-004": {
+    "prompt": [
+      {
+        "h": "0912b33b",
+        "l": "Algumas pessoas preferem trabalhar de casa, enquanto outras preferem trabalhar em um escritório.",
+        "c": "Há quem goste do trabalho remoto e quem prefira o ambiente do escritório."
+      },
+      {
+        "h": "72d6ba21",
+        "l": "Discuta ambos os pontos de vista e apresente sua própria opinião.",
+        "c": "Considere os dois lados e diga qual é sua posição."
+      }
+    ]
+  },
+  "band9-write_essay-005": {
+    "prompt": [
+      {
+        "h": "1fcd12ba",
+        "l": "O desemprego entre os jovens é uma preocupação global crescente.",
+        "c": "A falta de trabalho para jovens está se tornando um problema mundial cada vez maior."
+      },
+      {
+        "h": "dda1d168",
+        "l": "Quais são as causas desse problema e que soluções você pode sugerir?",
+        "c": "Explique por que isso acontece e proponha maneiras de enfrentar a situação."
+      }
+    ]
+  },
+  "band9-write_essay-006": {
+    "prompt": [
+      {
+        "h": "1d33c7d3",
+        "l": "As universidades deveriam descontar pontos se os estudantes entregarem seus trabalhos atrasados.",
+        "c": "Atrasos na entrega de trabalhos acadêmicos deveriam resultar em notas menores."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Diga se concorda total ou parcialmente, ou se discorda."
+      }
+    ]
+  },
+  "band9-write_essay-007": {
+    "prompt": [
+      {
+        "h": "68aff0ba",
+        "l": "Muitos sistemas educacionais avaliam os estudantes usando exames escritos formais.",
+        "c": "Em diversos países, provas escritas tradicionais são usadas para medir o desempenho dos alunos."
+      },
+      {
+        "h": "c0995eeb",
+        "l": "Até que ponto você considera esse um método válido de avaliação?",
+        "c": "Avalie se esse tipo de prova mede adequadamente a aprendizagem."
+      }
+    ]
+  },
+  "band9-write_essay-008": {
+    "prompt": [
+      {
+        "h": "2a80944c",
+        "l": "Algumas universidades estão substituindo os livros didáticos tradicionais por mídias digitais.",
+        "c": "Certas instituições de ensino superior estão trocando livros por conteúdos digitais."
+      },
+      {
+        "h": "59c22aed",
+        "l": "Discuta as vantagens e desvantagens desse desenvolvimento.",
+        "c": "Analise os benefícios e os inconvenientes dessa mudança."
+      }
+    ]
+  },
+  "band9-write_essay-009": {
+    "prompt": [
+      {
+        "h": "1ff2c570",
+        "l": "Estudantes do ensino médio deveriam estudar peças e teatro de séculos passados.",
+        "c": "Alunos adolescentes deveriam aprender sobre obras dramáticas antigas."
+      },
+      {
+        "h": "ae0de2e6",
+        "l": "Discuta os benefícios e as desvantagens dessa abordagem.",
+        "c": "Pondere os aspectos favoráveis e desfavoráveis dessa proposta."
+      }
+    ]
+  },
+  "band9-write_essay-010": {
+    "prompt": [
+      {
+        "h": "baf73af8",
+        "l": "A aprendizagem experiencial, como estágios e trabalho de campo, é mais valiosa do que a educação em sala de aula.",
+        "c": "Aprender na prática pode ser mais útil do que estudar em aulas convencionais."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Explique o grau de concordância ou discordância que tem."
+      }
+    ]
+  },
+  "band9-write_essay-011": {
+    "prompt": [
+      {
+        "h": "1c53475a",
+        "l": "Viajar é uma das melhores maneiras de educar os jovens sobre o mundo.",
+        "c": "Conhecer outros lugares pode ser uma excelente forma de ampliar a visão de mundo dos jovens."
+      },
+      {
+        "h": "f356fe44",
+        "l": "Você concorda ou discorda?",
+        "c": "Diga se apoia ou rejeita essa ideia."
+      },
+      {
+        "h": "932d2103",
+        "l": "Apresente razões e exemplos.",
+        "c": "Sustente sua resposta com justificativas e casos concretos."
+      }
+    ]
+  },
+  "band9-write_essay-012": {
+    "prompt": [
+      {
+        "h": "bc753982",
+        "l": "A tecnologia está sendo cada vez mais utilizada na educação.",
+        "c": "O uso de recursos tecnológicos no ensino vem aumentando."
+      },
+      {
+        "h": "fd179453",
+        "l": "Discuta as vantagens e desvantagens dessa tendência.",
+        "c": "Avalie os lados positivos e negativos desse aumento."
+      }
+    ]
+  },
+  "band9-write_essay-013": {
+    "prompt": [
+      {
+        "h": "01a2ba3c",
+        "l": "A inteligência artificial está sendo usada de forma mais ampla na educação.",
+        "c": "Ferramentas de IA estão ganhando espaço no ensino."
+      },
+      {
+        "h": "59c22aed",
+        "l": "Discuta as vantagens e desvantagens desse desenvolvimento.",
+        "c": "Examine os benefícios e os problemas dessa expansão."
+      }
+    ]
+  },
+  "band9-write_essay-014": {
+    "prompt": [
+      {
+        "h": "f7ef69ad",
+        "l": "Ferramentas de IA estão mudando a maneira como as pessoas aprendem línguas estrangeiras.",
+        "c": "A inteligência artificial está transformando o estudo de outros idiomas."
+      },
+      {
+        "h": "75d68d03",
+        "l": "Quais são os problemas e benefícios desse desenvolvimento?",
+        "c": "Aponte as vantagens e as dificuldades dessa mudança."
+      }
+    ]
+  },
+  "band9-write_essay-015": {
+    "prompt": [
+      {
+        "h": "7e6f0321",
+        "l": "As mídias sociais mudaram significativamente a maneira como as pessoas se comunicam e interagem.",
+        "c": "As redes sociais transformaram bastante as relações e a comunicação entre as pessoas."
+      },
+      {
+        "h": "98bdb1a3",
+        "l": "Discuta os impactos positivos e negativos das mídias sociais na sociedade.",
+        "c": "Analise como as redes sociais beneficiam e prejudicam a vida social."
+      }
+    ]
+  },
+  "band9-write_essay-016": {
+    "prompt": [
+      {
+        "h": "0655ffde",
+        "l": "A tecnologia moderna trouxe muitas invenções que afetam a vida cotidiana.",
+        "c": "Novas invenções tecnológicas influenciam o dia a dia das pessoas."
+      },
+      {
+        "h": "54fd69c8",
+        "l": "Discuta as vantagens e desvantagens dessas invenções tecnológicas.",
+        "c": "Pondere os benefícios e os inconvenientes dos avanços tecnológicos."
+      }
+    ]
+  },
+  "band9-write_essay-017": {
+    "prompt": [
+      {
+        "h": "199871fa",
+        "l": "Em muitas cidades e municípios, grandes shopping centers estão substituindo pequenas lojas locais.",
+        "c": "O comércio de bairro está perdendo espaço para centros comerciais maiores."
+      },
+      {
+        "h": "9032f582",
+        "l": "Você acha que esse é um desenvolvimento positivo ou negativo?",
+        "c": "Diga se considera essa transformação boa ou ruim."
+      },
+      {
+        "h": "973022ca",
+        "l": "Apresente suas razões e exemplos.",
+        "c": "Justifique sua avaliação com argumentos e exemplos."
+      }
+    ]
+  },
+  "band9-write_essay-018": {
+    "prompt": [
+      {
+        "h": "473910e7",
+        "l": "Limites de idade são aplicados a atividades como dirigir, votar e consumir álcool.",
+        "c": "A lei estabelece idades mínimas para conduzir, votar e beber."
+      },
+      {
+        "h": "c0615b0d",
+        "l": "Você acha que esses limites de idade deveriam ser alterados?",
+        "c": "Diga se as idades mínimas atuais deveriam mudar."
+      },
+      {
+        "h": "d20afa13",
+        "l": "Escolha uma atividade e explique sua opinião.",
+        "c": "Selecione um dos casos e justifique seu ponto de vista."
+      }
+    ]
+  },
+  "band9-write_essay-019": {
+    "prompt": [
+      {
+        "h": "83b2a007",
+        "l": "Algumas pessoas preferem morar em cidades, enquanto outras preferem viver no campo.",
+        "c": "Há quem escolha a vida urbana e quem prefira o interior."
+      },
+      {
+        "h": "72d6ba21",
+        "l": "Discuta ambos os pontos de vista e apresente sua própria opinião.",
+        "c": "Compare as duas preferências e diga qual é a sua."
+      }
+    ]
+  },
+  "band9-write_essay-020": {
+    "prompt": [
+      {
+        "h": "b88bb66a",
+        "l": "A televisão proporciona às pessoas relaxamento e companhia.",
+        "c": "Assistir à TV pode ajudar a descansar e reduzir a sensação de solidão."
+      },
+      {
+        "h": "8697298b",
+        "l": "Discuta até que ponto você concorda ou discorda dessa afirmação.",
+        "c": "Explique se considera verdadeira essa ideia e em que medida."
+      }
+    ]
+  },
+  "band9-write_essay-021": {
+    "prompt": [
+      {
+        "h": "c0704710",
+        "l": "A mídia de massa, incluindo televisão, jornais e internet, exerce uma influência poderosa sobre a sociedade.",
+        "c": "Meios de comunicação de grande alcance moldam significativamente a sociedade."
+      },
+      {
+        "h": "5cd382be",
+        "l": "Discuta os efeitos positivos e negativos da mídia de massa.",
+        "c": "Avalie os benefícios e os prejuízos causados pelos meios de comunicação."
+      }
+    ]
+  },
+  "band9-write_essay-022": {
+    "prompt": [
+      {
+        "h": "961674bf",
+        "l": "É mais difícil para as crianças crescerem no século XXI do que era no passado.",
+        "c": "A infância atual pode ser mais desafiadora do que a de antigamente."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Indique o quanto aceita ou rejeita essa afirmação."
+      }
+    ]
+  },
+  "band9-write_essay-023": {
+    "prompt": [
+      {
+        "h": "886b2273",
+        "l": "Pessoas que são artistas famosos ou atletas deveriam abrir mão do direito à privacidade, pois esse é o preço da fama.",
+        "c": "A ideia é que celebridades e esportistas precisam aceitar a exposição pública como consequência da notoriedade."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Explique se concorda com essa opinião e em qual medida."
+      }
+    ]
+  },
+  "band9-write_essay-024": {
+    "prompt": [
+      {
+        "h": "5fc0fdbe",
+        "l": "A mudança climática é um dos problemas mais graves que nosso planeta enfrenta atualmente.",
+        "c": "O aquecimento e as alterações do clima estão entre as maiores ameaças atuais à Terra."
+      },
+      {
+        "h": "49208e10",
+        "l": "Quais são as causas das mudanças climáticas e quais soluções podem ser implementadas?",
+        "c": "O que provoca as mudanças climáticas e como é possível enfrentá-las?"
+      }
+    ]
+  },
+  "band9-write_essay-025": {
+    "prompt": [
+      {
+        "h": "e7aabd65",
+        "l": "A globalização teve um impacto significativo nas culturas locais ao redor do mundo.",
+        "c": "As culturas locais de todo o planeta foram bastante afetadas pela globalização."
+      },
+      {
+        "h": "f522fb9f",
+        "l": "Discuta os efeitos positivos e negativos da globalização sobre as culturas locais.",
+        "c": "Analise os benefícios e prejuízos que a globalização traz às culturas locais."
+      }
+    ]
+  },
+  "band9-write_essay-026": {
+    "prompt": [
+      {
+        "h": "e3489ce3",
+        "l": "Um dos problemas globais enfrentados pelos habitantes do nosso planeta é a crescente disparidade entre as nações ricas e pobres.",
+        "c": "A distância econômica entre países ricos e pobres está aumentando e é um problema mundial."
+      },
+      {
+        "h": "24c63492",
+        "l": "Discuta esse problema e sugira possíveis soluções.",
+        "c": "Analise a questão e apresente maneiras de resolvê-la."
+      }
+    ]
+  },
+  "band9-write_essay-027": {
+    "prompt": [
+      {
+        "h": "4b09ee88",
+        "l": "A tecnologia médica está ampliando a expectativa média de vida das pessoas ao redor do mundo.",
+        "c": "Os avanços da medicina fazem com que as pessoas vivam mais."
+      },
+      {
+        "h": "8b636b5d",
+        "l": "Discuta as vantagens e desvantagens de as pessoas viverem mais tempo.",
+        "c": "Quais são os benefícios e os inconvenientes do aumento da longevidade?"
+      }
+    ]
+  },
+  "band9-write_essay-028": {
+    "prompt": [
+      {
+        "h": "8d3a3880",
+        "l": "Os governos deveriam investir mais no transporte público em vez de construir novas estradas.",
+        "c": "É melhor priorizar o transporte coletivo do que abrir novas vias."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Qual é o seu grau de concordância com essa ideia?"
+      }
+    ]
+  },
+  "band9-write_essay-029": {
+    "prompt": [
+      {
+        "h": "aaf585ff",
+        "l": "O projeto de edifícios modernos deveria priorizar a função em vez da aparência.",
+        "c": "Na arquitetura atual, a utilidade deveria ter prioridade sobre a estética."
+      },
+      {
+        "h": "8deed22d",
+        "l": "Discuta as vantagens e desvantagens dessa visão.",
+        "c": "Quais são os pontos positivos e negativos dessa perspectiva?"
+      }
+    ]
+  },
+  "band9-write_essay-030": {
+    "prompt": [
+      {
+        "h": "8146a2c6",
+        "l": "Há uma preocupação crescente com o impacto das redes sociais na saúde mental dos jovens.",
+        "c": "O efeito das redes sociais sobre o bem-estar psicológico dos jovens vem preocupando cada vez mais."
+      },
+      {
+        "h": "caf7efc4",
+        "l": "Discuta as causas desse problema e sugira possíveis soluções.",
+        "c": "Explique por que isso acontece e indique formas de lidar com a questão."
+      }
+    ]
+  },
+  "band9-write_essay-031": {
+    "prompt": [
+      {
+        "h": "9f5dffd2",
+        "l": "Algumas pessoas acreditam que edifícios históricos deveriam ser preservados, enquanto outras pensam que deveriam ser demolidos para dar lugar ao desenvolvimento moderno.",
+        "c": "Há quem defenda a conservação de construções antigas e quem prefira substituí-las por novos empreendimentos."
+      },
+      {
+        "h": "72d6ba21",
+        "l": "Discuta ambas as perspectivas e apresente sua própria opinião.",
+        "c": "Compare os dois lados e diga o que você pensa."
+      }
+    ]
+  },
+  "band9-write_essay-032": {
+    "prompt": [
+      {
+        "h": "17385b2a",
+        "l": "Alguns jovens escolhem tirar um ano sabático entre o ensino médio e a universidade.",
+        "c": "Há jovens que fazem uma pausa de um ano antes de começar a faculdade."
+      },
+      {
+        "h": "387a3f2f",
+        "l": "Você acha que isso é benéfico ou prejudicial?",
+        "c": "Essa pausa traz mais vantagens ou mais danos?"
+      },
+      {
+        "h": "52f46012",
+        "l": "Dê sua opinião com razões e exemplos.",
+        "c": "Justifique seu ponto de vista e ilustre-o com exemplos."
+      }
+    ]
+  },
+  "band9-write_essay-033": {
+    "prompt": [
+      {
+        "h": "b5b43940",
+        "l": "Um diploma universitário é essencial para o sucesso profissional no mundo de hoje.",
+        "c": "Atualmente, ter formação universitária é indispensável para ter uma carreira bem-sucedida."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida essa afirmação corresponde à sua opinião?"
+      }
+    ]
+  },
+  "band9-write_essay-034": {
+    "prompt": [
+      {
+        "h": "fbc75d65",
+        "l": "Algumas pessoas argumentam que usar animais em pesquisas científicas é cruel e desnecessário, enquanto outras acreditam que isso é essencial para o progresso médico.",
+        "c": "Uns consideram os testes em animais injustificáveis; outros os veem como necessários para avanços na medicina."
+      },
+      {
+        "h": "72d6ba21",
+        "l": "Discuta ambas as perspectivas e apresente sua própria opinião.",
+        "c": "Exponha os dois lados do debate e diga qual é a sua posição."
+      }
+    ]
+  },
+  "band9-write_essay-035": {
+    "prompt": [
+      {
+        "h": "2421800b",
+        "l": "Algumas pessoas acreditam que a publicidade é prejudicial à sociedade, enquanto outras argumentam que ela desempenha um papel importante nas economias modernas.",
+        "c": "Há quem veja a propaganda como nociva e quem a considere importante para a economia atual."
+      },
+      {
+        "h": "72d6ba21",
+        "l": "Discuta ambas as perspectivas e apresente sua própria opinião.",
+        "c": "Compare os argumentos e explique seu próprio posicionamento."
+      }
+    ]
+  },
+  "band9-write_essay-036": {
+    "prompt": [
+      {
+        "h": "119067d2",
+        "l": "Muitos governos estão introduzindo proibições aos plásticos descartáveis.",
+        "c": "Diversos países estão proibindo produtos plásticos de uso único."
+      },
+      {
+        "h": "5f6dcb27",
+        "l": "Discuta as vantagens e desvantagens de tais proibições.",
+        "c": "Analise os benefícios e os custos dessas medidas."
+      }
+    ]
+  },
+  "band9-write_essay-037": {
+    "prompt": [
+      {
+        "h": "0665bb72",
+        "l": "A educação on-line tornou-se cada vez mais popular.",
+        "c": "O ensino pela internet vem conquistando mais adeptos."
+      },
+      {
+        "h": "11d6705d",
+        "l": "Quais são as vantagens e desvantagens do aprendizado on-line em comparação com a educação tradicional em sala de aula?",
+        "c": "Compare os pontos positivos e negativos de estudar pela internet e presencialmente."
+      }
+    ]
+  },
+  "band9-write_essay-038": {
+    "prompt": [
+      {
+        "h": "b0778868",
+        "l": "A imigração tem efeitos positivos e negativos sobre as economias dos países anfitriões.",
+        "c": "A chegada de imigrantes pode trazer tanto benefícios quanto prejuízos econômicos aos países que os recebem."
+      },
+      {
+        "h": "72d6ba21",
+        "l": "Discuta ambas as perspectivas e apresente sua própria opinião.",
+        "c": "Considere os dois lados e informe o que você pensa."
+      }
+    ]
+  },
+  "band9-write_essay-039": {
+    "prompt": [
+      {
+        "h": "24756cda",
+        "l": "A tecnologia médica é uma bênção ou uma maldição.",
+        "c": "Os avanços médicos são algo bom ou ruim?"
+      },
+      {
+        "h": "ded1db4e",
+        "l": "Qual é a sua opinião?",
+        "c": "O que você pensa a respeito?"
+      },
+      {
+        "h": "932d2103",
+        "l": "Dê razões e exemplos.",
+        "c": "Apresente justificativas e ilustrações."
+      }
+    ]
+  },
+  "band9-write_essay-040": {
+    "prompt": [
+      {
+        "h": "dba177d5",
+        "l": "Muitas pessoas dizem que deveria haver um salário máximo para empregos muito bem remunerados, pois algumas pessoas recebem demais.",
+        "c": "Há quem defenda um limite salarial para os cargos mais bem pagos, porque considera excessiva a remuneração de algumas pessoas."
+      },
+      {
+        "h": "f356fe44",
+        "l": "Você concorda ou discorda?",
+        "c": "Qual é a sua posição sobre essa proposta?"
+      }
+    ]
+  },
+  "band9-write_essay-041": {
+    "prompt": [
+      {
+        "h": "50c8105c",
+        "l": "As organizações deveriam envolver os funcionários no processo de tomada de decisões sobre seus produtos e serviços?",
+        "c": "Os colaboradores deveriam participar das decisões relativas ao que a empresa oferece?"
+      },
+      {
+        "h": "f2797ff1",
+        "l": "Discuta.",
+        "c": "Apresente uma análise do tema."
+      }
+    ]
+  },
+  "band9-write_essay-042": {
+    "prompt": [
+      {
+        "h": "4aa21268",
+        "l": "Provas escritas formais são uma forma válida de avaliação.",
+        "c": "Exames escritos tradicionais podem ser usados legitimamente para avaliar os alunos."
+      },
+      {
+        "h": "7887d116",
+        "l": "Dê sua opinião com exemplos.",
+        "c": "Declare seu ponto de vista e sustente-o com exemplos."
+      }
+    ]
+  },
+  "band9-write_essay-043": {
+    "prompt": [
+      {
+        "h": "e9c360c1",
+        "l": "Pessoas famosas deveriam abrir mão de seu direito à privacidade quando se tornam figuras públicas.",
+        "c": "Ao ganhar notoriedade pública, celebridades deveriam perder o direito de manter a vida privada?"
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida você apoia ou rejeita essa ideia?"
+      }
+    ]
+  },
+  "langacad-write_essay-001": {
+    "prompt": [
+      {
+        "h": "f1d52e1f",
+        "l": "As universidades deveriam aceitar números iguais de estudantes do sexo masculino e feminino em cada área.",
+        "c": "Cada curso universitário deveria ter a mesma quantidade de homens e mulheres."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Qual é o seu nível de concordância com essa proposta?"
+      }
+    ]
+  },
+  "langacad-write_essay-002": {
+    "prompt": [
+      {
+        "h": "08c99c5c",
+        "l": "Crianças pequenas deveriam passar a maior parte do tempo brincando em vez de frequentar aulas formais.",
+        "c": "Na infância, brincar deveria ocupar mais tempo do que as aulas tradicionais."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida você concorda com essa afirmação?"
+      }
+    ]
+  },
+  "langacad-write_essay-003": {
+    "prompt": [
+      {
+        "h": "5242c83d",
+        "l": "Nas escolas e universidades, as meninas tendem a escolher disciplinas de artes, enquanto os meninos escolhem disciplinas de ciências.",
+        "c": "É comum que alunas prefiram artes e alunos optem por ciências nos estudos."
+      },
+      {
+        "h": "44e3ef98",
+        "l": "Quais são as razões para isso?",
+        "c": "O que explica essa tendência?"
+      },
+      {
+        "h": "343ce040",
+        "l": "Os governos deveriam tentar mudar isso?",
+        "c": "Cabe ao governo intervir para alterar esse padrão?"
+      }
+    ]
+  },
+  "langacad-write_essay-004": {
+    "prompt": [
+      {
+        "h": "f73e407e",
+        "l": "Algumas pessoas argumentam que a educação universitária deveria se concentrar em habilidades práticas e profissionais, em vez de teoria acadêmica.",
+        "c": "Há quem defenda cursos superiores voltados ao trabalho, com menos ênfase em conceitos teóricos."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida essa visão representa sua opinião?"
+      }
+    ]
+  },
+  "langacad-write_essay-005": {
+    "prompt": [
+      {
+        "h": "efd12c36",
+        "l": "Os programas de ensino a distância estão se tornando mais populares e talvez um dia substituam as aulas presenciais.",
+        "c": "A educação remota cresce e pode, no futuro, tomar o lugar do ensino presencial."
+      },
+      {
+        "h": "3e2a96d2",
+        "l": "As vantagens desse desenvolvimento superam as desvantagens?",
+        "c": "Os benefícios dessa mudança são maiores que seus aspectos negativos?"
+      }
+    ]
+  },
+  "langacad-write_essay-006": {
+    "prompt": [
+      {
+        "h": "78635772",
+        "l": "Os governos deveriam gastar mais dinheiro com educação do que com a solução de problemas ambientais.",
+        "c": "A educação deveria receber mais recursos públicos do que as iniciativas ambientais."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Você concorda com essa prioridade? Em que medida?"
+      }
+    ]
+  },
+  "langacad-write_essay-007": {
+    "prompt": [
+      {
+        "h": "5e8287ad",
+        "l": "É mais importante que os estudantes estudem disciplinas de ciência e tecnologia do que artes e humanidades.",
+        "c": "Ciência e tecnologia deveriam ser priorizadas em relação às artes e às humanidades na formação dos alunos."
+      },
+      {
+        "h": "f356fe44",
+        "l": "Você concorda ou discorda?",
+        "c": "Você apoia ou rejeita essa ideia?"
+      }
+    ]
+  },
+  "langacad-write_essay-008": {
+    "prompt": [
+      {
+        "h": "b7c8c53c",
+        "l": "Robôs e computadores acabarão substituindo trabalhadores em todas as áreas.",
+        "c": "No futuro, máquinas tomarão o lugar dos profissionais de qualquer setor."
+      },
+      {
+        "h": "f356fe44",
+        "l": "Você concorda ou discorda?",
+        "c": "Qual é a sua posição sobre essa previsão?"
+      }
+    ]
+  },
+  "langacad-write_essay-009": {
+    "prompt": [
+      {
+        "h": "10122a14",
+        "l": "As plataformas de redes sociais tiveram um efeito negativo sobre indivíduos e a sociedade.",
+        "c": "As redes sociais prejudicaram tanto as pessoas quanto o conjunto da sociedade."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida você considera essa afirmação verdadeira?"
+      }
+    ]
+  },
+  "langacad-write_essay-010": {
+    "prompt": [
+      {
+        "h": "c1733a7c",
+        "l": "No mundo moderno, é possível fazer compras, trabalhar e se comunicar inteiramente pela internet.",
+        "c": "Hoje, todas essas atividades podem ser realizadas on-line."
+      },
+      {
+        "h": "2de3bbe3",
+        "l": "Os benefícios disso superam as desvantagens?",
+        "c": "Essa possibilidade traz mais vantagens do que inconvenientes?"
+      }
+    ]
+  },
+  "langacad-write_essay-011": {
+    "prompt": [
+      {
+        "h": "cca65396",
+        "l": "A inteligência artificial em breve superará a capacidade humana na maioria das áreas de trabalho e tomada de decisões.",
+        "c": "Em pouco tempo, a IA poderá ser melhor que as pessoas na maior parte das profissões e decisões."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Qual é o seu grau de concordância com essa previsão?"
+      }
+    ]
+  },
+  "langacad-write_essay-012": {
+    "prompt": [
+      {
+        "h": "999c14e8",
+        "l": "A única maneira de reduzir o congestionamento do trânsito nas cidades é tornar muito caro possuir um carro particular.",
+        "c": "Para diminuir os engarrafamentos urbanos, seria necessário elevar bastante o custo de ter um automóvel."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Você acredita que essa é realmente a única solução?"
+      }
+    ]
+  },
+  "langacad-write_essay-013": {
+    "prompt": [
+      {
+        "h": "9995032b",
+        "l": "O serviço comunitário não remunerado deveria ser uma parte obrigatória dos programas do ensino médio.",
+        "c": "Alunos do ensino médio deveriam ser obrigados a prestar trabalho voluntário comunitário."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida você apoia essa exigência?"
+      }
+    ]
+  },
+  "langacad-write_essay-014": {
+    "prompt": [
+      {
+        "h": "dc029dac",
+        "l": "Os governos gastam grandes quantias de dinheiro na exploração espacial.",
+        "c": "Uma parcela significativa dos recursos públicos vai para explorar o espaço."
+      },
+      {
+        "h": "bc31cb47",
+        "l": "Algumas pessoas pensam que isso é um desperdício de dinheiro público.",
+        "c": "Há quem considere esses gastos um mau uso dos impostos."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Qual é a sua avaliação dessa crítica?"
+      }
+    ]
+  },
+  "langacad-write_essay-015": {
+    "prompt": [
+      {
+        "h": "fc0b62ed",
+        "l": "Alguns países introduziram leis para limitar a jornada de trabalho dos funcionários.",
+        "c": "Em certos países, há regras que estabelecem limites para as horas trabalhadas."
+      },
+      {
+        "h": "b92c9cf8",
+        "l": "Por que essas leis são introduzidas?",
+        "c": "Quais são os motivos para a criação dessas normas?"
+      },
+      {
+        "h": "d7bbf866",
+        "l": "Você acha que elas são uma boa ideia?",
+        "c": "Essas restrições são positivas na sua opinião?"
+      }
+    ]
+  },
+  "langacad-write_essay-016": {
+    "prompt": [
+      {
+        "h": "b030d2cc",
+        "l": "As nações ricas deveriam ser obrigadas a compartilhar sua riqueza com as nações mais pobres, fornecendo alimentos, educação e tecnologia.",
+        "c": "Países prósperos deveriam ajudar os mais necessitados com recursos e acesso a serviços e tecnologia."
+      },
+      {
+        "h": "f356fe44",
+        "l": "Você concorda ou discorda?",
+        "c": "Você apoia ou é contra essa obrigação?"
+      }
+    ]
+  },
+  "langacad-write_essay-017": {
+    "prompt": [
+      {
+        "h": "80e0f617",
+        "l": "O governo deveria controlar a quantidade de violência exibida em filmes e na televisão a fim de reduzir os crimes violentos na sociedade.",
+        "c": "Limitar a violência na mídia seria uma forma de combater crimes violentos, segundo essa proposta."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida você acredita que essa medida é adequada?"
+      }
+    ]
+  },
+  "langacad-write_essay-018": {
+    "prompt": [
+      {
+        "h": "5965f84e",
+        "l": "Leis que tornem ilegal dirigir após consumir bebidas alcoólicas deveriam ser introduzidas em todos os países.",
+        "c": "Todos os países deveriam proibir que alguém conduza depois de beber álcool."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Qual é o seu nível de apoio a essa proposta?"
+      }
+    ]
+  },
+  "langacad-write_essay-019": {
+    "prompt": [
+      {
+        "h": "0800c207",
+        "l": "As pessoas deveriam reduzir a quantidade de viagens que fazem porque essa é uma das principais causas da poluição.",
+        "c": "Viajar menos ajudaria a diminuir a poluição, que tem entre suas principais fontes os deslocamentos."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Você concorda com a ideia de reduzir as viagens? Em que medida?"
+      }
+    ]
+  },
+  "langacad-write_essay-020": {
+    "prompt": [
+      {
+        "h": "6a0b0dab",
+        "l": "O uso de combustíveis fósseis, como carvão e petróleo, está prejudicando o planeta.",
+        "c": "A queima de carvão e petróleo causa danos ao meio ambiente."
+      },
+      {
+        "h": "0d00e36f",
+        "l": "Deveríamos fazer a transição para fontes de energia renováveis, como a solar e a eólica.",
+        "c": "É preciso substituir fontes poluentes por energias renováveis, como sol e vento."
+      },
+      {
+        "h": "9ff1838c",
+        "l": "Até que ponto você concorda?",
+        "c": "Em que medida você apoia essa mudança?"
+      }
+    ]
+  },
+  "langacad-write_essay-021": {
+    "prompt": [
+      {
+        "h": "9da580ef",
+        "l": "O aquecimento global é uma das maiores ameaças que os seres humanos enfrentam no século XXI.",
+        "c": "Entre os riscos mais sérios para a humanidade neste século está o aquecimento do planeta."
+      },
+      {
+        "h": "eda809e7",
+        "l": "Quais problemas estão associados a isso?",
+        "c": "Que consequências o aquecimento global pode trazer?"
+      },
+      {
+        "h": "9c956a00",
+        "l": "Quais soluções você pode sugerir?",
+        "c": "Que medidas poderiam ajudar a resolver essa questão?"
+      }
+    ]
+  },
+  "langacad-write_essay-022": {
+    "prompt": [
+      {
+        "h": "cc289603",
+        "l": "A atividade humana teve um impacto em grande parte negativo sobre plantas e animais ao redor do mundo.",
+        "c": "As ações das pessoas prejudicaram a flora e a fauna em muitas partes do planeta."
+      },
+      {
+        "h": "6fd93306",
+        "l": "Alguns acreditam que isso não é importante, desde que protejamos as populações humanas.",
+        "c": "Para alguns, preservar outras espécies é secundário se os seres humanos estiverem protegidos."
+      },
+      {
+        "h": "db41b8fb",
+        "l": "Você concorda?",
+        "c": "Você compartilha dessa opinião?"
+      }
+    ]
+  },
+  "langacad-write_essay-023": {
+    "prompt": [
+      {
+        "h": "7e4364b8",
+        "l": "Grandes corporações e empresas multinacionais deveriam assumir a responsabilidade principal por lidar com os danos ambientais.",
+        "c": "O combate à degradação ambiental deveria ficar sobretudo a cargo das grandes empresas e multinacionais."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida você considera que essa responsabilidade cabe a elas?"
+      }
+    ]
+  },
+  "langacad-write_essay-024": {
+    "prompt": [
+      {
+        "h": "630465a3",
+        "l": "A publicidade direcionada às crianças é prejudicial e deveria ser proibida.",
+        "c": "Anúncios voltados ao público infantil fazem mal e devem ser banidos."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Qual é o seu grau de concordância com essa proibição?"
+      }
+    ]
+  },
+  "langacad-write_essay-025": {
+    "prompt": [
+      {
+        "h": "7da3d9a0",
+        "l": "A mídia tem uma influência poderosa sobre a vida e as opiniões das pessoas.",
+        "c": "Os meios de comunicação moldam fortemente o cotidiano e as ideias do público."
+      },
+      {
+        "h": "dd2d7ced",
+        "l": "Como a mídia influencia as pessoas?",
+        "c": "De que maneiras os meios de comunicação afetam o público?"
+      },
+      {
+        "h": "33a4b51f",
+        "l": "Essa influência é positiva ou negativa?",
+        "c": "O efeito da mídia é bom ou ruim?"
+      }
+    ]
+  },
+  "langacad-write_essay-026": {
+    "prompt": [
+      {
+        "h": "3de7a2ee",
+        "l": "Algumas pessoas pensam que a mídia não deveria divulgar detalhes de crimes porque isso poderia ser prejudicial à sociedade.",
+        "c": "Há quem defenda que notícias não exponham informações detalhadas sobre delitos, para evitar danos sociais."
+      },
+      {
+        "h": "f356fe44",
+        "l": "Você concorda ou discorda?",
+        "c": "Você apoia essa restrição?"
+      }
+    ]
+  },
+  "langacad-write_essay-027": {
+    "prompt": [
+      {
+        "h": "7a0a540a",
+        "l": "As redes sociais substituíram formas tradicionais de comunicação, como escrever cartas e interagir cara a cara.",
+        "c": "Hoje, plataformas sociais ocupam o lugar de práticas como a correspondência e as conversas presenciais."
+      },
+      {
+        "h": "2de3bbe3",
+        "l": "Os benefícios disso superam as desvantagens?",
+        "c": "Essa transformação trouxe mais vantagens do que prejuízos?"
+      }
+    ]
+  },
+  "langacad-write_essay-028": {
+    "prompt": [
+      {
+        "h": "bf2e029e",
+        "l": "O crescimento das notícias on-line significa que a mídia impressa, como jornais e revistas, não é mais relevante.",
+        "c": "Com a expansão das notícias digitais, publicações em papel podem ter perdido sua importância."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Em que medida você acredita que os impressos se tornaram dispensáveis?"
+      }
+    ]
+  },
+  "langacad-write_essay-029": {
+    "prompt": [
+      {
+        "h": "5602267b",
+        "l": "O desenvolvimento do comércio global levou a uma queda nas vendas de produtos fabricados localmente.",
+        "c": "A expansão do comércio internacional reduziu a procura por mercadorias produzidas na região."
+      },
+      {
+        "h": "b10dd3d1",
+        "l": "Quais são as causas disso?",
+        "c": "O que levou a essa redução?"
+      },
+      {
+        "h": "9c956a00",
+        "l": "Quais soluções você pode sugerir?",
+        "c": "Que iniciativas poderiam reverter essa situação?"
+      }
+    ]
+  },
+  "langacad-write_essay-030": {
+    "prompt": [
+      {
+        "h": "1f163df8",
+        "l": "Algumas pessoas pensam que visitantes estrangeiros deveriam pagar mais do que os moradores locais ao visitar atrações culturais ou turísticas.",
+        "c": "Turistas de fora deveriam pagar ingressos mais caros que os residentes para acessar esses lugares?"
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Você é favorável a essa diferença de preços?"
+      }
+    ]
+  },
+  "langacad-write_essay-031": {
+    "prompt": [
+      {
+        "h": "be5263c9",
+        "l": "A distância entre os ricos e os pobres continua a aumentar em muitos países.",
+        "c": "Em vários países, a desigualdade econômica está se aprofundando."
+      },
+      {
+        "h": "b10dd3d1",
+        "l": "Quais são as causas disso?",
+        "c": "Por que essa diferença continua crescendo?"
+      },
+      {
+        "h": "587c60ff",
+        "l": "O que os governos deveriam fazer para lidar com essa questão?",
+        "c": "Que ações públicas poderiam enfrentar esse problema?"
+      }
+    ]
+  },
+  "langacad-write_essay-032": {
+    "prompt": [
+      {
+        "h": "c727e64c",
+        "l": "O estresse é agora um grande problema em muitos países ao redor do mundo.",
+        "c": "Atualmente, muitas nações enfrentam níveis preocupantes de estresse."
+      },
+      {
+        "h": "7543e0d1",
+        "l": "Quais são alguns dos fatores da sociedade moderna que causam esse estresse e como podemos reduzi-lo?",
+        "c": "O que na vida atual gera tensão e o que pode ser feito para aliviá-la?"
+      }
+    ]
+  },
+  "langacad-write_essay-033": {
+    "prompt": [
+      {
+        "h": "4475b73e",
+        "l": "O aumento da expectativa de vida em muitos países significa que a população está envelhecendo, criando problemas tanto para os indivíduos quanto para a sociedade.",
+        "c": "Com mais pessoas vivendo até idades avançadas, surgem desafios pessoais e coletivos."
+      },
+      {
+        "h": "c986fe55",
+        "l": "Quais são esses problemas e como podem ser enfrentados?",
+        "c": "Que dificuldades acompanham o envelhecimento populacional e como lidar com elas?"
+      }
+    ]
+  },
+  "langacad-write_essay-034": {
+    "prompt": [
+      {
+        "h": "ee210043",
+        "l": "A melhor maneira de melhorar a saúde pública é aumentar o número de instalações esportivas disponíveis ao público.",
+        "c": "Ampliar a oferta de espaços para praticar esportes seria a melhor forma de promover a saúde coletiva."
+      },
+      {
+        "h": "93edc43b",
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Você considera essa a estratégia mais eficaz?"
+      }
+    ]
+  },
+  "langacad-write_essay-035": {
+    "prompt": [
+      {
+        "h": "2d99a946",
+        "l": "O peso médio das pessoas em muitos países está aumentando, enquanto os níveis de saúde e condicionamento físico estão diminuindo.",
+        "c": "Em diversas nações, a população está mais pesada e menos saudável e ativa."
+      },
+      {
+        "h": "bb6b56da",
+        "l": "Quais são as principais causas disso?",
+        "c": "O que está por trás dessa tendência?"
+      },
+      {
+        "h": "29da170b",
+        "l": "Que medidas os governos e os indivíduos poderiam tomar?",
+        "c": "O que autoridades e cidadãos podem fazer para mudar esse quadro?"
+      }
+    ]
+  },
+  "langacad-write_essay-039": {
+    "prompt": [
+      {
+        "h": "f1555324",
+        "l": "Depois de escrever, confira sua redação usando os critérios de avaliação: ela responde completamente à proposta?",
+        "c": "Ao terminar, verifique se o texto atende a tudo o que foi pedido na tarefa."
+      },
+      {
+        "h": "5eaca563",
+        "l": "Ela tem de 200 a 300 palavras?",
+        "c": "Confira se o tamanho do texto está dentro do limite exigido."
+      },
+      {
+        "h": "46715ed5",
+        "l": "Ela tem uma introdução clara, dois parágrafos de desenvolvimento e uma conclusão?",
+        "c": "Veja se a redação está organizada com abertura, dois desenvolvimentos e fechamento."
+      },
+      {
+        "h": "8d39a34c",
+        "l": "Você variou o uso de conectivos?",
+        "c": "Confira se empregou diferentes expressões para ligar as ideias."
+      }
+    ]
+  }
+}

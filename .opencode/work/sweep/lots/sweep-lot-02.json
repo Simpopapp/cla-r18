@@ -1,0 +1,193 @@
+[
+  {
+    "url": "https://ptehelper.com.au/tu-de-thi-pte-200-cau-answer-short-question-asq/",
+    "types": [
+      "answer_short"
+    ],
+    "apparentVolume": "Página anuncia 200; lista numerada visível, incluindo 365–415; não assumido que todos os 200 sejam únicos.",
+    "positiveSignals": [
+      "C2: equipe afirma ter extraído de provas reais (đề thi thật); alegação da fonte, não confirmação Pearson.",
+      "Questões e respostas abertas no HTML."
+    ],
+    "negativeSignals": [
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "C1 não demonstrado por texto idêntico em domínios com independência confirmada."
+    ],
+    "quotes": [
+      "Helper Team lấy từ đề thi thật",
+      "365 What does ice become when you heat it? Water",
+      "367 What is the antonym of predecessor? Successor"
+    ]
+  },
+  {
+    "url": "https://www.gurully.com/blog/pte-short-answer-questions-list/",
+    "types": [
+      "answer_short"
+    ],
+    "apparentVolume": "66 entradas numeradas observadas, Question 1–66, com respostas e links MP3.",
+    "positiveSignals": [
+      "C3 parcial: autoria Vidhi e revisão Brijesh Dhanani identificadas; perguntas, respostas e dicas abertas."
+    ],
+    "negativeSignals": [
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "C2 não confirmado na página atual; não confundir título most repeated do PDF indexado com evidência desta página."
+    ],
+    "quotes": [
+      "Which country is both a continent and a country?",
+      "Australia",
+      "Reviewed by - Brijesh Dhanani"
+    ]
+  },
+  {
+    "url": "https://sumlingo.com/blog/most-100-repeated-pte-answer-short-questions/",
+    "types": [
+      "answer_short"
+    ],
+    "apparentVolume": "100 questões anunciadas; lista extensa com perguntas e respostas visíveis no HTML.",
+    "positiveSignals": [
+      "C2: texto atribui os itens a relatos recentes de candidatos; data visível June 2, 2025."
+    ],
+    "negativeSignals": [
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "Sem identificação de candidatos, datas das provas ou verificação independente; revisão humana não demonstrada."
+    ],
+    "quotes": [
+      "These have been frequently reported by PTE candidates in recent tests.",
+      "Question: What do we call a doctor who performs operations?",
+      "Answer: Surgeon"
+    ]
+  },
+  {
+    "url": "http://www.ptesprinters.com/exam-recall/50-answer-short-questions-prediction-list-1-dec-2019/",
+    "types": [
+      "answer_short"
+    ],
+    "apparentVolume": "50 itens anunciados; lista numerada aberta com gabaritos junto às perguntas.",
+    "positiveSignals": [
+      "C2 parcial: página em exam-recall, título Prediction List-1: Dec-2019; chamada Recent Exam Memories."
+    ],
+    "negativeSignals": [
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "Lista antiga/preditiva, sem confirmação de aplicação de cada item."
+    ],
+    "quotes": [
+      "Check out \"Exam Recall\" section for Recent Exam Memories",
+      "3.How many days are in a leap year? – – 366"
+    ]
+  },
+  {
+    "url": "https://www.gurully.com/exam/pte/pte-summarize-group-discussion-sample",
+    "types": [
+      "sgd"
+    ],
+    "apparentVolume": "11 entradas Question 1–11 observadas; respostas-modelo em texto e áudio; transcrições integrais dos estímulos não verificadas.",
+    "positiveSignals": [
+      "C3 parcial: plataforma de preparação com respostas-modelo abertas e instruções de comparação."
+    ],
+    "negativeSignals": [
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "C1/C2 não demonstrados para os itens; exemplos de prática não comprovam recall real."
+    ],
+    "quotes": [
+      "Check the sample answer.",
+      "The discussion focuses on improving the effectiveness of recycling programs at the university and how institutions can promote more sustainable waste practices."
+    ]
+  },
+  {
+    "url": "https://alfapte.com/pte-speaking-practice/summarize-group-discussion/sample-questions",
+    "types": [
+      "sgd"
+    ],
+    "apparentVolume": "10 Sample Que observadas com scripts; nenhum resumo-modelo textual identificado.",
+    "positiveSignals": [
+      "Scripts de diálogos abertos; identificação Academic & UKVI."
+    ],
+    "negativeSignals": [
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "REPROVA: scripts são estímulos, não gabaritos; nenhum resumo-modelo observado.",
+      "C1/C2/C3 completo não demonstrados; candidata negativa, não fonte aprovada."
+    ],
+    "quotes": [
+      "Sample Que 10:",
+      "Man1: Did you guys hear about the student club fair next week?"
+    ]
+  },
+  {
+    "url": "https://www.gurully.com/pte-speaking-practice/respond-to-situation",
+    "types": [
+      "rts"
+    ],
+    "apparentVolume": "5 cenários visíveis; respostas textuais sob Transcript, incluindo poster e edição do trabalho.",
+    "positiveSignals": [
+      "C3 parcial: prática de provedor de preparação, cenários e respostas abertas."
+    ],
+    "negativeSignals": [
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "Mistura Academic e Core; instrução inicial usa 20 segundos (Core), inadequada ao Academic de 10 segundos.",
+      "C1/C2 de ocorrência em exame não demonstrados."
+    ],
+    "quotes": [
+      "You will have 20 seconds to think about your answer.",
+      "Hi, team! I'm glad to design the poster for the academic conference,",
+      "Could you share everything with me by Wednesday so I have enough time to plan the layout and make it look clear and engaging?"
+    ]
+  },
+  {
+    "url": "https://www.gurully.com/blog/pte-academic-respond-to-a-situation/",
+    "types": [
+      "rts"
+    ],
+    "apparentVolume": "Ao menos 1 exemplo aberto com áudio RTS_A_0031.mp3 e resposta-modelo textual.",
+    "positiveSignals": [
+      "C3 parcial: autor/revisor Brijesh Dhanani identificado; diferencia Academic e traz resposta-modelo."
+    ],
+    "negativeSignals": [
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "C2 não demonstrado para o exemplo; trata-se de amostra de preparação."
+    ],
+    "quotes": [
+      "You will have 10 seconds to prepare and 40 seconds to speak",
+      "Hi Dr. Singh, thank you so much for inviting me to contribute a section to the collaborative research paper."
+    ]
+  },
+  {
+    "url": "https://leapscholar.com/exams/pte/practice-test/reading/multiple-choice-multiple-answers",
+    "types": [
+      "read_mcq_multi"
+    ],
+    "apparentVolume": "Extração do buscador anuncia 15; primeiro item e chave B,C,D,E efetivamente lidos; volume total não conferido diretamente.",
+    "positiveSignals": [
+      "C2 fraco: página afirma 15 real questions; não oferece data de prova no trecho lido.",
+      "Passagem sobre sharing economy, opções e chave visíveis na extração do buscador."
+    ],
+    "negativeSignals": [
+      "REPROVA: robots.txt retornou HTTP 403; acesso direto encerrado, sem contorno.",
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate.",
+      "Sem corroboração independente nem revisão humana verificada."
+    ],
+    "quotes": [
+      "Practice with 15 real questions below, answers and explanations included.",
+      "Which of the following statements can be inferred from the passage?",
+      "B,C,D,E"
+    ]
+  },
+  {
+    "url": "https://realpte.com/practice/reading-multiple-choice-multiple",
+    "types": [
+      "read_mcq_multi"
+    ],
+    "apparentVolume": "41 anunciadas; índice lido via buscador; nenhum gabarito de item observado.",
+    "positiveSignals": [
+      "C2 parcial: índice atribui contagens I sat this a alunos; autodeclaração não verificada."
+    ],
+    "negativeSignals": [
+      "REPROVA: página HTTP 403 após robots permitido; sem nova tentativa.",
+      "REPROVA: somente títulos/contagens, sem gabarito lido.",
+      "Licença de reutilização não estabelecida; leitura pública não autoriza copiar o banco; pendente/reprova no gate."
+    ],
+    "quotes": [
+      "41 Reading: Multiple Choice, Multiple Answers questions in the RealPTE bank;",
+      "130 students marked \"I sat this\""
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|4",
+    "s": "Proponents argue that the primary benefit of such schemes is the immediate improvement in traffic flow.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|5",
+    "s": "With fewer private cars on the road, surface public transit systems, such as buses, can operate more efficiently, adhering to schedules without being hindered by gridlock.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|6",
+    "s": "Furthermore, the reduction in idling vehicles contributes to lower levels of local air pollution.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|7",
+    "s": "A crucial component of successful implementations is 'revenue recycling,' where the funds generated from the tolls are reinvested into the public transport infrastructure, thereby offering commuters viable alternatives to driving.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|8",
+    "s": "However, these policies are not without detractors.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|9",
+    "s": "Critics often point to the issue of social equity, arguing that flat-rate tolls function as a regressive tax.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|0",
+    "s": "The Viking Age is frequently defined in popular imagination by maritime aggression and exploration, yet the internal organization of Norse society reveals a sophisticated legal and social framework that functioned without a centralized state apparatus.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|1",
+    "s": "Governance was centered around the 'Thing,' a legislative and judicial assembly where free men convened to resolve disputes, elect leaders, and adjudicate laws.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|2",
+    "s": "Unlike the codified legal systems of the Roman or modern eras, early Viking law was predominantly customary and oral.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|3",
+    "s": "A designated official known as the Lawspeaker held a position of immense influence, tasked with memorizing the entire body of law and reciting it at the assembly, effectively serving as a living repository of statutes before the adoption of written codes following the region's Christianization.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|4",
+    "s": "Socially, the population was rigidly stratified into three distinct classes: Jarls, the wealthy aristocracy who held significant power and land; Karls, the independent free peasants who formed the bulk of the population and held the right to participate in the Thing; and Thralls, enslaved individuals who possessed no legal rights or standing.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|5",
+    "s": "While the system valued the democratic participation of free men, it was far from egalitarian.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|6",
+    "s": "The administration of justice aimed primarily to maintain social equilibrium and limit cycles of violence.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|7",
+    "s": "Consequently, the legal system often preferred financial compensation, known as 'wergild,' over physical punishment or imprisonment for violent crimes, serving to compensate the victim's family and prevent blood feuds.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|8",
+    "s": "However, for the most heinous offenses or a refusal to honor judgments, a man could be declared an outlaw.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-120|passage|9",
+    "s": "This status constituted a form of social execution; the outlaw was stripped of all property and protection, meaning they could be killed by anyone without legal repercussion, often forcing them into permanent exile to survive.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|0",
+    "s": "The urban landscape has undergone a distinct transformation in recent years with the rapid proliferation of micromobility solutions, most notably electric scooters and dockless bicycles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|1",
+    "s": "Proponents of this shift argue that these lightweight, shared vehicles offer an efficient solution to the persistent \"last mile\" problem, effectively bridging the gap between public transit hubs, such as train stations, and a commuter's final destination.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|2",
+    "s": "By facilitating short-distance travel without the need for a private car, micromobility theoretically has the potential to significantly alleviate traffic congestion and lower carbon emissions in dense metropolitan areas.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|3",
+    "s": "However, the swift and often unregulated introduction of these commercial fleets has precipitated significant friction within city environments.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|4",
+    "s": "A primary point of contention involves the physical encroachment on public space.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|5",
+    "s": "Unlike traditional bike-share systems that rely on fixed docking stations, these newer devices operate on a dockless model, allowing users to terminate their rides at will.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|6",
+    "s": "This flexibility frequently results in cluttered sidewalks that obstruct pedestrian flow and pose specific hazards for the visually impaired or those with limited mobility.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|7",
+    "s": "Furthermore, the ambiguity regarding where these vehicles should operate—whether on pavements, where they endanger walkers, or on roads, where riders are vulnerable to heavy traffic—has raised serious safety concerns.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|8",
+    "s": "Consequently, municipal authorities are scrambling to implement regulatory frameworks, ranging from geofenced speed limits and mandatory parking zones to outright bans in certain historic districts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-121|passage|9",
+    "s": "While the technology promises a more flexible and sustainable urban transport network, its long-term viability depends on reconciling these immediate logistical and safety conflicts with existing infrastructure capabilities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-122|passage|0",
+    "s": "The widespread adoption of autonomous vehicles (AVs) represents a pivotal moment for urban design, potentially overturning a century of planning focused on the private automobile.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-122|passage|1",
+    "s": "A primary inefficiency of current transportation models is that the average personal vehicle remains parked for approximately 95 percent of its existence.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-122|passage|2",
+    "s": "This necessitates enormous allocations of urban space for parking lots and garages—land that is often situated in high-demand city centers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-122|passage|3",
+    "s": "Proponents argue that a shift toward shared AV fleets could liberate this space, allowing it to be redeveloped into housing, parks, or pedestrian zones, thereby densifying cities and improving livability.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-122|passage|4",
+    "s": "Conversely, the transition presents complex challenges.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-122|passage|5",
+    "s": "Transportation analysts caution that without careful regulation, the convenience of AVs could lead to a rise in 'ghost cruising.' In this scenario, rather than incurring parking fees, empty vehicles might circulate continuously while waiting for their owners, effectively replacing parking demand with increased road congestion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-122|passage|6",
+    "s": "Additionally, the ease of automated travel could make longer commutes more tolerable, potentially encouraging urban sprawl rather than containing it.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-122|passage|7",
+    "s": "Ultimately, whether AVs reduce the urban footprint or expand it depends on whether future policy encourages shared ridership or merely automates the existing model of private ownership.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-123|passage|0",
+    "s": "The rapid expansion of High-Speed Rail (HSR) networks has fundamentally altered the economic geography of many nations, challenging traditional notions of distance and connectivity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-123|passage|1",
+    "s": "Proponents of HSR infrastructure argue that by drastically reducing travel times between major urban hubs, these networks act as a powerful catalyst for 'agglomeration benefits.' This economic concept suggests that when firms and skilled workers are brought closer together—measured not in miles but in temporal distance—productivity increases significantly due to facilitated face-to-face interactions and a deeper, more accessible labor pool.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-123|passage|2",
+    "s": "Consequently, distinct cities often merge into functional megaregions where economic activity becomes intensely concentrated.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-123|passage|3",
+    "s": "However, the socioeconomic impact of HSR is not universally positive, and the distribution of its benefits remains a subject of intense debate among urban planners.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-123|passage|4",
+    "s": "A phenomenon frequently cited by critics is the 'straw effect,' where faster connections serve to siphon economic vitality and young talent away from smaller, peripheral cities towards the dominant metropolis, rather than spreading wealth outward.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-123|passage|5",
+    "s": "Instead of revitalizing the provinces, the infrastructure can inadvertently exacerbate regional inequalities.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-123|passage|6",
+    "s": "Furthermore, while HSR is rightly championed as a greener alternative to short-haul aviation—offering substantial reductions in carbon emissions per passenger kilometer during operation—the environmental cost of construction is non-trivial.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-123|passage|7",
+    "s": "The immense carbon footprint associated with building the requisite infrastructure, particularly when tunneling through complex terrain is required, presents a nuance that complicates the purely ecological argument for its rapid adoption.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|0",
+    "s": "For decades, urban planners operated under the persistent assumption that the primary solution to traffic congestion was to expand infrastructure capacity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|1",
+    "s": "The rationale appeared straightforward: if existing roads are clogged, the logical response is to build more lanes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|10",
+    "s": "Small businesses located within charging zones also frequently express concern regarding potential drops in customer footfall and increased delivery costs.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|11",
+    "s": "Consequently, while the environmental and logistical arguments for road pricing are robust, the socio-economic implications remain a subject of fierce debate among policymakers and the public alike.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|2",
+    "s": "However, the phenomenon known as 'induced demand'—where increasing supply merely encourages more people to drive, thereby quickly filling new capacity—has forced a paradigm shift in the 21st century.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|3",
+    "s": "Consequently, forward-thinking cities are now increasingly turning to demand management strategies, most notably congestion pricing, to mitigate gridlock rather than simply attempting to build their way out of it.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|4",
+    "s": "Schemes implemented in major metropolitan areas like London, Stockholm, and Singapore operate on basic economic principles: by assigning a monetary cost to road usage during peak periods, the volume of vehicles can be regulated via price signals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|5",
+    "s": "The primary objective is not necessarily to ban cars, but to discourage non-essential trips or shift them to off-peak times, thereby smoothing traffic flow.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|6",
+    "s": "Evidence from these implementations suggests that such charges effectively reduce traffic volume and associated carbon emissions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|7",
+    "s": "Furthermore, the revenue generated is often ring-fenced for reinvestment into public transportation networks, creating a virtuous cycle where alternatives to driving become more attractive, reliable, and financially viable for the public.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|8",
+    "s": "Despite these evident successes, such policies are not without significant detractors.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-124|passage|9",
+    "s": "Critics frequently argue that flat-rate congestion charges can be regressive, disproportionately affecting lower-income workers who may have no viable alternative to driving due to where they live or work.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|0",
+    "s": "Contrary to the unidimensional stereotype of the Viking Age as an era dominated exclusively by bearded raiders, historical and archaeological scholarship reveals that women held a position of substantial authority and complexity within Norse society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|1",
+    "s": "While the public sphere of governance and warfare was predominantly male-oriented, the domestic sphere was the undisputed domain of the female head of the household.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|10",
+    "s": "Consequently, most historians view the Viking woman’s power as rooted primarily in her command of the household and her legal standing rather than on the battlefield.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|2",
+    "s": "Symbolized by the keys she carried at her belt, the housewife—or 'husfreyja'—managed the farm's resources, oversaw food production, and assumed full control of the estate during the frequent absences of male relatives.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|3",
+    "s": "Furthermore, Viking women enjoyed legal liberties that were remarkably progressive for the period.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|4",
+    "s": "Old Norse laws indicate that women could own property, inherit wealth, and initiate divorce if their partners were abusive or failed to provide support.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|5",
+    "s": "Upon the dissolution of a marriage, a woman was entitled to reclaim her dowry, ensuring she retained some financial independence.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|6",
+    "s": "This contrasts sharply with many contemporary European societies where women had far fewer rights.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|7",
+    "s": "Archaeology reinforces this picture of high status.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|8",
+    "s": "The magnificent Oseberg ship burial, one of the richest Viking finds ever discovered, contained the remains of two women, suggesting that females could command immense respect and possibly political power.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-125|passage|9",
+    "s": "Although Norse sagas occasionally describe 'shield-maidens' participating in battle, conclusive material evidence for women as regular combatants is scarce.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|0",
+    "s": "For much of the mid-twentieth century, the bicycle was marginalized in urban policy, frequently relegated to the status of a recreational toy or a transport solution solely for those unable to afford automobiles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|1",
+    "s": "During this era, the prevailing philosophy of civil engineering prioritized the swift, unimpeded movement of motor vehicles, often redesigning cityscapes in ways that compromised the safety of pedestrians and cyclists.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|10",
+    "s": "This creates a virtuous cycle: as the roads are perceived to be safer, more individuals are willing to ride, which in turn compels motorists to be more visually aware of their presence.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|2",
+    "s": "However, the early twenty-first century has witnessed a profound shift in this dynamic, characterized by a tangible \"bicycle renaissance\" in major metropolitan areas across Europe and North America.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|3",
+    "s": "One primary driver of this resurgence is the strategic redevelopment of urban infrastructure.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|4",
+    "s": "City planners and municipal authorities have increasingly recognized that dedicated, segregated cycle lanes are essential for encouraging mass ridership; simply painting a white line on the side of a busy arterial road is rarely sufficient to convince the cautious commuter to abandon their car.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|5",
+    "s": "Furthermore, the technological evolution of the bicycle itself has played a pivotal role.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|6",
+    "s": "The advent and rapid adoption of the electric bicycle, or e-bike, has democratized cycling by mitigating the traditional physical barriers of distance and topography.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|7",
+    "s": "Riders who might have previously shunned the exertion of pedaling up steep gradients or the prospect of arriving at the office perspiring are now turning to two-wheeled transport in growing numbers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|8",
+    "s": "Beyond physical infrastructure and hardware, a psychological phenomenon known as the \"safety in numbers\" effect appears to be a crucial catalyst.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-126|passage|9",
+    "s": "Empirical research suggests that as the aggregate volume of cyclists increases, the rate of accidents per individual cyclist tends to decrease significantly.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|0",
+    "s": "Contrary to the monolithic stereotype of the Vikings as mere raiders, their society was deeply stratified and governed by a distinct legal framework.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|1",
+    "s": "The social hierarchy was tripartite, consisting of Jarls (nobles), Karls (freemen), and Thralls (enslaved individuals).",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|2",
+    "s": "While birth largely determined one's initial station, the class system was not entirely immutable; successful trading ventures could elevate a Karl’s standing, just as insurmountable debt could reduce a freeman to servitude.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-127|passage|3",
+    "s": "Of particular interest to historians is the relatively high status accorded to Viking women compared to their counterparts in other medieval European societies.",
+    "p": "P1",
+    "native": false
+  }
+]

@@ -1,0 +1,261 @@
+{
+ "sumlingo": [
+  {
+   "q": ": What do we call a doctor who performs operations?",
+   "a": ": Surgeon"
+  },
+  {
+   "q": ": Which animal is known as man’s best friend?",
+   "a": ": Dog"
+  },
+  {
+   "q": ": What do we call the person who flies a plane?",
+   "a": ": Pilot"
+  },
+  {
+   "q": ": What gas do humans need to breathe?",
+   "a": ": Oxygen"
+  },
+  {
+   "q": ": What do we call a building where books are kept?",
+   "a": ": Library"
+  },
+  {
+   "q": ": What is the currency of Japan?",
+   "a": ": Yen"
+  },
+  {
+   "q": ": What is the opposite of ‘more’?",
+   "a": ": Less"
+  },
+  {
+   "q": ": What is the device used to store digital files?",
+   "a": ": USB or Flash Drive"
+  },
+  {
+   "q": ": What is a collection of stars called?",
+   "a": ": Galaxy"
+  },
+  {
+   "q": ": What is a synonym for ‘quick’?",
+   "a": ": Fast"
+  }
+ ],
+ "gurully_asq": [
+  {
+   "n": 1,
+   "q": "Which country is both a continent and a country?",
+   "_ans": true,
+   "a": ": Australia"
+  },
+  {
+   "n": 5,
+   "q": "What term refers to a system of government in which priests rule in the name of God or a god?",
+   "_ans": true,
+   "a": "Theocracy"
+  },
+  {
+   "n": 11,
+   "q": "What is the name of the international organization founded in 1945 to promote peace and cooperation?",
+   "_ans": true,
+   "a": "The United Nations"
+  },
+  {
+   "n": 18,
+   "q": ": Who was the Greek god of war?",
+   "_ans": true,
+   "a": ": Ares"
+  },
+  {
+   "n": 24,
+   "q": ": What global conflict was fought from 1914 to 1918?",
+   "_ans": true,
+   "a": ": World War One"
+  },
+  {
+   "n": 32,
+   "q": ": What is the term for the rate of doing work or the rate of using energy?",
+   "_ans": true,
+   "a": ": Power"
+  },
+  {
+   "n": 45,
+   "q": ": What is the term for a material that does not allow electricity to flow through it easily?",
+   "_ans": true,
+   "a": ": Insulator"
+  },
+  {
+   "n": 3,
+   "q": "Which country has the most islands in the world?",
+   "_ans": true,
+   "a": "Sweden"
+  },
+  {
+   "n": 9,
+   "q": "What is the term for when a country withdraws from a larger political entity?",
+   "_ans": true,
+   "a": "Secession"
+  },
+  {
+   "n": 13,
+   "q": "What do we call the policy of extending a country's power through diplomacy or military force?",
+   "_ans": true,
+   "a": "Imperialism"
+  }
+ ],
+ "ptehelper": [
+  {
+   "n": 365,
+   "q": "What does ice become when you heat it?",
+   "a": "Water"
+  },
+  {
+   "n": 370,
+   "q": "Which field of study uses the periodic table?",
+   "a": "Chemistry"
+  },
+  {
+   "n": 377,
+   "q": "Kilograms, ounces, tons and stones are types of units to measure what?",
+   "a": "Weight"
+  },
+  {
+   "n": 385,
+   "q": "What do people use to see distant stars and planets?",
+   "a": "Telescope"
+  },
+  {
+   "n": 395,
+   "q": "Which reference book would you use if you need to know the definition of a word?",
+   "a": "Dictionary"
+  },
+  {
+   "n": 405,
+   "q": "What material is normally used to make windows and light bulbs?",
+   "a": "Glass"
+  },
+  {
+   "n": 366,
+   "q": "What adjective is opposite to Plural?",
+   "a": "Singular"
+  },
+  {
+   "n": 368,
+   "q": "On a computer, what is Times New Roman an example of?",
+   "a": "Font"
+  },
+  {
+   "n": 369,
+   "q": "What is three quarters expressed as a percentage?",
+   "a": "75%"
+  },
+  {
+   "n": 372,
+   "q": "What is the name of the punctuation mark that shows the end of a sentence?",
+   "a": "Period / Full stop"
+  },
+  {
+   "n": 373,
+   "q": "What is the term for two siblings who are born from one mother at the same time?",
+   "a": "Twin"
+  }
+ ],
+ "ptesprinters": [
+  {
+   "n": 1,
+   "q": "What is the legal document protecting someone’s intellectual property?",
+   "a": "Patent/Copyright"
+  },
+  {
+   "n": 3,
+   "q": "How many days are in a leap year?",
+   "a": "366"
+  },
+  {
+   "n": 6,
+   "q": "How many years does a centennial celebrate?",
+   "a": "100 years."
+  },
+  {
+   "n": 10,
+   "q": "What is the job title for someone who makes meals in a restaurant?",
+   "a": "Chef."
+  },
+  {
+   "n": 16,
+   "q": "What do you call a piece of equipment we use to look at stars?",
+   "a": "Telescope"
+  },
+  {
+   "n": 22,
+   "q": "What is more fuel efficient, a small car or a large truck?",
+   "a": "A small car."
+  },
+  {
+   "n": 8,
+   "q": "Some calendars begin the week on Sunday, what is the other day which commonly starts a week?",
+   "a": "Monday."
+  },
+  {
+   "n": 9,
+   "q": "What are the instructions that tell you how to cook food?",
+   "a": "Recipe."
+  },
+  {
+   "n": 11,
+   "q": "What's the name of the building where you can borrow books?",
+   "a": "Library."
+  },
+  {
+   "n": 14,
+   "q": "What do we call the alphabetical list, at the end of the book that tells you where to find specific information?",
+   "a": "Index"
+  }
+ ],
+ "gurully_sgd": [
+  {
+   "lead": "The discussion focuses on improving the effectiveness of recycling programs at the university and how institutions can p",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion centers on the growing impact of rising tuition fees and how they affect university students financially,",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion focuses on the newly opened sports centre on campus and its role in promoting student wellness, inclusivi",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion focuses on how students decide which university clubs to join, with each speaker exploring different inte",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion highlights students' reactions to the newly upgraded university library and how it offers far more than t",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion revolves around whether students should ask for an extension on a university essay, especially when facin",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion focuses on how volunteering has helped students develop valuable personal and professional skills beyond ",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion focuses on whether universities should permanently adopt a hybrid learning model, combining online and in",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion focuses on whether providing free, high-speed Wi-Fi across the entire university campus should be priorit",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion focuses on whether universities should introduce designated mental health days into the academic calendar",
+   "hasModelAnswer": true
+  },
+  {
+   "lead": "The discussion focuses on how universities can better support student-led startups and foster a culture of innovation on",
+   "hasModelAnswer": true
+  }
+ ]
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-111|passage|8",
+    "s": "However, realizing these benefits likely requires a shift away from the private ownership model toward shared mobility; otherwise, the city risks trading static parking lots for mobile gridlock.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|0",
+    "s": "The exponential growth of electronic waste, or e-waste, has become a pressing environmental concern, exacerbated by the manufacturing strategies of consumer electronics companies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|1",
+    "s": "A prevailing issue is the deliberate complexity of device architecture, where components are often sealed with industrial adhesives or secured with non-standard screws.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|2",
+    "s": "This design approach creates significant barriers to repair, effectively shortening the functional lifespan of products.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|3",
+    "s": "When a single part malfunctions, the high cost and difficulty of official repairs often exceed the residual value of the device, effectively coercing consumers into purchasing new models and discarding the old ones.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|4",
+    "s": "The 'Right to Repair' movement seeks to reverse this dynamic by pressuring legislators to mandate that Original Equipment Manufacturers (OEMs) provide fair access to service documentation, diagnostic software, and spare parts.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|5",
+    "s": "Advocates maintain that repairability is essential for reducing the ecological footprint of the tech industry and transitioning toward a circular economy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|6",
+    "s": "Conversely, manufacturers have historically resisted these measures.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|7",
+    "s": "They argue that opening up device ecosystems to unregulated intervention risks compromising user data security and infringing on intellectual property rights.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|8",
+    "s": "Furthermore, they highlight the physical dangers associated with untrained individuals manipulating volatile components, such as high-density lithium-ion batteries.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-112|passage|9",
+    "s": "Nevertheless, the push for legislative change continues to advance, aiming to foster a market where device longevity is prioritized over rapid turnover.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|0",
+    "s": "Central to the Norse dominance of the medieval seas was their unparalleled mastery of naval architecture, epitomized by the iconic longship.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|1",
+    "s": "Unlike the rigid, heavy carvel-built vessels utilized in southern Europe, Viking shipwrights employed a 'clinker' construction method.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|2",
+    "s": "In this technique, hull planks overlapped one another and were riveted together, creating a shell that was both lightweight and remarkably flexible.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|3",
+    "s": "This structural elasticity allowed the vessel to bend with the waves in the rough North Atlantic rather than shattering against the force of the swell, a critical advantage for open-ocean voyages.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|4",
+    "s": "Beyond seaworthiness, the strategic versatility of these ships stemmed from their exceptionally shallow draft.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|5",
+    "s": "A typical longship could float in as little as one meter of water, granting Norse raiders access to waterways deemed unnavigable by other naval powers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|6",
+    "s": "They could row far up shallow river systems to strike inland settlements deep within France or England, bypassing coastal defenses entirely.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|7",
+    "s": "Furthermore, the shallow keel meant that these ships did not require established harbors or deep-water ports; they could simply be beached on any sandy shore, facilitating rapid disembarkation and retreat.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-113|passage|8",
+    "s": "While sails provided propulsion for long journeys, the inclusion of oars ensured that the Vikings were not beholden to the whims of the wind, maintaining speed and maneuverability even in calm waters.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|0",
+    "s": "For much of the twentieth century, traffic engineering was dominated by the philosophy of segregation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|1",
+    "s": "Planners believed that safety was best achieved by strictly separating pedestrians, cyclists, and motorists using physical barriers, complex traffic light systems, and abundant signage.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|10",
+    "s": "Consequently, while the number of minor interactions may persist, the severity of accidents often decreases, creating a more hospitable environment for pedestrians and revitalizing public squares.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|11",
+    "s": "Nevertheless, the concept is not without significant controversy.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|12",
+    "s": "Organizations representing the visually impaired have expressed strong concerns, noting that the removal of tactile curbs and distinct boundaries makes navigation perilous for those who cannot rely on visual cues to engage with drivers.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|13",
+    "s": "Furthermore, while low-speed urban environments thrive under this model, it is generally acknowledged that shared space is ill-suited for heavy, high-speed arterial roads where the volume of traffic precludes effective social negotiation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|2",
+    "s": "The logic was simple: clear rules and distinct territories prevent conflict.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|3",
+    "s": "However, a counter-intuitive urban design concept known as \"shared space,\" pioneered by Dutch traffic engineer Hans Monderman, has gained traction in recent decades, fundamentally challenging these established norms.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|4",
+    "s": "Proponents of shared space argue that the visual clutter of road signs, signals, and markings actually works against safety.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|5",
+    "s": "They suggest that such regulation gives drivers a false sense of entitlement and security, encouraging them to psychologically disengage from their immediate surroundings and rely solely on external commands rather than their own judgment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|6",
+    "s": "By removing these demarcations—stripping away curbs, lane markings, and traffic lights—shared space designs introduce ambiguity.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|7",
+    "s": "This forces all road users to negotiate their right of way through eye contact and social interaction, effectively shifting the responsibility from the state to the individual.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|8",
+    "s": "The implementation of such schemes in various European towns has yielded results that defy conventional wisdom.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-114|passage|9",
+    "s": "Contrary to predictions of gridlock and chaos, traffic speeds tend to drop significantly as uncertainty compels drivers to proceed with greater caution.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|0",
+    "s": "For much of the twentieth century, civil engineers and urban planners operated on a 'predict and provide' model, assuming that the most effective remedy for traffic congestion was to expand infrastructure.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|1",
+    "s": "The logic appeared straightforward: if a particular arterial road or highway was consistently clogged, adding extra lanes would increase capacity, thereby distributing the traffic volume and increasing flow speeds.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|2",
+    "s": "However, extensive empirical evidence gathered over recent decades has revealed a counterintuitive economic principle at play, widely known as 'induced demand.' This concept posits that increasing the supply of roads lowers the 'time cost' of driving, which essentially makes car travel cheaper and more attractive relative to other modes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|3",
+    "s": "As a result, any relief from congestion is often short-lived.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|4",
+    "s": "When a highway is widened, drivers who previously drove at off-peak times to avoid traffic shift back to peak hours, and commuters who used public transit or carpooled often return to single-occupancy vehicles.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|5",
+    "s": "Furthermore, the perceived ease of travel encourages longer trips and suburban sprawl, creating entirely new traffic that did not exist before.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|6",
+    "s": "Within a relatively short period, the expanded road fills up, and congestion levels return to their previous equilibrium.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|7",
+    "s": "This cycle has led many experts to conclude that cities cannot build their way out of congestion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|8",
+    "s": "Consequently, contemporary transport policy has largely pivoted away from road widening.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-115|passage|9",
+    "s": "Instead, the focus has shifted toward demand management strategies, such as congestion pricing and investment in high-frequency public transit, aiming to reduce the dependency on private vehicles rather than simply accommodating them.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|0",
+    "s": "The concept of the 'smart home' has evolved rapidly from a futuristic novelty to a practical reality for millions of households worldwide.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|1",
+    "s": "Initially, the market was characterized by a fragmented landscape of proprietary systems, where a smart lightbulb from one manufacturer could not communicate with a thermostat from another.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|10",
+    "s": "These consumers are increasingly demanding greater transparency regarding data usage and are advocating for more robust local processing capabilities to minimize reliance on the cloud.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|2",
+    "s": "This lack of interoperability forced users to navigate a complex array of separate applications to manage their homes, a friction that frustrated early adopters and stifled broader market penetration.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|3",
+    "s": "However, recent industry-wide collaborations have sought to establish universal standards, allowing devices to operate seamlessly across different platforms.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|4",
+    "s": "This shift towards unification has significantly lowered the barrier to entry, encouraging consumers to integrate voice assistants, security cameras, and automated lighting into a cohesive ecosystem.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|5",
+    "s": "Despite these technological advancements, the proliferation of connected devices has raised substantial privacy concerns that threaten to undermine consumer trust.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|6",
+    "s": "Critics and security experts argue that the convenience of automation comes at the cost of personal data security.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|7",
+    "s": "Smart speakers and appliances continuously collect behavioral data to optimize performance, but this data often resides on cloud servers that may be vulnerable to external breaches.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|8",
+    "s": "Furthermore, the terms of service for many of these devices grant manufacturers broad rights to utilize user data for targeted marketing purposes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-116|passage|9",
+    "s": "Consequently, while the adoption of smart home technology continues to grow, driven by the appeal of energy efficiency and the convenience of remote management, a significant segment of the population remains wary.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|0",
+    "s": "Viking society is frequently reduced in popular media to stereotypes of homogeneous raiding parties, yet historical analysis reveals a highly stratified social hierarchy composed of Jarls, Karls, and Thralls.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|1",
+    "s": "Within this framework, the position of women offers a compelling counter-narrative to the male-dominated sagas.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|2",
+    "s": "While the public sphere of governance and warfare was largely the domain of men, the domestic sphere was the undisputed realm of the woman.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|3",
+    "s": "As the 'lady of the house,' a free woman held the keys to the food stores, a symbolic and practical representation of her authority over the family's resources and survival.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|4",
+    "s": "Historical records and legal codes from the period underscore that free Norse women enjoyed liberties often denied to their counterparts in contemporary Christian Europe.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|5",
+    "s": "They retained the right to own land, inherit property, and request a divorce if a marriage proved untenable due to violence or poverty.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|6",
+    "s": "When men were absent for extended periods—engaged in trade or seasonal expeditions—women assumed full responsibility for the management of farms and estate finances.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|7",
+    "s": "Nevertheless, this autonomy was not absolute.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|8",
+    "s": "Women were generally barred from officially speaking at the Thing, the legislative assembly where legal disputes were settled, requiring male relatives to represent their interests.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-117|passage|9",
+    "s": "Despite these political restrictions, archaeological evidence, such as lavish female burials, implies that in certain contexts, women could attain social prestige and influence that rivaled that of powerful chieftains.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|0",
+    "s": "The accumulation of electronic waste is accelerating, fueled by a consumer culture that treats sophisticated devices as disposable items.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|1",
+    "s": "A major driver of this trend is the manufacturing practice of designing products that are notoriously difficult to repair.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|2",
+    "s": "Modern smartphones and laptops are often sealed with industrial adhesives or assembled with proprietary screws, effectively locking out users and independent technicians.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|3",
+    "s": "As a result, when a minor component fails, the expense and difficulty of rectifying the issue often exceed the cost of buying a brand-new unit, leading consumers to discard fixable hardware.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|4",
+    "s": "The 'Right to Repair' movement has emerged to challenge this paradigm, advocating for legislation that would require companies to provide the necessary parts, tools, and manuals to the public.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|5",
+    "s": "Supporters argue that such measures are essential for environmental sustainability, as extending the lifespan of electronics would significantly lower the demand for raw materials and reduce the energy consumed in manufacturing.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|6",
+    "s": "Additionally, they contend that breaking the monopoly on repair services would bolster local economies by allowing small independent businesses to flourish.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|7",
+    "s": "Conversely, technology giants have pushed back against these proposals.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|8",
+    "s": "They maintain that restricting access to internal components is vital for protecting user safety, citing the risks of battery fires or compromised water resistance if devices are reassembled incorrectly.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-118|passage|9",
+    "s": "Furthermore, manufacturers express concern that divulging detailed technical information could expose trade secrets and infringe upon their intellectual property rights.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|0",
+    "s": "Urban congestion remains a persistent challenge for metropolitan planners globally.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|1",
+    "s": "As cities densify, the capacity of road networks is frequently exceeded, leading to significant economic losses and environmental degradation.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|10",
+    "s": "Wealthier drivers may absorb the cost with little concern, while lower-income individuals, who may lack flexible work schedules or reliable public transit alternatives, are disproportionately burdened.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|2",
+    "s": "In response, several major cities have implemented congestion pricing schemes, a market-based strategy designed to manage demand by charging vehicles for entering high-traffic zones during peak hours.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "read_mcq_multi|goarno-read_mcq_multi-119|passage|3",
+    "s": "The underlying economic principle is simple: by putting a price on road space, which is a scarce commodity, drivers are encouraged to shift their travel times, choose alternative routes, or utilize public transportation.",
+    "p": "P1",
+    "native": false
+  }
+]

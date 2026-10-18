@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://goarno.io/blog/re-tell-lecture-practice-questions-with-answers-pte-essential-questions/",
+    "types": ["retell_lecture"],
+    "apparentVolume": "50 itens declarados; 1 transcript visível no trecho consultado",
+    "positiveSignals": ["C2: página datada/atualizada em 2026 e intitulada “50 Re-tell Lecture Practice Questions with Answers”.", "cadeia a partir de goarno.io (fonte aprovada do projeto 1)"],
+    "negativeSignals": ["A origem como questões reais ou recordadas não é confirmada no trecho.", "Sem licença de reutilização identificada."],
+    "quotes": ["“each with the lecture audio, the full transcript, and a high-scoring sample answer”"]
+  },
+  {
+    "url": "https://www.edknot.com/pte-practice/retell-lecture",
+    "types": ["retell_lecture"],
+    "apparentVolume": "12 itens declarados; 1 transcript de 170 palavras e início de resposta-modelo visíveis",
+    "positiveSignals": ["A página declara itens de um banco de questões e apresenta transcript mais retelling-modelo.", "O exemplo visível tem 170 palavras, dentro da faixa solicitada."],
+    "negativeSignals": ["A alegação de itens reais é do próprio site, sem corroboração independente identificada.", "Sem licença de reutilização identificada."],
+    "quotes": ["“Twelve real Retell Lecture items from the EdKnot bank, shown as transcripts with a model retelling under each.”"]
+  },
+  {
+    "url": "https://ptehelper.com.au/20-cau-pte-retell-lecture/",
+    "types": ["retell_lecture"],
+    "apparentVolume": "20 itens declarados; 1 transcript parcial visível no trecho consultado",
+    "positiveSignals": ["C2: página intitulada “20 Câu PTE Retell Lecture Kèm Đáp Án” e atualizada em 2026.", "O trecho inclui transcript de lecture e identificação de questão."],
+    "negativeSignals": ["O trecho consultado direciona à plataforma para ver questões; não confirma que todos os gabaritos estejam acessíveis nessa página.", "Sem licença de reutilização identificada."],
+    "quotes": ["“#### RL-146”"]
+  },
+  {
+    "url": "https://www.pteexampreparation.com/pte-speaking/retell-lecture/retell-lecture-in-pte-practice-test-5/",
+    "types": ["retell_lecture"],
+    "apparentVolume": "1 transcript e resposta-modelo parcial visíveis no trecho consultado",
+    "positiveSignals": ["C2: página de 2018 identificada como prática de Retell Lecture com respostas de áudio.", "Inclui transcript, key points e início de resposta-modelo."],
+    "negativeSignals": ["O trecho não comprova independentemente que o material seja de prova real ou recordado.", "Sem licença de reutilização identificada."],
+    "quotes": ["“Transcript is given for reference and practice purpose only”"]
+  },
+  {
+    "url": "https://www.examenglishforfree.com/an-example-of-pte-part-1-item-type-5-retell-a-lecture/",
+    "types": ["retell_lecture"],
+    "apparentVolume": "1 lecture, transcript e resposta-modelo visíveis",
+    "positiveSignals": ["A página oferece transcript e model answer para uma questão de Retell Lecture.", "A página declara acesso sem conta ou pagamento."],
+    "negativeSignals": ["A página identifica o material como exemplo de prática, não comprova que seja questão real/recordada.", "Sem licença de reutilização identificada."],
+    "quotes": ["“A model answer has also been provided”"]
+  }
+]

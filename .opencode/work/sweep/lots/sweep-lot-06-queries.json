@@ -1,0 +1,32 @@
+{
+  "lot": "sweep-lot-06",
+  "types": ["swt", "reorder_paragraphs", "read_fib_drag", "write_essay"],
+  "queries": [
+    { "query": "summarize written text PTE passages with answers most repeated", "tool": "websearch", "result": "ok", "notes": "PTE Helper aberto com passagem e solução legíveis." },
+    { "query": "PTE SWT prediction 2025 2026 pdf", "tool": "websearch", "result": "0 candidatos", "notes": "PDF Gurully aberto e legível, mas trechos não confirmam passagem SWT com resposta-modelo." },
+    { "query": "PTE reorder paragraphs pdf with answers most repeated", "tool": "websearch", "result": "ok", "notes": "Página PTE Exam Preparation aberta e ordem dos itens legível." },
+    { "query": "paragraph jumble PTE academic", "tool": "websearch", "result": "ok", "notes": "Fonte candidata aberta." },
+    { "query": "PTE reading fill blanks drag words pdf", "tool": "websearch", "result": "0 candidatos", "notes": "Nenhuma candidata com passagem, banco de palavras e gabarito confirmada nesta rodada." },
+    { "query": "PTE essay topics with sample answers most repeated", "tool": "websearch", "result": "0 candidatos", "notes": "Language Academy sem exemplo integral; Leverage Edu com prompts, sem modelo visível." },
+    { "query": "write essay 200-300 words PTE list prediction", "tool": "websearch", "result": "0 candidatos", "notes": "PDF Gurully aberto, mas respostas de essay não verificadas." },
+    { "query": "PTE SWT questions answers passage sample real repeated 2025", "tool": "websearch", "result": "ok", "notes": "PTE Helper aberto; página mostra três passagens com soluções." },
+    { "query": "PTE summarize written text answer sample passage PTE Academic 2024", "tool": "websearch", "result": "0 candidatos", "notes": "Resultados PTE Core não usados como evidência de PTE Academic." },
+    { "query": "site:ptebank.com summarize written text repeated questions answers", "tool": "websearch", "result": "0 candidatos", "notes": "Trechos exibiram passagem, mas páginas não abertas nesta rodada." },
+    { "query": "PTE reorder paragraphs practice questions answer key real questions PDF", "tool": "websearch", "result": "ok", "notes": "Página PTE Exam Preparation usada." },
+    { "query": "PTE reorder paragraphs repeated questions answers 2025", "tool": "websearch", "result": "0 candidatos", "notes": "Gurully aberta, sem trecho verificável." },
+    { "query": "PTE reorder paragraph PDF answer key academic", "tool": "websearch", "result": "0 candidatos", "notes": "PDF intermediário HTML; fonte PTE Exam Preparation aberta." },
+    { "query": "PTE reading fill in the blanks drag drop word bank answers passage", "tool": "websearch", "result": "0 candidatos", "notes": "Nada confirmado nesta rodada." },
+    { "query": "PTE reading FIB drag and drop PDF answers Academic", "tool": "websearch", "result": "0 candidatos", "notes": "PDF não demonstrava formato drag-and-drop; não incluído." },
+    { "query": "PTE essay repeated topics sample essay answer 2025 PDF", "tool": "websearch", "result": "0 candidatos", "notes": "Leverage Edu com prompts, sem resposta-modelo." },
+    { "query": "PTE Academic write essay most repeated questions model answers", "tool": "websearch", "result": "0 candidatos", "notes": "Language Academy sem modelo integral confirmado." },
+    { "query": "PTE essay predictions topics with sample answers free", "tool": "websearch", "result": "0 candidatos", "notes": "Sem nova fonte integral aberta." },
+    { "query": "PTE summarise written text \"Answer\" \"Original Text\" real repeated questions", "tool": "websearch", "result": "ok", "notes": "PTE Helper aberto para passagem e solução literal." },
+    { "query": "PTE SWT exam memory 2024 answer passages recent exam", "tool": "websearch", "result": "0 candidatos", "notes": "Páginas de memória não abertas; não usadas como evidência." },
+    { "query": "PTE reading drag drop fill blanks repeated questions answer pdf Academic", "tool": "websearch", "result": "0 candidatos", "notes": "PDF intermediário não confirmado; nenhuma candidata FIB incluída." },
+    { "query": "site:ptebank.com \"Drag and Drop\" Fill in the Blanks PTE repeated", "tool": "websearch", "result": "bloqueado/pago", "notes": "Produto pago; não tentei contornar acesso." },
+    { "query": "PTE essay prediction pdf 2025 sample answer free PTE Academic topics", "tool": "websearch", "result": "0 candidatos", "notes": "PDF Gurully sem requisito de resposta-modelo confirmado." },
+    { "query": "PTE Academic essay recent exam memory 2024 essay topic answer", "tool": "websearch", "result": "0 candidatos", "notes": "Modelos com texto genérico; não selecionados." },
+    { "query": "PTE Reorder paragraphs \"exam memories\" answers 2024", "tool": "websearch", "result": "bloqueado", "notes": "Scribd com barreira de login; não acessado além do trecho público." },
+    { "query": "PTE Academic SWT answer key sample passages 2025 site:ptehelper.com.au", "tool": "websearch", "result": "ok", "notes": "Página SWT de PTE Helper aberta; passagem e solução verificadas." }
+  ]
+}

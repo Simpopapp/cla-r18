@@ -1,0 +1,482 @@
+[
+  {
+    "k": "answer_short|edknot-answer_short-012|answers[0]|0",
+    "s": "Alphabet",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-012|answers[1]|0",
+    "s": "Alphabetical order",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-012|answers[2]|0",
+    "s": "Alphabetically",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-012|question|0",
+    "s": "In what sequence is a bibliography typically arranged?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "answer_short|edknot-answer_short-013|answers[0]|0",
+    "s": "Contagious disease",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-013|answers[1]|0",
+    "s": "infectious disease",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-013|answers[2]|0",
+    "s": "contagion",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-013|question|0",
+    "s": "What term describes an illness transmitted through direct or indirect contact?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "answer_short|edknot-answer_short-014|answers[0]|0",
+    "s": "Foot",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-014|answers[1]|0",
+    "s": "Feet",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-014|question|0",
+    "s": "What body part is located opposite the head?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "answer_short|edknot-answer_short-015|answers[0]|0",
+    "s": "Interference",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-015|question|0",
+    "s": "In physics, what is the term for the phenomenon where two waves combine to form a new wave pattern, often with increased or decreased amplitude?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "answer_short|edknot-answer_short-016|answers[0]|0",
+    "s": "Koala",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-016|question|0",
+    "s": "What is the name of the Australian marsupial that mostly eats eucalyptus leaves and sleeps up to 20 hours a day?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "answer_short|edknot-answer_short-017|answers[0]|0",
+    "s": "Pika",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-017|question|0",
+    "s": "What small, herbivorous mammal related to the rabbit, with short ears and a squeaky call, lives in mountainous regions of Asia and North America?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "answer_short|edknot-answer_short-018|answers[0]|0",
+    "s": "Cleaver",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-018|question|0",
+    "s": "What is the name of the heavy, broad-bladed kitchen knife used for chopping through bones and large cuts of meat?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "answer_short|edknot-answer_short-019|answers[0]|0",
+    "s": "Raphael",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-019|question|0",
+    "s": "What is the full name of the Italian Renaissance painter known for his Madonnas and frescoes in the Vatican?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "answer_short|edknot-answer_short-020|answers[0]|0",
+    "s": "Toaster",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "answer_short|edknot-answer_short-020|question|0",
+    "s": "What kitchen appliance is used to brown, crisp, and heat bread slices?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "describe_image|owid-describe_image-001|facts[0]|0",
+    "s": "Highest value in 2023: Monaco (86.4); lowest: Nigeria (54.5).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-001|facts[1]|0",
+    "s": "Top three in 2023: Monaco (86.4), San Marino (85.7), Hong Kong (85.5).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-001|facts[2]|0",
+    "s": "Data covers 1543–2023 for 236 countries; in 1543 the highest was United Kingdom (33.9).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-002|facts[0]|0",
+    "s": "Highest value in 2023: Afghanistan (0); lowest: Zimbabwe (0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-002|facts[1]|0",
+    "s": "Top three in 2023: Afghanistan (0), Albania (0), Algeria (0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-002|facts[2]|0",
+    "s": "Data covers 1–2023 for 236 countries; in 1 the highest was Italy (1,407).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-003|facts[0]|0",
+    "s": "Highest value in 2025: Singapore (139,593); lowest: Burundi (1,067).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-003|facts[1]|0",
+    "s": "Top three in 2025: Singapore (139,593), Ireland (131,338), Luxembourg (127,421).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-003|facts[2]|0",
+    "s": "For Singapore, the value went from 45,961 in 1990 to 139,593 in 2025 (change +93,632).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-003|facts[3]|0",
+    "s": "Data covers 1990–2025 for 198 countries; in 1990 the highest was Brunei (118,164).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-004|facts[0]|0",
+    "s": "Highest value in 2024: Nigeria (11.6); lowest: San Marino (0.1).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-004|facts[1]|0",
+    "s": "Top three in 2024: Nigeria (11.6), Niger (11.1), Somalia (10.1).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-004|facts[2]|0",
+    "s": "Data covers 1751–2024 for 200 countries; in 1751 the highest was Sweden (30).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-005|facts[0]|0",
+    "s": "Highest value in 2023: India (1,438,069,597); lowest: Vatican (501).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-005|facts[1]|0",
+    "s": "Top three in 2023: India (1,438,069,597), China (1,422,584,930), United States (343,477,330).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-005|facts[2]|0",
+    "s": "For India, the value went from 84,810 in -10000 to 1,438,069,597 in 2023 (change +1,437,984,787).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-005|facts[3]|0",
+    "s": "Data covers -10000–2023 for 238 countries; in -10000 the highest was Mexico (810,851).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-006|facts[0]|0",
+    "s": "Highest value in 2023: China (203,619,039); lowest: Tokelau (191).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-006|facts[1]|0",
+    "s": "Top three in 2023: China (203,619,039), India (99,512,180), United States (59,807,713).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-006|facts[2]|0",
+    "s": "For China, the value went from 27,433,877 in 1950 to 203,619,039 in 2023 (change +176,185,162).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-006|facts[3]|0",
+    "s": "Data covers 1950–2023 for 236 countries; in 1950 the highest was China (27,433,877).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-007|facts[0]|0",
+    "s": "Highest value in 2024: Qatar (41.3); lowest: Democratic Republic of Congo (0.1).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-007|facts[1]|0",
+    "s": "Top three in 2024: Qatar (41.3), Kuwait (26.2), Brunei (26).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-007|facts[2]|0",
+    "s": "Data covers 1750–2024 for 213 countries; in 1750 the highest was United Kingdom (1).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-008|facts[0]|0",
+    "s": "Highest value in 2020: South Sudan (1,223); lowest: Belarus (1.1).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-008|facts[1]|0",
+    "s": "Top three in 2020: South Sudan (1,223), Chad (1,063), Nigeria (1,047).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-008|facts[2]|0",
+    "s": "Data covers 1751–2020 for 189 countries; in 1751 the highest was Sweden (1,046).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-009|facts[0]|0",
+    "s": "Highest value in 2023: Belarus (9.8); lowest: Afghanistan (0.3).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-009|facts[1]|0",
+    "s": "Top three in 2023: Belarus (9.8), Mongolia (8.6), Bulgaria (8.2).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-009|facts[2]|0",
+    "s": "Data covers 1960–2023 for 200 countries; in 1960 the highest was Sao Tome and Principe (40.3).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-010|facts[0]|0",
+    "s": "Highest value in 2024: Georgia (99.7); lowest: Mali (35.6).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-010|facts[1]|0",
+    "s": "Top three in 2024: Georgia (99.7), Qatar (99.3), Uruguay (98.9).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-010|facts[2]|0",
+    "s": "Data covers 1970–2024 for 180 countries; in 1970 the highest was Barbados (99.3).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-011|facts[0]|0",
+    "s": "Highest value in 2020: Ireland (13.7); lowest: Niger (3).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-011|facts[1]|0",
+    "s": "Top three in 2020: Ireland (13.7), South Korea (13.7), Iceland (13.5).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-011|facts[2]|0",
+    "s": "For Ireland, the value went from 0.7 in 1870 to 13.7 in 2020 (change +13).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-011|facts[3]|0",
+    "s": "Data covers 1870–2020 for 146 countries; in 1870 the highest was United States (4.3).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-012|facts[0]|0",
+    "s": "Highest value in 2025: Singapore (139,593); lowest: Burundi (1,067).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-012|facts[1]|0",
+    "s": "Top three in 2025: Singapore (139,593), Ireland (131,338), Luxembourg (127,421).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-012|facts[2]|0",
+    "s": "For Singapore, the value went from 45,961 in 1990 to 139,593 in 2025 (change +93,632).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-012|facts[3]|0",
+    "s": "Data covers 1990–2025 for 214 countries; in 1990 the highest was Brunei (118,164).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-013|facts[0]|0",
+    "s": "Highest value in 2025: Hong Kong (397); lowest: Sudan (2.4).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-013|facts[1]|0",
+    "s": "Top three in 2025: Hong Kong (397), Luxembourg (350), Singapore (320).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-013|facts[2]|0",
+    "s": "Data covers 1960–2025 for 193 countries; in 1960 the highest was Singapore (339).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-014|facts[0]|0",
+    "s": "Highest value in 2025: Rwanda (63.8); lowest: Yemen (0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-014|facts[1]|0",
+    "s": "Top three in 2025: Rwanda (63.8), Cuba (55.7), Nicaragua (55).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-014|facts[2]|0",
+    "s": "Data covers 1900–2025 for 174 countries; in 1900 the highest was Algeria (0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-015|facts[0]|0",
+    "s": "Highest value in 2016: London (16); lowest: London (16).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-015|facts[1]|0",
+    "s": "Top three in 2016: London (16).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-015|facts[2]|0",
+    "s": "For London, the value went from 260 in 1700 to 16 in 2016 (change -244).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-015|facts[3]|0",
+    "s": "Data covers 1700–2016 for 2 countries; in 1700 the highest was London (260).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-016|facts[0]|0",
+    "s": "Highest value in 2024: Qatar (75.5); lowest: Greenland (1.1).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-016|facts[1]|0",
+    "s": "Top three in 2024: Qatar (75.5), Bangladesh (65), Kuwait (57.3).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-016|facts[2]|0",
+    "s": "For Qatar, the value went from 63.1 in 1998 to 75.5 in 2024 (change +12.4).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-016|facts[3]|0",
+    "s": "Data covers 1998–2024 for 241 countries; in 1998 the highest was Qatar (63.1).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-017|facts[0]|0",
+    "s": "Highest value in 2025: Indonesia (3.7); lowest: Costa Rica (0.8).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-017|facts[1]|0",
+    "s": "Top three in 2025: Indonesia (3.7), Ecuador (3.4), Uzbekistan (2.3).",
+    "p": "P3",
+    "native": false
+  }
+]

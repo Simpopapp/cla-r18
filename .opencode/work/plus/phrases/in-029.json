@@ -1,0 +1,482 @@
+[
+  {
+    "k": "write_essay|band9-write_essay-013|prompt|0",
+    "s": "Artificial intelligence is being used more widely in education.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-013|prompt|1",
+    "s": "Discuss the advantages and disadvantages of this development.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-014|prompt|0",
+    "s": "AI tools are changing the way people learn foreign languages.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-014|prompt|1",
+    "s": "What are the problems and benefits of this development?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-015|prompt|0",
+    "s": "Social media has significantly changed the way people communicate and interact.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-015|prompt|1",
+    "s": "Discuss the positive and negative impacts of social media on society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-016|prompt|0",
+    "s": "Modern technology has brought many inventions that affect daily life.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-016|prompt|1",
+    "s": "Discuss the advantages and disadvantages of these technological inventions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-017|prompt|0",
+    "s": "In many towns and cities, large shopping malls are replacing small local shops.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-017|prompt|1",
+    "s": "Do you think this is a positive or negative development?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-017|prompt|2",
+    "s": "Give your reasons and examples.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-018|prompt|0",
+    "s": "Age restrictions are applied to activities such as driving, voting, and alcohol consumption.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-018|prompt|1",
+    "s": "Do you think these age limits should be changed?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-018|prompt|2",
+    "s": "Choose one activity and explain your view.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-019|prompt|0",
+    "s": "Some people prefer to live in cities while others prefer to live in the countryside.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-019|prompt|1",
+    "s": "Discuss both views and give your own opinion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-020|prompt|0",
+    "s": "Television provides people with relaxation and companionship.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-020|prompt|1",
+    "s": "Discuss the extent to which you agree or disagree with this statement.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-021|prompt|0",
+    "s": "Mass media, including television, newspapers, and the internet, has a powerful influence on society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-021|prompt|1",
+    "s": "Discuss the positive and negative effects of mass media.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-022|prompt|0",
+    "s": "It is harder for children to grow up in the 21st century than it was in the past.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-022|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-023|prompt|0",
+    "s": "People who are famous entertainers or sportspeople should give up the right to privacy as this is the price of fame.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-023|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-024|prompt|0",
+    "s": "Climate change is one of the most serious problems facing our planet today.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-024|prompt|1",
+    "s": "What are the causes of climate change and what solutions can be implemented?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-025|prompt|0",
+    "s": "Globalisation has had a significant impact on local cultures around the world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-025|prompt|1",
+    "s": "Discuss the positive and negative effects of globalisation on local cultures.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-026|prompt|0",
+    "s": "One of the global problems faced by inhabitants of our planet is the increasing gap between rich and poor nations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-026|prompt|1",
+    "s": "Discuss this problem and suggest possible solutions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-027|prompt|0",
+    "s": "Medical technology is expanding the average life expectancy of people around the world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-027|prompt|1",
+    "s": "Discuss the advantages and disadvantages of people living longer.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-028|prompt|0",
+    "s": "Governments should invest more in public transportation rather than building new roads.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-028|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-029|prompt|0",
+    "s": "Modern building design should prioritise function over appearance.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-029|prompt|1",
+    "s": "Discuss the advantages and disadvantages of this view.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-030|prompt|0",
+    "s": "There is a growing concern about the impact of social media on the mental health of young people.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-030|prompt|1",
+    "s": "Discuss the causes of this problem and suggest possible solutions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-031|prompt|0",
+    "s": "Some people believe that historic buildings should be preserved, while others think they should be demolished to make way for modern development.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-031|prompt|1",
+    "s": "Discuss both views and give your own opinion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-032|prompt|0",
+    "s": "Some young people choose to take a gap year between secondary school and university.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-032|prompt|1",
+    "s": "Do you think this is beneficial or harmful?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-032|prompt|2",
+    "s": "Give your opinion with reasons and examples.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-033|prompt|0",
+    "s": "A university degree is essential for career success in today's world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-033|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-034|prompt|0",
+    "s": "Some people argue that using animals in scientific research is cruel and unnecessary, while others believe it is essential for medical progress.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-034|prompt|1",
+    "s": "Discuss both views and give your own opinion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-035|prompt|0",
+    "s": "Some people believe advertising is harmful to society, while others argue it plays an important role in modern economies.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-035|prompt|1",
+    "s": "Discuss both views and give your own opinion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-036|prompt|0",
+    "s": "Many governments are introducing bans on single-use plastics.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-036|prompt|1",
+    "s": "Discuss the advantages and disadvantages of such bans.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-037|prompt|0",
+    "s": "Online education has become increasingly popular.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-037|prompt|1",
+    "s": "What are the advantages and disadvantages of online learning compared to traditional classroom education?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-038|prompt|0",
+    "s": "Immigration has both positive and negative effects on the economies of host countries.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-038|prompt|1",
+    "s": "Discuss both views and give your own opinion.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-039|prompt|0",
+    "s": "Medical technology is a blessing or a curse.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-039|prompt|1",
+    "s": "What is your opinion?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-039|prompt|2",
+    "s": "Give reasons and examples.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-040|prompt|0",
+    "s": "Many people say there should be a maximum wage for high-paying jobs as some people are paid too much.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-040|prompt|1",
+    "s": "Do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-041|prompt|0",
+    "s": "Should organisations involve employees in the decision-making process of their products and services?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-041|prompt|1",
+    "s": "Discuss.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-042|prompt|0",
+    "s": "Formal written exams are a valid way of assessment.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-042|prompt|1",
+    "s": "Give your opinion with examples.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-043|prompt|0",
+    "s": "Famous people should give up their right to privacy once they become public figures.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-043|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-001|prompt|0",
+    "s": "Universities should accept equal numbers of male and female students in every subject.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-001|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-002|prompt|0",
+    "s": "Young children should spend most of their time playing rather than attending formal classes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-002|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-003|prompt|0",
+    "s": "In schools and universities, girls tend to choose arts subjects while boys choose science subjects.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-003|prompt|1",
+    "s": "What are the reasons for this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-003|prompt|2",
+    "s": "Should governments try to change this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-004|prompt|0",
+    "s": "Some people argue that a university education should focus on practical, vocational skills rather than academic theory.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-004|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-005|prompt|0",
+    "s": "Distance learning programmes are becoming more popular and may one day replace face-to-face classes.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-005|prompt|1",
+    "s": "Do the advantages of this development outweigh the disadvantages?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-006|prompt|0",
+    "s": "Governments should spend more money on education than on solving environmental problems.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-006|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-007|prompt|0",
+    "s": "It is more important for students to study science and technology subjects than arts and humanities.",
+    "p": "P1",
+    "native": false
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "k": "sst|goarno-sst-136|sample|0",
+    "s": "Sleep actively consolidates learning and memory rather than merely resting the brain, with deep slow-wave sleep transferring declarative memories such as facts and vocabulary from temporary to permanent storage while REM sleep strengthens procedural memories like playing musical instruments, which means that students who pull all-nighters are physically preventing their brains from saving what they have learned.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-137|sample|0",
+    "s": "Online retailers exploit the scarcity principle by using alerts like 'only two items left' or countdown timers to create urgency, leveraging the human tendency to value rare items more highly and triggering a fear of missing out that pushes impulsive purchases, though overuse of this tactic can damage brand credibility as increasingly savvy consumers recognize and distrust perpetual scarcity claims.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-138|sample|0",
+    "s": "Modern marketing has shifted from company-controlled traditional advertising to 'social proof' through online reviews and electronic word-of-mouth, as consumers seeking to reduce purchase uncertainty now trust the collective opinions of strangers on review platforms far more than polished brand claims, meaning that a product with a massive advertising budget but poor star ratings is almost certain to fail.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-139|sample|0",
+    "s": "Migratory birds navigate with pinpoint accuracy across featureless oceans and through cloud cover using magnetoreception, enabled by a retinal protein called cryptochrome that triggers a quantum-level chemical reaction when hit by light, potentially creating a visual overlay of magnetic field lines on their normal vision, suggesting that migration involves a complex integration of quantum biology and visual processing.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-140|sample|0",
+    "s": "Migratory birds like the European robin navigate using magnetoreception through a retinal protein that triggers a light-sensitive chemical reaction, allowing them to 'see' magnetic fields as patterns of light and shadow superimposed over their normal vision, and crucially this mechanism requires blue light to function, as birds placed in laboratory environments with only red light completely lose their magnetic orientation ability.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-141|sample|0",
+    "s": "Modern neuroimaging has revealed that the sleeping brain is as active as the waking one, performing fundamentally different tasks centered on memory consolidation, during which deep sleep cycles initiate a dialogue between the hippocampus and the cortex to replay and transfer memory traces from temporary to long-term storage, preventing them from being overwritten and clearing space for new learning.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-142|sample|0",
+    "s": "Transactional leadership, which relies on clear goals and financial rewards to ensure compliance with routine tasks, is contrasted with transformational leadership, which inspires teams through a shared vision and emotional investment, and while transactional leadership provides stability, it is transformational leadership that fosters higher employee satisfaction and creativity, driving change and adaptation in today's innovative business environment.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-143|sample|0",
+    "s": "The decoy effect demonstrates that our perception of value is highly relative and easily manipulated by how choices are framed, as adding a medium popcorn priced at six dollars and fifty cents—nearly as much as the seven-dollar large—causes customers who would have bought the cheapest option to instead choose the most expensive one, proving that preferences are shaped more by presentation than actual need.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-144|sample|0",
+    "s": "Recent research suggests that migratory birds navigate using magnetoreception not through iron-rich cells in their beaks, as previously thought, but through a quantum mechanical process involving the cryptochrome protein in their retinas, which becomes active when exposed to blue light and allows birds to 'see' magnetic fields as visual patterns overlaid on their surroundings, enabling precise navigation across continents.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-145|sample|0",
+    "s": "Before the Industrial Revolution, sleep was predominantly biphasic in Western societies, with people having a 'first sleep' shortly after dusk, waking for an hour or two during 'the watch' for prayer, reading, or chatting, and then falling back into 'second sleep' until morning—a pattern eliminated by artificial lighting and industrial schedules, suggesting that modern nighttime waking may be a biological echo rather than insomnia.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-146|sample|0",
+    "s": "Bats navigate and hunt in absolute darkness by emitting ultrasonic clicks and processing returning echoes to construct a detailed 'sound map' that determines the size, distance, and texture of flying insects, and when hunting in large swarms they employ a 'jamming avoidance response,' instinctively shifting the frequency of their calls to ensure they track their own echoes rather than those of neighboring bats.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-147|sample|0",
+    "s": "The vibrant colors seen in peacocks and Blue Morpho butterflies result not from chemical pigments but from structural coloration, where nano-scale layers on the animal's surface interact with light to amplify specific wavelengths, and because this physical color is remarkably durable unlike pigments that fade, researchers are now using biomimicry to develop fade-resistant paints, innovative fabrics, and energy-efficient displays.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-148|sample|0",
+    "s": "Octopuses and cuttlefish can change both the color and texture of their skin in a fraction of a second using chromatophores for pigment, iridophores for light reflection, and physical surface manipulation, yet most are physiologically colorblind, leading scientists to hypothesize that they sense light through their skin independently of their eyes—a mechanism with significant potential for developing adaptive camouflage materials.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-149|sample|0",
+    "s": "Evening exposure to blue light from modern LED screens and lighting suppresses melatonin production by signaling to the brain that it is still daytime, disrupting circadian rhythms and affecting not only sleep quality but also metabolism, immune function, and mood, with studies correlating long-term exposure to artificial light at night with higher risks of chronic diseases such as diabetes and heart disease.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-150|sample|0",
+    "s": "Historians and sleep scientists have found compelling evidence that monophasic eight-hour sleep is a modern invention, as pre-industrial Europeans commonly slept in two segments—a 'first sleep' after dusk and a 'second sleep' after a wakeful period of prayer, reading, or socializing—a pattern compressed into a single block when artificial lighting pushed bedtimes later, suggesting that midnight waking may be an ancestral rhythm rather than a disorder.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-150|sample|1",
+    "s": "More PTE Listening Practice Questions Practice more PTE Listening question types with answers: 50 Multiple Choice (Single Answer) Listening Practice Questions with Answers 50 Multiple Choice, Multiple Answers (Listening) Practice Questions with Answers 50 Fill in the Blanks (Listening) Practice Questions with Answers 50 Highlight Correct Summary Practice Questions with Answers 50 Select Missing Word Practice Questions with Answers 50 Highlight Incorrect Words Practice Questions with Answers 50 Write from Dictation Practice Questions with Answers Improve your PTE Listening score with more Summarize Spoken Text practice and instant AI feedback on Arno.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-150|sample|2",
+    "s": "Previous 50 Multiple Choice (Single Answer) Practice Questions with Answers | PTE | Essential Questions Next 50 Multiple Choice, Multiple Answers (Listening) Practice Questions with Answers | PTE | Essential Questions Arno © 2026 Powered by Ghost Get free practice questions, full mock tests, and personalized study plans Free practice &amp; study plans Start Practicing &rarr; &times;",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-101|sample|0",
+    "s": "Global temperature increases are causing severe weather, sea level rise, and unpredictable precipitation, resulting in flooding, disrupted food supply chains, and forced migration, prompting nations to invest in adaptive infrastructure, early warning systems, and emissions reduction policies, with collaborative efforts among governments, scientists, and communities being essential for building resilience and ensuring a sustainable future.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-102|sample|0",
+    "s": "The rise of AI and automation is transforming industries and the job market, offering increased efficiency and innovation while raising concerns about job displacement and ethical issues, necessitating a focus on reskilling the workforce and establishing regulatory frameworks to ensure responsible AI use and maximize its benefits.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-103|sample|0",
+    "s": "The rise of remote work, accelerated by the COVID-19 pandemic, has transformed the labor market by offering greater flexibility and access to a global talent pool, while presenting challenges in productivity, communication, and work-life balance, leading companies to adopt hybrid models and prioritize mental health support to maintain a healthy, productive workforce.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-104|sample|0",
+    "s": "CRISPR-Cas9 has transformed genetics by allowing precise DNA editing to correct genetic defects, study gene functions, and develop therapies, with applications in treating disorders and enhancing crops, but it also raises ethical concerns about unintended consequences and gene editing in embryos, necessitating rigorous research, ethical guidelines, regulatory oversight, and broad stakeholder engagement to ensure responsible use.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-105|sample|0",
+    "s": "The gig economy, marked by freelance and short-term contracts, offers flexibility and cost savings for companies but presents challenges like job insecurity, lack of benefits, and income instability for workers, leading to complex regulatory debates on worker classification and protections, with policymakers striving to balance flexibility with fair labor practices and essential benefits to ensure sustainable economic development.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-106|sample|0",
+    "s": "Urbanization, a global phenomenon transforming societies and environments, offers benefits like improved access to education and healthcare, driving economic growth, but also presents challenges such as overcrowding and environmental degradation, so addressing these through sustainable development, green spaces, public transportation, and smart city initiatives is crucial for creating livable, sustainable urban environments.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-107|sample|0",
+    "s": "Urban farming is emerging as a sustainable solution for food security and environmental challenges in densely populated cities by utilizing rooftops, vacant lots, and vertical gardens to grow fresh produce locally, reducing the carbon footprint from food transport, but it faces obstacles such as high land costs, regulatory hurdles, and soil contamination, which communities and policymakers are addressing through grants, subsidies, and educational programs to foster sustainability and resilience.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-108|sample|0",
+    "s": "Integrating renewable energy sources like solar, wind, and hydropower into the power grid is crucial for reducing greenhouse gas emissions and combating climate change, but it faces technical challenges like energy intermittency and economic hurdles such as high initial costs, necessitating advanced storage solutions, effective grid management, supportive government policies, and international cooperation to ensure a stable and sustainable energy future.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-109|sample|0",
+    "s": "The digital divide highlights the disparity between those with access to modern technology and those without, significantly affecting education, economic opportunities, and social participation, necessitating coordinated efforts from governments, non-profits, and private companies to provide affordable internet, enhance digital literacy, and invest in infrastructure to bridge this gap and foster digital inclusion globally.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-110|sample|0",
+    "s": "Biodiversity is essential for ecosystem stability, human well-being, and economic prosperity, providing critical services such as pollination and climate regulation, yet human activities are causing unprecedented species extinction and habitat loss, making conservation efforts, international agreements, and public awareness crucial to protect biodiversity and ensure the resilience of ecosystems and their services for future generations.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-111|sample|0",
+    "s": "The rise of social media has revolutionized communication and information access, offering new social interaction opportunities while posing challenges like privacy concerns, misinformation, and mental health issues, requiring efforts from companies, governments, and users to ensure responsible use and protect public opinion and democratic processes.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-112|sample|0",
+    "s": "E-commerce, driven by technology and changing consumer preferences, has revolutionized retail by providing unprecedented convenience and variety, challenging traditional stores and leading to closures and bankruptcies, prompting many retailers to adopt omnichannel strategies and focus on sustainability to reduce environmental impact and enhance customer experiences.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-113|sample|0",
+    "s": "Efforts to combat climate change emphasize rainforest conservation due to their role in regulating Earth's climate, acting as carbon sinks, and housing unique biodiversity, with strategies like protected areas and sustainable practices being implemented despite ongoing threats from deforestation driven by logging, agriculture, and infrastructure development, highlighting the need for innovative solutions and global cooperation for sustainable development.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-114|sample|0",
+    "s": "The global water crisis, exacerbated by population growth, climate change, and pollution, threatens health, food security, and economic development, necessitating improved water management, infrastructure investment, water conservation, and international cooperation to achieve the Sustainable Development Goals by 2030 and ensure equitable access to clean water for all through technological innovation, policy reform, and community engagement.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-115|sample|0",
+    "s": "Climate change is significantly impacting agriculture worldwide by altering growing seasons and crop yields, necessitating the adoption of new techniques like drought-resistant crops and precision agriculture, while also requiring the reduction of greenhouse gas emissions through sustainable practices and international cooperation to build a resilient and secure food system for the future.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-116|sample|0",
+    "s": "A significant increase in electric vehicle (EV) sales, doubling to 10 million units in 2023, marks progress in sustainable transportation, driven by government incentives and major automaker investments, though challenges like charging infrastructure, high costs, and environmental concerns from battery production remain, requiring advancements in technology and recycling programs for continued growth and environmental benefits.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-117|sample|0",
+    "s": "The debate over universal basic income (UBI) has intensified due to the COVID-19 pandemic, with advocates highlighting its potential to alleviate poverty and improve economic stability, while critics warn of high costs, possible inflation, and reduced work incentives, leaving policymakers to consider various funding mechanisms and the mixed results from pilot programs in countries like Finland and Spain.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-118|sample|0",
+    "s": "A major data breach at a leading social media platform exposed the personal information of over 100 million users, highlighting the urgent need for stronger cybersecurity measures, stricter regulatory oversight, and better data protection practices, while sparking widespread concern and reigniting debates on the responsibility of tech companies in safeguarding user data amidst calls for more robust legislation.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-119|sample|0",
+    "s": "The announcement of a major offshore wind farm project off Scotland's coast marks a significant advance in renewable energy, set to power over two million homes by 2027, create thousands of jobs, boost the local economy, and contribute to Scotland's net-zero carbon goals, though concerns about marine life and fishing impacts will be addressed through environmental assessments and consultations.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-120|sample|0",
+    "s": "In a landmark ruling, the Supreme Court declared digital privacy a fundamental right, ensuring individuals have control over their personal information, sparking debate between privacy protection advocates and those concerned about its impact on law enforcement and national security, and requiring the involved telecommunications company to implement stricter data protection measures and notify affected customers.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-121|sample|0",
+    "s": "Countries worldwide are ramping up efforts to combat plastic pollution through bans on single-use plastics, with over 60 nations enacting legislation and corporations committing to sustainable packaging, but challenges such as regional enforcement and finding cost-effective alternatives persist, necessitating collaboration among governments, businesses, and consumers for significant and lasting change.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-122|sample|0",
+    "s": "The growing mental health crisis among young people, exacerbated by the COVID-19 pandemic, has prompted educators, parents, and policymakers to introduce mental health education programs and expand access to services, though significant barriers remain, especially in underserved communities, highlighting the need for continued investment in mental health support to ensure the well-being of future generations.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-123|sample|0",
+    "s": "The education sector is transforming due to the mainstream adoption of remote learning, accelerated by the COVID-19 pandemic, affecting 1.6 billion students and highlighting both opportunities for innovation and challenges such as disparities in access to technology, with efforts underway to improve digital infrastructure and support disadvantaged students, thereby shaping the future of education.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-124|sample|0",
+    "s": "In response to the housing crisis, cities are adopting modular homes that are cost-effective, energy-efficient, and quick to build, with San Francisco's initiative aiming to provide 500 affordable units for low-income families and homeless individuals, though critics stress the need for comprehensive urban planning and infrastructure investment for long-term success.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-125|sample|0",
+    "s": "The global decline of bee populations, attributed to various factors like pesticide exposure, habitat loss, climate change, and diseases, raises concerns among scientists and environmentalists due to its detrimental effects on pollination and biodiversity, prompting initiatives such as promoting bee-friendly farming practices, restoring natural habitats, researching disease treatments, and raising public awareness to safeguard bees.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-126|sample|0",
+    "s": "Ancient human migrations, sparked by factors like climate shifts and resource availability, sculpted modern cultural and genetic diversity, with early Homo sapiens venturing out of Africa around 60,000 years ago, settling in regions like the Middle East, Europe, and Asia, where evidence of complex cultures and interbreeding with other hominins like Neanderthals and Denisovans enrich our understanding of humanity's dynamic history and its enduring adaptability.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-127|sample|0",
+    "s": "The debate over animal testing's ethics is intensifying as activists and scientists clash, with proponents highlighting its crucial role in biomedical research and treatment development, while opponents emphasize animal welfare and advocate for alternative methods, reflecting a global trend towards more ethical scientific practices with legislative efforts like the EU's strict regulations and the US's proposed Humane Research and Testing Act.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-128|sample|0",
+    "s": "The global resurgence in space exploration, driven by technological advancements and international collaboration, holds promise for unlocking the universe's mysteries and yielding significant scientific, economic, and technological benefits, though it faces challenges like high costs, technical complexities, and ethical considerations demanding careful planning and international cooperation.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-129|sample|0",
+    "s": "Government regulation in the tech sector faces scrutiny as policymakers strive to balance innovation and consumer protection, addressing concerns like data privacy, market monopolies, and cybersecurity, with global efforts such as the GDPR in the EU and proposed US legislation aiming to safeguard personal data and curb tech giants' dominance.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-130|sample|0",
+    "s": "A groundbreaking discovery by University of Cambridge researchers reveals previously unknown microbial life thriving in deep-sea hydrothermal vents, offering crucial insights into Earth's early conditions and bolstering the hypothesis of life's emergence in extreme environments, with profound implications for astrobiology and the search for extraterrestrial life, igniting further exploration into fundamental life-sustaining processes and the potential for life elsewhere in the universe.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-131|sample|0",
+    "s": "Gender equality in the workplace remains a pressing issue, with disparities in pay, representation, and advancement persisting despite efforts from both governments and companies, highlighting the need for multifaceted solutions to foster inclusive environments and unleash the full potential of diverse talent for sustainable economic growth amidst challenges such as unconscious bias and pandemic setbacks.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-132|sample|0",
+    "s": "Growing concern surrounds the link between American football and chronic traumatic encephalopathy (CTE), a degenerative brain disease caused by repeated head impacts, prompting calls for enhanced safety measures and stricter concussion protocols, despite NFL initiatives to mitigate risks, with broader discussions now involving parents, educators, and policymakers about the future of tackle football.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-133|sample|0",
+    "s": "Miami, a city acutely impacted by climate change, spearheads resilience efforts with the Miami Forever Bond, investing $400 million in infrastructure like seawalls and stormwater systems, while prioritizing green solutions such as park expansion and coastal ecosystem restoration to combat rising sea levels and intensifying storms, highlighting the importance of nature-based strategies for long-term sustainability.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-134|sample|0",
+    "s": "Farmers markets, increasingly popular for their fresh produce and community ambiance, serve as hubs for supporting local economies, promoting sustainable agriculture, and fostering connections between consumers and farmers, embodying a broader cultural shift towards healthier, more resilient communities and a sustainable food system.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-135|sample|0",
+    "s": "Nollywood, Nigeria's influential film industry, thrives domestically and globally, producing thousands of films annually and exploring themes resonating with audiences worldwide, bolstered by digital platforms' accessibility, economic contributions, and collaborative ventures, positioning it as a cultural powerhouse showcasing African narratives on the global stage.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-136|sample|0",
+    "s": "Ozempic, initially designed for type 2 diabetes management, is garnering attention for its weight loss benefits, with clinical trials demonstrating up to 15% body weight reduction annually, offering a potential avenue for obesity treatment pending FDA approval despite concerns over off-label use and accessibility challenges.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-137|sample|0",
+    "s": "Privacy concerns are escalating as companies and governments amass vast amounts of personal data, with tech giants like Google and Facebook utilizing user data for tailored ads, prompting stricter regulations like GDPR and CCPA despite challenges in enforcement due to the global nature of data flow.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-138|sample|0",
+    "s": "Social media has revolutionized activism by providing a direct line to global audiences, enabling real-time updates, and fostering unity around causes like Black Lives Matter and #MeToo, although it faces criticism for promoting \"slacktivism\" and echo chambers amidst its undeniable power to amplify marginalized voices and drive collective action.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-139|sample|0",
+    "s": "Climate change profoundly affects global agriculture, disrupting productivity with rising temperatures and extreme weather, while adaptation strategies like resilient crops and sustainable practices help, governmental policies and financial support are crucial for mitigating climate-related risks and ensuring food security.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-140|sample|0",
+    "s": "Aided by modern technology, recent archaeological discoveries, like the \"Lost Golden City\" in Luxor, Egypt, reveal insights into ancient civilizations' daily lives,  advancing our understanding of human history and societal evolution.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-141|sample|0",
+    "s": "Community gardens in urban areas play a vital role in promoting food security, fostering social cohesion, and reconnecting communities with nature, offering a sustainable solution to \"food deserts\" while empowering residents and cultivating a sense of shared space and collaboration.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-142|sample|0",
+    "s": "Music streaming services like Spotify, Apple Music, and Amazon Music have revolutionized the music industry by providing instant access to vast catalogs of songs, reshaping how music is distributed and consumed globally, while algorithms and curated playlists facilitate music discovery, propelling emerging artists to fame and democratizing the industry economically, though debates about fair compensation persist.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-143|sample|0",
+    "s": "Philanthropy, crucial in addressing social issues, empowers communities through funding diverse causes, from education to human rights, driving social change and fostering equality by supporting innovative solutions and amplifying marginalized voices, as noted by philanthropic leaders Darren Walker, Melinda Gates, and George Soros.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-144|sample|0",
+    "s": "Citizen journalism, facilitated by smartphones and social media, democratizes news by allowing ordinary individuals to report events in real time, providing immediate coverage of breaking news such as during the Arab Spring, which offers unfiltered insights and complements traditional media, enhancing the comprehensiveness and responsiveness of news reporting.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-145|sample|0",
+    "s": "Global trade enriches cultures through diverse goods and ideas, introducing new products and technologies while posing challenges to preserving traditional customs and identities, yet it also exacerbates economic inequalities, threatening local industries and crafts integral to cultural heritage.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-146|sample|0",
+    "s": "The surge in global tourism threatens natural habitats through physical degradation and wildlife disturbance, but sustainable practices such as eco-tourism, responsible travel, and community involvement can mitigate these impacts by balancing economic benefits with environmental protection.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-147|sample|0",
+    "s": "The future of work-life balance in a digital world is increasingly significant as remote work, accelerated by the COVID-19 pandemic, offers flexibility and greater job satisfaction but also blurs boundaries between personal and professional life, leading to longer hours and potential burnout if not managed properly.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-148|sample|0",
+    "s": "Caffeine, widely consumed for its stimulating effects, enhances mental alertness and physical performance, offers health benefits like reduced risks of Parkinson's disease and type 2 diabetes, but excessive intake can cause adverse effects such as anxiety, insomnia, and withdrawal symptoms, making it essential to monitor personal tolerance levels according to experts.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-149|sample|0",
+    "s": "Underwater internet cables, stretching across ocean floors, are crucial for global communication, carrying 99% of international data traffic and enabling everything from daily internet use to complex business operations, but they face significant challenges from natural disasters and human activities, requiring costly and specialized repairs to maintain their vital role in the digital age.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-150|sample|0",
+    "s": "Antarctica is a crucial research hub that helps scientists understand global climate patterns, ice sheet dynamics, and marine ecosystems, with its rapid ice melt impacting sea levels, underscoring the importance of international cooperation under the Antarctic Treaty to promote peaceful scientific efforts and environmental preservation for predicting future climate scenarios and informing global policy.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "swt|goarno-swt-150|sample|1",
+    "s": "Previous Los 9 mejores consejos para la descripción de fotos en el Duolingo English Test Next 50 Describe Image Examples with Answers - PTE Arno © 2026 Powered by Ghost Get free practice questions, full mock tests, and personalized study plans Free practice &amp; study plans Start Practicing &rarr; &times;",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|0",
+    "s": "Technological advancements and evolving workplace practices make reduced working hours inevitable in coming decades.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|1",
+    "s": "I strongly agree that future generations will spend less time working than current employees due to productivity gains and shifting societal priorities.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|10",
+    "s": "A 2022 New Zealand study found that shortened work weeks lowered carbon emissions by 14% in participating firms through fewer employee journeys.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|11",
+    "s": "In conclusion, both economic efficiency and quality-of-life considerations will drive global reductions in working hours.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|12",
+    "s": "While some industries may adapt slower than others, the combined pressure of technological progress and workforce expectations makes this transition unavoidable.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|13",
+    "s": "Societies must plan adequate policies to ensure smooth implementation of shorter work schedules that balance productivity with human needs.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|2",
+    "s": "This essay will discuss automation-driven efficiency and improved work-life balance demands as key factors.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|3",
+    "s": "To begin with, artificial intelligence and robotics will dramatically increase workplace productivity.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|4",
+    "s": "Machines now perform tasks that previously required human labour, allowing equivalent output with reduced working time.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|5",
+    "s": "For example, German companies using automation have maintained production levels while implementing 28-hour work weeks through their Kurzarbeit system.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|6",
+    "s": "As algorithms grow more sophisticated, this trend will accelerate across industries, making traditional 40-hour schedules obsolete.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "write_essay|band9-write_essay-001|sample|7",
+    "s": "Furthermore, employees increasingly prioritise personal wellbeing over excessive work commitments.",
+    "p": "P3",
+    "native": false
+  }
+]

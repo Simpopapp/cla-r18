@@ -1,0 +1,26 @@
+{
+  "lot": "sweep-lot-04",
+  "types": ["retell_lecture"],
+  "queries": [
+    { "query": "\"PTE retell lecture transcript\" template", "tool": "websearch", "result": "10 resultados", "notes": "Encontrados sobretudo templates; um PDF inclui exemplo de lecture." },
+    { "query": "\"retell lecture\" \"transcript\" PTE \"answer\"", "tool": "websearch", "result": "10 resultados", "notes": "Encontradas páginas com transcript e exemplos/respostas." },
+    { "query": "PTE retell lecture most repeated pdf memory based 2025", "tool": "websearch", "result": "10 resultados", "notes": "Inclui página de exemplos mais repetidos, previsões e PDF." },
+    { "query": "site:goarno.io \"retell lecture\" transcript answer PTE", "tool": "websearch", "result": "5 resultados", "notes": "Encontrada página com transcript e resposta-modelo declarados." },
+    { "query": "site:stormedugo.com PTE retell lecture transcript answer", "tool": "websearch", "result": "5 resultados", "notes": "Sem candidata com transcript e resposta no trecho retornado." },
+    { "query": "site:band9pte.com.au retell lecture transcript answer", "tool": "websearch", "result": "5 resultados", "notes": "Resultados de prática geral/templates; sem transcript e resposta visíveis." },
+    { "query": "site:languageacademy.com.au \"retell lecture\" transcript PTE", "tool": "websearch", "result": "5 resultados", "notes": "Resultados sobre estratégias, sem item transcript+resposta." },
+    { "query": "site:ptehelper.com retell lecture transcript answer PTE", "tool": "websearch", "result": "5 resultados", "notes": "Encontradas páginas de prática; itens completos parcialmente visíveis." },
+    { "query": "site:gurully.com/blog/pte-retell-lecture-examples most repeated answers transcript", "tool": "websearch", "result": "1 resultado", "notes": "Página declara 20+ exemplos mais repetidos; resposta de exemplo visível." },
+    { "query": "\"PTE retell lecture\" \"memory based\" transcript model answer", "tool": "websearch", "result": "10 resultados", "notes": "Encontradas páginas de prática e itens; verificação cruzada limitada." },
+    { "query": "site:reddit.com/r/PTE \"retell lecture\" transcript answer", "tool": "websearch", "result": "5 resultados", "notes": "Discussões encontradas, sem conjunto público transcript+resposta candidato." },
+    { "query": "PTE \"RL audio transcript list\" retell lecture questions answer", "tool": "websearch", "result": "10 resultados", "notes": "Encontradas páginas de banco e materiais com transcrições." },
+    { "query": "PTE retell lecture prediction 2025 2026 transcripts answers filetype:pdf", "tool": "websearch", "result": "10 resultados", "notes": "Resultados incluem PDF de previsão e bancos de prática." },
+    { "query": "PTE retell lecture \"most repeated\" transcript answer 2024 site:pteexam", "tool": "websearch", "result": "5 resultados", "notes": "Encontrada página de questões repetidas/transcript/resposta." },
+    { "query": "site:ptehelper.com.au \"RL-\" \"Answer\" \"retell lecture\"", "tool": "websearch", "result": "5 resultados", "notes": "Resultado inclui RL-146 e transcript parcial." },
+    { "query": "\"retell lecture\" PTE \"transcript\" \"sample answer\" real exam repeated", "tool": "websearch", "result": "10 resultados", "notes": "Encontrados exemplos com transcript e resposta-modelo." },
+    { "query": "PTE retell lecture sample transcript model retelling independent domain", "tool": "websearch", "result": "8 resultados", "notes": "Encontrados itens em vários domínios; algumas fontes parecem materiais originais de prática." },
+    { "query": "site:pteexamprep.com/practice/retell-lecture \"Why bees matter\" transcript model", "tool": "websearch", "result": "1 resultado", "notes": "Página declara 54 lectures originais; trecho não mostrou transcript com resposta-modelo." },
+    { "query": "site:ptebank.com/category/audio-rl \"Retell Lecture\" transcript answer", "tool": "websearch", "result": "1 resultado", "notes": "Índice de itens por título, sem evidência suficiente de transcript e resposta." },
+    { "query": "\"retell lecture\" PTE transcript \"model answer\" -template", "tool": "websearch", "result": "10 resultados", "notes": "Novas candidatas com transcript e resposta-modelo; incluído exemplo de prática claramente identificado." }
+  ]
+}

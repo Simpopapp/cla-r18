@@ -1,0 +1,2099 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <title>Most Important &quot;Read Aloud&quot; Passages for PTE Academic 2025</title>
+
+    <meta charset="utf-8">
+    <base href="https://www.stormedugo.com/" />
+    <meta name="description" content="Master These 50 to Boost Your Speaking + Reading Score
+Read Aloud is the very first task in the PTE Speaking section — and one of the most scoring. Whether you&#39;re aiming for 65+ or targeting a perfect 90, mastering Read Aloud gives you a strong start, boosts fluency, and improves both Speaking and Reading scores." />
+    <link rel="canonical" href="https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025" />
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Most Important &quot;Read Aloud&quot; Passages for PTE Academic 2025" />
+    <meta property="og:description" content="Master These 50 to Boost Your Speaking + Reading Score
+Read Aloud is the very first task in the PTE Speaking section — and one of the most scoring. Whether you&#39;re aiming for 65+ or targeting a perfect 90, mastering Read Aloud gives you a strong start, boosts fluency, and improves both Speaking and Reading scores." />
+    <meta property="og:url" content="https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025" />
+    <meta property="og:site_name" content="Storm EduGo" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="Content/User/images/favicon.png">
+
+    <!-- Latest compiled and minified CSS -->
+    <link href="Content/User/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="Content/User/js/bootstrap.bundle.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="Content/User/css/style.css">
+    <link rel="stylesheet" type="text/css" href="Content/User/css/animate.css">
+
+    <link rel="stylesheet" type="text/css" href="Content/User/css/responsive.css">
+
+    <!-- owl carosel links -->
+
+    <link rel="stylesheet" href="Content/User/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="Content/User/css/owl.theme.default.min.css">
+
+    <!-- swiper slider link -->
+
+    <link rel="stylesheet" type="text/css" href="Content/User/css/swiper-bundle.min.css">
+
+    <!-- fontawesome link -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="Content/User/js/jquery-3.7.0.min.js"></script>
+
+    <script src='https://www.google.com/recaptcha/api.js' type="text/javascript"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+    <script>
+    $(document).ready(function () {
+        $('#showcaptchaWM').hide();
+        $('#captchabtnM').show();
+        /*reloadCaptcha();*/
+        //$('#otpbtn').show();
+
+    });
+    function ShowCaptchaImageWM() {
+            $('#captchabtnM').hide();
+            reloadCaptchaM();
+            $('#showcaptchaWM').show();
+        }
+
+
+    function reloadCaptchaM() {
+        $.ajax({
+            url: '/Home/ShowCaptchaImage',
+            type: 'GET',
+            dataType: 'json', // Ensure JSON response
+            success: function (data) {
+                console.log('Captcha Response:', data); // Debugging
+
+                if (data.image && data.code) {
+                    $('#captchaM').attr('src', data.image);
+                    $('#generatedCaptchaM').val(data.code); // Store CAPTCHA code
+                    console.log('Generated Captcha:', $('#generatedCaptchaM').val()); // Debugging
+                } else {
+                    console.error('Invalid CAPTCHA response format.');
+                }
+            },
+            error: function (xhr, status, error) {
+                console.error('Error loading CAPTCHA:', error);
+            }
+        });
+    }
+    function BPhoneValidMainLayout() {
+        // Validate Phone Number
+        if ($.trim($('#PhoneNoM').val()) === '') {
+            $('#PhoneNoM').focus().addClass('redborder');
+            $('#spanPhoneNoM').show().html('Phone Number Required');
+            return false;
+        } else if (!/^\d{10}$/.test($('#PhoneNoM').val())) { // Ensure the phone number has exactly 10 digits
+            $('#PhoneNoM').focus().addClass('redborder');
+            $('#spanPhoneNoM').show().html('Invalid Phone Number');
+            return false;
+        } else {
+            $('#PhoneNoM').removeClass('redborder');
+            $('#spanPhoneNoM').hide();
+        }
+
+        return true;
+    }
+
+    function SendBLoginOTPM() {
+        console.log('entered Mainlayout');
+        var PhoneM = $('#PhoneNoM').val();
+        console.log($('#PhoneNoM').val());
+        console.log(PhoneM);
+        if (PhoneM != null && PhoneM != '') {
+            if (BPhoneValidMainLayout()) {
+                $('#spanBPOTPM').html('');
+                $('#VerifyotppM').show();
+                $('#timerblockM').show();
+                $('#otpbtnM').hide();
+                $('#spanPhoneNoMFailed').html('');
+                $('#spanPhoneNoMSuccess').html('');
+                $('#VerifiedOTPM').val('');
+                SendPhoneBOTPM();
+            }
+        }
+        else {
+            alert('Enter Mobile Number')
+        }
+    }
+
+    function VerifyBLoginOTPM() {
+        if (BPhoneValidMainLayout()) {
+            if (VerifyBPhoneOTPM()) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+        else {
+            return false;
+        }
+    }
+
+    function SendPhoneBOTPM() {
+        var PhoneM = $('#PhoneNoM').val();
+        if (PhoneM != null && PhoneM != '') {
+            $.ajax({
+                type: "POST",
+                url: '/Users/SmsService/SendOtp', // the URL of the controller action method
+                data: { PhoneNo: PhoneM }, // optional data
+                datatype: "JSON",
+                async: false,
+                success: function (result) {
+                    if (result.status === "success") {
+                        /*$('#OTP').val('');*/
+                        $('#spanPhoneNoMSuccess').html('OTP Sent to Mobile No.');
+                        $('#otpbtnM').hide();
+                        $('#VerifiedOTPM').val('');
+                        $('#PhoneVerifiedM').val('No');
+                        $('#VerifyotppM').show();
+                        $('#timerblockM').show();
+                        $('#PhoneNoM').attr('readonly', 'readonly');
+                        $('#SubmitVBTNM').show();
+                        PBSetTimerM();
+                        //$('#vMainbutton').show();
+                        //$('#valfabutton').hide();
+                    }
+                    else {
+                        $('#spanPhoneNoMFailed').html('Failed to send OTP.');
+
+                        $('#VerifyotppM').hide();
+                        $('#timerblockM').hide();
+                        $('#otpbtnM').show();
+                        $('#PhoneNoM').attr('readonly', 'readonly');
+                        PBSetTimerM();
+                    }
+                }
+            });
+        }
+    }
+
+    var px = null;
+
+    function PBSetTimerM() {
+        var now1 = new Date(); // get "now"
+        now1.setMinutes(now1.getMinutes() + 15);
+        // Set the date we're counting down to
+        var countDownDate = new Date(now1).getTime();
+        clearInterval(px);
+        // Update the count down every 1 second
+        px = setInterval(function () {
+
+            // Get todays date and time
+            var now = new Date().getTime();
+
+            // Find the distance between now and the count down date
+            var distance = countDownDate - now;
+
+            // Time calculations for days, hours, minutes and seconds
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            // Output the result in an element with id="demo"
+            $('#otpptimerM').html("OTP valid upto " + minutes + ":" + seconds);
+
+            // If the count down is over, write some text
+            if (distance < 0) {
+                clearInterval(px);
+                //$('#otpptimerM').html('<a onclick="SendPhoneBOTPM();">Resend OTP</a>');
+                $('#otpptimerM').html('OTP Expired');
+            }
+        }, 1000);
+    }
+
+    function VerifyBPhoneOTPM() {
+        var returnval = false;
+        var OTP = $('#VOTPM').val();
+        if (OTP != null && OTP != '') {
+            $.ajax({
+                type: "POST",
+                url: '/Users/SmsService/VerifyPhoneOTP', // the URL of the controller action method
+                data: { OTP: OTP }, // optional data
+                datatype: "JSON",
+                async: false,
+                success: function (result) {
+                    if (result.ok) {
+                        clearInterval(px);
+                        $('#spanBPOTPM').html('');
+                        $('#otpptimerM').html('');
+                        $('#otpptimerM1').html('Phone No. Verified').addClass('green-t').removeClass('red-t');
+                        $('#VerifiedOTPM').val(OTP);
+                        $('#PhoneVerifiedM').val('Yes');
+                        $('#SubmitVBTNM').hide();
+                        returnval = true;
+                    }
+                    else {
+                        //clearInterval(px);
+                        $('#spanBPOTPM').html('Invalid OTP').show();
+                        //$('#otpptimerM').html('<a onclick="SendPhoneBOTPM();">Resend OTP</a>').removeClass('green-t').addClass('red-t');
+                        $('#VerifiedOTPM').val('');
+                        $('#PhoneVerifiedM').val('No');
+                        returnval = false;
+                    }
+                }
+            });
+        }
+        return returnval;
+    }
+    </script>
+
+    <style>
+        .glass {
+            width: 500px;
+            height: 500px;
+            position: absolute;
+            /*border-radius: 50%;*/
+            cursor: crosshair;
+            /* Multiple box shadows to achieve the glass effect */
+            box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.85), 0 0 7px 7px rgba(0, 0, 0, 0.25), inset 0 0 40px 2px rgba(0, 0, 0, 0.25);
+            /* hide the glass by default */
+            display: none;
+        }
+    </style>
+
+    <!-- Zoom in Code -->
+    
+
+    <!--  Zoom in Code -->
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5ZL3WMG2');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3RTB7B643D"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-3RTB7B643D');
+    </script>
+
+
+    <!-- Google tag (gtag.js) -->
+    <!-- Start of edustepoverseas Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=1d3c52d5-af87-4d8a-b965-f99469fceb69"></script>
+    <!-- End of edustepoverseas Zendesk Widget script -->
+
+</head>
+
+<body>
+    <article class="clearfix position-r">
+        <article class="clearfix msg-caption">
+            <div id="divmessage">
+                <div>
+                                    </div>
+            </div>
+
+        </article>
+
+    </article>
+    <!-- HEADER SECTION STARTS HERE -->
+
+    <header class="header_area">
+        <div class="main_header_area animated">
+            <div class="cmm_sec">
+                <div class="container-fluid">
+                    <div class="d-flex flex-wrap gap-2 justify-content-between">
+                        <div>
+                            <ul class="d-flex flex-wrap top-ul">
+                                <li><a href="mailto:info@stormedugo.com">Email: info@stormedugo.com</a></li>
+                                <li><a href="tel:+919426055928">Call Now: +919426055928</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex flex-wrap gap-4">
+                            <ul class="top-ul d-flex flex-wrap">
+
+                                <li><a href="https://www.google.com/maps?client=ms-android-samsung-rvo1&amp;sca_esv=601029419&amp;hl=en-IN&amp;cs=0&amp;lsig=AB86z5WZ46aKK3O-5j39kh2LKhIQ&amp;kgs=3aea85b20ae32222&amp;shndl=-1&amp;shem=lcsnce,lsp&amp;um=1&amp;ie=UTF-8&amp;fb=1&amp;gl=in&amp;sa=X&amp;geocode=KQ8pOQzzhF45MSKakGa8VTJy&amp;daddr=Mahalay+Complex,+302,+Chimanlal+Girdharlal+Rd,+opp.+Hotel+President,+Vasant+Vihar,+Navrangpura,+Ahmedabad,+Gujarat+380009" target="_blank">Ahmedabad</a></li>
+                                <li><a href="https://www.google.com/maps?client=ms-android-samsung-rvo1&amp;sca_esv=601029419&amp;hl=en-IN&amp;cs=0&amp;lsig=AB86z5V7IyaVsGi09yft0WnsePm_&amp;kgs=1ac403d7bdc00f88&amp;shndl=-1&amp;shem=lcsnce,lsp&amp;um=1&amp;ie=UTF-8&amp;fb=1&amp;gl=in&amp;sa=X&amp;geocode=KT-efzdSz185MWfdOna-sAqU&amp;daddr=Shreyas+Society,+354/2,+GH+Rd,+Sector+22,+Gandhinagar,+Gujarat+382021" target="_blank">Gandhinagar</a></li>
+
+                                <li><a href="https://www.google.com/maps/dir//Fortune+Signature,+Suite+No.+306-A,+Nizampet+Circle,+near+Metro+Station+Jntu+College,+Sardar+Patel+Nagar,+Kukatpally,+Hyderabad,+Telangana+500085/&amp;17.4981495,78.3075788,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bcb91f154c1d855:0xfc53bfeb2f04f708!2m2!1d78.3899806!2d17.4981665?entry=ttu" target="_blank">Hyderabad</a></li>
+                                <li><a href="https://www.google.com/maps/place/Storm+EduGo+Migration+%26+Education+Consultants+-+Adelaide/&amp;-34.9242873,138.5983909,17z/data=!3m1!4b1!4m6!3m5!1s0x6ab0cf229c6ceccd:0x45e257a5c06fa43f!8m2!3d-34.9242873!4d138.5983909!16s%2Fg%2F11sf05ykzl?entry=ttu" target="_blank">Adelaide</a></li>
+                            </ul>
+                            <div class="social-icons pos-relative">
+                                <a href="https://www.instagram.com/stormedugo" target="_blank">
+                                    <div class="icon tw"><i class="fa fa-instagram"></i></div>
+                                </a>
+                                <a href="https://www.facebook.com/stormedugo" target="_blank">
+                                    <div class="icon fb"><i class="fa fa-facebook"></i></div>
+                                </a>
+
+                                <a href="" target="_blank">
+                                    <div class="icon gp"><i class="fab fa-linkedin"></i></div>
+                                </a>
+                                <a href="https://www.youtube.com/@stormedugo" target="_blank">
+                                    <div class="icon yt"><i class="fab fa-youtube"></i></div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="container-fluid">
+            <nav id="navigation1" class="navigation">
+                <div class="nav-header d-flex gap-4">
+                    <a class="nav-brand " href="index"><img loading="lazy" class="logo" src="Content/User/images/logo.png" alt="logo.png"></a>
+                    <a class="nav-brand pn__logo__set" href="https://greatnationnz.com/" target="_blank"><img loading="lazy" class="logo" src="Content/User/images/great-nation-logo-small.png" alt="logo.png"></a>
+                    <div class="nav-toggle"></div>
+                </div>
+
+                <div class="nav-menus-wrapper">
+                    <ul class="nav-menu align-to-right">
+                        <li>
+
+                            <a href="about-us">Company</a>
+                            <div class="megamenu-panel megamenu-panel-pn">
+                                <div class="megamenu-lists">
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list">
+                                            <li>
+                                                <a href="about-us">
+                                                    About Us
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="our-team">
+                                                    Leadership
+                                                </a>
+                                            </li>
+
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a href="#">Study Abroad</a>
+                            <div class="megamenu-panel">
+                                <div class="megamenu-lists">
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list">
+                                            <li>
+                                                <a href="/study-in-canada">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/canada-flag.png" width="35" height="35" alt="canada-flag.png">Study in Canada
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/study-in-aus">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/aus-flag.png" width="35" height="35" alt="aus-flag.png">Study in Australia
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/study-in-usa">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/usa-flag.png" width="35" height="35" alt="usa-flag.png">Study in USA
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/study-in-newzealand">
+                                                    <img class="flag-icon" src="Content/User/images/newzealand-flag.png" width="35" height="35" alt="newzealand-flag.png">Study in New Zealand
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/study-in-uk">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/uk-flag.png" width="35" height="35" alt="uk-flag.png">Study in UK
+                                                </a>
+                                            </li>
+
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li>
+                            <a href="#">University Courses</a>
+                            <div class="megamenu-panel">
+                                <div class="megamenu-lists">
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list">
+                                            <li>
+
+                                                <a href="/university-courses-canada?Type=all">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/canada-flag.png" width="35" height="35" alt="canada-flag.png">Canada Courses
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/university-courses-usa?Type=all">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/usa-flag.png" width="35" height="35" alt="usa-flag.png">USA Courses
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/university-courses-australia?Type=all">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/aus-flag.png" width="35" height="35" alt="aus-flag.png">Australia Courses
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/university-courses-newzealand?Type=all">
+                                                    <img class="flag-icon" src="Content/User/images/newzealand-flag.png" width="35" height="35" alt="newzealand-flag.png">New Zealand Courses
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/university-courses-uk?Type=all">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/uk-flag.png" width="35" height="35" alt="uk-flag.png">UK Courses
+                                                </a>
+                                            </li>
+
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </li>
+
+
+                        <li>
+                            <a href="#">Migration</a>
+                            <div class="megamenu-panel">
+                                <div class="megamenu-lists">
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list">
+                                            <li>
+                                                <a href="/australia-migration">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/aus-flag.png" width="35" height="35" alt="canada-flag.png">Australia
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/canada-migration">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/canada-flag.png" width="35" height="35" alt="aus-flag.png">Canada
+                                                </a>
+                                            </li>
+
+
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li>
+                            <a href="#">Visitor Visa</a>
+                            <div class="megamenu-panel">
+                                <div class="megamenu-lists">
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list">
+                                            <li>
+                                                <a href="/canada-visitor-visa">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/canada-flag.png" width="35" height="35" alt="canada-flag.png">Canada Visitor Visa
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/usa-visitor-visa">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/usa-flag.png" width="35" height="35" alt="aus-flag.png">USA Visitor Visa
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/australia-visitor-visa">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/aus-flag.png" width="35" height="35" alt="aus-flag.png">Australia Visitor Visa
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/new-zealand-visitor-visa">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/newzealand-flag.png" width="35" height="35" alt="aus-flag.png">New Zealand Visitor Visa
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/uk-visitor-visa">
+                                                    <img class="flag-icon"
+                                                         src="Content/User/images/uk-flag.png" width="35" height="35" alt="aus-flag.png">UK Visitor Visa
+                                                </a>
+                                            </li>
+
+
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li>
+                            <a href="#">Coaching</a>
+                            <div class="megamenu-panel">
+                                <div class="megamenu-lists">
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list">
+                                            <li>
+                                                <a href="ielts-coaching">
+                                                    IELTS Coaching
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="pte-coaching">
+                                                    PTE Coaching
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="toefl-coaching">
+                                                    TOEFL Coaching
+                                                </a>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li>
+                            <a href="#">Updates</a>
+                            <div class="megamenu-panel">
+                                <div class="megamenu-lists">
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list">
+                                            <li>
+                                                <a href="blog">
+                                                    Blog
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="latestnews">
+                                                    Latest News
+                                                </a>
+                                            </li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </li>
+
+                        <li>
+                            <a href="#">Download</a>
+                            <div class="megamenu-panel">
+                                <div class="megamenu-lists">
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list">
+                                            <li>
+                                                <a href="/sops">
+                                                    SOPs
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="brochures">
+                                                    Brochure
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="https://www.youtube.com/@stormedugo" target="_blank">
+                                                    Videos
+                                                </a>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li><a href="contact-us">Contact Us</a></li>
+
+
+
+
+                        <li class="hcounsel-btn"><a href="#" data-bs-toggle="modal" data-bs-target="#myModal">Online Counselling</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+
+    </header>
+    <div class="modal fade" id="myModal">
+        <div class="modal-dialog">
+            <div class="modal-content pop-up-block">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <div class="modal-hd">
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <h4 class="modal-title mb-0">Online Counselling with our Expert Team</h4>
+                    </div>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <div class="modal-form cmn-form-to">
+<form action="/Users/Home/InsertLeads" class="common-form mt-4 mt-md-4" id="enquire-form" method="post" name="enquire-form">                            <input type="hidden" value="41" name="PrimarySource" id="PrimarySource">
+                            <input type="hidden" value="free counselling" name="SecondarySource" id="SecondarySource">
+                            <input type="hidden" value="91" name="CountryCode" id="CountryCode">
+                            <input type="hidden" value="" name="VerifiedOTP" id="VerifiedOTPM">
+                            <input type="hidden" value="" name="PhoneVerifiedM" id="PhoneVerifiedM">
+                            <input type="hidden" value="Online Counselling" name="medium" id="medium">
+                            <input type="hidden" value="" name="generatedCaptcha" id="generatedCaptchaM">
+                            <div class="row g-2 g-md-3 ">
+                                <div class="col-md-6">
+                                    <legend for="first_name" class="form-label">First Name<span style="color:red;">*</span></legend>
+                                    <input type="text" class="form-control" name="FirstName" id="FirstNameM" onkeypress="return Common.isCharacterKey(event)">
+                                    <span id="spanFirstNameM" style="color:orangered;"></span>
+                                </div>
+                                <div class="col-md-6">
+                                    <legend for="" class="form-label">Last Name<span style="color:red;">*</span></legend>
+                                    <input type="text" class="form-control" name="LastName" id="LastNameM" onkeypress="return Common.isCharacterKey(event)">
+                                    <span id="spanLastNameM" style="color:orangered;"></span>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="row gx-2 code-grid">
+                                        <div class="col-md-2 col-sm-2">
+                                            <legend for="" class="form-label">Code</legend>
+                                            <input type="text" class="form-control" name="code" value="+91" placeholder="+91" readonly>
+                                        </div>
+                                        <div class="col-md-10 col-sm-7">
+                                            <legend for="" class="form-label">Mobile Number<span style="color:red;">*</span></legend>
+                                            <input type="tel" class="form-control" name="PhoneNo" id="PhoneNoM" maxlength="10" onkeypress="return Common.isNumberKey(event)">
+
+
+                                            <span id="spanPhoneNoMSuccess" style="color: #07cb84; font-size: 12px; font-weight: 500; "></span>
+                                            <span id="spanPhoneNoMFailed" style="color: orangered; font-size: 12px; font-weight: 500;"></span>
+                                            <span id="spanPhoneNoM" style="color:orangered;"></span>
+                                        </div>
+                                        <div class="col-md-6 col-sm-3" id="otpbtnM" style="display:none">
+                                            <button type="button" class="common-form-btn" style="padding: 10px 30px; margin-top: 11px;" onclick="return SendBLoginOTPM()">Get OTP</button>
+                                            
+                                        </div>
+                                        <div class="col-md-6" id="VerifyotppM" style="display:none;">
+                                            <div class="d-flex gap-1">
+                                                <div class="flex-grow-1">
+                                                    <legend for="" class="form-label">Verify OTP<span style="color:red;">*</span></legend>
+                                                    <input type="tel" class="form-control" name="VOTP" id="VOTPM" maxlength="6" onkeypress="return Common.isNumberKey(event)">
+                                                    <span id="spanVOTPM" style="color:orangered;"></span>
+                                                    <div>
+                                                        <span class="" style="color: #eb1717; font-size: 11px; font-weight: 500;"><span id="otpptimerM" class="red-t"></span></span>
+                                                        <span class="" style="color: #07cb84; font-size: 12px; font-weight: 500;"><span id="otpptimerM1" class="red-t"></span></span>
+
+                                                    </div>
+                                                </div>
+                                                <div class="flex-shrink-1" id="SubmitVBTNM" style="display:none;">
+                                                    <button type="button" class="common-form-btn" onclick="return VerifyBLoginOTPM()" style="padding: 7px 13px; font-size: 12px;">Verify OTP</button>
+                                                    <a class="br-0 bg-trans txt-up" style="color: #002c68; font-weight: 500; font-size: 11px;" onclick="SendBLoginOTPM();">resend otp</a>
+                                                    <div>
+                                                        <span class="" style="color: #eb1717; font-size: 12px; font-weight: 500;"><span id="spanBPOTPM" class="red-t"></span></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                                <div class="col-md-12">
+                                    <legend for="" class="form-label">Email Address</legend>
+                                    <input type="email" class="form-control" name="Email" id="EmailM">
+                                    <span id="spanEmailM" style="color:orangered;"></span>
+                                </div>
+                                <div class="col-md-12">
+                                    <legend for="" class="form-label">Prefer Your Study Destination</legend>
+                                    <select class="form-select" name="CountryId" id="CountryIdM">
+                                        <option value="">Select Your Preferred Study Destination</option>
+                                                <option value="15"></option>
+                                                <option value="14">  USA</option>
+                                                <option value="5">Australia</option>
+                                                <option value="7">Canada</option>
+                                                <option value="10">Germany</option>
+                                                <option value="8">New Zealand</option>
+                                                <option value="9">Not decided yet</option>
+                                                <option value="1">UK</option>
+                                                <option value="3">USA</option>
+                                    </select>
+                                    <span id="spanCountryIdM" style="color:orangered;"></span>
+                                </div>
+                                <div class="col-12">
+                                    <legend for="" class="form-label">Your Message</legend>
+                                    <input type="text" class="form-control" name="Comments" id="CommentsM">
+                                    <span id="spanCommentsM" style="color:orangered;"></span>
+                                </div>
+                                <div class="col-12 mt-3">
+                                    <p class="mb-0">Select Branch<span style="color:red;">*</span></p>
+                                    <div class="rdo-tabs d-flex justify-content-start align-items-center">
+                                        <div class="d-flex justify-content-center align-items-center">
+                                            <input class="ss_set" checked="" type="radio" name="BranchId" value="33" id="three10">
+                                            <label class="ms-2" for="three10" style="font-family: 'Poppins-Medium';">Gandhinagar</label>
+                                        </div>
+                                        <div class="d-flex justify-content-center align-items-center ms-4">
+                                            <input class="ss_set" type="radio" name="BranchId" value="35" id="four10">
+                                            <label class="ms-2" for="four10" style="font-family: 'Poppins-Medium';">Ahmedabad</label>
+                                        </div>
+                                        <div class="d-flex justify-content-center align-items-center ms-4">
+                                            <input class="ss_set" type="radio" name="BranchId" value="33" id="three10">
+                                            <label class="ms-2" for="three10" style="font-family: 'Poppins-Medium';">Others</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <legend for="CaptchaaM" class="form-label">Captcha<span style="color:red;">*</span></legend>
+                                                <input type="text" class="form-control" name="Captcha" id="CaptchaaM">
+                                                <span id="spanCaptchaaM" style="color:orangered;"></span>
+                                                
+                                            </div>
+
+                                            <div class="col-xs-12 col-md-6 my-3 my-md-0" id="captchabtnM" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
+                                                
+                                                <button type="button" class="common-form-btn" style="padding: 6px 30px;margin-top: 5px;font-size: 12px;background-color: #0075ff;" onclick="return ShowCaptchaImageWM()">Get Captcha</button>
+
+                                            </div>
+                                            <div class="col-xs-12 col-md-6 my-3 my-md-0" id="showcaptchaWM" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
+                                                <img width="118" height="35" src="Home/ShowCaptchaImage" id="captchaM" style="padding-top: -5px;" title="Captcha" alt="Captcha" />
+                                                <a href="javascript:reloadCaptchaM();">
+                                                    <img alt="Refresh" src="Content/images/refresh.jpg" title="Refresh" />
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <!--<div class="row">
+                        <div class="col-md-6">
+                            <legend for="CaptchaaM" class="form-label">Captcha<span style="color:red;">*</span></legend>
+                            <input type="text" class="form-control" name="Captcha" id="CaptchaaM">
+                            <span id="spanCaptchaaM" style="color:orangered;"></span>-->
+                                        
+                                        <!--</div>
+                        <div class="col-xs-12 col-md-6 my-3 my-md-0" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
+                            <img width="118" height="35" src="Home/ShowCaptchaImage" id="captchaM" style="padding-top: -5px;" title="Captcha" alt="Captcha" />
+                            <a href="javascript:reloadCaptchaM();">
+                                <img alt="Refresh" src="Content/images/refresh.jpg" title="Refresh" />
+                            </a>
+                        </div>
+                    </div>-->
+                                    </div>
+                                </div>
+                                <div class="col-12 text-end">
+
+                                    <button type="submit" class="common-form-btn" onclick="return ValidateCounselling()">Submit</button>
+                                </div>
+                            </div>
+</form>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+<!-- INNER BANNER SECTION -->
+<!-- Contact Us section -->
+
+<div class=" pb-5 pt-3 mb-5">
+    <div class="container">
+        <div class="row gy-3 gy-md-5">
+            <div class="col-md-7 col-lg-9">
+                <div class="blog-details">
+                    <img loading="lazy" class="blog-detail-icon w-100 obj-fit" src="http://crm.stormedugo.com/Content/BlogDetails/55-DetailsMostImportantReadAloudPassagesforPTEAcademic2025.png" height="320" alt="55-DetailsMostImportantReadAloudPassagesforPTEAcademic2025.png">
+                    <div class="share-card mt-2 mb-2">
+                        <div class="d-flex gap-3 flex-wrap align-items-center justify-content-between">
+                            <div class="date" style="font-weight:600"><span class="dat-s">Posted date: April 16 2025 </span></div>
+                            <div class="separator"></div>
+                            <div class="category">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-title="US Desis">
+                                    <a class="a2a_button_facebook"></a>
+                                    <a class="a2a_button_whatsapp"></a>
+                                    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <h4 class="blog-title">Most Important &quot;Read Aloud&quot; Passages for PTE Academic 2025</h4>
+                   <div class=" text-justify">
+<p>
+	Master These 50 to Boost Your Speaking + Reading Score</p>
+<p>
+	Read Aloud is the very first task in the PTE Speaking section &mdash; and one of the most scoring. Whether you&#39;re aiming for 65+ or targeting a perfect 90, mastering Read Aloud gives you a strong start, boosts fluency, and improves both Speaking and Reading scores.</p>
+<p>
+	We&rsquo;ve compiled a list of 50 high-frequency, important Read Aloud passages that you must practice for PTE Academic 2025.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>🧠 Why Is Read Aloud So Important?</strong></p>
+<ul>
+	<li>
+		It tests <strong>oral fluency</strong>, <strong>pronunciation</strong>, and <strong>reading ability</strong>.</li>
+	<li>
+		Strong performance here boosts confidence for the rest of the test.</li>
+	<li>
+		It affects <strong>two modules</strong> &mdash; Speaking and Reading.</li>
+</ul>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>📚 How to Use This List</strong></p>
+<p>
+	✅ Practice <strong>one passage a day</strong> or 5 daily in rotation.<br />
+	✅ Record yourself and check fluency, pronunciation, and pacing.<br />
+	✅ Pause at commas and full stops, not randomly.<br />
+	✅ Stress keywords, maintain a neutral accent.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>🗂️ 50 Most Important Read Aloud Passages (Full Texts)</strong></p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>1. Mitigation</strong></p>
+<p>
+	Climate change mitigation consists of actions to limit global warming and its related effects. These include reducing greenhouse gas emissions and enhancing sinks of greenhouse gases. Mitigation may also be achieved by increasing the capacity of carbon sinks, such as reforestation.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>2. Botanic Gardens</strong></p>
+<p>
+	Botanic gardens are institutions holding documented collections of living plants for the purposes of scientific research, conservation, display, and education. They play a key role in preserving biodiversity and helping the public understand plant life.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>3. London (Shakespeare)</strong></p>
+<p>
+	London in Shakespeare&rsquo;s time had a population of around 200,000, and it was a busy, noisy, and somewhat dangerous place. The theatres were located on the outskirts of the city, outside the jurisdiction of the strict city authorities.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>4. Restaurant Location</strong></p>
+<p>
+	The location of a restaurant plays a crucial role in its success. High visibility, foot traffic, and accessibility are all important factors. Restaurants near commercial zones tend to attract more customers than those in residential areas.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>5. Mammal (Elephants)</strong></p>
+<p>
+	The elephant is the largest land mammal on Earth. It has an incredible memory and can recognize individuals even after many years. Elephants live in herds and exhibit complex emotions like grief, joy, and empathy.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>6. Shrimp Farming</strong></p>
+<p>
+	Shrimp farming is a rapidly growing industry that contributes significantly to global seafood production. However, it also raises environmental concerns, including water pollution and the destruction of coastal ecosystems.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>7. Teenage Girls&rsquo; Performance</strong></p>
+<p>
+	Studies show that teenage girls often outperform boys in school subjects, especially in reading and writing. Researchers believe this may be due to social expectations, learning styles, and brain development differences.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>8. Language and Evolution</strong></p>
+<p>
+	Language is considered a defining feature of human evolution. It allows us to share knowledge, build communities, and transmit culture. No other species on Earth has a communication system as complex as human language.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>9. Street Neighbors</strong></p>
+<p>
+	Your street neighbors can have a big impact on your quality of life. Whether you live in an urban apartment or a suburban house, getting along with the people next door can reduce stress and increase community happiness.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>10. Domestic Work Division</strong></p>
+<p>
+	In many households, women still carry the larger share of domestic responsibilities. Despite social progress, studies show that men and women continue to divide household tasks along traditional gender lines.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>11. Russia&rsquo;s Uniqueness</strong></p>
+<p>
+	Russia is the largest country in the world by land area, stretching across eleven time zones. Its geography, history, and culture make it one of the most unique nations on Earth, rich with diverse languages and traditions.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>12. Australian Mining Industry</strong></p>
+<p>
+	Australia&rsquo;s mining industry is a major contributor to the national economy. With abundant natural resources like coal, iron ore, and gold, it exports raw materials globally and creates thousands of jobs.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>13. Abstract Preparation</strong></p>
+<p>
+	Preparing a well-structured abstract is essential for academic writing. It should clearly summarize the purpose, methods, results, and conclusions of the research, allowing readers to quickly understand the study&rsquo;s value.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>14. Economies of Scale</strong></p>
+<p>
+	Economies of scale refer to the cost advantages businesses obtain due to size, output, or scale of operation. As production increases, the average cost per unit typically decreases, leading to higher efficiency.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>15. Electricity Discoveries</strong></p>
+<p>
+	The discovery and use of electricity transformed human civilization. From lighting homes to powering industries, electricity is now an essential part of daily life, and innovations in this field continue to evolve rapidly.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>16. Goods and Services Demand</strong></p>
+<p>
+	The demand for goods and services is influenced by many factors including income, tastes, and prices. As these factors change, so does consumer behavior, affecting markets and economies.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>17. Hunter-Gatherer Life</strong></p>
+<p>
+	Hunter-gatherer societies lived off the land by hunting animals and gathering plants. They were nomadic, moved with the seasons, and developed close-knit communities with shared responsibilities.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>18. Blue Whales</strong></p>
+<p>
+	Blue whales are the largest animals to have ever lived on Earth. Despite their enormous size, they feed mostly on tiny krill. Sadly, they are now endangered due to past hunting and current environmental threats.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>19. Selective History</strong></p>
+<p>
+	History is often selective in what it remembers. Certain events and figures are celebrated, while others are ignored or forgotten. Understanding these patterns helps us question who writes history and why.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>20. Roman Constitution</strong></p>
+<p>
+	The Roman Constitution was a complex mix of monarchy, aristocracy, and democracy. It evolved over time and laid the foundation for many modern systems of governance.</p>
+<p>
+	<strong>21. The Power of Smiling</strong></p>
+<p>
+	Smiling can have a profound impact on both the person smiling and those around them. It&rsquo;s associated with reduced stress, improved mood, and even a stronger immune system. A simple smile can spread positivity and build connections.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>22. Great Barrier Reef</strong></p>
+<p>
+	The Great Barrier Reef, located off the coast of Queensland, Australia, is the largest coral reef system in the world. It is home to thousands of marine species, but it faces threats from climate change and pollution.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>23. Libraries in the Digital Age</strong></p>
+<p>
+	In the digital age, libraries are evolving from traditional book repositories into modern information hubs. They now offer online resources, digital lending, and even tech workshops to stay relevant and accessible.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>24. Work-Life Balance</strong></p>
+<p>
+	Maintaining a healthy work-life balance is essential for mental and physical well-being. Overworking can lead to burnout, while having personal time improves productivity, satisfaction, and relationships.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>25. Cultural Diversity</strong></p>
+<p>
+	Cultural diversity enriches societies by bringing together different traditions, values, and perspectives. Embracing diversity encourages mutual respect, innovation, and global understanding.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>26. Time Management</strong></p>
+<p>
+	Effective time management is key to academic and professional success. Prioritizing tasks, setting goals, and avoiding procrastination help individuals make the most of their time.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>27. The Human Brain</strong></p>
+<p>
+	The human brain is the most complex organ in the body. It controls thought, memory, emotion, and coordination. Neuroscientists are still discovering how different regions of the brain interact and function.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>28. Pollination</strong></p>
+<p>
+	Pollination is vital for plant reproduction. Bees, butterflies, and other insects transfer pollen from one flower to another, allowing plants to produce fruits and seeds. Pollinator decline poses a serious risk to agriculture.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>29. The Role of Music</strong></p>
+<p>
+	Music plays an important role in human culture and emotion. It can evoke powerful feelings, aid in relaxation, and even enhance memory. Many studies show that music therapy benefits mental health and cognitive development.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>30. Online Learning</strong></p>
+<p>
+	Online learning has revolutionized education by making it more flexible and accessible. Students can now study at their own pace, from anywhere in the world, using digital tools and virtual classrooms.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>31. Volcanic Eruptions</strong></p>
+<p>
+	Volcanic eruptions occur when magma rises to the surface, releasing gas, ash, and lava. While destructive, they also create fertile land and contribute to the Earth&rsquo;s geological processes.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>32. Artificial Intelligence</strong></p>
+<p>
+	Artificial Intelligence, or AI, enables machines to mimic human intelligence. It powers applications from voice assistants to autonomous vehicles. While promising, it also raises ethical and societal questions.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>33. Plastic Pollution</strong></p>
+<p>
+	Plastic pollution is one of the greatest environmental challenges today. Non-biodegradable plastics accumulate in oceans, harming marine life and entering the food chain. Reducing plastic use is critical.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>34. Sleep and Memory</strong></p>
+<p>
+	Sleep is essential for consolidating memory and learning. During sleep, the brain processes information gathered throughout the day. Lack of sleep can impair judgment, mood, and cognitive function.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>35. Renewable Energy</strong></p>
+<p>
+	Renewable energy sources like solar, wind, and hydro are essential for a sustainable future. Unlike fossil fuels, they produce little or no greenhouse gases, making them environmentally friendly alternatives.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>36. Food Wastage</strong></p>
+<p>
+	Globally, one-third of all food produced is wasted. This not only leads to hunger but also wastes the resources used to grow, transport, and package food. Reducing waste helps fight climate change and promote food security.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>37. Social Media Impact</strong></p>
+<p>
+	Social media connects billions of people worldwide but also influences behavior and mental health. While it facilitates communication, excessive use can lead to anxiety, misinformation, and reduced real-world interaction.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>38. The Solar System</strong></p>
+<p>
+	Our solar system consists of the Sun, eight planets, moons, and various celestial bodies. It formed about 4.6 billion years ago from a giant cloud of gas and dust, eventually developing into the system we observe today.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>39. Immigration and Society</strong></p>
+<p>
+	Immigration contributes to economic growth and cultural diversity. Migrants bring new skills, fill labor shortages, and enrich societies. However, successful integration depends on social policies and public attitudes.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>40. Women in Science</strong></p>
+<p>
+	Despite historical barriers, women have made groundbreaking contributions to science. Encouraging more women to pursue STEM careers helps close the gender gap and enhances innovation.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>41. Smartphones and Productivity</strong></p>
+<p>
+	While smartphones increase connectivity, they can also distract from deep work. Constant notifications and multitasking reduce focus. Mindful smartphone use improves efficiency and mental well-being.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>42. Mars Exploration</strong></p>
+<p>
+	Mars exploration has fascinated scientists for decades. Rovers like Perseverance are searching for signs of past life and testing technologies for future human missions. Mars could one day become humanity&rsquo;s second home.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>43. Internet of Things (IoT)</strong></p>
+<p>
+	The Internet of Things connects everyday devices to the internet, allowing them to send and receive data. From smart refrigerators to connected cars, IoT is transforming homes, industries, and cities.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>44. Ocean Currents</strong></p>
+<p>
+	Ocean currents regulate Earth&rsquo;s climate by distributing heat across the globe. These underwater &ldquo;rivers&rdquo; affect weather patterns and marine life. Changes in currents can have serious environmental impacts.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>45. Robotics in Medicine</strong></p>
+<p>
+	Robots are increasingly used in medical procedures, offering precision and reducing recovery time. From surgical robots to automated diagnostics, robotics is revolutionizing healthcare delivery.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>46. Cryptocurrency</strong></p>
+<p>
+	Cryptocurrency is a digital form of money that uses encryption for security. Bitcoin, the first cryptocurrency, was launched in 2009. While volatile, crypto is gaining popularity as an alternative asset.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>47. Endangered Species</strong></p>
+<p>
+	Species become endangered due to habitat loss, hunting, and climate change. Conservation efforts like protected areas and breeding programs aim to prevent extinction and preserve biodiversity.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>48. Water Scarcity</strong></p>
+<p>
+	Water scarcity affects over two billion people worldwide. Causes include droughts, pollution, and overuse. Sustainable water management is essential for agriculture, industry, and daily life.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>49. Peer Pressure</strong></p>
+<p>
+	Peer pressure influences how people behave, especially during adolescence. While it can encourage positive habits, it may also lead to risky behavior. Teaching self-confidence helps resist negative pressure.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>50. The Industrial Revolution</strong></p>
+<p>
+	The Industrial Revolution transformed economies from agrarian to industrial. It introduced machines, improved transportation, and changed labor systems. It also led to urbanization and environmental changes.</p>
+<div align="center">
+	<hr align="center" size="2" width="100%" />
+</div>
+<p>
+	<strong>💡 Final Tips for Mastering Read Aloud:</strong></p>
+<ul>
+	<li>
+		<strong>Fluency First</strong>: Read like you&#39;re speaking naturally, not like a robot.</li>
+	<li>
+		<strong>Listen and Learn</strong>: Record, replay, and note your weaknesses.</li>
+	<li>
+		<strong>Highlight Keywords</strong> before you speak.</li>
+	<li>
+		<strong>Don&rsquo;t Rush</strong>: Clear pronunciation is more important than speed.</li>
+</ul>
+<p>
+	&nbsp;</p>
+				   </div>
+
+                    
+						<div class="mt-3 mt-md-5">
+                        
+
+                    </div>
+
+                </div>
+
+                <div class="comment-sec my-3">
+                    <div class="">
+                        <h2 class="contact-title">Your Views Please!</h2>
+<form action="/Users/Blogs/InsertBlogComments" class="common-form mt-4 mt-md-4" id="enquire-form" method="post" name="enquire-form">                            <input type="hidden" class="form-control" name="BlogId" id="BlogId" value="55">
+                            <input type="hidden" class="form-control" name="PageUrl" id="PageUrl" value="most-important-read-aloud-passages-for-pte-academic-2025">
+                            <div class="row g-2 g-md-4">
+                                <div class="col-md-4">
+                                    <legend for="" class="form-label">Your Name*</legend>
+                                    <input type="text" class="form-control" name="name" id="name">
+                                </div>
+                                <div class="col-md-4">
+                                    <legend for="" class="form-label">Your Phone Number*</legend>
+                                    <input type="text" class="form-control" name="PhoneNo" id="PhoneNo">
+                                </div>
+                                <div class="col-md-4">
+                                    <legend for="" class="form-label">Your Email*</legend>
+                                    <input type="text" class="form-control" name="Email" id="Email">
+                                </div>
+                                <div class="col-12">
+                                    <legend for="" class="form-label">Your Comments</legend>
+                                    <textarea class="form-control" name="Comments" id="Comments" rows="3"></textarea>
+                                </div>
+                                <div class="col-12 text-end">
+                                    <button type="submit" class="common-form-btn">Submit</button>
+                                </div>
+                            </div>
+</form>                    </div>
+                </div>
+            </div>
+                    
+            <div class="col-md-5 col-lg-3">
+                <div class="">
+                    <h2 class="countries-title text-blue">Recent Posts</h2>
+                            <a class="text-black" href="blog/crs-cut-off-points-for-all-provinces-in-canada">
+                                <div class="post-card mb-3">
+                                    <div class="post-icon-bar"><img loading="lazy" class="" src="http://crm.stormedugo.com/Content/Blogs/80-CRSCutOffPointsforAllProvincesinCanada.jpg" alt="80-CRSCutOffPointsforAllProvincesinCanada.jpg"></div>
+                                    <div class="post-data">
+                                        <p class="mb-0">April 07 2026 </p>
+                                        <h5 class="post-title">CRS Cut-Off Points for All Provinces in Canada</h5>
+                                    </div>
+                                </div>
+                            </a>
+                            <a class="text-black" href="blog/Summarize-written-text-in-pte-academic">
+                                <div class="post-card mb-3">
+                                    <div class="post-icon-bar"><img loading="lazy" class="" src="http://crm.stormedugo.com/Content/Blogs/79-SummarizeWrittenTextinPTEAcademicACompleteGuideforHighScores.jpg" alt="79-SummarizeWrittenTextinPTEAcademicACompleteGuideforHighScores.jpg"></div>
+                                    <div class="post-data">
+                                        <p class="mb-0">April 07 2026 </p>
+                                        <h5 class="post-title">Summarize Written Text in PTE Academic: A Complete Guide for High Scores</h5>
+                                    </div>
+                                </div>
+                            </a>
+                    <div class="cat-list-wrap">
+                        <h2 class="countries-title text-blue">Categories</h2>
+                        <ul class="category-lis">
+                                    <li><a href="blog?Categorie=Australia"><span class="category-title">Australia</span><span class="badge">2</span></a></li>
+                                    <li><a href="blog?Categorie=Canada"><span class="category-title">Canada</span><span class="badge">5</span></a></li>
+                                    <li><a href="blog?Categorie=IELTS"><span class="category-title">IELTS</span><span class="badge">4</span></a></li>
+                                    <li><a href="blog?Categorie=New Zealand"><span class="category-title">New Zealand</span><span class="badge">12</span></a></li>
+                                    <li><a href="blog?Categorie=PTE"><span class="category-title">PTE</span><span class="badge">15</span></a></li>
+                                    <li><a href="blog?Categorie=Study Abroad"><span class="category-title">Study Abroad</span><span class="badge">5</span></a></li>
+                                    <li><a href="blog?Categorie=United Kingdom"><span class="category-title">United Kingdom</span><span class="badge">8</span></a></li>
+                                    <li><a href="blog?Categorie=USA"><span class="category-title">USA</span><span class="badge">3</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- AddToAny BEGIN -->
+
+
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+        <!-- Ready to fly section -->
+        <!--FOOTER SECTION STARTS HERE-->
+        <div class="text-center  strip-footer d-lg-flex container" style="margin-top: -46px;">
+            <h2 class="footer-title text-black mb-0">Download Storm EduGo Mobile App</h2>
+            <div class="d-inline-flex flex-wrap gap-3">
+                <a href="https://apps.apple.com/in/app/storm-edu-go-overseas/id6468950743" target="_blank" style="cursor:pointer">  <img src="Content/User/images/aap-1.png" alt="aap-1.png"></a>
+                <a href="https://play.google.com/store/apps/details?id=com.stormEdu.Overseas" target="_blank">
+                    <img class="" src="Content/User/images/aap-2.png" alt="aap-2.png">
+                </a>
+            </div>
+        </div>
+        <div class="">
+            <div class="bg__we__count">
+                <div class="container  wow fadeInDown" data-wow-delay="400ms" style="visibility: visible; animation-delay:400ms; animation-name: fadeInDown;">
+                    <h6 class="countries-title count__title mb-0p">
+                        <a href="study-in-aus text-center" style="color: #fff;">We are Storm EduGo</a>
+                    </h6>
+                    <div class="row justify-content-center gy-3 mt-3">
+                        <div class="col-lg-3 col-sm-6  ">
+                            <div class="count__title__boxs">
+                                <div class="d-flex flex-row  gap-3">
+
+                                    <div class="d-flex flex-column">
+                                        <div class="count_box_txt__set">
+                                            <div><img src="Content/User/images/Years-of-experience.png" /></div>
+                                            <div class="counter" data-count="24">0 </div>
+                                            <div><img src="Content/User/images/plus-icon.png" /></div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="count_box_txt__set">
+                                    <h5>Years of Excellence</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                            <div class="count__title__boxs">
+                                <div class="d-flex flex-row  gap-3">
+
+                                    <div class="d-flex flex-column">
+                                        <div class="count_box_txt__set">
+                                            <div><img src="Content/User/images/experienced-staff.png" /></div>
+                                            <div class="counter" data-count="10000">0 </div>
+                                            <div><img src="Content/User/images/plus-icon.png" /></div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="count_box_txt__set">
+                                    <h5>IELTS & PTE Glorious Results </h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                            <div class="count__title__boxs">
+                                <div class="d-flex flex-row  gap-3">
+
+                                    <div class="d-flex flex-column">
+                                        <div class="count_box_txt__set">
+                                            <div><img src="Content/User/images/success-students.png" /></div>
+                                            <div class="counter" data-count="12000">0 </div>
+                                            <div><img src="Content/User/images/plus-icon.png" /></div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="count_box_txt__set">
+                                    <h5>Successful Student Visas </h5>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="col-lg-3 col-sm-6 ">
+                            <div class="count__title__boxs">
+                                <div class="d-flex flex-row  gap-3">
+
+                                    <div class="d-flex flex-column">
+                                        <div class="count_box_txt__set">
+                                            <div><img src="Content/User/images/university-admission.png" /></div>
+                                            <div class="counter" data-count="2500">0  </div>
+                                            <div><img src="Content/User/images/plus-icon.png" /></div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="count_box_txt__set">
+                                    <h5>University Admissions </h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    <footer>
+        <div class="footer-top pos-relative">
+            <div class="container">
+                <div class="row gy-5">
+                    <div class="col-md-2 col-lg-3 col-xl-3 col-sm-12">
+                        <div class="footer-content fbox1 ">
+                            <div class="footer-content fbox2  pn__footer__content">
+                                <h2 class="footer-title footer__title">Imagine A Better Future </h2>
+                                <p>
+                                    The Most Eminent Visas & Immigration
+                                    Consultant service provider.
+                                </p>
+                                <h2 class="footer-title footer__title">Offered Destination </h2>
+                                <div class="foo__flg__img">
+                                    <a href="/study-in-usa">
+                                        <img src="Content/User/images/footer-falg-5.png" alt="">
+                                    </a>
+                                    <a href="/study-in-canada">
+                                        <img src="Content/User/images/footer-falg-4.png" alt="">
+                                    </a>
+                                    <a href="/study-in-newzealand">
+                                        <img src="Content/User/images/new-zealand.png" alt="">
+                                    </a>
+                                    <a href="/study-in-aus">
+                                        <img src="Content/User/images/footer-falg-2.png" alt="">
+                                    </a>
+
+                                    </a>
+                                    <a href="/study-in-uk">
+                                        <img src="Content/User/images/footer-falg-1.png" alt="">
+                                    </a>
+
+                                </div>
+
+
+                                <h2 class="footer-title footer__title mt-3">Connect us: </h2>
+
+                                <div class="fsocial-icons social-icons">
+                                    <a href="https://www.instagram.com/stormedugo" target="_blank"><div class="icon f-tw"><i class="fa fa-instagram"></i></div></a>
+                                    <a href="https://www.facebook.com/stormedugo" target="_blank"><div class="icon f-fb"><i class="fa fa-facebook"></i></div></a>
+                                    <a href="" target="_blank"><div class="icon f-tw"><i class="fa fa-linkedin"></i></div></a>
+                                    <a href="https://www.youtube.com/@stormedugo" target="_blank"><div class="icon f-yt"><i class="fa fa-youtube-play" aria-hidden="true"></i></div></a>
+                                </div>
+
+                                <div class="col-md-12 mt-3">
+                                    <div class="d-flex flex-lg-nowrap flex-wrap ">
+                                        <img src="Content/User/images/AircLogo.png" alt="" style="width: 100%; max-width: 180px; margin-top: 30px; padding: 15%; padding-left: 4px;" class="d-none" />
+                                        <img src="Content/User/images/Logos-04.png" alt="" style="width: 100%; max-width: 180px; margin-top: 30px; padding: 15%; padding-left: 4px;" class="d-block" />
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-3 col-lg-2 col-xl-2 col-sm-12">
+                        <div class="footer-content fbox1">
+                            <div class="row gy-4">
+                                <div class="col-md-12">
+                                    <h2 class="footer-title mb-2 footer__title font16">Company</h2>
+
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list pn__set__footer__list ">
+                                            <li><a href="about-us">About Us</a></li>
+                                            <li><a href="our-team">Leaderships</a></li>
+                                            <li>
+                                                <a href="contact-us">
+                                                    Contact Us
+                                                </a>
+                                            </li>
+
+
+                                        </ul>
+                                        <br />
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <h2 class="footer-title mb-2 footer__title ">Study Visa</h2>
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list pn__set__footer__list ">
+
+
+                                            <li>
+                                                <a href="study-in-aus">
+                                                    study in Australia
+                                                </a>
+                                            </li>
+                                            <li><a href="study-in-usa">study in USA</a></li>
+                                            <li>
+                                                <a href="study-in-canada">
+                                                    study in Canada
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="study-in-newzealand">study in New zealand</a>
+                                            </li>
+
+
+                                            <li>
+                                                <a href="study-in-uk">study in UK</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <h2 class="footer-title mb-2 footer__title ">University Courses</h2>
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list pn__set__footer__list ">
+
+
+                                            <li>
+                                                <a href="university-courses-australia">
+                                                    Australia Courses
+                                                </a>
+                                            </li>
+                                            <li><a href="university-courses-usa">USA Courses</a></li>
+                                            <li>
+                                                <a href="university-courses-canada">
+                                                    Canada Courses
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="university-courses-newzealand">New zealand Courses</a>
+                                            </li>
+
+
+                                            <li>
+                                                <a href="university-courses-uk">UK Courses</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-lg-3 col-xl-2 col-sm-12">
+                        <div class="footer-content fbox1 ">
+                            <div class="row gy-4">
+                                <div class="col-md-12">
+                                    <h2 class="footer-title mb-2  footer__title">Migration</h2>
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list pn__set__footer__list ">
+                                            <li><a href="australia-migration">Australia</a></li>
+                                            <li><a href="canada-migration">Canada</a></li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <h2 class="footer-title mb-2 footer__title ">Visitor Visa</h2>
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list pn__set__footer__list ">
+
+
+                                            <li>
+                                                <a href="australia-visitor-visa">
+                                                    Australia Visitor Visa
+                                                </a>
+                                            </li>
+                                            <li><a href="usa-visitor-visa">USA Visitor Visa</a></li>
+                                            <li>
+                                                <a href="canada-visitor-visa">
+                                                    Canada Visitor Visa
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="new-zealand-visitor-visa">New zealand Visitor Visa</a>
+                                            </li>
+
+
+                                            <li>
+                                                <a href="australia-visitor-visa">UK Visitor Visa</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="col-md-2 col-lg-3 col-xl-2 col-sm-12">
+                        <div class="footer-content fbox1">
+                            <div class="row gy-4">
+                                <div class="col-md-12">
+                                    <h2 class="footer-title mb-2 footer__title">Coaching</h2>
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list pn__set__footer__list">
+                                            <li><a href="coaching-overview">Coaching Overview</a></li>
+                                            <li>
+                                                <a href="Toefl">
+                                                    TOFEL Online
+                                                    Coaching
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="Ielts">
+                                                    IELTS Online
+                                                    Coaching
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <h2 class="footer-title mb-2 pn__footer__content footer__title ">Download</h2>
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list pn__set__footer__list">
+                                            <li><a href="sops">SOPs</a></li>
+                                            <li><a href="brochure"> Brochure</a></li>
+                                            <li><a href="https://www.youtube.com/@stormedugo" target="_blank">Videos</a></li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <h2 class="footer-title mb-2  pn__footer__content footer__title ">Updates</h2>
+                                    <div class="menu-li-box">
+                                        <ul class="megamenu-list pn__set__footer__list">
+                                            <li><a href="blog">Blog</a></li>
+                                            <li><a href="latestnews"> Latest News</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="col-md-5 col-lg-4 col-xl-3 col-sm-12">
+                        <div class="footer-content fbox1 pn__footer__content">
+                            <h2 class="footer-title footer__title footer__strom__color ">STORM EduGo GANDHINAGAR</h2>
+                            <a class="footer__strom__view " href="https://www.google.com/maps?client=ms-android-samsung-rvo1&sca_esv=601029419&hl=en-IN&cs=0&lsig=AB86z5WZ46aKK3O-5j39kh2LKhIQ&kgs=3aea85b20ae32222&shndl=-1&shem=lcsnce,lsp&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KQ8pOQzzhF45MSKakGa8VTJy&daddr=Mahalay+Complex,+302,+Chimanlal+Girdharlal+Rd,+opp.+Hotel+President,+Vasant+Vihar,+Navrangpura,+Ahmedabad,+Gujarat+380009" target="_blank">
+                                <div class="d-flex gap-2 mb-2">
+                                    <div class="text-white foo__icons__strom"><i class="bi bi-geo-alt"></i></div>
+                                    <div>
+                                        <div class="fdet add-txt d-flex w-100 align-center gap-2">
+                                            <p class="lh-24p mb-0p rsp-m-txt-initial">Storm House, Nr.Vishwa Karma Hall, Sector-12, Gandhinagar, Gujarat, india</p>
+                                        </div>
+                                        <div class="ps-2">
+                                            <span class="footer__strom__view" href="https://www.google.com/maps?client=ms-android-samsung-rvo1&sca_esv=601029419&hl=en-IN&cs=0&lsig=AB86z5WZ46aKK3O-5j39kh2LKhIQ&kgs=3aea85b20ae32222&shndl=-1&shem=lcsnce,lsp&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KQ8pOQzzhF45MSKakGa8VTJy&daddr=Mahalay+Complex,+302,+Chimanlal+Girdharlal+Rd,+opp.+Hotel+President,+Vasant+Vihar,+Navrangpura,+Ahmedabad,+Gujarat+380009" target="_blank">View Location</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="mailto:info@stormedugo.com" style="color:#ddd;">
+                                <div class="d-flex gap-2 mb-2">
+                                    <div class="text-white foo__icons__strom"><i class="bi bi-envelope"></i></div>
+                                    <div>
+                                        info@stormedugo.com
+                                    </div>
+                                </div>
+                            </a>
+
+                            <div class="hcounsel-btn  hcounsel__btn pt-2 ">
+                                <a href="tel:+91 8780117994" target="_blank"><i class="bi bi-telephone"></i> +91 8780117994</a>
+                            </div>
+                        </div>
+
+                        <div class="footer-content fbox1 pn__footer__content">
+                            <h2 class="footer-title footer__title footer__strom__color mt-3">STORM EduGo AHMEDABAD</h2>
+                            <a class="footer__strom__view " href="https://www.google.com/maps?client=ms-android-samsung-rvo1&sca_esv=601029419&hl=en-IN&cs=0&lsig=AB86z5WZ46aKK3O-5j39kh2LKhIQ&kgs=3aea85b20ae32222&shndl=-1&shem=lcsnce,lsp&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KQ8pOQzzhF45MSKakGa8VTJy&daddr=Mahalay+Complex,+302,+Chimanlal+Girdharlal+Rd,+opp.+Hotel+President,+Vasant+Vihar,+Navrangpura,+Ahmedabad,+Gujarat+380009" target="_blank">
+                                <div class="d-flex gap-2 mb-2">
+                                    <div class="text-white foo__icons__strom"><i class="bi bi-geo-alt"></i></div>
+                                    <div>
+                                        <div class="fdet add-txt d-flex w-100 align-center gap-2">
+                                            <p class="lh-24p mb-0p rsp-m-txt-initial">302, Mahalay Complex, Opp. Hotel President, Off. C.G. Road, Navrangpura, Ahmedabad, Gujarat, India.</p>
+                                        </div>
+                                        <div class="ps-2">
+                                            <span class="footer__strom__view" href="https://www.google.com/maps?client=ms-android-samsung-rvo1&sca_esv=601029419&hl=en-IN&cs=0&lsig=AB86z5WZ46aKK3O-5j39kh2LKhIQ&kgs=3aea85b20ae32222&shndl=-1&shem=lcsnce,lsp&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KQ8pOQzzhF45MSKakGa8VTJy&daddr=Mahalay+Complex,+302,+Chimanlal+Girdharlal+Rd,+opp.+Hotel+President,+Vasant+Vihar,+Navrangpura,+Ahmedabad,+Gujarat+380009" target="_blank">View Location</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="mailto:info@stormedugo.com" style="color:#ddd;">
+                                <div class="d-flex gap-2 mb-2">
+                                    <div class="text-white foo__icons__strom"><i class="bi bi-envelope"></i></div>
+                                    <div>
+                                        info@stormedugo.com
+                                    </div>
+                                </div>
+                            </a>
+
+                            <div class="hcounsel-btn  hcounsel__btn pt-3 ">
+                                <a href="tel:+91 79 40082222" target="_blank"><i class="bi bi-telephone"></i> +91 79 40082222</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="copyright">
+            <div class="container">
+                <div class="row g-2 align-center">
+                    <div class="col-md-6 col-sm-6 col-lg-7 col-xl-6">
+                        <div class="ftr_pn">
+                            <p class="mb-0p">Copyright © <span id="currentYear"></span>  <a class="text-white pn_set_ftr" href="http://stormedugo.com.au/">Strom EduGo Pty. Ltd.</a> All Rights Reserved.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-lg-5 col-xl-6">
+                        <div class="cookie-li">
+                            <ul>
+                                <li><a href="Privacy-Policy">Privacy Policy</a></li>
+                                <li><a href="Term-Of-Use">Term Of Use</a></li>
+                                <li><a href="Support">Support</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <!--FOOTER SECTION ENDS HERE-->
+    <!--  swiper code -->
+    <script src="Content/User/js/swiper-bundle.min.js"></script>
+
+
+
+    <script src="Content/User/js/owl.carousel.min.js"></script>
+    <script src="Content/User/js/jquery.form.js"></script>
+    <script src="Content/User/js/wow.min.js"></script>
+    <script src="Content/User/js/script.js"></script>
+    <script src="Content/User/js/Common.js"></script>
+    <script src="Content/User/js-bkp/jquery.validate.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+
+    
+    <!-- /GetButton.io widget -->
+    
+    <script>
+        $('.counter').each(function () {
+            var $this = $(this),
+                countTo = $this.attr('data-count');
+
+            $({ countNum: $this.text() }).animate({
+                countNum: countTo
+            },
+
+                {
+
+                    duration: 8000,
+                    easing: 'linear',
+                    step: function () {
+                        $this.text(Math.floor(this.countNum));
+                    },
+                    complete: function () {
+                        $this.text(this.countNum);
+                        //alert('finished');
+                    }
+                });
+        });
+    </script>
+
+    <!-- Zoom Code -->
+    
+    <script>
+
+
+        $(function () {
+
+            var native_width = 0;
+            var native_height = 0;
+            var mouse = { x: 0, y: 0 };
+            var magnify;
+            var cur_img;
+
+            var ui = {
+                magniflier: $('.magniflier')
+            };
+
+            // Add the magnifying glass
+            if (ui.magniflier.length) {
+                var div = document.createElement('div');
+                div.setAttribute('class', 'glass');
+                ui.glass = $(div);
+
+                $('body').append(div);
+            }
+
+
+            // All the magnifying will happen on "mousemove"
+
+            var mouseMove = function (e) {
+                var $el = $(this);
+
+                // Container offset relative to document
+                var magnify_offset = cur_img.offset();
+
+                // Mouse position relative to container
+                // pageX/pageY - container's offsetLeft/offetTop
+                mouse.x = e.pageX - magnify_offset.left;
+                mouse.y = e.pageY - magnify_offset.top;
+
+                // The Magnifying glass should only show up when the mouse is inside
+                // It is important to note that attaching mouseout and then hiding
+                // the glass wont work cuz mouse will never be out due to the glass
+                // being inside the parent and having a higher z-index (positioned above)
+                if (
+                    mouse.x < cur_img.width() &&
+                    mouse.y < cur_img.height() &&
+                    mouse.x > 0 &&
+                    mouse.y > 0
+                ) {
+
+                    magnify(e);
+                }
+                else {
+                    ui.glass.fadeOut(100);
+                }
+
+                return;
+            };
+
+            var magnify = function (e) {
+
+                // The background position of div.glass will be
+                // changed according to the position
+                // of the mouse over the img.magniflier
+                //
+                // So we will get the ratio of the pixel
+                // under the mouse with respect
+                // to the image and use that to position the
+                // large image inside the magnifying glass
+
+                var rx = Math.round(mouse.x / cur_img.width() * native_width - ui.glass.width() / 2) * -1;
+                var ry = Math.round(mouse.y / cur_img.height() * native_height - ui.glass.height() / 2) * -1;
+                var bg_pos = rx + "px " + ry + "px";
+
+                // Calculate pos for magnifying glass
+                //
+                // Easy Logic: Deduct half of width/height
+                // from mouse pos.
+
+                // var glass_left = mouse.x - ui.glass.width() / 2;
+                // var glass_top  = mouse.y - ui.glass.height() / 2;
+                var glass_left = e.pageX - ui.glass.width() / 2;
+                var glass_top = e.pageY - ui.glass.height() / 2;
+                //console.log(glass_left, glass_top, bg_pos)
+                // Now, if you hover on the image, you should
+                // see the magnifying glass in action
+                ui.glass.css({
+                    left: glass_left,
+                    top: glass_top,
+                    backgroundPosition: bg_pos
+                });
+
+                return;
+            };
+
+            $('.magniflier').on('mousemove', function () {
+                ui.glass.fadeIn(200);
+
+                cur_img = $(this);
+
+                var large_img_loaded = cur_img.data('large-img-loaded');
+                var src = cur_img.data('large') || cur_img.attr('src');
+
+                // Set large-img-loaded to true
+                // cur_img.data('large-img-loaded', true)
+
+                if (src) {
+                    ui.glass.css({
+                        'background-image': 'url(' + src + ')',
+                        'background-repeat': 'no-repeat'
+                    });
+                }
+
+                // When the user hovers on the image, the script will first calculate
+                // the native dimensions if they don't exist. Only after the native dimensions
+                // are available, the script will show the zoomed version.
+                //if(!native_width && !native_height) {
+
+                if (!cur_img.data('native_width')) {
+                    // This will create a new image object with the same image as that in .small
+                    // We cannot directly get the dimensions from .small because of the
+                    // width specified to 200px in the html. To get the actual dimensions we have
+                    // created this image object.
+                    var image_object = new Image();
+
+                    image_object.onload = function () {
+                        // This code is wrapped in the .load function which is important.
+                        // width and height of the object would return 0 if accessed before
+                        // the image gets loaded.
+                        native_width = image_object.width;
+                        native_height = image_object.height;
+
+                        cur_img.data('native_width', native_width);
+                        cur_img.data('native_height', native_height);
+
+                        //console.log(native_width, native_height);
+
+                        mouseMove.apply(this, arguments);
+
+                        ui.glass.on('mousemove', mouseMove);
+                    };
+
+
+                    image_object.src = src;
+
+                    return;
+                } else {
+
+                    native_width = cur_img.data('native_width');
+                    native_height = cur_img.data('native_height');
+                }
+                //}
+                //console.log(native_width, native_height);
+
+                mouseMove.apply(this, arguments);
+
+                ui.glass.on('mousemove', mouseMove);
+            });
+
+            ui.glass.on('mouseout', function () {
+                ui.glass.off('mousemove', mouseMove);
+            });
+
+        });
+    </script>
+    <script>
+        //$(document).ready(function () {
+        //$('.search_box').SumoSelect({ search: true, searchText: 'Enter here.' });
+        //});
+        //$(document).ready(function () {
+        // $('.search_all').SumoSelect({ selectAll: true, search: true, searchText: 'Enter here.' });
+    </script>
+
+    <script>
+        function ValidateCounselling() {
+            let isValid = true;
+
+            // Validate First Name
+            if ($('#FirstNameM').val() == '') {
+                $('#FirstNameM').focus().addClass('redborder');
+                $('#spanFirstNameM').show().html('First Name Required <span>&nbsp;</span><i>&nbsp;</i>');
+                return false;
+            }
+            else {
+                $('#spanFirstNameM').html('');  // Clear the error message
+                $('#FirstNameM').removeClass("redborder");
+            }
+
+
+
+            // Validate Last Name
+            if ($.trim($('#LastNameM').val()) === '') {
+                $('#LastNameM').focus().addClass('redborder');
+                $('#spanLastNameM').show().html('Last Name Required');
+                return false;
+            } else {
+                $('#LastNameM').removeClass('redborder');
+                $('#spanLastNameM').hide();
+            }
+
+            // Validate Phone Number
+            if ($.trim($('#PhoneNoM').val()) === '') {
+                $('#PhoneNoM').focus().addClass('redborder');
+                $('#spanPhoneNoM').show().html('Phone Number Required');
+                return false;
+            } else if (!/^\d{10}$/.test($('#PhoneNoM').val())) { // Ensure the phone number has exactly 10 digits
+                $('#PhoneNoM').focus().addClass('redborder');
+                $('#spanPhoneNoM').show().html('Invalid Phone Number');
+                return false;
+            } else {
+                $('#PhoneNoM').removeClass('redborder');
+                $('#spanPhoneNoM').hide();
+            }
+
+            // Validate Email
+            //if ($.trim($('#EmailM').val()) === '') {
+            //    $('#EmailM').focus().addClass('redborder');
+            //    $('#spanEmailM').show().html('Email Id Required <span>&nbsp;</span><i>&nbsp;</i><abbr onclick="closeValidationM(this);">&nbsp;</abbr>');
+            //    return false;
+            //} else if (!Common.CheckEmail($.trim($('#EmailM').val()))) {
+            //    $('#spanEmailM').show().html('Please enter a valid email address.');
+            //    $('#EmailM').focus().addClass('redborder');
+            //    return false;
+            //} else {
+            //    $('#spanEmailM').hide();
+            //    $('#EmailM').removeClass('redborder');
+            //}
+
+            // Validate Comments
+            //if ($.trim($('#CountryIdM').val()) === '') {
+            //    $('#CountryIdM').focus().addClass('redborder');
+            //    $('#spanCountryIdM').show().html('Required');
+            //    return false;
+            //} else {
+            //    $('#CountryIdM').removeClass('redborder');
+            //    $('#spanCountryIdM').hide();
+            //}
+
+            if ($.trim($('#CaptchaaM').val()) === '') {
+                $('#CaptchaaM').focus().addClass('redborder');
+                $('#spanCaptchaaM').show().html('Captcha Required');
+                return false;
+            } else if ($.trim($('#CaptchaaM').val()) !== $('#generatedCaptchaM').val()) {
+                $('#CaptchaaM').focus().addClass('redborder');
+                $('#spanCaptchaaM').show().html('Invalid Captcha');
+                return false;
+            } else {
+                $('#CaptchaaM').removeClass('redborder');
+                $('#spanCaptchaaM').hide();
+            }
+
+            //// Validate Comments
+            //if ($.trim($('#CommentsM').val()) === '') {
+            //    $('#CommentsM').focus().addClass('redborder');
+            //    $('#spanCommentsM').show().html('Comments Required');
+            //    return false;
+            //} else {
+            //    $('#CommentsM').removeClass('redborder');
+            //    $('#spanCommentsM').hide();
+            //}
+
+            //// Validate Phone No Verification
+            //if ($.trim($('#PhoneVerifiedM').val()) == 'No' || $.trim($('#PhoneVerifiedM').val()) == '') {
+            //    alert('Please Verify Your Mobile Number');
+            //    return false;
+            //} else {
+            //    return true;
+            //}
+
+            return isValid; // Return true if the form is valid, false otherwise
+        }
+
+        // Utility to close validation message
+        function closeValidationM(field) {
+            $(field).parent().hide();
+        }
+
+        // Assuming Common.CheckEmail is defined like this:
+        Common = {
+            CheckEmail: function (email) {
+
+                var emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/;
+                return emailPattern.test(email);
+            }
+        };
+
+
+
+    </script>
+    <!-- Zoom Code -->
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZL3WMG2"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+</body>
+</html>

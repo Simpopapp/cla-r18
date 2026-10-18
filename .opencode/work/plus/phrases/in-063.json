@@ -1,0 +1,482 @@
+[
+  {
+    "k": "describe_image|owid-describe_image-017|facts[2]|0",
+    "s": "For Indonesia, the value went from 0 in -10000 to 3.7 in 2025 (change +3.7).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-017|facts[3]|0",
+    "s": "Data covers -10000–2025 for 238 countries; in -10000 the highest was Afghanistan (0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-018|facts[0]|0",
+    "s": "Highest value in 2025: Anguilla (100); lowest: Wallis and Futuna (0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-018|facts[1]|0",
+    "s": "Top three in 2025: Anguilla (100), Bahrain (100), Bermuda (100).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-018|facts[2]|0",
+    "s": "For Anguilla, the value went from 100 in 1950 to 100 in 2025 (change +0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-018|facts[3]|0",
+    "s": "Data covers 1950–2025 for 236 countries; in 1950 the highest was Anguilla (100).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-019|facts[0]|0",
+    "s": "Highest value in 2024: Monaco (95.5); lowest: Democratic Republic of Congo (0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-019|facts[1]|0",
+    "s": "Top three in 2024: Monaco (95.5), Andorra (64.9), British Virgin Islands (61.9).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-019|facts[2]|0",
+    "s": "For Monaco, the value went from 16.8 in 1960 to 95.5 in 2024 (change +78.7).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-019|facts[3]|0",
+    "s": "Data covers 1960–2024 for 212 countries; in 1960 the highest was United States (28).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-020|facts[0]|0",
+    "s": "Highest value in 2025: China (415); lowest: Uzbekistan (0).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-020|facts[1]|0",
+    "s": "Top three in 2025: China (415), United States (312), Indonesia (217).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-020|facts[2]|0",
+    "s": "For China, the value went from 0 in 1965 to 415 in 2025 (change +415).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "describe_image|owid-describe_image-020|facts[3]|0",
+    "s": "Data covers 1965–2025 for 79 countries; in 1965 the highest was United States (41.8).",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-101|template|0",
+    "s": "The study of volcanic eruptions has evolved rapidly with the {{1}} of modern technology.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-101|template|1",
+    "s": "Researchers deploy networks of seismometers to monitor tremors that often {{2}} volcanic activity.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-101|template|2",
+    "s": "Additionally, they measure the {{3}} of gases released from the crater, as rising magma typically alters these chemical signatures.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-101|template|3",
+    "s": "Despite these sophisticated tools, accurate forecasting is not {{4}} forcing authorities to rely on statistical models when issuing safety alerts.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-101|template|4",
+    "s": "This uncertainty makes the management of active zones particularly difficult, as decision-makers must balance the safety of residents against the economic {{5}} caused by unnecessary evacuations.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-102|template|0",
+    "s": "The emerging field of nutrigenomics explores the complex {{1}} between nutrition and the human genome.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-102|template|1",
+    "s": "Unlike traditional nutrition science, which focuses on satisfying hunger and preventing {{2}}, this discipline investigates how specific food compounds {{3}} with our genes at a molecular level.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-102|template|2",
+    "s": "Researchers have discovered that certain dietary components can actually switch genes on or off, thereby altering individual {{4}} to diseases.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-102|template|3",
+    "s": "Consequently, the ultimate goal is to develop personalized dietary {{5}} based on a person's unique genetic makeup, moving away from the generic one-size-fits-all approach to health.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-103|template|0",
+    "s": "The emergence of Sumerian city-states was fundamentally linked to the successful {{1}} of water resources.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-103|template|1",
+    "s": "Since the regional climate was extremely {{2}} with very little rainfall, farmers were forced to rely on complex artificial irrigation systems to {{3}} their crops.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-103|template|2",
+    "s": "Constructing and maintaining these networks required a level of cooperation and labor that went beyond individual families, leading to the development of centralized {{4}} These early administrative bodies were tasked with the critical role of maintaining canals and ensuring the equitable {{5}} of water.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-103|template|3",
+    "s": "Consequently, the ability to control river flows became a primary source of political power and social stability in the region.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-104|template|0",
+    "s": "When examining the monumental architecture of this region, specifically the towering ziggurats, we notice a distinct absence of stone.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-104|template|1",
+    "s": "Unlike neighboring empires that possessed access to vast {{1}} these builders had to rely on what was {{2}} available: earth and mud.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-104|template|2",
+    "s": "They consequently developed {{3}} techniques to create durable bricks, often kiln-fired to withstand the {{4}} These massive structures served as religious centers and physically dominated the flat landscape, and their survival is remarkable given the {{5}} of the primary construction material.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-105|template|0",
+    "s": "Volcanic eruptions represent one of nature's most destructive forces, yet accurate forecasting remains a significant scientific {{1}} Recently, geologists have placed greater {{2}} on analyzing gas emissions to identify potential threats.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-105|template|1",
+    "s": "By measuring changes in the chemical {{3}} of fumes escaping from craters, researchers can often detect pressure build-up long before the ground begins to shake.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-105|template|2",
+    "s": "This data is crucial for authorities who need to issue evacuation {{4}} to vulnerable populations.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-105|template|3",
+    "s": "Despite these advances, sudden geological shifts can still occur without warning, implying that current monitoring systems are not entirely {{5}}",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-106|template|0",
+    "s": "When we examine ancient Mesopotamian records, the sheer durability of the writing medium is striking.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-106|template|1",
+    "s": "Unlike the perishable papyrus utilized by later civilizations, the people of this region relied on the clay found in {{1}} along their riverbanks.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-106|template|2",
+    "s": "Scribes would {{2}} distinct wedge-shaped marks onto wet clay tablets using a reed stylus.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-106|template|3",
+    "s": "Once these tablets were baked in a kiln, they became incredibly {{3}}, effectively turning the documents into stone.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-106|template|4",
+    "s": "This accidental {{4}} allows thousands of administrative texts to survive, providing a unique {{5}} into their complex society.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-107|template|0",
+    "s": "In ancient Mesopotamia, literacy was far from universal, which made the profession of the scribe essential for the effective {{1}} of the state.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-107|template|1",
+    "s": "These individuals underwent {{2}} training in dedicated schools, where they were required to master thousands of {{3}} cuneiform signs.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-107|template|2",
+    "s": "Their expertise allowed them to document everything from agricultural yields to legal disputes.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-107|template|3",
+    "s": "Due to these specialized skills, scribes held a privileged status within the social {{4}} and were often exempt from manual labor.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-107|template|4",
+    "s": "Consequently, this career path was highly desired by elite families looking to secure {{5}} for their children.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-108|template|0",
+    "s": "In ancient Mesopotamia, the ability to read and write was generally {{1}} for a specific professional class known as scribes.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-108|template|1",
+    "s": "To enter this profession, individuals had to complete a {{2}} education at institutions often attached to temples.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-108|template|2",
+    "s": "The training involved memorizing thousands of cuneiform signs, which was a significant intellectual challenge.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-108|template|3",
+    "s": "Once qualified, these scribes became {{3}} to the state administration, managing everything from tax collections to diplomatic {{4}}.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-108|template|4",
+    "s": "Their unique skills granted them a high social standing, allowing them to rise above the ordinary {{5}}.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-109|template|0",
+    "s": "Monitoring volcanic activity is a critical task for geologists aiming to {{1}} the risks associated with eruptions.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-109|template|1",
+    "s": "By analyzing seismic data and gas {{2}} scientists can effectively detect changes in a volcano's {{3}} pressure.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-109|template|2",
+    "s": "Recent advancements in satellite imagery allow researchers to {{4}} ground deformation from a safe distance, providing early warning signs to local communities.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-109|template|3",
+    "s": "While predicting the exact moment of an eruption remains a challenge, these technological tools have significantly improved our ability to prepare for potential disasters and {{5}} threatened areas in time.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-110|template|0",
+    "s": "Volcanic eruptions are among the most powerful and {{1}} forces in nature, yet they surprisingly play a crucial role in generating {{2}} land for agriculture.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-110|template|1",
+    "s": "Scientists closely {{3}} seismic activity and gas emissions to determine when a volcano might become active.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-110|template|2",
+    "s": "By analyzing these warning signs, experts can issue timely alerts to {{4}} and protect local communities.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-110|template|3",
+    "s": "However, despite rapid advancements in monitoring technology, predicting the exact timing of an event remains a significant challenge.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-110|template|4",
+    "s": "The sheer {{5}} of magma movement underground means that researchers are constantly refining their models to improve forecast accuracy.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-111|template|0",
+    "s": "Wildfires have emerged as a significant {{1}} in numerous regions, exacerbated by rising global temperatures and shifts in land management.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-111|template|1",
+    "s": "Scientists are currently investigating how different vegetation types function as fuel, which directly impacts the {{2}} and spread of the flames.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-111|template|2",
+    "s": "Historically, the dominant strategy was total fire {{3}} yet this approach often resulted in a dangerous {{4}} of dry debris on the forest floor.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-111|template|3",
+    "s": "Consequently, this buildup increased the likelihood of uncontrollable mega-fires.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-111|template|4",
+    "s": "Nowadays, experts recommend controlled burns to safely decrease this combustible material.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-111|template|5",
+    "s": "Recognizing the ecological function of fire is essential for creating effective forestry {{5}} that safeguard both communities and ecosystems.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-112|template|0",
+    "s": "Salmon are famous for their grueling migration from the ocean back to freshwater streams to {{1}} This journey relies heavily on olfactory memory, a sense of smell that is {{2}} during their juvenile stages.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-112|template|1",
+    "s": "As the fish approach coastal waters, they detect specific chemical cues that {{3}} their home river from others.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-112|template|2",
+    "s": "This chemical signature guides them through complex river systems with incredible {{4}} Although visual landmarks play a minor role, experiments show that if their nostrils are blocked, the salmon become {{5}} and cannot locate their original breeding grounds.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-113|template|0",
+    "s": "Volcanic eruptions are among the most powerful {{1}} events on Earth, yet predicting them remains a complex challenge.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-113|template|1",
+    "s": "Scientists rely on delicate instruments to detect the tiny tremors that often {{2}} an explosion, indicating magma movement beneath the surface.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-113|template|2",
+    "s": "Recent technological advances allow researchers to monitor gas {{3}} which can change dramatically before an eruption occurs.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-113|template|3",
+    "s": "These monitoring techniques are vital for public safety, as they provide authorities with crucial time to {{4}} threatened areas.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-113|template|4",
+    "s": "However, despite these improvements, the exact timing and {{5}} of volcanic activity are still difficult to forecast with absolute certainty.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-114|template|0",
+    "s": "While the magnetic compass is crucial for many avian species, recent research suggests that homing pigeons rely heavily on an olfactory map to navigate.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-114|template|1",
+    "s": "Essentially, these birds learn the spatial {{1}} of atmospheric odours in their {{2}} When released from an unfamiliar location, they determine their position by smelling the air and associating specific scents with the direction of home.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-114|template|2",
+    "s": "Experiments where the birds' sense of smell was temporarily {{3}} showed they were unable to orient themselves correctly, whereas those with blocked magnetic receptors could still {{4}} successfully.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-114|template|3",
+    "s": "This indicates that for local homing, the chemical {{5}} is just as vital as magnetic cues.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-115|template|0",
+    "s": "One of the most significant factors in our understanding of Mesopotamian history is the durability of their writing surface.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-115|template|1",
+    "s": "While many ancient cultures used {{1}} materials like papyrus or leather, the Mesopotamians wrote on wet clay.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-115|template|2",
+    "s": "In ancient times, if a library was caught in a fire during {{2}} organic scrolls would simply burn away.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "lst_fib|goarno-lst_fib-115|template|3",
+    "s": "In contrast, clay tablets were baked hard by the heat, becoming {{3}} records.",
+    "p": "P3",
+    "native": true
+  }
+]

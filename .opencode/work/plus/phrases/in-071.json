@@ -1,0 +1,482 @@
+[
+  {
+    "k": "rts|pearson-rts-022|scenario|2",
+    "s": "You see a staff member nearby who might be able to help or direct you to someone who can.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|4",
+    "s": "56 Question 23- Respond to a Situation In the folder, the audio prompt is called: 23.RTAS_Prompt_23 Question: Listen to and read a description of a situation.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|5",
+    "s": "You will have 10 seconds to think about you’re answer.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|6",
+    "s": "Then you will hear a beep.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|7",
+    "s": "You will have 40 seconds to answer the question.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|8",
+    "s": "Please answer as completely as you can.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|9",
+    "s": "Prompt and Transcript: You are a student living in university accommodation, and the heater in your room has stopped working.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-024|scenario|0",
+    "s": "You are in the student lounge when a classmate tells you they are struggling to keep up with assignments and often miss deadlines because they can't manage their time.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-024|scenario|1",
+    "s": "They seem frustrated and ask for your help.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-024|scenario|2",
+    "s": "You remember you used to be disorganized too but have learned some strategies.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-024|scenario|3",
+    "s": "What do you say to your classmate?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-025|scenario|0",
+    "s": "You are in your second year of university and studying business.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-025|scenario|1",
+    "s": "You're interested in finding an internship for the summer that’s related to your course.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-025|scenario|2",
+    "s": "After class, you see your professor packing up her things and decide to ask her for some advice.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-025|scenario|3",
+    "s": "What do you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-026|scenario|0",
+    "s": "You are working on a group presentation for class, and your teammates just decided on the order of presenters.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-026|scenario|1",
+    "s": "They want you to go first, but you feel unprepared and think it would be better to go later.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-026|scenario|2",
+    "s": "You’re in a meeting with your group now.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-026|scenario|3",
+    "s": "What do you say to your teammates?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|0",
+    "s": "You are in class when you remember that you will be traveling overseas next week to attend a family event.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|1",
+    "s": "You realize that you will miss one of your lectures and possibly an assignment deadline.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|10",
+    "s": "Prompt and Transcript: You are living in a student dorm and recently noticed that the refrigerator in your shared kitchen is not cooling properly.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|11",
+    "s": "Some of your food has spoiled, and it's becoming a real inconvenience.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|12",
+    "s": "You decide to speak to the accommodation manager about the issue.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|13",
+    "s": "What do you say to the accommodation manager?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|2",
+    "s": "After class, you approach your professor to inform them about your trip.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|3",
+    "s": "What do you say to your professor?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|4",
+    "s": "58 Question 28- Respond to a Situation In the folder, the audio prompt is called: 28.RTAS_Prompt_28.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|5",
+    "s": "Question: Listen to and read a description of a situation.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|6",
+    "s": "You will have 10 seconds to think about you’re answer.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|7",
+    "s": "Then you will hear a beep.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|8",
+    "s": "You will have 40 seconds to answer the question.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-027|scenario|9",
+    "s": "Please answer as completely as you can.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-029|scenario|0",
+    "s": "You are in the student center and realize you lost your headphones earlier today.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-029|scenario|1",
+    "s": "You think you might have dropped them in the library or the cafeteria.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-029|scenario|2",
+    "s": "You decide to go to the campus security office to see if someone turned them in.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-029|scenario|3",
+    "s": "What do you say to the campus security officer?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-030|scenario|0",
+    "s": "You are working on a group assignment with three classmates, and you’ve all been meeting in person after class.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-030|scenario|1",
+    "s": "This week, your schedule is really tight and it would be easier for you to meet online.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-030|scenario|2",
+    "s": "You see the group in the hallway and want to suggest the change.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-030|scenario|3",
+    "s": "What do you say to them?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-030|scenario|4",
+    "s": "60",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-101|sample|0",
+    "s": "Historical evidence suggests that before the widespread use of artificial lighting, humans practiced biphasic or segmented sleep, involving a four-hour 'first sleep' after sundown, a wakeful hour used for prayer, reflection, or socializing, and then a 'second sleep' until dawn, which implies that waking up at night may be a natural biological rhythm rather than a disorder.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-102|sample|0",
+    "s": "Retailers use background music as a psychological tool to influence consumer behavior, with research showing that slow-tempo music causes shoppers to move more slowly and make more unplanned purchases, while fast-tempo music increases walking speed, and the genre of music can also affect spending, as classical music in wine shops leads customers to buy more expensive bottles.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-103|sample|0",
+    "s": "The modern eight-hour monophasic sleep pattern is a recent cultural habit rather than a biological necessity, as pre-industrial humans practiced biphasic sleep with a 'first sleep' of four hours, a wakeful period for activities like praying or reading, and a 'second sleep,' a natural rhythm that was disrupted by the introduction of artificial lighting in the nineteenth century.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-104|sample|0",
+    "s": "Sensory marketing uses environmental cues like background music to subtly influence consumer behavior, with research showing that slow music encourages shoppers to linger and spend more in luxury settings while fast music increases customer turnover in supermarkets, and most consumers remain unaware that atmospheric cues rather than rational decisions are guiding their purchasing actions.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-105|sample|0",
+    "s": "Pre-industrial Europeans followed a biphasic sleep pattern, sleeping for four hours after sundown in a 'first sleep,' then waking for one to two hours for activities like reading or prayer, before returning for 'second sleep' until morning, a rhythm that disappeared when the Industrial Revolution and artificial lighting compressed rest into a single block, suggesting that nighttime waking is natural rather than disordered.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-105|sample|1",
+    "s": "Want to practice Summarize Spoken Text with AI-powered scoring on your written summaries?",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-105|sample|2",
+    "s": "Try Arno's PTE practice platform.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-106|sample|0",
+    "s": "While automation and artificial intelligence are displacing routine, repetitive jobs, uniquely human attributes such as emotional intelligence, complex problem-solving, and persuasive communication are becoming increasingly valuable in the workplace, since machines cannot interpret subtle social cues or empathize with frustrated customers, meaning education and training must pivot toward fostering creativity and adaptability.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-107|sample|0",
+    "s": "Historical research from diaries, court records, and literature reveals that pre-industrial Europeans practiced biphasic sleep, involving a four-hour 'first sleep' after sundown, a wakeful period known as 'the watch' used for prayer, reading, or visiting neighbors, and a 'second sleep' until morning, a pattern that only disappeared with the advent of artificial lighting during the Industrial Revolution.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-108|sample|0",
+    "s": "The shift to remote and hybrid working models poses a critical challenge for preserving organizational culture, as the implicit learning opportunities that come from physical proximity—such as observing senior leaders and informal conversations—vanish in a distributed workforce, requiring leaders to implement intentional strategies like virtual town halls and structured mentorship programs to prevent a fragmented workforce.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-109|sample|0",
+    "s": "Before the Industrial Revolution and widespread artificial lighting, it was standard practice in Western civilization to experience segmented sleep, where people slept for four hours after dusk, woke for an hour or two known as 'the watch' for prayer, reading, or chatting, then returned for a 'second sleep,' suggesting that waking up at night may be a natural biological remnant rather than a disorder.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-110|sample|0",
+    "s": "Artificial blue light emitted by digital devices like smartphones and tablets mimics morning sky brightness and suppresses melatonin production, effectively tricking the brain into believing it is still daytime, which not only makes it harder to fall asleep but shifts the entire circadian phase, leading to poorer sleep quality and physically disconnecting us from our natural physiological rhythms.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-111|sample|0",
+    "s": "Migratory birds navigate thousands of miles with pinpoint accuracy using magnetoreception, a sensory ability powered by a protein called cryptochrome in their retinas that triggers a quantum chemical reaction when exposed to sunlight, creating a visual overlay similar to a heads-up display that allows birds to 'see' Earth's magnetic fields, explaining how even inexperienced young birds can migrate without a guide.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-112|sample|0",
+    "s": "Nearly seventy percent of organizational change initiatives fail not because of poor strategy or technology but because leaders neglect the human element, approaching change as a logical engineering problem rather than communicating the vision clearly and involving employees early in the process to address their concerns and build the trust needed to turn strategic plans into reality.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-113|sample|0",
+    "s": "Bats use echolocation as a sophisticated biological sonar to navigate dense forests and hunt tiny insects by emitting high-frequency sound waves and interpreting returning echoes, but this ability has triggered an evolutionary arms race with moths, which have evolved ears tuned to ultrasonic frequencies and can perform erratic spiraling maneuvers or even emit jamming clicks to confuse the bat's sonar.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-114|sample|0",
+    "s": "Cephalopods such as octopuses, squid, and cuttlefish can change the color and texture of their skin in milliseconds using specialized cells called chromatophores, yet paradoxically most are colorblind with only one type of visual pigment, which has led researchers to hypothesize that their skin may contain light-sensitive proteins enabling a form of decentralized vision independent of their eyes.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-115|sample|0",
+    "s": "Sensory marketing exploits non-visual senses to influence consumer spending, with research showing that slow-tempo background music causes shoppers to linger and purchase more while fast music increases customer turnover, and olfactory marketing uses ambient scents linked directly to the brain's emotional center to create positive brand associations, even though consumers believe they are making entirely rational decisions.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-116|sample|0",
+    "s": "Color psychology is a powerful but context-dependent marketing tool because colors trigger immediate emotional responses in consumers—red creates urgency and stimulates appetite in fast-food branding while blue conveys stability and trust for financial institutions—but effectiveness depends on cultural associations and brand alignment, so companies must strategically match visual cues with the feelings they want to evoke.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-117|sample|0",
+    "s": "Certain aquatic species like electric eels possess specialized electric organs made of thousands of modified muscle cells called electrocytes that can generate up to 600 volts for stunning prey or deterring predators, but they also emit continuous low-voltage pulses that function like a radar system, allowing the fish to navigate murky waters and locate food without relying on sight.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-118|sample|0",
+    "s": "Cephalopods such as octopuses, squids, and cuttlefish are the true masters of rapid camouflage, using millions of specialized skin cells called chromatophores that act as biological pixels to change color in a fraction of a second for both defense and communication, yet most appear colorblind, suggesting their skin may perceive light independently of their eyes through an as-yet unexplained mechanism.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-119|sample|0",
+    "s": "Research has revealed that forests are interconnected, cooperative communities linked by the 'Wood Wide Web,' a vast underground network of mycorrhizal fungi that enables trees to exchange sugars and nutrients, send chemical warning signals about pest attacks to neighbors, and even allows older 'mother trees' to transfer excess carbon to struggling seedlings, challenging the long-held view of trees as solitary competitors.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-120|sample|0",
+    "s": "The decoy effect is a marketing strategy in which a third option is introduced not to be sold but to make another option appear more attractive by comparison, as illustrated by the cinema popcorn example where adding a medium size priced just below the large makes the large seem like a bargain, demonstrating that consumer preferences are context-dependent rather than fixed.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-121|sample|0",
+    "s": "Recent research on Mexican free-tailed bats has revealed that echolocation serves not only as a navigational tool but also as a means of acoustic warfare, as these bats emit specialized jamming calls timed to disrupt a competitor's sonar at the critical moment of insect capture, momentarily 'blinding' the hunter and allowing the interferer to swoop in and claim the meal instead.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-122|sample|0",
+    "s": "The decoy effect in pricing strategy occurs when a company introduces a third option—such as a medium popcorn priced close to the large—specifically designed to make the most expensive item appear to be the smartest financial choice, exploiting the fact that consumers rarely evaluate value in isolation and instead rely heavily on context and comparison to make purchasing decisions.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-123|sample|0",
+    "s": "The modern employment landscape is shifting from prioritizing technical qualifications toward valuing soft skills like emotional intelligence, adaptability, and communication, because technical knowledge becomes obsolete quickly in a rapidly evolving technological world and automation handles routine tasks more efficiently, meaning that the ability to collaborate, negotiate, and lead will sustain careers long-term.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-124|sample|0",
+    "s": "Pre-industrial Europeans practiced biphasic sleep, going to bed after sundown for a four-hour 'first sleep,' then waking for an hour or two to pray, read, or chat before a 'second sleep' until morning, a pattern that was compressed into a single block by the spread of artificial lighting, suggesting that modern 'maintenance insomnia' may actually be a natural ancestral rhythm rather than a biological malfunction.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-125|sample|0",
+    "s": "Unlike deep sleep, which focuses on physiological repair, REM sleep is crucial for psychological well-being as it functions as a mechanism for emotional regulation, processing difficult experiences so we retain memories without the sharp emotional sting, and studies show that individuals specifically deprived of REM sleep exhibit heightened stress reactivity, struggle to read social cues, and show signs of emotional instability.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-126|sample|0",
+    "s": "Historical records from pre-industrial Europe reveal that the uninterrupted eight-hour sleep pattern is a modern invention, as people previously practiced biphasic sleep with a 'first sleep' after dusk, a wakeful period for prayer, reading, or visiting neighbors, and a 'second sleep' until morning—a rhythm suppressed when artificial lighting pushed bedtimes later, suggesting that waking at night may be a natural evolutionary echo.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-127|sample|0",
+    "s": "Before the Industrial Revolution and the advent of artificial lighting, humans practiced segmented or biphasic sleep, involving a four-hour 'first sleep' around sundown, followed by an hour of wakefulness for prayer, reading, or socializing, and then 'second sleep' until morning, suggesting that modern 'middle-of-the-night insomnia' may be a remnant of this natural ancestral rhythm reasserting itself.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-128|sample|0",
+    "s": "Recent research has revealed that sleep serves a crucial physiological function through the brain's glymphatic system, whereby brain cells shrink during sleep to increase intercellular space by up to sixty percent, allowing cerebrospinal fluid to flush out toxic metabolic waste products including proteins linked to neurodegenerative diseases, explaining why sleep deprivation causes mental fog and poses long-term neurological risks.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-129|sample|0",
+    "s": "Contrary to the old belief that the brain shuts down during sleep, neuroscience has shown that the sleeping brain is incredibly active in memory consolidation, replaying the day's neural patterns during deep slow-wave sleep to transfer fragile information from temporary storage in the hippocampus to permanent long-term storage in the neocortex, giving biological basis to the common advice to 'sleep on it.'",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-130|sample|0",
+    "s": "The sleeping brain is not dormant but actively consolidates memories, with deep slow-wave sleep essential for declarative memory involving facts and events and REM sleep more critical for procedural memory or 'how-to' skills, which means that pulling an all-nighter to study is counterproductive because without sleep the brain cannot permanently store newly encountered information.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-131|sample|0",
+    "s": "The decoy effect in behavioral economics demonstrates that adding a third, strategically priced option—such as a medium popcorn costing nearly as much as the large—can shift consumer preferences by making the most expensive item seem like the most rational choice, reducing cognitive burden and nudging customers toward higher-margin products by exploiting our reliance on comparison rather than absolute value.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-132|sample|0",
+    "s": "Chronobiologists argue that being a morning 'lark' or a night 'owl' is largely genetically determined rather than a lifestyle choice, yet modern society is designed almost exclusively for early risers, forcing night owls into a state of chronic 'social jetlag' that increases their risk of cardiovascular disease and depression because they are constantly fighting their own biology to fit rigid schedules.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-133|sample|0",
+    "s": "Historical diaries, court records, and literature reveal that before the Industrial Revolution, humans practiced biphasic sleep—a four-hour 'first sleep' after sundown, followed by a waking period known as 'the watch' for reading, prayer, or socializing, and then 'second sleep' until morning—a pattern that disappeared when artificial lighting pushed bedtimes later and compressed rest into a single block.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-134|sample|0",
+    "s": "Olfactory marketing leverages the biological connection between our sense of smell and the limbic system to trigger immediate emotional responses in consumers, with studies showing that pleasant ambient scents make customers linger longer and perceive merchandise as higher quality, though the scent must be congruent with the brand and products to avoid cognitive dissonance that could actually drive customers away.",
+    "p": "P3",
+    "native": false
+  },
+  {
+    "k": "sst|goarno-sst-135|sample|0",
+    "s": "Modern neuroscience has overturned the view that sleep is a passive state, revealing that during deep sleep the brain actively transfers newly learned information from temporary storage in the hippocampus to permanent long-term storage in the neocortex, functioning essentially as a 'save button' without which memories can be lost and the capacity for new learning is significantly compromised.",
+    "p": "P3",
+    "native": false
+  }
+]

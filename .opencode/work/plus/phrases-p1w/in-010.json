@@ -1,0 +1,272 @@
+[
+  {
+    "k": "write_essay|langacad-write_essay-019|prompt|0",
+    "s": "People should reduce the amount of travel they undertake because it is one of the main causes of pollution.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-019|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-020|prompt|0",
+    "s": "The use of fossil fuels such as coal and oil is harming the planet.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-020|prompt|1",
+    "s": "We should transition to renewable energy sources such as solar and wind power.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-020|prompt|2",
+    "s": "To what extent do you agree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-021|prompt|0",
+    "s": "Global warming is one of the greatest threats humans face in the 21st century.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-021|prompt|1",
+    "s": "What problems are associated with this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-021|prompt|2",
+    "s": "What solutions can you suggest?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-022|prompt|0",
+    "s": "Human activity has had a largely negative impact on plants and animals around the world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-022|prompt|1",
+    "s": "Some believe this is not important as long as we protect human populations.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-022|prompt|2",
+    "s": "Do you agree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-023|prompt|0",
+    "s": "Large corporations and multinational companies should bear the primary responsibility for addressing environmental damage.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-023|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-024|prompt|0",
+    "s": "Advertising targeted at children is harmful and should be banned.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-024|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-025|prompt|0",
+    "s": "The media has a powerful influence on people&#8217;s lives and opinions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-025|prompt|1",
+    "s": "How does the media influence people?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-025|prompt|2",
+    "s": "Is this influence positive or negative?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-026|prompt|0",
+    "s": "Some people think that the media should not report details of crimes because this could be harmful to society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-026|prompt|1",
+    "s": "Do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-027|prompt|0",
+    "s": "Social media has replaced traditional forms of communication such as letter writing and face-to-face interaction.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-027|prompt|1",
+    "s": "Do the benefits of this outweigh the disadvantages?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-028|prompt|0",
+    "s": "The growth of online news means that print media such as newspapers and magazines is no longer relevant.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-028|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-029|prompt|0",
+    "s": "The development of global trade has led to a decline in the sales of locally produced goods.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-029|prompt|1",
+    "s": "What are the causes of this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-029|prompt|2",
+    "s": "What solutions can you suggest?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-030|prompt|0",
+    "s": "Some people think that foreign visitors should be charged more than local residents when visiting cultural or tourist attractions.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-030|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-031|prompt|0",
+    "s": "The gap between the wealthy and the poor continues to widen in many countries.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-031|prompt|1",
+    "s": "What are the causes of this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-031|prompt|2",
+    "s": "What should governments do to address this issue?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-032|prompt|0",
+    "s": "Stress is now a major problem in many countries around the world.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-032|prompt|1",
+    "s": "What are some of the factors in modern society that cause this stress, and how can we reduce it?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-033|prompt|0",
+    "s": "The increase in life expectancy in many countries means the population is ageing, creating problems for both individuals and society.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-033|prompt|1",
+    "s": "What are these problems and how can they be addressed?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-034|prompt|0",
+    "s": "The best way to improve public health is to increase the number of sports facilities available to the public.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-034|prompt|1",
+    "s": "To what extent do you agree or disagree?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-035|prompt|0",
+    "s": "The average weight of people in many countries is increasing while health and fitness levels are declining.",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-035|prompt|1",
+    "s": "What are the main causes of this?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-035|prompt|2",
+    "s": "What measures could governments and individuals take?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-039|prompt|0",
+    "s": "After writing, check your essay against the scoring rubric: Does it address the prompt fully?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-039|prompt|1",
+    "s": "Is it 200–300 words?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-039|prompt|2",
+    "s": "Does it have a clear intro, two body paragraphs, and a conclusion?",
+    "p": "P1",
+    "native": false
+  },
+  {
+    "k": "write_essay|langacad-write_essay-039|prompt|3",
+    "s": "Did you vary your connective language?",
+    "p": "P1",
+    "native": false
+  }
+]

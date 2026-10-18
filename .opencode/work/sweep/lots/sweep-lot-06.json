@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://ptehelper.com.au/pte-summarize-written-text-with-answers/",
+    "types": ["swt"],
+    "apparentVolume": "3 passagens com soluções visíveis na página; conteúdo acessível sem cadastro.",
+    "positiveSignals": ["A página identifica a coleção como “With Answers” e declara atualização em fevereiro de 2025.", "Há passagem e solução-modelo para cada item; a primeira contém cerca de 150 palavras."],
+    "negativeSignals": ["A alegação de questões reais/repetidas é editorial e não foi corroborada por uma segunda fonte independente.", "A solução de exemplo tem 62 palavras, mas o site descreve o formato como 50–75 palavras; verificar a compatibilidade com o formato vigente antes de importar."],
+    "quotes": ["“We all, including the ‘experts’, seem to be peculiarly inept at predicting the likely development of our technologies”", "“(62 words)”"]
+  },
+  {
+    "url": "https://www.pteexampreparation.com/pte-reading/re-order-paragraphs/pte-academic-reading-reorder-paragraphs-practice-sample-answers/",
+    "types": ["reorder_paragraphs"],
+    "apparentVolume": "Página declara Practice Test 7; no conteúdo aberto, itens 31 e 32 tinham 4 e 5 blocos, respectivamente, com ordem indicada.",
+    "positiveSignals": ["Blocos embaralhados e sequências de resposta aparecem como texto legível na página.", "O item 32 oferece cinco blocos e uma ordem explícita."],
+    "negativeSignals": ["Conteúdo datado de 2018.", "A página é material de preparação e não prova que os itens sejam questões reais de exame; copyright/licença de reutilização não confirmado."],
+    "quotes": ["“D – A- B- C”", "“C-A-E-B-D”"]
+  },
+  {
+    "url": "https://leverageedu.com/learn/satp-pte-writing-essay-topics-with-answers-pdf/",
+    "types": ["write_essay"],
+    "apparentVolume": "Lista pública de prompts PTE; a página oferece link para PDF, mas não foi verificada a obtenção do arquivo.",
+    "positiveSignals": ["Página aberta; prompts de essay legíveis no texto, incluindo tópico sobre tabaco com formulação de opinião."],
+    "negativeSignals": ["Na página aberta, não foi localizado modelo de resposta; requisito de prompt mais modelo não demonstrado.", "PDF de download não aberto nem avaliado; conteúdo, volume e gabarito fora da página permanecem não verificados.", "A alegação de “most common” não foi corroborada independentemente."],
+    "quotes": ["“Do Governments have a legitimate role in protecting citizens from the harmful effects of their own decisions to smoke”"]
+  }
+]

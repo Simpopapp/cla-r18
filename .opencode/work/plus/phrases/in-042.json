@@ -1,0 +1,482 @@
+[
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-131|transcript|3",
+    "s": "You see, when a single link breaks, production halts because there is no buffer.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-131|transcript|4",
+    "s": "Consequently, we're seeing a shift towards a 'Just-in-Case' strategy.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-131|transcript|5",
+    "s": "Companies are now prioritizing resilience, effectively stockpiling critical components and diversifying their supplier base.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-131|transcript|6",
+    "s": "While this increases operating expenses—since warehousing extra stock isn't cheap—it acts as an insurance policy against future shocks.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-132|transcript|0",
+    "s": "Continuing our exploration of communication milestones, we turn to the optical telegraph, a precursor to modern messaging developed in late 18th-century France.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-132|transcript|1",
+    "s": "Invented by Claude Chappe and his brothers, this system utilized a chain of towers, each topped with large, movable wooden arms.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-132|transcript|2",
+    "s": "Operators would manipulate these arms into distinct configurations to transmit codes, which were then sighted by the next tower via telescope.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-132|transcript|3",
+    "s": "This innovation drastically reduced the time needed to send dispatches across the country, turning days of travel into mere hours.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-132|transcript|4",
+    "s": "Yet, the system had significant limitations.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-132|transcript|5",
+    "s": "It relied entirely on clear lines of sight, meaning operations halted during the night or in heavy fog.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-132|transcript|6",
+    "s": "Additionally, the network demanded high operational costs due to the need for numerous manned stations, which effectively restricted its use to government and military purposes rather than the general public.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-133|transcript|0",
+    "s": "Consider the typewriter, a machine that revolutionized communication.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-133|transcript|1",
+    "s": "Although Christopher Latham Sholes patented a successful model in 1868, he was building on a concept many inventors had previously attempted without market success.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-133|transcript|2",
+    "s": "The true innovation was the keyboard layout.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-133|transcript|3",
+    "s": "In early models, metal typebars would jam if adjacent keys were struck quickly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-133|transcript|4",
+    "s": "To address this, Sholes developed the QWERTY layout, strategically separating common letter pairs.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-133|transcript|5",
+    "s": "This design was actually intended to slow typists down to prevent jamming.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-133|transcript|6",
+    "s": "Yet, it became the universal standard.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-133|transcript|7",
+    "s": "Today, we continue to use this configuration, despite the fact that the original mechanical constraints no longer exist.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-134|transcript|0",
+    "s": "In traditional global strategy, companies often practice 'glocalization'—adapting premium products from wealthy countries for emerging markets by removing features to cut costs.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-134|transcript|1",
+    "s": "However, we are witnessing a rise in 'reverse innovation,' which fundamentally flips this dynamic.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-134|transcript|2",
+    "s": "Here, products are designed from scratch specifically to meet the harsh constraints of developing nations.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-134|transcript|3",
+    "s": "This necessity drives engineers to prioritize extreme durability, simplicity, and low power consumption.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-134|transcript|4",
+    "s": "Interestingly, these attributes often make the resulting products highly competitive back in developed economies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-134|transcript|5",
+    "s": "For example, a portable medical device created for rural clinics may eventually succeed in Western hospitals because it offers portability that complex, expensive machines lack.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-134|transcript|6",
+    "s": "Consequently, emerging markets are becoming the launchpads for global solutions, rather than just recipients of watered-down technology.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-135|transcript|0",
+    "s": "When we examine why some nations prosper while others struggle, the debate often centers on two drivers: geography and institutions.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-135|transcript|1",
+    "s": "For a long time, the geographical hypothesis was dominant, arguing that climate and natural resources primarily determined a country's wealth.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-135|transcript|2",
+    "s": "However, recent economic history suggests institutions matter far more.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-135|transcript|3",
+    "s": "We can observe this in border regions where geography is identical, yet economic outcomes differ vastly due to political boundaries.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-135|transcript|4",
+    "s": "It turns out that secure property rights and an impartial legal system are better predictors of prosperity than having abundant minerals or a temperate climate.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-135|transcript|5",
+    "s": "While geography isn't irrelevant, it’s the rules of the game—the institutions—that truly drive long-term success.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-136|transcript|0",
+    "s": "For decades, the standard model for multinational corporations involved developing high-end products for wealthy nations and then stripping away features to sell cheaper versions in developing economies.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-136|transcript|1",
+    "s": "However, this approach is being upended by what we call 'reverse innovation.' Instead of merely de-featuring existing goods, teams are designing sophisticated, low-cost solutions from scratch specifically for emerging markets.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-136|transcript|2",
+    "s": "Interestingly, these distinct products, such as portable, battery-operated medical devices, are finding their way back into Western markets.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-136|transcript|3",
+    "s": "They succeed there because they offer high performance at a fraction of the cost.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-136|transcript|4",
+    "s": "This shift challenges established companies to rethink their engineering, as the strict resource constraints of developing nations actually drive superior efficiency and durability.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-137|transcript|0",
+    "s": "In the lifecycle of technology-intensive industries, we often witness the emergence of a 'dominant design.' Initially, there is a fluid phase characterized by chaotic experimentation with various product configurations.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-137|transcript|1",
+    "s": "Eventually, however, the market converges on a single architecture that becomes the standard, much like the VHS format or the internal combustion engine.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-137|transcript|2",
+    "s": "It is important to note that this winning design is not necessarily the most technically advanced; often, market dynamics or timing dictate the winner rather than pure performance metrics.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-137|transcript|3",
+    "s": "Once established, the nature of competition transforms.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-137|transcript|4",
+    "s": "Manufacturers largely cease radical product experiments and instead prioritize process innovation, seeking to drive down production costs and maximize efficiency to survive.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-138|transcript|0",
+    "s": "One of the enduring puzzles in economic geography is why specific industries cluster in certain cities, a phenomenon known as agglomeration.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-138|transcript|1",
+    "s": "You might assume that rapid advances in digital communication would trigger the 'death of distance,' allowing firms to disperse to cheaper locations.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-138|transcript|2",
+    "s": "However, the opposite has occurred.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-138|transcript|3",
+    "s": "Firms continue to congregate to access deep pools of specialized labor—engineers or financiers who simply aren't available in smaller markets.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-138|transcript|4",
+    "s": "Beyond just hiring, there is the crucial factor of 'knowledge spillovers.' Innovation often relies on informal, face-to-face exchanges—unexpected conversations in a coffee shop, for instance—which facilitate the flow of complex ideas far better than remote correspondence.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-138|transcript|5",
+    "s": "While clustering does drive up land prices, the productivity gains from these dense, interactive networks generally outweigh the financial burden of high rents.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-139|transcript|0",
+    "s": "For centuries, global economies relied on commodity money, where currency was directly backed by physical assets like gold or silver.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-139|transcript|1",
+    "s": "This system, often called the gold standard, offered inherent stability since the money supply was constrained by tangible reserves.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-139|transcript|2",
+    "s": "Yet, this very constraint became a liability during severe downturns, as governments lacked the tools to inject liquidity quickly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-139|transcript|3",
+    "s": "In contrast, today's dominant system is fiat money.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-139|transcript|4",
+    "s": "Unlike its predecessor, fiat currency derives its value solely from government decree and the public's trust in the issuer's economic stability.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-139|transcript|5",
+    "s": "This shift has empowered central banks to actively manage the economy by adjusting interest rates or increasing the money supply.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-139|transcript|6",
+    "s": "However, this flexibility is a double-edged sword; without careful management, excessive printing of fiat money can lead to rapid devaluation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-140|transcript|0",
+    "s": "Now, let's consider the transition from uh commodity money to modern fiat currency.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-140|transcript|1",
+    "s": "Historically, items like gold or silver coins served as money because they possessed intrinsic value, meaning the metal itself was useful and scarce.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-140|transcript|2",
+    "s": "This provided a natural, stable store of value.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-140|transcript|3",
+    "s": "In contrast, today's fiat currency, like the dollar or euro, has no intrinsic worth; it’s essentially just paper or digital code.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-140|transcript|4",
+    "s": "Its value relies entirely on government decree and, crucially, public trust.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-140|transcript|5",
+    "s": "If that trust evaporates, the currency becomes worthless.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-140|transcript|6",
+    "s": "While this system allows central banks more flexibility to manage the economy during crises, critics argue it inherently risks inflation since there’s no physical limit on how much money can be created, unlike the finite supply of gold.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-141|transcript|0",
+    "s": "Today we're examining the shift in timekeeping technology during the Middle Ages.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-141|transcript|1",
+    "s": "For centuries, water clocks were the standard, but they had significant limitations—specifically, they would freeze during the cold European winters, rendering them useless.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-141|transcript|2",
+    "s": "This was a critical problem for monasteries, where monks were required to wake for prayers at precise intervals throughout the night.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-141|transcript|3",
+    "s": "Consequently, the first mechanical clocks were developed in the late 13th century to address this need.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-141|transcript|4",
+    "s": "Interestingly, these early machines didn't look like the clocks we know today; they lacked dials or hands and functioned solely by striking a bell to signal the hour.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-141|transcript|5",
+    "s": "While they solved the freezing issue, they were notoriously inaccurate by modern standards, often drifting by up to 15 minutes a day, yet they represented a monumental leap in engineering.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-142|transcript|0",
+    "s": "Traditionally, companies relied on a closed innovation model, keeping all research and development strictly within their own walls to protect intellectual property.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-142|transcript|1",
+    "s": "However, in today's hyper-connected world, this approach is becoming obsolete.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-142|transcript|2",
+    "s": "Enter 'open innovation,' a paradigm that assumes firms can and should use external ideas as well as internal ones.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-142|transcript|3",
+    "s": "By collaborating with universities, startups, and even competitors, organizations can accelerate their product development cycles significantly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-142|transcript|4",
+    "s": "It’s not just about speed, though; it also spreads the risks associated with R&amp;D.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-142|transcript|5",
+    "s": "Yet, this shift isn't without hurdles.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-142|transcript|6",
+    "s": "The biggest barrier often isn't legal, but cultural—the 'not invented here' syndrome where internal teams reject outside solutions.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-142|transcript|7",
+    "s": "Overcoming this mindset is crucial for reaping the benefits of shared knowledge.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-143|transcript|0",
+    "s": "When discussing the pivotal moments of the Industrial Revolution, we must examine the evolution of the steam engine.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-143|transcript|1",
+    "s": "Although James Watt is frequently celebrated as its inventor, he essentially optimized a pre-existing machine created by Thomas Newcomen decades earlier.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-143|transcript|2",
+    "s": "Newcomen’s atmospheric engine was functional but notoriously wasteful, consuming vast quantities of coal to heat and cool a single cylinder repeatedly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "lst_mcq_multi|goarno-lst_mcq_multi-143|transcript|3",
+    "s": "Watt’s genius lay in introducing a separate condenser, which maintained the cylinder's temperature and significantly curbed fuel waste.",
+    "p": "P2",
+    "native": true
+  }
+]

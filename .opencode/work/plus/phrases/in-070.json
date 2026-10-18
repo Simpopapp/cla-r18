@@ -1,0 +1,482 @@
+[
+  {
+    "k": "rts|pearson-rts-005|scenario|0",
+    "s": "You share an apartment with a roommate and have both agreed to split the cleaning duties each week.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-005|scenario|1",
+    "s": "Lately, you’ve noticed that your roommate hasn’t been doing their part, and it's starting to bother you.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-005|scenario|2",
+    "s": "You want to bring it up without starting an argument.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-005|scenario|3",
+    "s": "You see your roommate in the kitchen.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-005|scenario|4",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-006|scenario|0",
+    "s": "You are on your way to a group meeting in the library to prepare for an upcoming exam.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-006|scenario|1",
+    "s": "However, you just received an urgent phone call from a family member and need to deal with it before joining the group.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-006|scenario|2",
+    "s": "You know the meeting has already started.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-006|scenario|3",
+    "s": "You call one of your classmates to let them know.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-006|scenario|4",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-007|scenario|0",
+    "s": "You are scheduled to work in the biology lab next Tuesday at 10 am.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-007|scenario|1",
+    "s": "However, you have a very important doctor's appointment that day that you cannot reschedule.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-007|scenario|2",
+    "s": "You need to ask your lab partner if they would be willing to switch lab times with you next week.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-007|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-008|scenario|0",
+    "s": "You are in the library working on a difficult assignment.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-008|scenario|1",
+    "s": "A classmate, who you know hasn't started the work, approaches you and asks if they can copy your nearly completed assignment because they are out of time.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-008|scenario|2",
+    "s": "You don't want to give them your work.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-008|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|0",
+    "s": "You are a university student who scheduled an appointment to meet with your professor during office hours to ask for help with an assignment.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|1",
+    "s": "However, you missed the meeting because you were stuck in traffic and couldn't make it on time.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|10",
+    "s": "You've reset your password multiple times, but the problem persists.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|11",
+    "s": "You call IT support to explain the situation and ask for a more permanent solution.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|12",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|2",
+    "s": "You now see your professor in the hallway later that day.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|4",
+    "s": "51 Question 10- Respond to a Situation In the folder, the audio prompt is called: 10.RTAS_Prompt_10 Question: Listen to and read a description of a situation.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|5",
+    "s": "You will have 10 seconds to think about you’re answer.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|6",
+    "s": "Then you will hear a beep.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|7",
+    "s": "You will have 40 seconds to answer the question.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|8",
+    "s": "Please answer as completely as you can.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-009|scenario|9",
+    "s": "Prompt and Transcript: You are a student and you keep getting locked out of your university account.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-011|scenario|0",
+    "s": "You are chatting with a classmate after your language class.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-011|scenario|1",
+    "s": "You’ve just found out about a fun language exchange event happening this weekend on campus.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-011|scenario|2",
+    "s": "It’s a good opportunity to practice speaking with students from different countries.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-011|scenario|3",
+    "s": "You’d like to invite your classmate to come with you.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-011|scenario|4",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-012|scenario|0",
+    "s": "You are working on an assignment for your history class, but you are confused about what the professor expects in one of the questions.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-012|scenario|1",
+    "s": "You read the instructions several times but are still unsure how to approach it.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-012|scenario|2",
+    "s": "After class, you decide to ask your professor to clarify.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-012|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-013|scenario|0",
+    "s": "You are checking your grade for a recent assignment and you feel your work deserved a higher mark.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-013|scenario|1",
+    "s": "After class, you approach your lecturer to talk about it.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-013|scenario|2",
+    "s": "You would like them to review your paper again and explain how the grade was decided.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-013|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-014|scenario|0",
+    "s": "You are in the library studying for a very important exam.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-014|scenario|1",
+    "s": "Your classmate invites you to a party this weekend, but you really need to focus on your studies.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-014|scenario|2",
+    "s": "You want to politely decline their invitation without hurting their feelings.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-014|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-015|scenario|0",
+    "s": "You are studying for an important exam in a quiet section of the library.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-015|scenario|1",
+    "s": "A group of students nearby is speaking loudly, making it hard for you to concentrate.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-015|scenario|2",
+    "s": "You notice a librarian at the help desk a few steps away.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-015|scenario|3",
+    "s": "What would you say to the librarian?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-016|scenario|0",
+    "s": "You are enrolled in Professor Miller's History course.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-016|scenario|1",
+    "s": "You've missed the last three classes because you had to care for a sick family member.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-016|scenario|2",
+    "s": "You haven't been able to keep up with the readings or assignments.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-016|scenario|3",
+    "s": "You approach Professor Miller after class to explain your situation.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-016|scenario|4",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-017|scenario|0",
+    "s": "You are feeling overwhelmed by the upcoming final exams and decide to seek advice from a senior student who has successfully navigated them before.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-017|scenario|1",
+    "s": "You see them in the 54 campus coffee shop, take a seat at their table, and introduce yourself.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-017|scenario|2",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-018|scenario|0",
+    "s": "You are eating lunch in the university cafeteria.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-018|scenario|1",
+    "s": "You take a bite of the chicken and realize it's significantly undercooked and still pink inside.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-018|scenario|2",
+    "s": "You need to speak to one of the cafeteria staff members about this issue.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-018|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-019|scenario|0",
+    "s": "You are working on a research paper for one of your classes.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-019|scenario|1",
+    "s": "You asked a classmate to read your draft and they gave you some helpful comments last week.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-019|scenario|2",
+    "s": "Now, you see them in the library and want to let them know you appreciated their feedback.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-019|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-020|scenario|0",
+    "s": "You are in the library and notice a student has left their laptop unattended at a table.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-020|scenario|1",
+    "s": "There are several people nearby, but you are concerned about the laptop's security.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-020|scenario|2",
+    "s": "You decide to report it to the security desk which is located near the entrance.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-020|scenario|3",
+    "s": "What would you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-021|scenario|0",
+    "s": "You are in the university's photography club, but you've realized you're overcommitted this semester with your coursework and a part-time job.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-021|scenario|1",
+    "s": "You need to tell the club president, whom you see in the hallway, that you have to withdraw from the club.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-021|scenario|2",
+    "s": "What do you say?",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|0",
+    "s": "You are in the campus library working on an urgent assignment when your computer suddenly stops working.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|1",
+    "s": "You try restarting it, but nothing happens.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|10",
+    "s": "It’s the middle of winter and your room is uncomfortably cold, especially at night.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|11",
+    "s": "You go to the accommodation manager’s office to report the problem.",
+    "p": "P3",
+    "native": true
+  },
+  {
+    "k": "rts|pearson-rts-022|scenario|12",
+    "s": "What do you say to the accommodation manager?",
+    "p": "P3",
+    "native": true
+  }
+]

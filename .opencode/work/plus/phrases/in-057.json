@@ -1,0 +1,482 @@
+[
+  {
+    "k": "sst|goarno-sst-121|transcript|2",
+    "s": "For a long time, scientists viewed this primarily as a solitary foraging tool, simply a way for a single bat to find a single moth without bumping into trees.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-121|transcript|3",
+    "s": "However, recent field studies on Mexican free-tailed bats have revealed a much more competitive, social aspect to this ability.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-121|transcript|4",
+    "s": "Researchers discovered that these bats actually use their sonar to sabotage one another.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-121|transcript|5",
+    "s": "When a bat detects a competitor closing in on an insect, right at that critical moment of capture, it emits a specialized jamming call.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-121|transcript|6",
+    "s": "This isn't just random noise; it is a carefully timed signal designed to disrupt the hunting bat's sensory processing.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-121|transcript|7",
+    "s": "Essentially, the rival bat creates acoustic interference that momentarily 'blinds' the hunter, causing it to miss the target.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-121|transcript|8",
+    "s": "The interferer then has a chance to swoop in and claim the meal.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-121|transcript|9",
+    "s": "This finding is significant because it shifts our understanding of echolocation from a purely navigational mechanism to a complex communication tool used for acoustic warfare.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|0",
+    "s": "When we analyze how businesses set their prices, it becomes clear that the numbers on a tag are rarely just about covering costs.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|1",
+    "s": "One of the most effective psychological tactics used in pricing strategy is known as the decoy effect.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|10",
+    "s": "This strategy is effective because consumers rarely evaluate value in isolation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|11",
+    "s": "We rely heavily on context and comparison.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|12",
+    "s": "By manipulating the set of choices available, marketers can subtly steer customers toward higher-margin products without them even realizing they are being influenced.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|2",
+    "s": "Essentially, this phenomenon occurs when a company introduces a third option—the decoy—specifically designed to make one of the other options appear more attractive by comparison.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|3",
+    "s": "Let's consider a classic example found in movie theaters.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|4",
+    "s": "Imagine you are choosing between a small popcorn for three dollars and a large one for seven dollars.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|5",
+    "s": "You might feel the large is too expensive and settle for the small.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|6",
+    "s": "However, if the theater introduces a medium size for six dollars and fifty cents, the dynamic changes entirely.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|7",
+    "s": "Suddenly, the large bucket seems like an incredible deal because it costs only fifty cents more than the medium.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|8",
+    "s": "The medium option is the decoy; it isn’t really intended to be sold in high volumes.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-122|transcript|9",
+    "s": "Its primary function is to skew your perception of value, making the most expensive item look like the smartest financial choice.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|0",
+    "s": "So, when we talk about the future of employment, there is a significant shift happening in recruitment strategies across major industries.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|1",
+    "s": "Historically, if you wanted a top-tier job, your technical qualifications—your degree, your coding ability, or your certifications—were the primary deciding factors.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|10",
+    "s": "Therefore, while technical proficiency might get your foot in the door, it is arguably your human-centric skills—your ability to collaborate and empathize—that will actually sustain your career long-term.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|2",
+    "s": "However, the landscape is changing rapidly.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|3",
+    "s": "Today, hiring managers are increasingly prioritizing what we often dismiss as 'soft skills', such as emotional intelligence, adaptability, and effective communication.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|4",
+    "s": "Why is this happening?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|5",
+    "s": "Well, primarily because technical skills have a shrinking shelf life.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|6",
+    "s": "In a world driven by rapid technological evolution, the specific software or machinery you master today might be obsolete in five years.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|7",
+    "s": "Consequently, employers prefer candidates who demonstrate the mental flexibility to learn new systems rather than those who just know the current ones.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|8",
+    "s": "Furthermore, with the rise of automation and artificial intelligence, routine technical tasks are being offloaded to machines.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-123|transcript|9",
+    "s": "Algorithms can analyze data faster than any human, but they cannot navigate complex office politics, negotiate with a difficult client, or lead a team through a crisis.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|0",
+    "s": "We tend to assume that a good night's sleep consists of eight solid, uninterrupted hours, and if we wake up in the middle of the night, we worry that something is wrong with us.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|1",
+    "s": "But historically speaking, this monophasic—or single-block—sleep pattern is actually a very recent invention.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|10",
+    "s": "It could simply be our bodies trying to revert to a much older, more natural rhythm that we’ve effectively forgotten.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|2",
+    "s": "If you look at diaries, court records, and medical texts from pre-industrial Europe, you find frequent references to what was called 'first sleep' and 'second sleep.' Basically, people would go to bed shortly after sundown, sleep for about four hours, and then wake up for an hour or two.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|3",
+    "s": "This waking period wasn't seen as a problem; in fact, it was quite active.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|4",
+    "s": "People would use this time to pray, read, chat with family members, or even visit neighbors, before settling back down for their second sleep until morning.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|5",
+    "s": "So, what changed?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|6",
+    "s": "The primary culprit appears to be the spread of artificial lighting during the Industrial Revolution.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|7",
+    "s": "As streetlights and indoor gas lamps became common, night became a time for activity.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|8",
+    "s": "Bedtimes were pushed later, and the time available for rest was compressed, forcing us to consolidate those two phases into one continuous block.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-124|transcript|9",
+    "s": "This historical context is important because it suggests that what we often diagnose today as maintenance insomnia—waking up in the middle of the night—might not be a biological malfunction at all.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|0",
+    "s": "When we consider the architecture of sleep, it is important to distinguish between the different stages, particularly the role of Rapid Eye Movement, or REM sleep.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|1",
+    "s": "Unlike deep sleep, which is largely responsible for physiological repair and energy conservation, REM sleep seems to be crucial for our psychological well-being.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|2",
+    "s": "During this phase, the brain is incredibly active, showing electrical patterns similar to when we are awake, yet the body remains paralyzed to prevent us from acting out our dreams.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|3",
+    "s": "One of the leading theories is that REM sleep functions as a mechanism for emotional regulation.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|4",
+    "s": "It effectively recalibrates the brain’s emotional centers.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|5",
+    "s": "You can think of it as a kind of nocturnal soothing balm that processes difficult experiences from the day, allowing us to retain the memory of an event without the sharp sting of the original emotion.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|6",
+    "s": "Studies indicate that individuals who are specifically deprived of REM sleep show heightened reactivity to stress and anxiety.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|7",
+    "s": "They struggle to read social cues and often exhibit signs of emotional instability.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-125|transcript|8",
+    "s": "Therefore, sleep is not merely a passive state of rest, but an active neurological process essential for maintaining mental resilience.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|0",
+    "s": "When we think about a good night's rest, we typically imagine a solid block of eight hours of uninterrupted sleep.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|1",
+    "s": "If you wake up in the middle of the night, you might worry you have a disorder.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|10",
+    "s": "We began to stay up later, squeezing our rest into a shorter, single block to fit the demands of the modern clock.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|11",
+    "s": "Consequently, psychologists now argue that waking up at 3 a.m.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|12",
+    "s": "isn't necessarily a malfunction; it might just be an evolutionary echo of a natural rhythm we’ve suppressed.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|2",
+    "s": "However, historical research suggests that this idea of monophasic sleep—sleeping in one continuous chunk—is actually a relatively modern invention.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|3",
+    "s": "If we look at literature and court records from pre-industrial Europe, we find frequent references to something called 'first sleep' and 'second sleep.' It appears that for centuries, the dominant pattern was biphasic.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|4",
+    "s": "People would go to bed shortly after dusk, sleep for about four hours, and then wake up for a period of wakefulness in the middle of the night.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|5",
+    "s": "During this interval, which could last an hour or more, people would pray, read, tend to the fire, or even visit neighbors.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|6",
+    "s": "Then, they would go back for their 'second sleep' until morning.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|7",
+    "s": "So, what changed?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|8",
+    "s": "The primary driver seems to be the Industrial Revolution and the spread of artificial lighting.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-126|transcript|9",
+    "s": "As streetlights and indoor lamps became common, the night wasn't so dark anymore.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|0",
+    "s": "We tend to assume that a solid eight-hour block of sleep is the biological norm for humans, and if we wake up in the middle of the night, we often worry that we’re suffering from a disorder.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|1",
+    "s": "However, historical evidence suggests that the way we sleep today is actually a very recent development.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|2",
+    "s": "Before the Industrial Revolution, and specifically before the advent of cheap, artificial lighting, our ancestors practiced what historians call 'segmented sleep.' In the pre-industrial world, people would typically go to bed around sundown and sleep for about four hours.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|3",
+    "s": "This was referred to as 'first sleep.' They would then wake up naturally around midnight for an hour or so—a period often used for prayer, reading, or quiet socialization—before settling back down for their 'second sleep' until morning.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|4",
+    "s": "This biphasic pattern was entirely normal and well-documented in literature from the time.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|5",
+    "s": "So what changed?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|6",
+    "s": "It was really the introduction of street lamps and indoor lighting that pushed back bedtime.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|7",
+    "s": "As we began to stay up later, we compressed our rest into a single, continuous block to fit the demands of a structured workday.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-127|transcript|8",
+    "s": "Consequently, what we now view as 'middle-of-the-night insomnia' might actually be a remnant of this natural, ancestral rhythm trying to assert itself in a modern, artificially lit world.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|0",
+    "s": "For centuries, scientists and philosophers have puzzled over a fundamental question: why do we sleep?",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|1",
+    "s": "It seems counterintuitive from an evolutionary standpoint—you are unconscious, vulnerable to predators, and you are not gathering food.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|10",
+    "s": "This buildup of toxins could explain the mental fog we feel after sleep deprivation and highlights why quality sleep is so vital for long-term neurological health.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|2",
+    "s": "For a long time, the prevailing theory was simply that sleep was a way to conserve energy or perhaps consolidate memories.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|3",
+    "s": "While those are true, they don't fully explain the absolute necessity of spending a third of our lives in this state.",
+    "p": "P2",
+    "native": true
+  },
+  {
+    "k": "sst|goarno-sst-128|transcript|4",
+    "s": "However, recent research has uncovered a crucial physiological function that might be the primary reason we need to sleep.",
+    "p": "P2",
+    "native": true
+  }
+]
