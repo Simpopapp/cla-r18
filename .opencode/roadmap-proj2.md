@@ -27,8 +27,12 @@ Prioridade: P0 = lst_hcs, lst_hiw, lst_smw, lst_mcq_single/multi, answer_short, 
   - [x] Banco: 1.316 → 1.386 (retell_lecture 12→62 · read_fib_dropdown 29→41 · swt 50→53 · reorder_paragraphs 45→50 · read_mcq_single 50→50 por corroboração); manifesto regenerado; selos recalculados
   - Gates: 0 duplicatas ≥ 0,85 pós-integração (re-scan 1.386: 0 pares) ✓ · evidência C1–C4 ✓ · bank-integrity 10/10 ✓ · chunk 229 KB ≤ 250 KB ✓ · vitest 319/319 · tsgo limpo · build OK · lint 0 erros (9 warnings pré-existentes) · zero deps novas · status: docs/planning/stages/stage-p2-03-status.md
 
-- [ ] Fase 4 (P1) — Tipos P2/P3 (volume alto; wfd/repeat_sentence só itens 100% novos pós-dedupe)
-  - Gates: idênticos à Fase 2 + comprovação de dedupe contra ondas anteriores (não só intra-onda)
+- [x] Fase 4 (P1) — Tipos P2/P3 (volume alto; wfd/repeat_sentence só itens 100% novos pós-dedupe)
+  - [x] Gates de fonte da onda 3: 34 candidatas (lotes 07–09) → 22 aprovadas (incl. britfort/Pearson C4 → verificada) + 12 reprovadas com motivo (Ap. E em `sources-sweep.json`)
+  - [x] Extração → normalizar → validar → dedupe → integrar: 1.716 candidatos · 1.716 válidos · 1.437 integrados · 279 corroborados (+264 pares → 373) · skips honestos (25 truncados OnePTE; SST do prediction gurully sem gabarito)
+  - [x] Banco: 1.386 → 2.823 (wfd 48→551 · repeat_sentence 49→682 · read_aloud 50→340 · sst 50→58 · lst_fib 50→53); manifesto regenerado; selos recalculados
+  - [x] Chunks: repeat_sentence 261 KB → 2 partes (131+130 KB, loader concatena); allMeta fora do manifesto (all-meta-1/2, 238/216 KB); teste chunk-budget (29 testes) + idempotência do build-manifest (incidente de contagem corrigido)
+  - Gates: idênticos à Fase 2 + comprovação de dedupe contra ondas anteriores (banco atual inclui ondas 1–2; re-scan Jaccard 2.823: 0 pares ≥ 0,85) ✓ · chunk ≤ 250 KB ✓ · vitest 348/348 (+29 chunk-budget) ✓ · tsgo limpo ✓ · build OK ✓ · lint 0 erros (9 warnings pré-existentes) ✓ · zero deps novas ✓ · status: docs/planning/stages/stage-p2-04-status.md ✓ · monitor notificado ✓
 
 - [ ] Fase 5 (P0) — Corroboração global e re-avaliação de fontes
   - [ ] Matriz completa incluindo as 7 fontes do projeto 1; recálculo de tiers (promover/rebaixar com motivo); fechamento da pendência de corroboração do projeto 1

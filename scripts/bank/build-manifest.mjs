@@ -79,6 +79,39 @@ for (const t of TASK_TYPES) {
   };
 }
 
+// ---- chunks por tipo (PRD2 §7.4): nenhum arquivo > 250 KB bruto ----
+// Tipos que estouram são divididos em `<t>.json` (parte A) + `<t>-b.json`
+// (parte B); o loader em src/lib/pte/manifest.ts concatena as partes.
+// Idempotente: quando `-b` existe, as partes são concatenadas antes de medir.
+import { statSync, unlinkSync } from "node:fs";
+const CHUNK_LIMIT = 250 * 1024;
+const splitTypes = [];
+
+for (const t of TASK_TYPES) {
+  const file = path.join(OUT, `${t}.json`);
+  const bFile = path.join(OUT, `${t}-b.json`);
+  let items;
+  try {
+    items = readJson(bFile, []);
+    if (items.length) items = [...readJson(file, []), ...items];
+    else items = readJson(file, []);
+  } catch {
+    items = readJson(file, []);
+  }
+  const full = JSON.stringify(items, null, 1);
+  if (Buffer.byteLength(full, "utf8") <= CHUNK_LIMIT) {
+    if (statSync(bFile, { throwIfNoEntry: false })) unlinkSync(bFile);
+    continue;
+  }
+  splitTypes.push(t);
+  const mid = Math.ceil(items.length / 2);
+  writeJson(file, items.slice(0, mid));
+  writeJson(bFile, items.slice(mid));
+  console.log(
+    `chunk split: ${t} → ${statSync(file).size} B + ${statSync(bFile).size} B (2 partes, loader concatena)`,
+  );
+}
+
 const manifest = {
   generatedAt: new Date().toISOString(),
   TOTAL_ALL_QUESTIONS: allMeta.length,
@@ -86,10 +119,25 @@ const manifest = {
   countByType,
   sectionCounts,
   TYPE_META,
-  allMeta,
+  chunkSplitTypes: splitTypes,
 };
 
+// allMeta em arquivos separados (cada um ≤ 250 KB), concatenados no manifest.ts
+const half = Math.ceil(allMeta.length / 2);
+writeJson(path.join(OUT, "all-meta-1.json"), allMeta.slice(0, half));
+writeJson(path.join(OUT, "all-meta-2.json"), allMeta.slice(half));
+for (const f of ["all-meta-1.json", "all-meta-2.json"]) {
+  const s = statSync(path.join(OUT, f)).size;
+  if (s > CHUNK_LIMIT)
+    throw new Error(`allMeta chunk ${f} = ${s} B > 250 KB — aumentar o número de partes`);
+}
+
+// sobrescreve o manifest.json (sem allMeta) antes de medir
 writeJson(path.join(OUT, "manifest.json"), manifest);
+if (statSync(path.join(OUT, "manifest.json")).size > CHUNK_LIMIT) {
+  throw new Error("manifest.json > 250 KB — revisar campos do allMeta");
+}
+
 console.log(
-  `manifest: ${manifest.TOTAL_ALL_QUESTIONS} questões · ${manifest.TYPE_COUNT}/22 tipos com banco`,
+  `manifest: ${manifest.TOTAL_ALL_QUESTIONS} questões · ${manifest.TYPE_COUNT}/22 tipos com banco · chunk splits: ${splitTypes.length}`,
 );

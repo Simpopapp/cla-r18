@@ -1,565 +1,1965 @@
 {
  "files": {
-  "wave2-candidates.validated.json": {
-   "candidates": 149,
-   "integrated": 70
+  "wave3-extracted.validated.json": {
+   "candidates": 1716,
+   "integrated": 1437
   }
  },
- "integrated": 70,
- "corroborated": 79,
+ "integrated": 1437,
+ "corroborated": 279,
  "discarded": [
   {
-   "cand": "cand-50",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-001",
+   "cand": "cand-245",
+   "why": "match intra-lote",
+   "match": "cand-160",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptehelper.com.au"
   },
   {
-   "cand": "cand-51",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-002",
+   "cand": "cand-260",
+   "why": "match intra-lote",
+   "match": "cand-162",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptehelper.com.au"
   },
   {
-   "cand": "cand-52",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-003",
+   "cand": "cand-269",
+   "why": "match intra-lote",
+   "match": "cand-144",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptehelper.com.au"
   },
   {
-   "cand": "cand-53",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-004",
+   "cand": "cand-271",
+   "why": "match intra-lote",
+   "match": "cand-167",
+   "sim": 0.867,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-277",
+   "why": "match intra-lote",
+   "match": "cand-219",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-284",
+   "why": "match intra-lote",
+   "match": "cand-215",
+   "sim": 0.857,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-295",
+   "why": "match intra-lote",
+   "match": "cand-153",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-304",
+   "why": "match intra-lote",
+   "match": "cand-192",
+   "sim": 0.889,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-310",
+   "why": "match intra-lote",
+   "match": "cand-179",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-330",
+   "why": "match intra-lote",
+   "match": "cand-180",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-341",
+   "why": "match intra-lote",
+   "match": "cand-190",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-345",
+   "why": "match intra-lote",
+   "match": "cand-175",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-346",
+   "why": "match intra-lote",
+   "match": "cand-163",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-347",
+   "why": "match intra-lote",
+   "match": "cand-156",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-351",
+   "why": "match intra-lote",
+   "match": "cand-151",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-357",
+   "why": "match intra-lote",
+   "match": "cand-158",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-364",
+   "why": "match intra-lote",
+   "match": "cand-187",
+   "sim": 0.857,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-365",
+   "why": "match intra-lote",
+   "match": "cand-148",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-370",
+   "why": "match intra-lote",
+   "match": "cand-184",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-376",
+   "why": "match intra-lote",
+   "match": "cand-166",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-379",
+   "why": "match intra-lote",
+   "match": "cand-172",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-384",
+   "why": "match intra-lote",
+   "match": "cand-193",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-385",
+   "why": "match intra-lote",
+   "match": "cand-157",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-395",
+   "why": "match intra-lote",
+   "match": "cand-209",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-397",
+   "why": "match intra-lote",
+   "match": "cand-206",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-400",
+   "why": "match intra-lote",
+   "match": "cand-200",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-402",
+   "why": "match intra-lote",
+   "match": "cand-201",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-403",
+   "why": "match intra-lote",
+   "match": "cand-203",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-404",
+   "why": "match intra-lote",
+   "match": "cand-204",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-406",
+   "why": "match intra-lote",
+   "match": "cand-218",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-407",
+   "why": "match intra-lote",
+   "match": "cand-220",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-408",
+   "why": "match intra-lote",
+   "match": "cand-221",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-409",
+   "why": "match intra-lote",
+   "match": "cand-223",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-410",
+   "why": "match intra-lote",
+   "match": "cand-195",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-413",
+   "why": "match intra-lote",
+   "match": "cand-239",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-415",
+   "why": "match intra-lote",
+   "match": "cand-238",
+   "sim": 0.9,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-417",
+   "why": "match intra-lote",
+   "match": "cand-231",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-418",
+   "why": "match intra-lote",
+   "match": "cand-161",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-420",
+   "why": "match intra-lote",
+   "match": "cand-233",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-421",
+   "why": "match intra-lote",
+   "match": "cand-236",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-422",
+   "why": "match intra-lote",
+   "match": "cand-237",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-423",
+   "why": "match intra-lote",
+   "match": "cand-230",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-425",
+   "why": "match intra-lote",
+   "match": "cand-232",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-426",
+   "why": "match intra-lote",
+   "match": "cand-234",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-429",
+   "why": "match intra-lote",
+   "match": "cand-229",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-430",
+   "why": "match intra-lote",
+   "match": "cand-224",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-431",
+   "why": "match intra-lote",
+   "match": "cand-226",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-432",
+   "why": "match intra-lote",
+   "match": "cand-227",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-433",
+   "why": "match intra-lote",
+   "match": "cand-216",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-435",
+   "why": "match intra-lote",
+   "match": "cand-217",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-436",
+   "why": "match intra-lote",
+   "match": "cand-222",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-439",
+   "why": "match intra-lote",
+   "match": "cand-197",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-440",
+   "why": "match intra-lote",
+   "match": "cand-198",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-441",
+   "why": "match intra-lote",
+   "match": "cand-212",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-446",
+   "why": "match intra-lote",
+   "match": "cand-164",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-447",
+   "why": "match intra-lote",
+   "match": "cand-168",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-448",
+   "why": "match intra-lote",
+   "match": "cand-165",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-451",
+   "why": "match intra-lote",
+   "match": "cand-146",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-452",
+   "why": "match intra-lote",
+   "match": "cand-185",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-454",
+   "why": "match intra-lote",
+   "match": "cand-186",
+   "sim": 1,
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-528",
+   "why": "match intra-lote",
+   "match": "cand-479",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-531",
+   "why": "match intra-lote",
+   "match": "cand-182",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-532",
+   "why": "match intra-lote",
+   "match": "cand-169",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-533",
+   "why": "match intra-lote",
+   "match": "cand-147",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-534",
+   "why": "match intra-lote",
+   "match": "cand-361",
+   "sim": 0.909,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-539",
+   "why": "match intra-lote",
+   "match": "cand-231",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-540",
+   "why": "match intra-lote",
+   "match": "cand-235",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-541",
+   "why": "match intra-lote",
+   "match": "cand-234",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-544",
+   "why": "match intra-lote",
+   "match": "cand-424",
+   "sim": 0.909,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-553",
+   "why": "match intra-lote",
+   "match": "cand-455",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-559",
+   "why": "match intra-lote",
+   "match": "cand-496",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-560",
+   "why": "match intra-lote",
+   "match": "cand-468",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-562",
+   "why": "match intra-lote",
+   "match": "cand-222",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-564",
+   "why": "match intra-lote",
+   "match": "cand-217",
+   "sim": 0.941,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-567",
+   "why": "match intra-lote",
+   "match": "cand-352",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-572",
+   "why": "match intra-lote",
+   "match": "cand-470",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-573",
+   "why": "match intra-lote",
+   "match": "cand-492",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-574",
+   "why": "match intra-lote",
+   "match": "cand-473",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-592",
+   "why": "match intra-lote",
+   "match": "cand-411",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-593",
+   "why": "match intra-lote",
+   "match": "cand-236",
+   "sim": 0.909,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-594",
+   "why": "match intra-lote",
+   "match": "cand-197",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-597",
+   "why": "match intra-lote",
+   "match": "cand-396",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-599",
+   "why": "match intra-lote",
+   "match": "cand-203",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-600",
+   "why": "match intra-lote",
+   "match": "cand-213",
+   "sim": 0.9,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-602",
+   "why": "match intra-lote",
+   "match": "cand-375",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-604",
+   "why": "match intra-lote",
+   "match": "cand-190",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-607",
+   "why": "match intra-lote",
+   "match": "cand-188",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-611",
+   "why": "match intra-lote",
+   "match": "cand-501",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-614",
+   "why": "match intra-lote",
+   "match": "cand-154",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-619",
+   "why": "match intra-lote",
+   "match": "cand-353",
+   "sim": 1,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-650",
+   "why": "match intra-lote",
+   "match": "cand-261",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-652",
+   "why": "match intra-lote",
+   "match": "cand-467",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-654",
+   "why": "match intra-lote",
+   "match": "cand-510",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-656",
+   "why": "match intra-lote",
+   "match": "cand-461",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-657",
+   "why": "match intra-lote",
+   "match": "cand-503",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-658",
+   "why": "match intra-lote",
+   "match": "cand-186",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-659",
+   "why": "match intra-lote",
+   "match": "cand-153",
+   "sim": 0.857,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-662",
+   "why": "match intra-lote",
+   "match": "cand-181",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-663",
+   "why": "match intra-lote",
+   "match": "cand-453",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-668",
+   "why": "match intra-lote",
+   "match": "cand-214",
+   "sim": 0.947,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-669",
+   "why": "match intra-lote",
+   "match": "cand-337",
+   "sim": 0.933,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-676",
+   "why": "match intra-lote",
+   "match": "cand-241",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-685",
+   "why": "match intra-lote",
+   "match": "cand-352",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-691",
+   "why": "match intra-lote",
+   "match": "cand-666",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-692",
+   "why": "match intra-lote",
+   "match": "cand-290",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-701",
+   "why": "match intra-lote",
+   "match": "cand-258",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-705",
+   "why": "match intra-lote",
+   "match": "cand-309",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-712",
+   "why": "match intra-lote",
+   "match": "cand-282",
+   "sim": 0.857,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-719",
+   "why": "match intra-lote",
+   "match": "cand-460",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-721",
+   "why": "match intra-lote",
+   "match": "cand-296",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-725",
+   "why": "match intra-lote",
+   "match": "cand-367",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-726",
+   "why": "match intra-lote",
+   "match": "cand-375",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-738",
+   "why": "match intra-lote",
+   "match": "cand-464",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-739",
+   "why": "match intra-lote",
+   "match": "cand-246",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-743",
+   "why": "match intra-lote",
+   "match": "cand-325",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-746",
+   "why": "match intra-lote",
+   "match": "cand-617",
+   "sim": 0.917,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-749",
+   "why": "match intra-lote",
+   "match": "cand-190",
+   "sim": 0.88,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-752",
+   "why": "match intra-lote",
+   "match": "cand-468",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-753",
+   "why": "match intra-lote",
+   "match": "cand-492",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-755",
+   "why": "match intra-lote",
+   "match": "cand-248",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-757",
+   "why": "match intra-lote",
+   "match": "cand-491",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-758",
+   "why": "match intra-lote",
+   "match": "cand-608",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-760",
+   "why": "match intra-lote",
+   "match": "cand-472",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-762",
+   "why": "match intra-lote",
+   "match": "cand-587",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-765",
+   "why": "match intra-lote",
+   "match": "cand-389",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-779",
+   "why": "match intra-lote",
+   "match": "cand-548",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-787",
+   "why": "match intra-lote",
+   "match": "cand-575",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-790",
+   "why": "match intra-lote",
+   "match": "cand-291",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-792",
+   "why": "match intra-lote",
+   "match": "cand-545",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-794",
+   "why": "match intra-lote",
+   "match": "cand-546",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-803",
+   "why": "match intra-lote",
+   "match": "cand-190",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-808",
+   "why": "match intra-lote",
+   "match": "cand-211",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-810",
+   "why": "match intra-lote",
+   "match": "cand-405",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-813",
+   "why": "match intra-lote",
+   "match": "cand-204",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-816",
+   "why": "match intra-lote",
+   "match": "cand-344",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-818",
+   "why": "match intra-lote",
+   "match": "cand-212",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-819",
+   "why": "match intra-lote",
+   "match": "cand-205",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-824",
+   "why": "match intra-lote",
+   "match": "cand-501",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-829",
+   "why": "match intra-lote",
+   "match": "cand-242",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-850",
+   "why": "match intra-lote",
+   "match": "cand-240",
+   "sim": 0.9,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-851",
+   "why": "match intra-lote",
+   "match": "cand-239",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-852",
+   "why": "match intra-lote",
+   "match": "cand-412",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-854",
+   "why": "match intra-lote",
+   "match": "cand-411",
+   "sim": 0.933,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-861",
+   "why": "match intra-lote",
+   "match": "cand-235",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-863",
+   "why": "match intra-lote",
+   "match": "cand-230",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-864",
+   "why": "match intra-lote",
+   "match": "cand-237",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-865",
+   "why": "match intra-lote",
+   "match": "cand-236",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-866",
+   "why": "match intra-lote",
+   "match": "cand-233",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-867",
+   "why": "match intra-lote",
+   "match": "cand-292",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-872",
+   "why": "match intra-lote",
+   "match": "cand-231",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-873",
+   "why": "match intra-lote",
+   "match": "cand-238",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-880",
+   "why": "match intra-lote",
+   "match": "cand-550",
+   "sim": 0.875,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-884",
+   "why": "match intra-lote",
+   "match": "cand-428",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-887",
+   "why": "match intra-lote",
+   "match": "cand-427",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-888",
+   "why": "match intra-lote",
+   "match": "cand-234",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-889",
+   "why": "match intra-lote",
+   "match": "cand-232",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-891",
+   "why": "match intra-lote",
+   "match": "cand-424",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-896",
+   "why": "match intra-lote",
+   "match": "cand-340",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-897",
+   "why": "match intra-lote",
+   "match": "cand-360",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-899",
+   "why": "match intra-lote",
+   "match": "cand-503",
+   "sim": 0.947,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-900",
+   "why": "match intra-lote",
+   "match": "cand-368",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-904",
+   "why": "match intra-lote",
+   "match": "cand-520",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-906",
+   "why": "match intra-lote",
+   "match": "cand-516",
+   "sim": 0.917,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-907",
+   "why": "match intra-lote",
+   "match": "cand-349",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-910",
+   "why": "match intra-lote",
+   "match": "cand-361",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-912",
+   "why": "match intra-lote",
+   "match": "cand-227",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-913",
+   "why": "match intra-lote",
+   "match": "cand-226",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-916",
+   "why": "match intra-lote",
+   "match": "cand-229",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-925",
+   "why": "match intra-lote",
+   "match": "cand-216",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-926",
+   "why": "match intra-lote",
+   "match": "cand-215",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-937",
+   "why": "match intra-lote",
+   "match": "cand-219",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-940",
+   "why": "match intra-lote",
+   "match": "cand-220",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-941",
+   "why": "match intra-lote",
+   "match": "cand-222",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-942",
+   "why": "match intra-lote",
+   "match": "cand-221",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-943",
+   "why": "match intra-lote",
+   "match": "cand-223",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-945",
+   "why": "match intra-lote",
+   "match": "cand-434",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-987",
+   "why": "match intra-lote",
+   "match": "cand-33",
+   "sim": 0.941,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-988",
+   "why": "match intra-lote",
+   "match": "cand-111",
+   "sim": 0.923,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-990",
+   "why": "match intra-lote",
+   "match": "cand-112",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-997",
+   "why": "match intra-lote",
+   "match": "cand-52",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1040",
+   "why": "match intra-lote",
+   "match": "cand-65",
+   "sim": 1,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1041",
+   "why": "match intra-lote",
+   "match": "cand-64",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-54",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-005",
+   "cand": "cand-1046",
+   "why": "match intra-lote",
+   "match": "cand-60",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1048",
+   "why": "match intra-lote",
+   "match": "cand-1010",
+   "sim": 0.9,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-55",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-006",
+   "cand": "cand-1049",
+   "why": "match intra-lote",
+   "match": "cand-25",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-56",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-007",
+   "cand": "cand-1050",
+   "why": "match intra-lote",
+   "match": "cand-55",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-57",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-008",
+   "cand": "cand-1051",
+   "why": "match intra-lote",
+   "match": "cand-54",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-58",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-009",
+   "cand": "cand-1054",
+   "why": "match intra-lote",
+   "match": "cand-51",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-59",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-010",
+   "cand": "cand-1055",
+   "why": "match intra-lote",
+   "match": "cand-49",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-60",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-011",
+   "cand": "cand-1062",
+   "why": "match intra-lote",
+   "match": "cand-40",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-61",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-012",
+   "cand": "cand-1067",
+   "why": "match intra-lote",
+   "match": "cand-32",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-62",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-013",
+   "cand": "cand-1122",
+   "why": "match intra-lote",
+   "match": "cand-33",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-63",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-014",
+   "cand": "cand-1128",
+   "why": "match intra-lote",
+   "match": "cand-67",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-64",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-015",
+   "cand": "cand-1139",
+   "why": "match intra-lote",
+   "match": "cand-66",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-65",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-016",
+   "cand": "cand-1144",
+   "why": "match intra-lote",
+   "match": "cand-72",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-66",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-017",
+   "cand": "cand-1145",
+   "why": "match intra-lote",
+   "match": "cand-15",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-67",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-018",
+   "cand": "cand-1149",
+   "why": "match intra-lote",
+   "match": "cand-82",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-68",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-019",
+   "cand": "cand-1159",
+   "why": "match intra-lote",
+   "match": "cand-28",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-69",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-020",
+   "cand": "cand-1167",
+   "why": "match intra-lote",
+   "match": "cand-104",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-70",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-021",
+   "cand": "cand-1345",
+   "why": "match intra-lote",
+   "match": "cand-1335",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-71",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-022",
+   "cand": "cand-1346",
+   "why": "match intra-lote",
+   "match": "cand-1336",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-72",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-023",
+   "cand": "cand-1347",
+   "why": "match intra-lote",
+   "match": "cand-1341",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-73",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-024",
+   "cand": "cand-1358",
+   "why": "match intra-lote",
+   "match": "cand-1340",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-74",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-025",
+   "cand": "cand-1359",
+   "why": "match intra-lote",
+   "match": "cand-1341",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-75",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-026",
+   "cand": "cand-1360",
+   "why": "match intra-lote",
+   "match": "cand-1343",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-76",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-027",
+   "cand": "cand-1372",
+   "why": "match intra-lote",
+   "match": "cand-1367",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptehelper.com.au"
+  },
+  {
+   "cand": "cand-1398",
+   "why": "match intra-lote",
+   "match": "cand-1395",
+   "sim": 0.936,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-1402",
+   "why": "match intra-lote",
+   "match": "cand-1373",
+   "sim": 0.972,
+   "source": "onepte.com"
   },
   {
-   "cand": "cand-77",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-028",
+   "cand": "cand-1411",
+   "why": "match intra-lote",
+   "match": "cand-1336",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "onepte.com"
   },
   {
-   "cand": "cand-78",
-   "why": "match banco",
-   "match": "goarno-read_fib_dropdown-029",
+   "cand": "cand-1412",
+   "why": "match intra-lote",
+   "match": "cand-1340",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "onepte.com"
   },
   {
-   "cand": "cand-79",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-101",
+   "cand": "cand-1413",
+   "why": "match intra-lote",
+   "match": "cand-1341",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "onepte.com"
   },
   {
-   "cand": "cand-80",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-102",
+   "cand": "cand-1414",
+   "why": "match intra-lote",
+   "match": "cand-1339",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "onepte.com"
   },
   {
-   "cand": "cand-81",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-103",
+   "cand": "cand-1415",
+   "why": "match intra-lote",
+   "match": "cand-1348",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-1445",
+   "why": "match intra-lote",
+   "match": "cand-1374",
+   "sim": 0.972,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-1455",
+   "why": "match intra-lote",
+   "match": "cand-1342",
+   "sim": 0.867,
+   "source": "onepte.com"
   },
   {
-   "cand": "cand-82",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-104",
+   "cand": "cand-1456",
+   "why": "match intra-lote",
+   "match": "cand-1335",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "onepte.com"
   },
   {
-   "cand": "cand-83",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-105",
+   "cand": "cand-1465",
+   "why": "match intra-lote",
+   "match": "cand-1337",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "onepte.com"
   },
   {
-   "cand": "cand-84",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-106",
+   "cand": "cand-1481",
+   "why": "match intra-lote",
+   "match": "cand-1362",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-1486",
+   "why": "match intra-lote",
+   "match": "cand-1350",
+   "sim": 0.925,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-1488",
+   "why": "match intra-lote",
+   "match": "cand-1386",
+   "sim": 0.897,
+   "source": "onepte.com"
+  },
+  {
+   "cand": "cand-1493",
+   "why": "match intra-lote",
+   "match": "cand-1491",
+   "sim": 0.92,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1498",
+   "why": "match intra-lote",
+   "match": "cand-1427",
+   "sim": 0.941,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-85",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-107",
+   "cand": "cand-1499",
+   "why": "match intra-lote",
+   "match": "cand-1400",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-86",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-108",
+   "cand": "cand-1511",
+   "why": "match intra-lote",
+   "match": "cand-1348",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-87",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-109",
+   "cand": "cand-1512",
+   "why": "match intra-lote",
+   "match": "cand-1416",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-88",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-110",
+   "cand": "cand-1513",
+   "why": "match intra-lote",
+   "match": "cand-1344",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-89",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-111",
+   "cand": "cand-1515",
+   "why": "match intra-lote",
+   "match": "cand-1342",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-90",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-112",
+   "cand": "cand-1516",
+   "why": "match intra-lote",
+   "match": "cand-1340",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-91",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-113",
+   "cand": "cand-1517",
+   "why": "match intra-lote",
+   "match": "cand-1339",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-92",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-114",
+   "cand": "cand-1518",
+   "why": "match intra-lote",
+   "match": "cand-1338",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-93",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-115",
+   "cand": "cand-1519",
+   "why": "match intra-lote",
+   "match": "cand-1336",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-94",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-116",
+   "cand": "cand-1520",
+   "why": "match intra-lote",
+   "match": "cand-1335",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-95",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-117",
+   "cand": "cand-1527",
+   "why": "match intra-lote",
+   "match": "cand-1470",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-96",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-118",
+   "cand": "cand-1530",
+   "why": "match intra-lote",
+   "match": "cand-1505",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-97",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-119",
+   "cand": "cand-1531",
+   "why": "match intra-lote",
+   "match": "cand-1386",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-98",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-120",
+   "cand": "cand-1533",
+   "why": "match intra-lote",
+   "match": "cand-1444",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1535",
+   "why": "match intra-lote",
+   "match": "cand-1428",
+   "sim": 0.976,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1538",
+   "why": "match intra-lote",
+   "match": "cand-1532",
+   "sim": 0.946,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-99",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-121",
+   "cand": "cand-1539",
+   "why": "match intra-lote",
+   "match": "cand-1444",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-100",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-122",
+   "cand": "cand-1547",
+   "why": "match intra-lote",
+   "match": "cand-1367",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1564",
+   "why": "match intra-lote",
+   "match": "cand-1478",
+   "sim": 0.951,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1566",
+   "why": "match intra-lote",
+   "match": "cand-1476",
+   "sim": 0.889,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-101",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-123",
+   "cand": "cand-1567",
+   "why": "match intra-lote",
+   "match": "cand-1480",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1573",
+   "why": "match intra-lote",
+   "match": "cand-1419",
+   "sim": 0.974,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-102",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-124",
+   "cand": "cand-1574",
+   "why": "match intra-lote",
+   "match": "cand-1420",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1575",
+   "why": "match intra-lote",
+   "match": "cand-1418",
+   "sim": 0.898,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-103",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-125",
+   "cand": "cand-1576",
+   "why": "match intra-lote",
+   "match": "cand-1487",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-104",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-126",
+   "cand": "cand-1577",
+   "why": "match intra-lote",
+   "match": "cand-1394",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1578",
+   "why": "match intra-lote",
+   "match": "cand-1466",
+   "sim": 0.875,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-105",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-127",
+   "cand": "cand-1579",
+   "why": "match intra-lote",
+   "match": "cand-1350",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-106",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-128",
+   "cand": "cand-1583",
+   "why": "match intra-lote",
+   "match": "cand-1349",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-107",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-129",
+   "cand": "cand-1586",
+   "why": "match intra-lote",
+   "match": "cand-1469",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-108",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-130",
+   "cand": "cand-1588",
+   "why": "match intra-lote",
+   "match": "cand-1391",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1589",
+   "why": "match intra-lote",
+   "match": "cand-1545",
+   "sim": 0.952,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-109",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-131",
+   "cand": "cand-1590",
+   "why": "match intra-lote",
+   "match": "cand-1472",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-110",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-132",
+   "cand": "cand-1597",
+   "why": "match intra-lote",
+   "match": "cand-1475",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-111",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-133",
+   "cand": "cand-1607",
+   "why": "match intra-lote",
+   "match": "cand-1378",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1608",
+   "why": "match intra-lote",
+   "match": "cand-1395",
+   "sim": 0.978,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-112",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-134",
+   "cand": "cand-1616",
+   "why": "match intra-lote",
+   "match": "cand-1361",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1656",
+   "why": "match intra-lote",
+   "match": "cand-1479",
+   "sim": 0.938,
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1665",
+   "why": "match intra-lote",
+   "match": "cand-1532",
+   "sim": 0.941,
+   "source": "gurully.com"
   },
   {
-   "cand": "cand-113",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-135",
+   "cand": "cand-1667",
+   "why": "match intra-lote",
+   "match": "cand-1475",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "gurully.com"
+  },
+  {
+   "cand": "cand-1685",
+   "why": "match intra-lote",
+   "match": "cand-1454",
+   "sim": 0.889,
+   "source": "ptestudent.com"
+  },
+  {
+   "cand": "cand-1686",
+   "why": "match intra-lote",
+   "match": "cand-1490",
+   "sim": 0.957,
+   "source": "ptestudent.com"
   },
   {
-   "cand": "cand-114",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-136",
+   "cand": "cand-1688",
+   "why": "match intra-lote",
+   "match": "cand-1386",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptestudent.com"
   },
   {
-   "cand": "cand-115",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-137",
+   "cand": "cand-1690",
+   "why": "match intra-lote",
+   "match": "cand-1505",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptestudent.com"
   },
   {
-   "cand": "cand-116",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-138",
+   "cand": "cand-1691",
+   "why": "match intra-lote",
+   "match": "cand-1387",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptestudent.com"
   },
   {
-   "cand": "cand-117",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-139",
+   "cand": "cand-1692",
+   "why": "match intra-lote",
+   "match": "cand-1529",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptestudent.com"
   },
   {
-   "cand": "cand-118",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-140",
+   "cand": "cand-1695",
+   "why": "match intra-lote",
+   "match": "cand-1694",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-119",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-141",
+   "cand": "cand-1696",
+   "why": "match intra-lote",
+   "match": "cand-1694",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-120",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-142",
+   "cand": "cand-1698",
+   "why": "match intra-lote",
+   "match": "cand-1694",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-121",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-143",
+   "cand": "cand-1699",
+   "why": "match intra-lote",
+   "match": "cand-1697",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-122",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-144",
+   "cand": "cand-1700",
+   "why": "match intra-lote",
+   "match": "cand-1694",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-123",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-145",
+   "cand": "cand-1703",
+   "why": "match intra-lote",
+   "match": "cand-1701",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-124",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-146",
+   "cand": "cand-1705",
+   "why": "match intra-lote",
+   "match": "cand-1702",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-125",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-147",
+   "cand": "cand-1706",
+   "why": "match intra-lote",
+   "match": "cand-1701",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-126",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-148",
+   "cand": "cand-1708",
+   "why": "match intra-lote",
+   "match": "cand-1704",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-127",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-149",
+   "cand": "cand-1709",
+   "why": "match intra-lote",
+   "match": "cand-1702",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   },
   {
-   "cand": "cand-128",
-   "why": "match banco",
-   "match": "goarno-read_mcq_single-150",
+   "cand": "cand-1710",
+   "why": "match intra-lote",
+   "match": "cand-1701",
    "sim": 1,
-   "source": "goarno.io"
+   "source": "ptebank.com"
   }
  ]
 }

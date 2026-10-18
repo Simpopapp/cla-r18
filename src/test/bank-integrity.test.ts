@@ -1,6 +1,6 @@
 // Fase 2 — testes de integridade do banco de questões (PRD §6.9).
 import { describe, expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+import { readFileSync, statSync } from "node:fs";
 import path from "node:path";
 import type { Question, TaskType } from "@/lib/pte/types";
 import { TASK_TYPES } from "@/lib/pte/types";
@@ -11,8 +11,15 @@ const DATA_DIR = path.resolve(__dirname, "..", "data", "pte");
 const ROOT_DIR = path.resolve(DATA_DIR, "..", "..", "..");
 
 function bank(type: TaskType): Question[] {
-  const file = path.join(DATA_DIR, `${type}.json`);
-  return JSON.parse(readFileSync(file, "utf8")) as Question[];
+  // espelha o loader de manifest.ts: tipos divididos (chunk > 250 KB, PRD2 §7.4)
+  // são concatenados a partir das partes A + B.
+  const a = JSON.parse(readFileSync(path.join(DATA_DIR, `${type}.json`), "utf8")) as Question[];
+  const bPath = path.join(DATA_DIR, `${type}-b.json`);
+  if (statSync(bPath, { throwIfNoEntry: false })) {
+    const b = JSON.parse(readFileSync(bPath, "utf8")) as Question[];
+    return [...a, ...b];
+  }
+  return a;
 }
 
 const BANKS = Object.fromEntries(TASK_TYPES.map((t) => [t, bank(t)])) as Record<
@@ -98,7 +105,7 @@ describe("banco — schema e unicidade (§6.9)", () => {
         }
       }
     }
-  });
+  }, 60_000);
 });
 
 describe("banco — respostas dentro das opções (§6.9)", () => {

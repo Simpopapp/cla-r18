@@ -50,11 +50,17 @@ describe("manifest (fonte única dos números)", () => {
     expect(bySection).toBe(TOTAL_ALL_QUESTIONS);
   });
 
-  it("selo 'banco pequeno' segue a meta mínima de cada tipo", () => {
-    expect(countOf("wfd")).toBeLessThan(BANK_TARGETS["wfd"].min);
-    expect(isSmallBank("wfd")).toBe(true);
-    expect(countOf("describe_image")).toBeGreaterThanOrEqual(BANK_TARGETS["describe_image"].min);
-    expect(isSmallBank("describe_image")).toBe(false);
+  it("selo 'banco pequeno' segue a meta mínima de cada tipo (regra, não tipo fixo)", () => {
+    // isSmallBank(t) === countOf(t) < BANK_TARGETS[t].min — vale para todos os tipos
+    for (const t of TASK_TYPES) {
+      expect(isSmallBank(t)).toBe(countOf(t) < BANK_TARGETS[t].min);
+    }
+    // exemplo concreto: sst ainda abaixo da meta mínima (58 < 60)
+    expect(countOf("sst")).toBeLessThan(BANK_TARGETS["sst"].min);
+    expect(isSmallBank("sst")).toBe(true);
+    // wfd passou da meta mínima na Fase 4 (551 ≥ 300) — deixou de ser 'banco pequeno'
+    expect(countOf("wfd")).toBeGreaterThanOrEqual(BANK_TARGETS["wfd"].min);
+    expect(isSmallBank("wfd")).toBe(false);
   });
 });
 

@@ -421,8 +421,8 @@
     "lst_mcq_single",
     "lst_mcq_multi"
    ],
-   "status": "reprovada",
-   "operatorGroup": null,
+   "status": "aprovada",
+   "operatorGroup": "pearson",
    "evidence": {
     "positiveSignals": [
      "C4 indiciário: documento se identifica como Pearson Education Ltd 2011; hospedagem terceira não prova licença."
@@ -444,6 +444,17 @@
     "decision": "reprovada",
     "date": "2026-10-18",
     "motivo": "© Pearson Education 2011 sem licença de redistribuição (PRD2 §5.7)"
+   },
+   "tier": "verificada",
+   "confidence": 85,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Wave 3: PDF verificado no cache — PTE Academic Offline Practice Test Part 3 (Pearson Education Ltd, jun-2011), material oficial C4 com transcrições + gabarito (pp. 18–28). Decisão da wave 1 (reprovada por verificação incompleta do conteúdo) substituída; nota honesta mantida. Tipos aprovados: sst (2 itens completos). lst_fib: texto das lacunas não recuperável do PDF — sem extração."
+   },
+   "sample": {
+    "inspected": 4,
+    "defects": 0,
+    "notes": "2 SST + 2 lst_fib inspecionados; lst_fib sem template recuperável"
    }
   },
   {
@@ -1612,6 +1623,1210 @@
    "decision": {
     "at": "2026-10-18",
     "reason": "G2/C3 não comprovados: prompts sem resposta-modelo visível; PDF não verificado — item sem solução não atende à F2 (gabarito)"
+   }
+  },
+  {
+   "id": "cand-58",
+   "url": "https://www.pteexampreparation.com/pte-listening/fill-in-the-blanks/pte-listening-fill-in-the-blanks/",
+   "types": [
+    "lst_fib"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "pteexampreparation",
+   "evidence": {
+    "positiveSignals": [
+     "A página apresenta áudio, transcrição com lacunas e respostas explícitas para os itens mostrados.",
+     "Material publicado em 2018; trata-se de prática compilada, não de uma alegação comprovada de questões reais de exame."
+    ],
+    "negativeSignals": [
+     "As respostas estão sob “For Answers Click Here”; verificar que o link abre sem cadastro ou outra barreira.",
+     "A fonte não identifica claramente os itens como questões de exames reais."
+    ],
+    "quotes": [
+     "PTE Listening Fill In The Blanks – Go through these PTE Academic Listening “Fill in the Blanks” practice questions to score well in actual PTE exam.",
+     "Everywhere it’s tough to raise a family these days. In the wilds of South Africa, two lionesses sisters are single mothers with two cubs (1) _ _ _ _ _ _ _. Their mate and protector have gone, leaving them (2) _ _ _ _ _ _ _ to marauding males who will kill their cubs and claim their territory.",
+     "For Answers Click Here",
+     "(1) each (2) vulnerable (3) genetic (4) bush"
+    ]
+   },
+   "apparentVolume": "Teste 22; a página mostra pelo menos itens numerados 61 e 62.",
+   "origin": "sweep-lot-07.json",
+   "tier": "comunitaria",
+   "confidence": 60,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "3 itens lst_fib com transcript, lacunas e gabarito inline ('(1) each (2) vulnerable...'); volume pequeno."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-59",
+   "url": "https://pteacademy.in/free-listening-writing-fill-in-the-blanks-practice-material/",
+   "types": [
+    "lst_fib"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "A página descreve o formato como transcrição com palavras omitidas e disponibiliza áudio.",
+     "A página afirma que o material inclui respostas."
+    ],
+    "negativeSignals": [
+     "O trecho localizado não exibe as lacunas preenchidas nem o gabarito de um item específico; elegibilidade depende de confirmar o conteúdo na página.",
+     "A página promove cursos e agendamento, embora o trecho visível não indique que sejam necessários para acessar o material."
+    ],
+    "quotes": [
+     "For this item type you are presented with a transcript of the audio recording, however, some words are missing. Restore the transcript by typing in the missing words.",
+     "https://pteacademy.in/wp-content/uploads/2018/09/bearsfib.mp3",
+     "Our PTE listening fill in the blanks with answers practice with answers can boost your preparation."
+    ]
+   },
+   "apparentVolume": "Página de material com pelo menos um áudio vinculado; remete a materiais adicionais.",
+   "origin": "sweep-lot-07.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2 falha: 1 áudio e sem transcript/gabarito inline; material direciona a cadastro ('ENROLL NOW')."
+   }
+  },
+  {
+   "id": "cand-60",
+   "url": "https://www.pteacademy.in/free-pte-listening-fill-in-the-blanks-with-answers-page-2/",
+   "types": [
+    "lst_fib"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "A página descreve a tarefa com transcript e lacunas e lista vários áudios.",
+     "É parte de uma sequência de páginas de material gratuito."
+    ],
+    "negativeSignals": [
+     "O trecho encontrado não inclui transcrições completas nem gabarito explícito; confirmar se “Click Here” abre respostas.",
+     "A página contém formulário de inscrição para cursos; não foi confirmado se o conteúdo exige cadastro."
+    ],
+    "quotes": [
+     "For this item type you are presented with a transcript of the audio recording, however, some words are missing. Restore the transcript by typing in the missing words.",
+     "https://www.pteacademy.in/wp-content/uploads/2018/09/plantsfib.mp3",
+     "https://www.pteacademy.in/wp-content/uploads/2018/09/dragonfly.mp3",
+     "Click Here"
+    ]
+   },
+   "apparentVolume": "Cinco áudios listados na página.",
+   "origin": "sweep-lot-07.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2 falha: áudios listados sem transcripts inline; respostas atrás de 'Click Here' não confirmadas; formulário de inscrição."
+   }
+  },
+  {
+   "id": "cand-61",
+   "url": "https://www.pteexampreparation.com/pte-listening/summarize-spoken-text/pte-listening-test-9-summarize-spoken-text/",
+   "types": [
+    "sst"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Inclui áudio, transcrição explícita e resposta-modelo indicada na página.",
+     "Publicado em 22 de fevereiro de 2018."
+    ],
+    "negativeSignals": [
+     "A página aponta a resposta-modelo por link (“Click Here”); confirmar que abre sem barreira.",
+     "Material de prática; não há sinal explícito de que seja uma questão real ou repetida de exame."
+    ],
+    "quotes": [
+     "We are providing sample response for your convenience.",
+     "https://www.pteexampreparation.com/wp-content/uploads/2018/02/s2.mp3",
+     "TRANSCRIPT (Only for reference, it will not be given in PTE Academic Test)",
+     "I think its something to do with…his…with the way he brings a particular intensity to language, the way that he writes poems…force or push language into moments of unexpected power and beauty and strangeness…",
+     "SAMPLE RESPONSE: Click Here For Summary"
+    ]
+   },
+   "apparentVolume": "Um item SST nesta página; o índice da categoria lista outros materiais.",
+   "origin": "sweep-lot-07.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Volume 1 item/página; material 2017–2018 sem sinal de repetição; não justifica extração."
+   }
+  },
+  {
+   "id": "cand-62",
+   "url": "https://www.pteexampreparation.com/pte-listening/summarize-spoken-text/pte-exam-practice-material-10/",
+   "types": [
+    "sst"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Inclui áudio e transcrição explícita; apresenta link de resposta-modelo.",
+     "Publicado em 19 de fevereiro de 2018."
+    ],
+    "negativeSignals": [
+     "O trecho disponível não mostra o resumo-modelo em si; depende de link “Click Here”.",
+     "Material apresentado como prática, sem comprovação de origem em exame real."
+    ],
+    "quotes": [
+     "We are providing sample response for your convenience.",
+     "https://www.pteexampreparation.com/wp-content/uploads/2018/02/s3.mp3",
+     "TRANSCRIPT (Only for reference, it will not be given in PTE Academic Test)",
+     "What does it mean to be dyslexic? A new book The Dyslexia Debate says the term dyslexia is a broad and meaningless label.",
+     "One of the authors of this title is Prof. Julian Eliot from Durham University."
+    ]
+   },
+   "apparentVolume": "Um item SST nesta página; parte de uma categoria com vários materiais.",
+   "origin": "sweep-lot-07.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Volume 1 item/página; material 2017–2018 sem sinal de repetição; resposta-modelo atrás de link."
+   }
+  },
+  {
+   "id": "cand-63",
+   "url": "https://www.pteexampreparation.com/pte-listening/summarize-spoken-text/pte-listening-summarize-spoken-text/",
+   "types": [
+    "sst"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Inclui áudio, transcrição explícita e resposta-modelo indicada.",
+     "A página identifica o conteúdo como material de prática SST."
+    ],
+    "negativeSignals": [
+     "A resposta-modelo aparece como link (“Click Here For Summary”); confirmar acesso direto.",
+     "Material de 2018, sem sinal de que seja questão recente de exame."
+    ],
+    "quotes": [
+     "https://www.pteexampreparation.com/wp-content/uploads/2018/02/s1.mp3",
+     "TRANSCRIPT (Only for reference, it will not be given in PTE Academic Test)",
+     "Ahmm. I remember having a conversation with a dear friend of mine who died a couple of years ago – David Frisby who was the translator of the Simmel’s Philosophy of Money.",
+     "SAMPLE RESPONSE: Click Here For Summary"
+    ]
+   },
+   "apparentVolume": "Um item SST nesta página; parte de uma categoria com vários materiais.",
+   "origin": "sweep-lot-07.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Volume 1 item/página; material 2017–2018 sem sinal de repetição."
+   }
+  },
+  {
+   "id": "cand-64",
+   "url": "https://www.pteexampreparation.com/pte-listening/summarize-spoken-text/pte-academic-listening-summarize-spoken-test-1-practice-sample/",
+   "types": [
+    "sst"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Transcrição explícita e áudio vinculados.",
+     "A página afirma fornecer uma resposta-amostra."
+    ],
+    "negativeSignals": [
+     "O trecho recuperado não mostra a resposta-modelo completa.",
+     "Material de prática de 2017; não há evidência de repetição em exames atuais."
+    ],
+    "quotes": [
+     "For your convenience, we have given sample response.",
+     "http://www.pteexampreparation.com/wp-content/uploads/2017/06/spoken-1.mp3",
+     "TRANSCRIPT (Only for reference, it will not be given in PTE Academic Test)",
+     "A blanket of fresh snow can brighten a winter landscape. But snow is more than just beautiful. It is helpful, too. Snow benefits plants, animals, and people in many ways."
+    ]
+   },
+   "apparentVolume": "Item 1; a página fornece um áudio e uma transcrição longa.",
+   "origin": "sweep-lot-07.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Volume 1 item/página; material 2017–2018 sem sinal de repetição."
+   }
+  },
+  {
+   "id": "cand-65",
+   "url": "https://www.pteexampreparation.com/pte-listening/summarize-spoken-text/pte-academic-listening-summarize-spoken-text-2-sample-practice-material-online/",
+   "types": [
+    "sst"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Inclui áudio, transcrição e resposta-modelo explícita.",
+     "Publicado em julho de 2017."
+    ],
+    "negativeSignals": [
+     "Material antigo e apresentado como prática, não como recall verificado.",
+     "A página não oferece sinal de relevância atual ou de repetição recente."
+    ],
+    "quotes": [
+     "We are providing sample response for your convenience.",
+     "http://www.pteexampreparation.com/wp-content/uploads/2017/07/summ.mp3",
+     "TRANSCRIPT (Only for reference, it will not be given in PTE Academic Test)",
+     "Many farmers are living below their average standard life. A country in which industry arrives, agricultural development decreases.",
+     "SAMPLE RESPONSE: Click Here For Summary"
+    ]
+   },
+   "apparentVolume": "Um item SST nesta página.",
+   "origin": "sweep-lot-07.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Volume 1 item/página; material 2017–2018 sem sinal de repetição."
+   }
+  },
+  {
+   "id": "cand-66",
+   "url": "https://www.ptebank.com/pte-summarize-spoken-text-pte-sst-february-2023/",
+   "types": [
+    "sst"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptebank",
+   "evidence": {
+    "positiveSignals": [
+     "Datada de fevereiro de 2023 e explicitamente apresentada como questões previstas/repetidas.",
+     "Contém áudio, texto/transcrição e respostas-modelo para os exemplos visíveis."
+    ],
+    "negativeSignals": [
+     "A própria página diz que a versão completa é acessada por meio de material previsto; confirmar se o conteúdo desejado está acessível sem cadastro ou pagamento.",
+     "São questões previstas, não confirmação independente de que cada item apareceu em exame."
+    ],
+    "quotes": [
+     "Published: 2023-02-02",
+     "Summarize Spoken Text questions tend to have higher repeated rate than other question types in PTE Academic test.",
+     "We selected some of PTE predicted Summarize Spoken Text (Listening) for February 2023.",
+     "https://www.ptebank.com/wp-content/uploads/2021/02/Genes.mp3",
+     "Since the discovery of DNA structure, people have believed that genes have an impact only on people’s physical structure.",
+     "Genes| PTE Summarize Spoken Text (SST) – Sample Answer:"
+    ]
+   },
+   "apparentVolume": "Vários itens SST; a página recuperada mostra ao menos os itens 5 e 6.",
+   "origin": "sweep-lot-07.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "'PTE predicted SST February 2023'; 17 respostas-modelo + ~13 transcripts + áudios inline."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-67",
+   "url": "https://www.ptebank.com/pte-summarize-spoken-text-pte-sst-march-2023/",
+   "types": [
+    "sst"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptebank",
+   "evidence": {
+    "positiveSignals": [
+     "Datada de março de 2023 e explicitamente rotulada como questões previstas.",
+     "O exemplo traz áudio, fala transcrita e resposta-modelo."
+    ],
+    "negativeSignals": [
+     "A página indica que a versão completa requer acesso ao material de questões previstas.",
+     "Previsão/repetição é uma alegação do provedor, não confirmação de aparição em prova."
+    ],
+    "quotes": [
+     "PTE Listening Summarize Spoken Text (SST) exam questions",
+     "We selected some of PTE predicted Summarize Spoken Text (Listening) for March 2023.",
+     "https://www.ptebank.com/wp-content/uploads/2022/01/html.mp3",
+     "Well, the 90s came around and finally it clicked that normal people could get online, which hadn’t really clicked before.",
+     "HTML | PTE Summarize Spoken Text (SST) – Sample Answer:"
+    ]
+   },
+   "apparentVolume": "Vários itens SST; a página recuperada mostra ao menos um exemplo sobre HTML.",
+   "origin": "sweep-lot-07.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "'PTE predicted SST March 2023'; ~20 respostas-modelo + transcripts + áudios."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-68",
+   "url": "https://ptehelper.com.au/pte-read-aloud-repeated-questions-20-cau-thang-nao-cung-gap/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptehelper",
+   "evidence": {
+    "positiveSignals": [
+     "Identifica as passagens como questões repetidas e afirma que foram confirmadas por sua equipe de coleta e alunos.",
+     "Inclui passagens completas e adequadas ao formato."
+    ],
+    "negativeSignals": [
+     "A publicação original é de 2021.",
+     "Amostra contém erros de redação e alegações promocionais sobre repetição."
+    ],
+    "quotes": [
+     "Sau đây PTE Helper xin liệt kê 20 đoạn Read Aloud thường xuất hiện do Đội Ngũ Thu Thập Đề tại nhà PTE Helper và các bạn học viên xác nhận.",
+     "Research indicates that more than 60% of customers are now willing to complain most of the time, a 10% increase in five years. 61% say they expect a telephone complaint to be reserved on the same day compared to 51% in 2001."
+    ]
+   },
+   "apparentVolume": "20 passagens; página atualizada em 23 de fevereiro de 2025",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "20 RA 'repeated' com passagens íntegras numeradas (Câu N | PTE.Tools NNN); amostra visível."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-69",
+   "url": "https://www.ptebank.com/pte-test-recent-exam-memories-amp-repeated-questions-for-july-2024/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptebank",
+   "evidence": {
+    "positiveSignals": [
+     "Página datada e explicitamente rotulada como memórias recentes de exame e questões repetidas.",
+     "Passagens completas, com datas associadas a cada relato."
+    ],
+    "negativeSignals": [
+     "Relatos de candidatos não verificados independentemente.",
+     "A página é de 2024."
+    ],
+    "quotes": [
+     "PTE test recent exam memories & repeated questions for July 2024",
+     "– 14 July 2024",
+     "The bill calls for the establishment of the National Landslide Hazards Reduction Program within one year of becoming law. The program serves numerous functions, including to identify and understand landslide hazards and risks, reduce losses from landslides, protect communities at risk of landslides hazards, and improve communication and emergency preparedness."
+    ]
+   },
+   "apparentVolume": "Várias passagens de memória de exame com datas de julho de 2024",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "'Recent exam memories & repeated questions' julho-2024; ~11 passagens RA longas visíveis."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-70",
+   "url": "https://www.ptebank.com/pte-question-bank-updates-february-2025/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptebank",
+   "evidence": {
+    "positiveSignals": [
+     "Atualização mensal datada; identifica o conteúdo como questões novas de exame.",
+     "Traz passagens integrais de Read Aloud."
+    ],
+    "negativeSignals": [
+     "Não fornece comprovação independente de que as questões vieram de exames reais.",
+     "Direciona à prediction file completa para obter o conjunto inteiro."
+    ],
+    "quotes": [
+     "PTE question bank updates | February 2025",
+     "PTE New Questions February – Read Aloud:",
+     "Statistics are indicators of change and allow meaningful comparisons to be made. While it may be the issues rather than the statistics as such that grab people’s attention, it should be recognized that it is the statistics that informed the issues. Statistical literacy, then, is the ability to accurately understand, interpret and evaluate the data that inform these issues."
+    ]
+   },
+   "apparentVolume": "Várias passagens de atualização de fevereiro de 2025",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "'PTE New Questions February – Read Aloud' com 5 passagens íntegras; C2 mensal."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-71",
+   "url": "https://ptehelper.com.au/cap-nhat-de-thi-pte-speaking/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptehelper",
+   "evidence": {
+    "positiveSignals": [
+     "Página datada de 2025, voltada a questões de speaking e a amostras de leitura.",
+     "Inclui texto integral de várias passagens."
+    ],
+    "negativeSignals": [
+     "Conteúdo promocional de um centro de preparação.",
+     "Não explicita a data de exame para cada passagem."
+    ],
+    "quotes": [
+     "Latest Update 24 Tháng Tư 2025",
+     "## 1. PTE Read Aloud | Đề Thi PTE Speaking 2025",
+     "When buying a house, for example, it’s best to let our unconscious mull over the many variables. But when we’re picking stocks and shares, intuition often leads us astray. The trick is to determine when to lean on which part of the brain. And to do this, we need to think harder and smarter about how we think."
+    ]
+   },
+   "apparentVolume": "Várias questões de Read Aloud; página atualizada em 24 de abril de 2025",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 64,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Update speaking 2025-04-24; seção RA com passagens íntegras ('RA N')."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-72",
+   "url": "https://www.stormedugo.com/blog/most-important-read-aloud-passages-for-pte-academic-2025",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "stormedugo",
+   "evidence": {
+    "positiveSignals": [
+     "Lista datada de passagens de alta frequência para PTE Academic 2025.",
+     "Apresenta textos integrais para prática."
+    ],
+    "negativeSignals": [
+     "Não informa fontes, datas de relatos ou método de validação da frequência.",
+     "Inclui texto promocional."
+    ],
+    "quotes": [
+     "Posted date: April 16 2025",
+     "We’ve compiled a list of 50 high-frequency, important Read Aloud passages that you must practice for PTE Academic 2025.",
+     "Climate change mitigation consists of actions to limit global warming and its related effects. These include reducing greenhouse gas emissions and enhancing sinks of greenhouse gases. Mitigation may also be achieved by increasing the capacity of carbon sinks, such as reforestation."
+    ]
+   },
+   "apparentVolume": "50 passagens; publicação de 16 de abril de 2025",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 68,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Fonte do projeto 1 (stormedugo RA, 50 itens já integrados) — sem extração nesta onda; re-avaliação de tier na Fase 5."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B)"
+   }
+  },
+  {
+   "id": "cand-73",
+   "url": "https://www.79score.com/blog/pte-speaking-read-aloud-examples/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Publicado em 2025 e enquadrado como exemplos de Read Aloud repetidos/preditivos.",
+     "A página contém texto de prática."
+    ],
+    "negativeSignals": [
+     "O trecho indexado não mostra as passagens completas nem permite confirmar o volume integral.",
+     "Não especifica datas de relatos de exame."
+    ],
+    "quotes": [
+     "24 Apr 2025",
+     "Practice With Most Repeated PTE Speaking Read Aloud Examples",
+     "## 20 PTE Speaking Read Aloud Example"
+    ]
+   },
+   "apparentVolume": "20 exemplos anunciados; publicação de 24 de abril de 2025",
+   "origin": "sweep-lot-08.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Volume não confirmável: apenas parte das 20 passagens visíveis no HTML; sem datas de relato; não aprovada para ingestão."
+   }
+  },
+  {
+   "id": "cand-74",
+   "url": "https://onepte.com/wp-content/uploads/2024/12/OnePTE-Prediction-FIle-PDF-Read-Aloud-2025.pdf",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "oneppte",
+   "evidence": {
+    "positiveSignals": [
+     "PDF direto, indexado e identificado como prediction file de Read Aloud 2025.",
+     "Contém textos de passagem, não apenas dicas."
+    ],
+    "negativeSignals": [
+     "O material não informa no trecho indexado datas de exame para cada item.",
+     "Há aparentes erros de transcrição no conteúdo."
+    ],
+    "quotes": [
+     "1.Legacy Unveiled",
+     "The Royal Institution is an organisation that has been around for 209 years. Many of the people that have worked here have been scientists themselves, including Michael Faraday.",
+     "3.Tesla vs. Edison"
+    ]
+   },
+   "apparentVolume": "Prediction file em PDF; várias passagens integrais",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 62,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "PDF prediction RA (jan 2025); 50 passagens numeradas com título; amostra manual 10."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-75",
+   "url": "https://onepte.com/wp-content/uploads/2024/11/OnePTE-Read-Aloud-PTE-Predcition-November-24.pdf",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "oneppte",
+   "evidence": {
+    "positiveSignals": [
+     "PDF direto com identificação temporal de novembro de 2024.",
+     "Inclui textos completos de Read Aloud."
+    ],
+    "negativeSignals": [
+     "Não apresenta evidência específica de exame para cada passagem.",
+     "Possível erro de digitação no nome do arquivo."
+    ],
+    "quotes": [
+     "1)Pollution Sources",
+     "When it comes to nitrogen dioxide, vehicle emission is the main source. Additionally, power plants and factories also produce these pollutants. Volcanic eruptions, lightning, and the decomposition of organic matter can also release significant amounts of nitrogen dioxide. The problem is that nitrogen dioxide can create smog, which is harmful, especially in sunlight."
+    ]
+   },
+   "apparentVolume": "PDF de prediction de novembro de 2024; várias passagens",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 62,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "PDF prediction RA (nov-2024); 52 passagens numeradas íntegras; amostra manual 10. Mesmo operador do PDF jan (aprovado)."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B)"
+   }
+  },
+  {
+   "id": "cand-76",
+   "url": "https://www.gurully.com/Prediction_File_August_2025%20.pdf",
+   "types": [
+    "read_aloud",
+    "repeat_sentence",
+    "wfd"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "gurully",
+   "evidence": {
+    "positiveSignals": [
+     "PDF direto e datado de agosto de 2025.",
+     "Índice identifica a seção Read Aloud e o PDF inclui passagens completas."
+    ],
+    "negativeSignals": [
+     "Não há atribuição de datas de exame aos itens no trecho consultado.",
+     "Não comprova a alegação de previsão."
+    ],
+    "quotes": [
+     "August- 2025",
+     "Read Aloud … 5",
+     "History is selective. What history books tell us about the past is not everything that happened, but what historians have selected. They cannot put in everything: choices have to be made."
+    ]
+   },
+   "apparentVolume": "Prediction file de agosto de 2025; seção Read Aloud começa na página 5",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 62,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Prediction file ago-2025 (739 págs): seção RA pp. 5–54 (~40 passagens), seção RS pp. 55–74, seção WFD p. 714+; seções SST (598–713) sem resposta-modelo → skip honesto; amostra manual 10. Aprovada por tipo read_aloud, repeat_sentence e wfd (extensão registrada nesta linha, Ap. E 'Por tipo')."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B)"
+   }
+  },
+  {
+   "id": "cand-77",
+   "url": "https://www.ptehelper.com.au/wp-content/uploads/2022/07/Read-Aloud-Collection-by-PTE-HELPER_Final-Version.pdf",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptehelper",
+   "evidence": {
+    "positiveSignals": [
+     "PDF integral, organizado por temas e com seção declarada de questões reais verificadas.",
+     "Contém passagens completas com extensão apropriada."
+    ],
+    "negativeSignals": [
+     "O documento declara copyright de junho de 2019; não é recente.",
+     "A alegação de verificação é da própria fonte."
+    ],
+    "quotes": [
+     "C. LATEST AND VERIFIED PTE REAL EXAM QUESTIONS COLLECTED FROM PTE REAL EXAM – BY PTE HELPER ... 54",
+     "The elephant is the largest living land mammal. During evolution, its skeleton has greatly altered from the usual mammal, design for two main reasons. One is to cope with the great weight of huge grinding cheek teeth and elongated tusk teeth, making the skull particularly massive. The other is to support the enormous bulk of such a huge body."
+    ]
+   },
+   "apparentVolume": "Coleção extensa; índice inclui coleção temática e questões verificadas de exame real",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 60,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Coleção RA PTE Helper (jun-2019), 2.231 linhas; seção C 'LATEST AND VERIFIED PTE REAL EXAM QUESTIONS' (p. 54+) + coleção por temas; amostra manual 10."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B)"
+   }
+  },
+  {
+   "id": "cand-78",
+   "url": "https://www.pteexampreparation.com/pte-speaking/read-aloud/pte-read-aloud-practice-test/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "pteexampreparation",
+   "evidence": {
+    "positiveSignals": [
+     "Declara incluir questões repetidas, novas e de prática.",
+     "Passagens completas acompanhadas por links de áudio-modelo."
+    ],
+    "negativeSignals": [
+     "Conteúdo antigo, de 2018.",
+     "A página mistura questões reais declaradas com material de prática."
+    ],
+    "quotes": [
+     "This post contains 20+ PTE Read Aloud questions including repeated, newly asked & some practice questions.",
+     "Line engraving on metal, which, to a great extent, was a development of the goldsmith’s craft of ornamenting armor and precious metals, did not emerge as print-marketing techniques until well into the 15th century. Copper, the metal mainly used for engraving, was expensive, and engraving itself was laborious and took a long time."
+    ]
+   },
+   "apparentVolume": "20+ questões; publicação de 8 de junho de 2018",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 60,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "'20+ RA questions including repeated'; passagens íntegras; material de 2018 (C2 fraco)."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-79",
+   "url": "https://www.pteexampreparation.com/pte-speaking/read-aloud/pte-read-aloud-samples/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "pteexampreparation",
+   "evidence": {
+    "positiveSignals": [
+     "Disponibiliza passagens de leitura completas, não apenas dicas.",
+     "Algumas passagens têm áudio-modelo."
+    ],
+    "negativeSignals": [
+     "Página publicada em 2018.",
+     "A fonte classifica o conteúdo como amostras/prática, não necessariamente como recalls."
+    ],
+    "quotes": [
+     "June 11, 2018",
+     "In the second quarter of the 19th century, a rapidly growing middle class created a great demand for furniture production. Yet at this stage, while machines were used for certain jobs, such as carved decoration, there was no real mass production. The extra demand was met by numerous woodworkers. Mass production came later and the quality of domestic furniture declined."
+    ]
+   },
+   "apparentVolume": "Lista de amostras; inclui passagens numeradas e áudio",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 58,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Passagens RA numeradas com áudio-modelo; material de 2018."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-80",
+   "url": "https://www.ptestudent.com/2021/10/pte-read-alouds-repeated.html",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptestudent",
+   "evidence": {
+    "positiveSignals": [
+     "Título explicita “Repeated” e a página fornece passagens completas.",
+     "Os textos se enquadram no formato de Read Aloud."
+    ],
+    "negativeSignals": [
+     "Publicação de 2021.",
+     "Não informa fontes ou datas individuais de recall."
+    ],
+    "quotes": [
+     "Pte Read Alouds Repeated",
+     "2. Elephant",
+     "The elephant is the largest living land mammal. During evolution, its skeleton has greatly altered from the usual mammal, designed for two main reasons. One is to cope with the great weight of huge grinding cheek teeth and elongated tusk, making the skull particularly massive. The other is to support the enormous bulk of such a huge body."
+    ]
+   },
+   "apparentVolume": "Várias passagens em lista de questões repetidas; publicação de 16 de outubro de 2021",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 58,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "'PTE Read Alouds Repeated' com 10 passagens tituladas e íntegras."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-81",
+   "url": "https://www.ptebank.com/pte-question-bank-updates-january-2025/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptebank",
+   "evidence": {
+    "positiveSignals": [
+     "Atualização mensal datada e ligada a prediction file de janeiro de 2025.",
+     "Inclui passagens completas."
+    ],
+    "negativeSignals": [
+     "Não há datas de relato por item.",
+     "A fonte não demonstra independentemente que os textos foram cobrados em exame."
+    ],
+    "quotes": [
+     "PTE question bank updates | January 2025",
+     "PTE New Questions January – Read Aloud:",
+     "An innovative new product or service can give a firm a head start over its rivals, which can be difficult for a new entrant to overcome. If the new technology is also patented, then other firms cannot simply copy its design. It is legally protected."
+    ]
+   },
+   "apparentVolume": "Várias passagens identificadas como questões novas de Read Aloud em janeiro de 2025",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "'PTE New Questions January – Read Aloud' com passagens íntegras; C2 ('question bank updates' mensal)."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-82",
+   "url": "https://www.ptebank.com/pte-exam-question-bank-for-september-2025/",
+   "types": [
+    "read_aloud"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptebank",
+   "evidence": {
+    "positiveSignals": [
+     "Data de setembro de 2025 e menção a questões coletadas de exames e prediction file.",
+     "Fornece passagens completas de Read Aloud."
+    ],
+    "negativeSignals": [
+     "A alegação de coleta de questões reais é da própria fonte.",
+     "Sem datas individuais de relatos de exame."
+    ],
+    "quotes": [
+     "PTE exam question bank for September 2025",
+     "We continuously gather and update real PTE exam question bank to ensure you’re always equipped with the most up-to-date material and model answers.",
+     "Within this free course, you will be introduced briefly to the discipline of child psychology and to theories and approaches that have been developed to help us understand and support children’s lives by focusing on the individual children."
+    ]
+   },
+   "apparentVolume": "Várias passagens de atualização de setembro de 2025",
+   "origin": "sweep-lot-08.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Question bank setembro-2025; ~7 passagens RA visíveis; C2 alegado pela fonte."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-83",
+   "url": "https://pteschool.com/exam-questions/",
+   "types": [
+    "wfd",
+    "repeat_sentence"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "A página informa coleção de questões de exames reais desde 2018 e publicação mensal de previsões.",
+     "As contagens declaradas excedem as metas mínimas de ambos os tipos.",
+     "Trechos de exemplos WFD e RS estão visíveis na página de resultados da busca."
+    ],
+    "negativeSignals": [
+     "A alegação de repetição e cobertura é promocional e não verificada independentemente.",
+     "O volume informado pode se referir a arquivo de previsão; confirmar que os itens são acessíveis sem cadastro, pagamento ou captcha."
+    ],
+    "quotes": [
+     "Collection of Real Exam Questions since 2018",
+     "Repeat Sentence 235",
+     "Write From Dictation 245",
+     "We are the only PTE Learning Centre that gives out monthly PTE predictions with a success rate of over 50%"
+    ]
+   },
+   "apparentVolume": {
+    "wfd": 245,
+    "repeat_sentence": 235
+   },
+   "origin": "sweep-lot-09.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2 falha: página promocional 'Get Access Now' — itens WFD/RS não acessíveis sem pagamento; volume anômalo (245/235) sem editorial acessível."
+   }
+  },
+  {
+   "id": "cand-84",
+   "url": "https://ambitionabroad.in/pte-prediction-file/",
+   "types": [
+    "wfd",
+    "repeat_sentence"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Blog de preparação indiano, com página de prediction file datada de 2025.",
+     "A página identifica explicitamente WFD e Repeat Sentence."
+    ],
+    "negativeSignals": [
+     "Não há contagem de itens por tipo nos trechos indexados.",
+     "A página descreve um arquivo PDF de 19 MB; verificar acesso direto e gratuito antes de usar.",
+     "Alegações de taxas de repetição não são verificadas."
+    ],
+    "quotes": [
+     "The Prediction file is updated weekly.",
+     "Repeat Sentence. (55% Repeat Rate)",
+     "Write From Dictations (99% Repeat Rate) (Most Important)",
+     "All of the materials are also available to practice from website as well with automatic scoring for free"
+    ]
+   },
+   "apparentVolume": "Não informado; prediction file semanal, sete tipos de questão.",
+   "origin": "sweep-lot-09.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G2 falha: 'Download' sem link de PDF direto acessível (sem itens inline); alegações de repeat rate não verificadas."
+   }
+  },
+  {
+   "id": "cand-85",
+   "url": "https://www.stormedugo.com/blog/top-100-most-repeated-write-from-dictation-sentences-2025-edition",
+   "types": [
+    "wfd"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "stormedugo",
+   "evidence": {
+    "positiveSignals": [
+     "Página de blog de preparação com data de 16 de abril de 2025.",
+     "Lista e itens de exemplo aparecem diretamente no trecho indexado."
+    ],
+    "negativeSignals": [
+     "O trecho não comprova acesso à lista completa nem volume acima de 100.",
+     "A afirmação de que os itens vêm de recalls e inputs especializados não é verificável no trecho."
+    ],
+    "quotes": [
+     "Based on extensive exam recalls and expert inputs, we’ve compiled 100+ most repeated Write From Dictation (WFD) sentences",
+     "1. Air pollution is a serious problem all over the world.",
+     "2. Eating fish twice a week is recommended for a healthy diet.",
+     "3. There is no economic reason why public borrowing is necessarily bad.",
+     "10. More research is required in the field of food science."
+    ]
+   },
+   "apparentVolume": "100+ itens anunciados; trecho indexado mostra ao menos 18 exemplos.",
+   "origin": "sweep-lot-09.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Lista 'top 100 most repeated WFD' datada 2025-04-16; 144 itens na seção, amostra 10/10 íntegra na faixa 3–20 palavras; G1–G3 ok."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-86",
+   "url": "https://www.stormedugo.com/blog/top-100-most-repeated-pte-repeated-sentences-2025-edition",
+   "types": [
+    "repeat_sentence"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "stormedugo",
+   "evidence": {
+    "positiveSignals": [
+     "Página de blog de preparação com data de 16 de abril de 2025.",
+     "A página atribui a lista a recalls recentes e sessões de prática; exemplos aparecem no trecho indexado."
+    ],
+    "negativeSignals": [
+     "A proveniência e a alegação de repetição não são verificadas independentemente.",
+     "O trecho não confirma a quantidade total acessível."
+    ],
+    "quotes": [
+     "we've compiled a list of the top 100 most repeated PTE Repeat Sentences based on recent exam memory recalls and authentic practice sessions.",
+     "1. The wheelchair lift has been upgraded this month.",
+     "2. Doing this research makes me think of the purpose of science.",
+     "5. To receive the reimbursement, you must keep the original receipts.",
+     "14. The visiting professor is going to give a lecture on geology."
+    ]
+   },
+   "apparentVolume": "100 itens anunciados; trecho indexado mostra ao menos 17 exemplos.",
+   "origin": "sweep-lot-09.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Lista 'top 100 most repeated RS' datada 2025-04-16; 100 itens, amostra 10/10 íntegra na faixa 4–25 palavras; G1–G3 ok."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-87",
+   "url": "https://ptehelper.com.au/du-doan-de-pte-repeat-sentence/",
+   "types": [
+    "repeat_sentence"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "ptehelper",
+   "evidence": {
+    "positiveSignals": [
+     "Página australiana de previsão PTE, datada de 24 de fevereiro de 2025.",
+     "Inclui exemplos de frases em inglês e indica um conjunto de previsão de maio de 2025."
+    ],
+    "negativeSignals": [
+     "A contagem completa não aparece no trecho.",
+     "A página menciona prática em software externo; confirmar que a lista da página é acessível sem cadastro."
+    ],
+    "quotes": [
+     "Dự đoán đề Repeat Sentence tháng 5/2025",
+     "Dưới đây là bộ tủ PTE Repeat Sentence có tỷ lệ ra thi cao tháng 5/2025.",
+     "We are changing classroom because this one is too small.",
+     "Student loans are now available for international students.",
+     "The United Kingdom is a constitutional monarchy and parliamentary democracy."
+    ]
+   },
+   "apparentVolume": "Não informado; o trecho contém 14 exemplos numerados.",
+   "origin": "sweep-lot-09.json",
+   "tier": "comunitaria",
+   "confidence": 66,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "'Bộ tủ' RS com ~788 itens numerados (até #989); amostra 10/10 íntegra; C2 alegado pela fonte ('tỷ lệ ra thi cao'); operatorGroup ptehelper já aprovado."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-88",
+   "url": "https://onepte.com/wp-content/uploads/2025/02/OnePTE-Prediction-Repeat-Sentence-2025.pdf",
+   "types": [
+    "repeat_sentence"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "oneppte",
+   "evidence": {
+    "positiveSignals": [
+     "PDF de previsões 2025 com exemplos de itens RS diretamente indexados.",
+     "Contém frases de 4 a 25 palavras compatíveis com repeat_sentence."
+    ],
+    "negativeSignals": [
+     "O trecho indexado não revela o total de itens.",
+     "Acesso ao PDF deve ser conferido diretamente; não há evidência no trecho sobre eventual barreira."
+    ],
+    "quotes": [
+     "Higher numbers of patients were infected than during previous outbreaks of the illness",
+     "The teacher shared his understanding of social relationships with his students",
+     "Higher fees make students think more critically about what universities can offer",
+     "The author expressed the idea that modern readers invariably cannot accept"
+    ]
+   },
+   "apparentVolume": "PDF de previsão; contagem total não informada no trecho indexado.",
+   "origin": "sweep-lot-09.json",
+   "tier": "comunitaria",
+   "confidence": 62,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "PDF prediction RS 2025; ~119 itens em faixa; ~5 truncados (drop no extrator); 1 item incoerente para review; amostra 10."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-89",
+   "url": "https://webberz.in/blog/?p=2482",
+   "types": [
+    "repeat_sentence"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Blog de preparação indiano com previsão de speaking de março de 2025.",
+     "O trecho mostra itens apresentados como sessão de prática."
+    ],
+    "negativeSignals": [
+     "O material visível no trecho é principalmente orientação e o volume da lista não está claro.",
+     "O exemplo disponível não permite confirmar que a lista completa seja substancial."
+    ],
+    "quotes": [
+     "Predicted PTE Speaking – Repeat Sentence – March 2025",
+     "Practice Session – March 2025",
+     "Students gathered in the library to complete their group assignments."
+    ]
+   },
+   "apparentVolume": "Não informado; trecho indexado mostra ao menos 2 exemplos.",
+   "origin": "sweep-lot-09.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "Volume ínfimo (~2 exemplos) e conteúdo majoritariamente orientação; não justifica gate de extração."
+   }
+  },
+  {
+   "id": "cand-90",
+   "url": "https://www.gurully.com/blog/pte-academic-repeat-sentence-examples/",
+   "types": [
+    "repeat_sentence"
+   ],
+   "status": "aprovada",
+   "operatorGroup": "gurully",
+   "evidence": {
+    "positiveSignals": [
+     "Página de preparação com previsão e exemplos de RS; publicada em fevereiro de 2025.",
+     "O trecho inclui transcrição de exemplo e link de áudio."
+    ],
+    "negativeSignals": [
+     "Volume anunciado fica abaixo da meta de 200.",
+     "Página promociona prática e mock test da plataforma; confirmar que a lista é acessível sem cadastro."
+    ],
+    "quotes": [
+     "## 25 + Predictive PTE Academic Repeat Sentence Examples",
+     "Audio:",
+     "https://www.gurully.com/blog/wp-content/uploads/2025/02/RS_AC_0038.mp3",
+     "Transcript:"
+    ]
+   },
+   "apparentVolume": "25+ exemplos anunciados.",
+   "origin": "sweep-lot-09.json",
+   "tier": "comunitaria",
+   "confidence": 63,
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "30 itens RS com áudio + transcript inline; amostra 10/30; operatorGroup gurully já aprovado (answer_short)."
+   },
+   "sample": {
+    "inspected": 10,
+    "defects": 0,
+    "notes": "amostra manual 10 itens (Ap. B); sorteio determinístico"
+   }
+  },
+  {
+   "id": "cand-91",
+   "url": "https://www.ptesprinters.com/category/write-from-dictation/",
+   "types": [
+    "wfd"
+   ],
+   "status": "reprovada",
+   "operatorGroup": null,
+   "evidence": {
+    "positiveSignals": [
+     "Blog de preparação com arquivo de categoria e diversos trechos de frases WFD indexados.",
+     "O conteúdo inclui frases curtas de ditado e referências a conjuntos de itens."
+    ],
+    "negativeSignals": [
+     "O trecho não fornece contagem total consolidada.",
+     "Parte do material indexado aparenta ser antigo; validar relevância para 2023–2025."
+    ],
+    "quotes": [
+     "The celebrated theory is still the source of great controversy.",
+     "I thought a good architectural structure should be useful, durable and beautiful.",
+     "We can all meet at my office after […]",
+     "1. A celebrated theory is still the source of great controversy. 2. A group meeting will be held tomorrow in the library conference room."
+    ]
+   },
+   "apparentVolume": "Arquivo de categoria com múltiplas listas; total não informado.",
+   "origin": "sweep-lot-09.json",
+   "decision": {
+    "at": "2026-10-18",
+    "reason": "G1 falha: fetch falhou 2× (erro de rede/UA); sem acesso ao conteúdo integral — reprovar e registrar."
    }
   }
  ],

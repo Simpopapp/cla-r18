@@ -3,6 +3,9 @@
 // Gerado por `scripts/bank/build-manifest.mjs` — nunca editar o JSON à mão.
 
 import manifestJson from "@/data/pte/manifest.json";
+// allMeta dividido em 2 chunks (build-manifest manda dividir quando > 250 KB — PRD2 §7.4)
+import allMeta1Json from "@/data/pte/all-meta-1.json";
+import allMeta2Json from "@/data/pte/all-meta-2.json";
 import aliasesJson from "@/data/aliases.json";
 import { setQidResolver } from "@/lib/storage";
 
@@ -35,7 +38,7 @@ interface ManifestFile {
   countByType: Record<string, number>;
   sectionCounts: Record<string, number>;
   TYPE_META: Record<string, TypeMeta>;
-  allMeta: QuestionMeta[];
+  chunkSplitTypes?: string[];
 }
 
 const data = manifestJson as unknown as ManifestFile;
@@ -43,7 +46,8 @@ const data = manifestJson as unknown as ManifestFile;
 export const MANIFEST_GENERATED_AT: string = data.generatedAt;
 export const TOTAL_ALL_QUESTIONS: number = data.TOTAL_ALL_QUESTIONS;
 export const TYPE_COUNT: number = data.TYPE_COUNT;
-export const allMeta: readonly QuestionMeta[] = data.allMeta;
+const metaParts = [allMeta1Json, allMeta2Json] as unknown as QuestionMeta[][];
+export const allMeta: readonly QuestionMeta[] = metaParts.flat();
 export const countByType = data.countByType as Record<TaskType, number>;
 export const sectionCounts = data.sectionCounts as Record<Section, number>;
 export const TYPE_META = data.TYPE_META as Record<TaskType, TypeMeta>;
@@ -90,7 +94,15 @@ type JsonModule = { default: unknown };
 
 const TYPE_MODULES: Record<TaskType, () => Promise<JsonModule>> = {
   read_aloud: () => import("@/data/pte/read_aloud.json"),
-  repeat_sentence: () => import("@/data/pte/repeat_sentence.json"),
+  // repeat_sentence é dividido em 2 partes pelo build-manifest (chunk > 250 KB,
+  // PRD2 §7.4) — o loader concatena; teste cobre a regra.
+  repeat_sentence: async () => {
+    const [a, b] = await Promise.all([
+      import("@/data/pte/repeat_sentence.json"),
+      import("@/data/pte/repeat_sentence-b.json"),
+    ]);
+    return { default: [...(a.default as unknown[]), ...(b.default as unknown[])] };
+  },
   describe_image: () => import("@/data/pte/describe_image.json"),
   retell_lecture: () => import("@/data/pte/retell_lecture.json"),
   answer_short: () => import("@/data/pte/answer_short.json"),

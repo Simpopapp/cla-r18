@@ -1003,5 +1003,65 @@
     "interpret"
    ]
   }
+ },
+ {
+  "id": "cand-58-lst_fib-051",
+  "type": "lst_fib",
+  "source": {
+   "id": "cand-58",
+   "domain": "pteexampreparation.com",
+   "url": "https://www.pteexampreparation.com/pte-listening/fill-in-the-blanks/pte-listening-fill-in-the-blanks/"
+  },
+  "provenance": "comunitaria",
+  "evidenceSummary": null,
+  "data": {
+   "template": "Everywhere it’s tough to raise a family these days. In the wilds of South Africa, two lionesses sisters are single mothers with two cubs {{1}}. Their mate and protector have gone, leaving them {{2}} to marauding males who will kill their cubs and claim their territory. Two of their cubs are extraordinary. They’re almost completely white. The result of an unusual {{3}} twist. How will is strange coloring affect their survival and the fate of their struggling family. Together they must face every danger in the African {{4}}. To play it safe they must play it smart and it will take all the courage.",
+   "answers": [
+    "each",
+    "vulnerable",
+    "genetic",
+    "bush"
+   ]
+  }
+ },
+ {
+  "id": "cand-58-lst_fib-052",
+  "type": "lst_fib",
+  "source": {
+   "id": "cand-58",
+   "domain": "pteexampreparation.com",
+   "url": "https://www.pteexampreparation.com/pte-listening/fill-in-the-blanks/pte-listening-fill-in-the-blanks/"
+  },
+  "provenance": "comunitaria",
+  "evidenceSummary": null,
+  "data": {
+   "template": "This is a story about a land shaped by natural forces. Forces far beyond the power and control of man. Tirol was {{1}} from a collision of continents. A cataclysm that pushed together and piled up things once far apart. The result is a steep world of great variety crowded into a small space. This is a land of the third {{2}}. The depth of a valley at the hight of a ridge in its geographical direction. Its {{3}} at the center or the fringe of the Alps. Its inclination towards the Sun determines whether a bit of Tirol is Harshal mild barren or green bone dry or {{4}} with water.",
+   "answers": [
+    "born",
+    "dimension",
+    "position",
+    "overflowing"
+   ]
+  }
+ },
+ {
+  "id": "cand-58-lst_fib-053",
+  "type": "lst_fib",
+  "source": {
+   "id": "cand-58",
+   "domain": "pteexampreparation.com",
+   "url": "https://www.pteexampreparation.com/pte-listening/fill-in-the-blanks/pte-listening-fill-in-the-blanks/"
+  },
+  "provenance": "comunitaria",
+  "evidenceSummary": null,
+  "data": {
+   "template": "One can even learn from a foreign species for {{1}} that the river bank is not the end of the world. When the deer meadow stands in full bloom it will not {{2}} for much longer. Even when the hay meadows were still cut by hand it was easy to overlook a baby deer. The {{3}} take great care not to hurt young animals but the perfect camouflage of a kid is quite effective. Deer kids do not {{4}} the closer the threat the harder they try to be invisible.",
+   "answers": [
+    "instance",
+    "stand",
+    "farmers",
+    "flee"
+   ]
+  }
  }
 ]

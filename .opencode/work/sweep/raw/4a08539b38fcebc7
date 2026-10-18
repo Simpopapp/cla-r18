@@ -1,0 +1,1004 @@
+<!doctype html>
+<html lang="en-US">
+
+<head><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(e){this.triggerEvents=e,this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}}</script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://ambitionabroad.in/xmlrpc.php" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v18.4 (Yoast SEO v28.2) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>PTE Prediction File PDF 2025 | Real PTE Exam Questions</title><link rel="preload" data-rocket-preload as="image" href="https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail.png" imagesrcset="https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail.png 1244w, https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail-212x300.png 212w, https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail-725x1024.png 725w, https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail-768x1085.png 768w, https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail-1088x1536.png 1088w" imagesizes="(max-width: 1244px) 100vw, 1244px" fetchpriority="high">
+	<meta name="description" content="Download Latest Real PTE Exam Questions December PDF 2025. Practice Read Aloud and Repeat Sentence Highly repeat Questions." />
+	<link rel="canonical" href="https://ambitionabroad.in/pte-prediction-file/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="PTE Prediction File PDF 2025 | Real PTE Exam Questions" />
+	<meta property="og:description" content="Download Latest Real PTE Exam Questions December PDF 2025. Practice Read Aloud and Repeat Sentence Highly repeat Questions." />
+	<meta property="og:url" content="https://ambitionabroad.in/pte-prediction-file/" />
+	<meta property="og:site_name" content="Ambition Abroad Institute" />
+	<meta property="article:publisher" content="http://www.facebook.com/ambitionab" />
+	<meta property="article:published_time" content="2025-02-21T14:08:44+00:00" />
+	<meta property="article:modified_time" content="2025-03-31T05:41:17+00:00" />
+	<meta property="og:image" content="https://ambitionabroad.in/wp-content/uploads/2022/04/Screenshot-2022-04-10-at-1.55.55-PM-1.png" />
+	<meta property="og:image:width" content="1002" />
+	<meta property="og:image:height" content="1488" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="PTE Institute" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@ambitionab" />
+	<meta name="twitter:site" content="@ambitionab" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="PTE Institute" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/#article","isPartOf":{"@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/"},"author":{"name":"PTE Institute","@id":"https:\/\/ambitionabroad.in\/#\/schema\/person\/89dbb266f9764e64f1f356f1cedfd46b"},"headline":"PTE Prediction File PDF 2025 | Real PTE Exam Questions","datePublished":"2025-02-21T14:08:44+00:00","dateModified":"2025-03-31T05:41:17+00:00","mainEntityOfPage":{"@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/"},"wordCount":444,"commentCount":3,"publisher":{"@id":"https:\/\/ambitionabroad.in\/#organization"},"image":{"@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/#primaryimage"},"thumbnailUrl":"https:\/\/ambitionabroad.in\/wp-content\/uploads\/2022\/04\/Screenshot-2022-04-10-at-1.55.55-PM-1.png","articleSection":["Downloads"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https:\/\/ambitionabroad.in\/pte-prediction-file\/#respond"]}]},{"@type":"WebPage","@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/","url":"https:\/\/ambitionabroad.in\/pte-prediction-file\/","name":"PTE Prediction File PDF 2025 | Real PTE Exam Questions","isPartOf":{"@id":"https:\/\/ambitionabroad.in\/#website"},"primaryImageOfPage":{"@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/#primaryimage"},"image":{"@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/#primaryimage"},"thumbnailUrl":"https:\/\/ambitionabroad.in\/wp-content\/uploads\/2022\/04\/Screenshot-2022-04-10-at-1.55.55-PM-1.png","datePublished":"2025-02-21T14:08:44+00:00","dateModified":"2025-03-31T05:41:17+00:00","description":"Download Latest Real PTE Exam Questions December PDF 2025. Practice Read Aloud and Repeat Sentence Highly repeat Questions.","breadcrumb":{"@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/ambitionabroad.in\/pte-prediction-file\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/#primaryimage","url":"https:\/\/ambitionabroad.in\/wp-content\/uploads\/2022\/04\/Screenshot-2022-04-10-at-1.55.55-PM-1.png","contentUrl":"https:\/\/ambitionabroad.in\/wp-content\/uploads\/2022\/04\/Screenshot-2022-04-10-at-1.55.55-PM-1.png","width":1002,"height":1488,"caption":"PTE Practice PDF"},{"@type":"BreadcrumbList","@id":"https:\/\/ambitionabroad.in\/pte-prediction-file\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/ambitionabroad.in\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/ambitionabroad.in\/blog\/"},{"@type":"ListItem","position":3,"name":"PTE Prediction File PDF 2025 | Real PTE Exam Questions"}]},{"@type":"WebSite","@id":"https:\/\/ambitionabroad.in\/#website","url":"https:\/\/ambitionabroad.in\/","name":"Ambition Abroad Institute","description":"IELTS and PTE in Cheeka","publisher":{"@id":"https:\/\/ambitionabroad.in\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/ambitionabroad.in\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/ambitionabroad.in\/#organization","name":"Ambition Abroad Institute","url":"https:\/\/ambitionabroad.in\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/ambitionabroad.in\/#\/schema\/logo\/image\/","url":"https:\/\/ambitionabroad.in\/wp-content\/uploads\/2021\/09\/Logo-with-BG-scaled.jpg","contentUrl":"https:\/\/ambitionabroad.in\/wp-content\/uploads\/2021\/09\/Logo-with-BG-scaled.jpg","width":2560,"height":1440,"caption":"Ambition Abroad Institute"},"image":{"@id":"https:\/\/ambitionabroad.in\/#\/schema\/logo\/image\/"},"sameAs":["http:\/\/www.facebook.com\/ambitionab","https:\/\/x.com\/ambitionab","https:\/\/www.instagram.com\/ambition_ielts\/","https:\/\/www.youtube.com\/channel\/UClTMYyY7ur54Rcv4AwQlelw"]},{"@type":"Person","@id":"https:\/\/ambitionabroad.in\/#\/schema\/person\/89dbb266f9764e64f1f356f1cedfd46b","name":"PTE Institute","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/secure.gravatar.com\/avatar\/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=96&d=mm&r=g","url":"https:\/\/secure.gravatar.com\/avatar\/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=96&d=mm&r=g","contentUrl":"https:\/\/secure.gravatar.com\/avatar\/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=96&d=mm&r=g","caption":"PTE Institute"},"url":"https:\/\/ambitionabroad.in\/author\/pteinstitute\/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="Ambition Abroad Institute &raquo; Feed" href="https://ambitionabroad.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ambition Abroad Institute &raquo; Comments Feed" href="https://ambitionabroad.in/comments/feed/" />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin><link rel="alternate" type="application/rss+xml" title="Ambition Abroad Institute &raquo; PTE Prediction File PDF 2025 | Real PTE Exam Questions Comments Feed" href="https://ambitionabroad.in/pte-prediction-file/feed/" />
+		<style>
+			.lazyload,
+			.lazyloading {
+				max-width: 100%;
+			}
+		</style>
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ambitionabroad.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.10"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://ambitionabroad.in/wp-includes/css/dist/block-library/style.min.css?ver=6.8.10' type='text/css' media='all' />
+<style id='qsm-quiz-style-inline-css' type='text/css'>
+
+
+</style>
+<style id='site-designer-shared-pattern-classes-inline-css' type='text/css'>
+/* Dark cover/section overlay + on-dark text. */
+body .wp-site-blocks .is-style-overlay-dark .wp-block-cover__background { background-color: var(--wp--preset--color--base-3); color: var(--wp--preset--color--contrast-3); }
+.wp-block-cover.is-style-overlay-dark .wp-block-cover__background.has-background-dim { opacity: 0.50 !important; }
+:is(.wp-block-designsetgo-section, .wp-block-designsetgo-scroll-slides).is-style-overlay-dark { --dsgo-overlay-color: var(--wp--preset--color--base-3); --dsgo-overlay-opacity: 0.50; color: var(--wp--preset--color--contrast-3); }
+.dsgo-image-accordion-item.is-style-overlay-dark { --dsgo-overlay-color: var(--wp--preset--color--base-3); }
+.wp-block-group.has-background.is-style-overlay-dark { box-shadow: inset 0 0 0 9999px color-mix(in srgb, var(--wp--preset--color--base-3) 50%, transparent); }
+body .wp-site-blocks .is-style-overlay-dark, body .wp-site-blocks .is-style-on-dark { --dsgo-text-color: var(--wp--preset--color--contrast-3); color: var(--wp--preset--color--contrast-3) !important; }
+body .wp-site-blocks .is-style-overlay-dark :is(h1,h2,h3,h4,h5,h6,p,li,blockquote,cite), body .wp-site-blocks .is-style-on-dark :is(h1,h2,h3,h4,h5,h6,p,li,blockquote,cite) { color: var(--wp--preset--color--contrast-3) !important; }
+
+/* Solid dark section background + light text. */
+.is-style-bg-dark { background-color: var(--wp--preset--color--contrast); color: var(--wp--preset--color--base); }
+.is-style-bg-dark a { color: var(--wp--preset--color--base); }
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 650px;--wp--style--global--wide-size: 1000px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpdm-font-awesome-css' href='https://use.fontawesome.com/releases/v5.12.1/css/all.css?ver=6.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdm-front-bootstrap-css' href='https://ambitionabroad.in/wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.min.css?ver=6.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdm-front-css' href='https://ambitionabroad.in/wp-content/plugins/download-manager/assets/css/front.css?ver=6.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='tnado_hidefi_styles-css' href='https://ambitionabroad.in/wp-content/plugins/hide-featured-image-on-all-single-pagepost//tnado-styles.css?ver=6.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css' href='https://ambitionabroad.in/wp-includes/css/dist/components/style.min.css?ver=6.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='godaddy-styles-css' href='https://ambitionabroad.in/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='h5p-plugin-fonts-css' href='https://ambitionabroad.in/wp-content/plugins/h5p/h5p-php-library/styles/h5p-fonts.css?ver=1.17.9' type='text/css' media='all' />
+<link rel='stylesheet' id='h5p-plugin-styles-css' href='https://ambitionabroad.in/wp-content/plugins/h5p/h5p-php-library/styles/h5p.css?ver=1.17.9' type='text/css' media='all' />
+<style id='pix-intro-handle-inline-css' type='text/css'>
+
+	 body:not(.render) .pix-overlay-item {
+		 opacity: 0 !important;
+	 }
+	 body:not(.pix-loaded) .pix-wpml-header-btn {
+		 opacity: 0;
+	 }
+		 html:not(.render) {
+			 background: #fff7ef  !important;
+		 }
+		 .pix-page-loading-bg:after {
+			 content: " ";
+			 position: fixed;
+			 top: 0;
+			 left: 0;
+			 width: 100vw;
+			 height: 100vh;
+			 display: block;
+			 pointer-events: none;
+			 transition: opacity .16s ease-in-out;
+			 transform-style: flat;
+			 z-index: 99999999999999999999;
+			 opacity: 1;
+			 background: #fff7ef !important;
+		 }
+		 body.render .pix-page-loading-bg:after {
+			 opacity: 0;
+		 }
+	 	 .vc_custom_1591763045479{background-color: #212529 !important;}.vc_custom_1591763469360{padding-top: 35px !important;padding-bottom: 25px !important;}.vc_custom_1591763515593{border-top-width: 1px !important;padding-top: 50px !important;padding-bottom: 50px !important;border-top-color: rgba(255,255,255,0.08) !important;border-top-style: solid !important;}.vc_custom_1589667876780{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1743655328581{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1635066679688{margin-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1590552751162{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1635739914268{margin-right: -30px !important;margin-left: -30px !important;padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1635739942192{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1589854107341{padding-bottom: 25px !important;}.vc_custom_1631547396740{padding-bottom: 30px !important;}.vc_custom_1743655426367{padding-bottom: 10px !important;}.vc_custom_1716569011064{padding-bottom: 10px !important;}
+</style>
+<link rel='stylesheet' id='essentials-bootstrap-css' href='https://ambitionabroad.in/wp-content/themes/essentials/inc/scss/bootstrap.min.css?ver=6.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://ambitionabroad.in/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-flickity-style-css' href='https://ambitionabroad.in/wp-content/themes/essentials/css/build/flickity.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='essentials-pixicon-font-css' href='https://ambitionabroad.in/wp-content/themes/essentials/css/build/pixicon-main/style.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-popups-style-css' href='https://ambitionabroad.in/wp-content/themes/essentials/css/jquery-confirm.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='essentials-select-css-css' href='https://ambitionabroad.in/wp-content/themes/essentials/css/build/bootstrap-select.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-essentials-style-2-css' href='https://ambitionabroad.in/wp-content/uploads/wp-scss-cache/pix-essentials-style-2.css?ver=1678982262' type='text/css' media='all' />
+<script type="text/javascript" src="https://ambitionabroad.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.bundle.min.js?ver=6.8.10" id="wpdm-front-bootstrap-js"></script>
+<script type="text/javascript" id="wpdm-frontjs-js-extra">
+/* <![CDATA[ */
+var wpdm_url = {"home":"https:\/\/ambitionabroad.in\/","site":"https:\/\/ambitionabroad.in\/","ajax":"https:\/\/ambitionabroad.in\/wp-admin\/admin-ajax.php"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/plugins/download-manager/assets/js/front.js?ver=6.0.8" id="wpdm-frontjs-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.7" async id="tp-tools-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.7" async id="revmin-js"></script>
+<link rel="https://api.w.org/" href="https://ambitionabroad.in/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://ambitionabroad.in/wp-json/wp/v2/posts/7412" /><link rel='shortlink' href='https://ambitionabroad.in/?p=7412' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ambitionabroad.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fambitionabroad.in%2Fpte-prediction-file%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ambitionabroad.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fambitionabroad.in%2Fpte-prediction-file%2F&#038;format=xml" />
+		<meta charset="utf-8">
+		<meta name="abstract" content="Cheeka">
+		<meta name="author" content="ambitionab">
+		<meta name="classification" content="Downloads, IELTS Materials, Tips &amp; Tricks">
+		<meta name="copyright" content="Copyright Ambition Abroad IELTS Institute - All rights Reserved.">
+		<meta name="designer" content="ChimpStudio">
+		<meta name="distribution" content="Global">
+		<meta name="language" content="en-GB">
+		<meta name="publisher" content="Ambition Abroad IELTS Institute">
+		<meta name="rating" content="General">
+		<meta name="resource-type" content="Document">
+		<meta name="revisit-after" content="3">
+		<meta name="subject" content="Downloads, IELTS Materials, Tips &amp; Tricks">
+		<meta name="template" content="Education">
+		<meta name="robots" content="index,follow">
+		<meta name="facebook-domain-verification" content="wbt0mcbhes3pi7nhvtcc3bo3k1ubuo" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2264775303693608"
+     crossorigin="anonymous"></script>		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+			.lazyload,
+			.lazyloading {
+				--smush-placeholder-width: 100px;
+				--smush-placeholder-bg-max-width: 120px;
+				--smush-placeholder-aspect-ratio: 1/1;
+				width: var(--smush-image-width, var(--smush-placeholder-width)) !important;
+				aspect-ratio: var(--smush-image-aspect-ratio, var(--smush-placeholder-aspect-ratio)) !important;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.5.7 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://ambitionabroad.in/wp-content/uploads/2021/09/cropped-Favicon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://ambitionabroad.in/wp-content/uploads/2021/09/cropped-Favicon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ambitionabroad.in/wp-content/uploads/2021/09/cropped-Favicon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://ambitionabroad.in/wp-content/uploads/2021/09/cropped-Favicon-270x270.jpg" />
+<style id="wp-site-designer-contrast-fallback"> .wp-block-group:not([data-dsgo-inline-bg]),.wp-block-column:not([data-dsgo-inline-bg]),.wp-block-columns:not([data-dsgo-inline-bg]){--dsgo-text-color:initial;} :is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover:not(.has-text-color){color:var(--wp--preset--color--contrast-3) !important;--dsgo-text-color:var(--wp--preset--color--contrast-3);} body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) h1:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) h2:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) h3:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) h4:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) h5:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) h6:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) p:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) a:where(:not(.wp-element-button):not(.wp-block-social-link-anchor)):not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(:is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column).has-background:not([class*="-background-color"]):not(.has-text-color):not(.is-style-footer-section):not(.is-style-header-section),.wp-block-cover) .wp-element-caption:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)){color:var(--dsgo-text-color,inherit) !important;} body .wp-site-blocks :is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column)[data-dsgo-inline-bg] .wp-block-button:is([class*="is-style-outline"],[class*="is-style-secondary"]) .wp-element-button{color:var(--dsgo-text-color,inherit) !important;border-color:currentColor !important;}body .wp-site-blocks :is(.wp-block-designsetgo-section,.wp-block-group,.wp-block-column)[data-dsgo-inline-bg] .wp-block-button:is([class*="is-style-outline"],[class*="is-style-secondary"]) .wp-element-button:hover{opacity:0.75;} body .wp-site-blocks [data-dsgo-inline-bg] h1:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks [data-dsgo-inline-bg] h2:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks [data-dsgo-inline-bg] h3:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks [data-dsgo-inline-bg] h4:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks [data-dsgo-inline-bg] h5:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks [data-dsgo-inline-bg] h6:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks [data-dsgo-inline-bg] p:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks [data-dsgo-inline-bg] a:where(:not(.wp-element-button):not(.wp-block-social-link-anchor)):not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks [data-dsgo-inline-bg] .wp-element-caption:not(.has-text-color):where(:not(.elementor *):not([data-elementor-type] *)){color:var(--dsgo-text-color,inherit) !important;} .wp-block-designsetgo-section.has-background:not([data-dsgo-inline-bg]):not(.has-text-color){color:var(--wp--preset--color--contrast);--dsgo-text-color:var(--wp--preset--color--contrast);} :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)),.has-background:is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)),.has-text-color:is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)){background-color:var(--wp--preset--color--accent-5);color:var(--wp--preset--color--contrast);} body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) h1:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) h2:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) h3:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) h4:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) h5:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) h6:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) p:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) a:where(:not(.wp-element-button):not(.wp-block-social-link-anchor)):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-1:not(:is(.has-white-background-color,.has-black-background-color)) .wp-element-caption:where(:not(.elementor *):not([data-elementor-type] *)){color:var(--wp--preset--color--contrast);} :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)),.has-background:is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)),.has-text-color:is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)){background-color:var(--wp--preset--color--accent-2);color:var(--wp--preset--color--contrast);} body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) h1:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) h2:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) h3:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) h4:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) h5:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) h6:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) p:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) a:where(:not(.wp-element-button):not(.wp-block-social-link-anchor)):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-2:not(:is(.has-white-background-color,.has-black-background-color)) .wp-element-caption:where(:not(.elementor *):not([data-elementor-type] *)){color:var(--wp--preset--color--contrast);} :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)),.has-background:is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)),.has-text-color:is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)){background-color:var(--wp--preset--color--accent-1);color:var(--wp--preset--color--contrast);} body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) h1:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) h2:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) h3:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) h4:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) h5:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) h6:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) p:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) a:where(:not(.wp-element-button):not(.wp-block-social-link-anchor)):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-3:not(:is(.has-white-background-color,.has-black-background-color)) .wp-element-caption:where(:not(.elementor *):not([data-elementor-type] *)){color:var(--wp--preset--color--contrast);} :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)),.has-background:is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)),.has-text-color:is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)){background-color:var(--wp--preset--color--accent-3);color:var(--wp--preset--color--accent-2);} body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) h1:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) h2:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) h3:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) h4:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) h5:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) h6:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) p:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) a:where(:not(.wp-element-button):not(.wp-block-social-link-anchor)):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-4:not(:is(.has-white-background-color,.has-black-background-color)) .wp-element-caption:where(:not(.elementor *):not([data-elementor-type] *)){color:var(--wp--preset--color--accent-2);} :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)),.has-background:is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)),.has-text-color:is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)){background-color:var(--wp--preset--color--contrast);color:var(--wp--preset--color--base);} body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) h1:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) h2:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) h3:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) h4:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) h5:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) h6:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) p:where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) a:where(:not(.wp-element-button):not(.wp-block-social-link-anchor)):where(:not(.elementor *):not([data-elementor-type] *)),body .wp-site-blocks :is(.wp-block-group,.wp-block-column).is-style-section-5:not(:is(.has-white-background-color,.has-black-background-color)) .wp-element-caption:where(:not(.elementor *):not([data-elementor-type] *)){color:var(--wp--preset--color--base);}   body .wp-site-blocks input:not([type="submit"]):not([type="button"]):not([type="reset"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):not([type="image"]):not([type="hidden"]),body .wp-site-blocks textarea,body .wp-site-blocks select{background-color:var(--wp--preset--color--base);color:var(--wp--preset--color--contrast);border:1px solid color-mix(in srgb, var(--wp--preset--color--contrast) 30%, transparent);} .wp-site-blocks input[type="submit"]:not(.wp-element-button),.wp-site-blocks button[type="submit"]:not(.wp-element-button){background-color:var(--wp--preset--color--accent-2);color:var(--wp--preset--color--base);border-width:0;padding:12px 30px;font-family:inherit;font-size:var(--wp--preset--font-size--medium, 1rem);line-height:inherit;cursor:pointer;}</style>
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";					
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style id="site-designer-logo-constraints">
+			.wp-block-site-logo.is-default-size img {
+				width: auto;
+				height: auto;
+				max-width: 180px;
+				max-height: 80px;
+			}
+			.wp-block-site-logo img {
+				height: auto;
+			}
+		</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1634657211287{margin-right: -200px !important;margin-left: -200px !important;}.vc_custom_1649571633148{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1649571658645{margin-top: 100px !important;margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1649484849186{margin-top: 25px !important;margin-bottom: 50px !important;}.vc_custom_1634657185405{margin-top: 30px !important;margin-bottom: 80px !important;}.vc_custom_1649571642358{margin-left: 0px !important;}.vc_custom_1743399558826{margin-left: 0px !important;}.vc_custom_1743399566719{margin-top: 50px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><meta name="generator" content="WordPress Download Manager 6.0.8" />
+                <link href="data:text/css;charset=utf-8;base64,LypibGFuayov" rel="stylesheet" data-type="kppassive" data-kplinkhref="https://fonts.googleapis.com/css2?family=Rubik">
+        <style>
+            .w3eden .fetfont,
+            .w3eden .btn,
+            .w3eden .btn.wpdm-front h3.title,
+            .w3eden .wpdm-social-lock-box .IN-widget a span:last-child,
+            .w3eden .card-header,
+            .w3eden .card-footer,
+            .w3eden .badge,
+            .w3eden .label,
+            .w3eden .table,
+            .w3eden .card-body,
+            .w3eden .wpdm-frontend-tabs a,
+            .w3eden .alert:before,
+            .w3eden .discount-msg,
+            .w3eden .panel.dashboard-panel h3,
+            .w3eden #wpdm-dashboard-sidebar .list-group-item,
+            .w3eden #package-description .wp-switch-editor,
+            .w3eden .w3eden.author-dashbboard .nav.nav-tabs li a,
+            .w3eden .wpdm_cart thead th,
+            .w3eden #csp .list-group-item,
+            .w3eden .modal-title {
+                font-family: Rubik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            }
+            .w3eden .btn
+            {
+                font-weight: 800 !important;
+            }
+            .w3eden .btn {
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+            .w3eden #csp .list-group-item {
+                text-transform: unset;
+            }
+
+
+        </style>
+            <style>
+        /* WPDM Link Template Styles */        </style>
+                <style>
+
+            :root {
+                --color-primary: #4a8eff;
+                --color-primary-rgb: 74, 142, 255;
+                --color-primary-hover: #4a8eff;
+                --color-primary-active: #4a8eff;
+                --color-secondary: #4a8eff;
+                --color-secondary-rgb: 74, 142, 255;
+                --color-secondary-hover: #4a8eff;
+                --color-secondary-active: #4a8eff;
+                --color-success: #18ce0f;
+                --color-success-rgb: 24, 206, 15;
+                --color-success-hover: #4a8eff;
+                --color-success-active: #4a8eff;
+                --color-info: #2CA8FF;
+                --color-info-rgb: 44, 168, 255;
+                --color-info-hover: #2CA8FF;
+                --color-info-active: #2CA8FF;
+                --color-warning: #f29e0f;
+                --color-warning-rgb: 242, 158, 15;
+                --color-warning-hover: orange;
+                --color-warning-active: orange;
+                --color-danger: #ff5062;
+                --color-danger-rgb: 255, 80, 98;
+                --color-danger-hover: #ff5062;
+                --color-danger-active: #ff5062;
+                --color-green: #30b570;
+                --color-blue: #0073ff;
+                --color-purple: #8557D3;
+                --color-red: #ff5062;
+                --color-muted: rgba(69, 89, 122, 0.6);
+                --wpdm-font: "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            }
+
+            .wpdm-download-link.btn.btn-primary {
+                border-radius: 4px;
+            }
+
+
+        </style>
+                <script>
+            function wpdm_rest_url(request) {
+                return "https://ambitionabroad.in/wp-json/wpdm/" + request;
+            }
+        </script>
+        <style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><meta name="generator" content="WP Rocket 3.18.1.5" data-wpr-features="wpr_automatic_lazy_rendering wpr_oci" /></head>
+
+<body data-rsssl=1 class="wp-singular post-template-default single single-post postid-7412 single-format-standard wp-theme-essentials no-sidebar wpb-js-composer js-comp-ver-6.10.0 vc_responsive" style="">
+		<div  class="pix-page-loading-bg"></div>
+		<div  id="page" class="site">
+		        <div  class="pix-header-boxed pix-is-sticky-header position-relative">
+            <div  class="position-absolute w-100">
+                 <div class="pix-topbar position-relative pix-header-desktop pix-topbar-normal  bg-transparent  text-white sticky-top2 p-sticky" style="z-index:999998;" >
+     <div class="container-xl">
+         <div class="row d-flex align-items-center align-items-stretch">
+                          <div class="col-12 col-lg-6 column pix-header-min-height text-left justify-content-start py-md-0 d-flex align-items-center">
+ 				        <div class="d-inline-flex align-items-center2 line-height-1 pix-py-5 pix-hover-item mb-0">
+            <a data-anim-type="disabled" class="text-body-default font-weight-bold btn btn-link p-0 line-height-1 pix-header-text text-sm  d-inline-flex2 align-items-center2" href="https://www.facebook.com/ambitionab" target=&quot;_blank&quot; style="" >
+                Best IELTS Institute and PTE Institute in Cheeka</span>
+                <i class="font-weight-bold pixicon-angle-right pix-header-icon-format pix-hover-right ml-2"></i>            </a></div>
+                         </div>
+
+                                       <div class="col-12 col-lg-6 column text-right justify-content-end pix-header-min-height py-md-0 d-flex align-items-center justify-content-end">
+ 				        <a data-anim-type="fade-in" href="tel:+919812880061" class="pix-header-phone text-sm d-inline-block2 pix-header-text d-inline-flex align-items-center pix-py-5 text-body-default font-weight-bold animate-in mb-0" style="" ><i class="pixicon-phone text-18 pix-mr-5 pix-header-icon-style"></i> +91 9812880061</a>
+                <span class="mx-1"></span>
+                <div class="d-inline-flex pix-px-5 align-self-stretch position-relative mx-0">
+            <div class="bg-dark-opacity-2 pix-header-divider   pix-sm" data-color="dark-opacity-2" data-scroll-color=""></div>
+                    </div>
+                        <a data-anim-type="fade-in" href="#" class="btn pix-header-btn btn-link p-0 pix-px-15 pix-search-btn pix-toggle-overlay m-0 animate-in d-inline-flex align-items-center text-body-default" ><span class="screen-reader-text sr-only">Search</span><i class="pixicon-zoom text-18 pix-header-text font-weight-bold"></i></a>
+                         </div>
+
+         </div>
+              </div>
+      </div>
+                <div class="pix-header-placeholder position-relative d-block w-100">
+                        <header id="masthead" class="pix-header  pix-header-desktop d-block2 pix-header-normal2 pix-scroll-shadow sticky-top2 position-relative pix-header-box" data-text="heading-default" data-text-scroll="heading-default">
+     <div class="container-xl">
+         <div class="pix-header-box-part shadow-lg pix-main-part pix-header-container-area bg-white pix-header-box-rounded-top rounded-xl" data-bg-class="bg-white" data-bg-color=""  style="" data-scroll-class="bg-white" data-scroll-color="" >
+             <nav class="navbar pix-main-menu navbar-hover-drop navbar-expand-lg navbar-light text-center justify-content-center">
+    				        <span class="mx-1"></span>
+            <div class="d-flex align-items-center">
+        <div class="d-inline-block" data-anim-type="disabled" style="">
+                                    <a class="navbar-brand" href="https://ambitionabroad.in/" target="" rel="home">
+                            <img height="35" width="115.89460784314" data-src="https://ambitionabroad.in/wp-content/uploads/2021/09/Logo.png" alt="Ambition Abroad Institute" style="--smush-placeholder-width: 115px; --smush-placeholder-aspect-ratio: 115/35;height:35px;width:auto;"  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload">
+                                                    </a>
+                                </div>
+    </div>
+            <div class="d-inline-flex pix-px-5 align-self-stretch position-relative mx-2">
+            <div class="bg-dark-opacity-2 pix-header-divider   pix-sm" data-color="dark-opacity-2" data-scroll-color=""></div>
+                    </div>
+        <div id="navbarNav-487" class="collapse navbar-collapse align-self-stretch pix-primary-nav-line  justify-content-end"><ul id="menu-menu-seo" class="navbar-nav nav-style-megamenu align-self-stretch align-items-center"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3710 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="Home" class="font-weight-bold pix-nav-link text-heading-default nav-link" target="_self" href="https://ambitionabroad.in/"><span class="pix-dropdown-title text-sm  pix-header-text">Home</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-6320 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="About" class="font-weight-bold pix-nav-link text-heading-default dropdown-toggle nav-link" target="_self" href="https://ambitionabroad.in/about-us/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="menu-item-dropdown-6320"><span class="pix-dropdown-title text-sm  pix-header-text">About</span></a>
+<div class="dropdown-menu"  aria-labelledby="menu-item-dropdown-6320" role="navigation">
+<div class="submenu-box pix-default-menu bg-white"><div  class="container">	<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7508 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="PTE Institute in Samana" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/pte-institute-samana/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">PTE Institute in Samana</span></a></div>
+	<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-9162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9162 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="Accreditation" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/accreditation/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">Accreditation</span></a></div>
+</div>
+</div>
+</div>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-6323 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center mega-item pix-mega-style-md"><a title="Services" class="font-weight-bold pix-nav-link text-heading-default dropdown-toggle nav-link" target="_self" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="menu-item-dropdown-6323"><span class="pix-dropdown-title text-sm  pix-header-text">Services</span></a>
+<div class="dropdown-menu"  aria-labelledby="menu-item-dropdown-6323" role="navigation">
+<div class="submenu-box bg-white overflow-hidden2"><div class="container overflow-hidden"><div class="row w-100">	<div class="col-lg-6 none pix-p-202 pix-dropdown-padding">		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6328 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><h6 class="mega-col-title text-sm  text-heading-default  font-weight-bold" >Premium Courses</h6></div>
+		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6469 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="IELTS" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/ielts-institute-cheeka/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">IELTS</span></a></div>
+		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6496 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="PTE" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/pte-institute-cheeka/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">PTE</span></a></div>
+		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6504 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="CD-IELTS" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/cd-ielts-institute-cheeka/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">CD-IELTS</span></a></div>
+		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6332 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="Advance Spoken English" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="#"><span class="pix-dropdown-title  text-body-default  font-weight-bold">Advance Spoken English</span></a></div>
+	</div>
+	<div class="col-lg-6 none pix-p-202 pix-dropdown-padding"><div class="d-block position-relative w-100 pix-menu-box menu-item menu-item-type-custom menu-item-object-custom menu-item-6348 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100  pix-dark pix-menu-full-height"><div class="item-inner pix-menu-box-inner d-flex align-items-end w-100 h-100 pix-hover-item  position-relative overflow-hidden" style="-webkit-transform: translateZ(0);transform: translateZ(0);"><div class="overflow-hidden"><video class="pix-bg-image pix-video-elem pix-img-scale bg-video w-100" preload="none" loop muted playsinline style="pointer-events: none;">
+								<source src="https://ambitionabroad.in/wp-content/themes/essentials/inc/assets/loading-square.mp4" class="" data-src="https://ambitionabroad.in/wp-content/uploads/2021/09/Pearson-PTE-cheeka.mp4" type="video/mp4">
+								</video></div><a target="_self" href="#" class="pix-img-overlay pix-box-container d-md-flex align-items-center w-100 justify-content-center pix-p-20" ><h6 class="text-heading-default font-weight-bold pix-box-title">Automatic Grading in PTE Speaking</h6><span class="pix-box-link text-heading-default btn btn-sm p-0 font-weight-bold pix-py-5 text-sm2 pix-hover-item d-flex align-items-center align-self-stretch text-left">How PTE A.I Works <i class="ml-2 pixicon-angle-right d-flex align-self-center font-weight-bold pix-hover-right" style="line-height:16px;"></i></span></a></div></div>	</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7207 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="PTE Preparation" class="font-weight-bold pix-nav-link text-heading-default nav-link" target="_self" href="https://ambitionabroad.in/free-pte-preparation-materials/"><span class="pix-dropdown-title text-sm  pix-header-text">PTE Preparation</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-8484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8484 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="IELTS Preparation" class="font-weight-bold pix-nav-link text-heading-default nav-link" target="_self" href="https://ambitionabroad.in/free-ielts-preparation-exam-materials/"><span class="pix-dropdown-title text-sm  pix-header-text">IELTS Preparation</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7429" class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item active menu-item-7429 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="PTE Prediction" class="font-weight-bold pix-nav-link text-heading-default nav-link" target="_self" href="https://ambitionabroad.in/pte-prediction-file/"><span class="pix-dropdown-title text-sm  pix-header-text">PTE Prediction</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7011" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-7011 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="Downloads" class="font-weight-bold pix-nav-link text-heading-default nav-link" target="_self" href="https://ambitionabroad.in/blog/"><span class="pix-dropdown-title text-sm  pix-header-text">Downloads</span></a></li>
+</ul></div>        <span class="mx-2"></span>
+                <div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
+            <a data-anim-type="disabled" class="btn btn-primary-light font-weight-bold d-flex2 align-items-center mr-0" href="https://ambitionabroad.ptelink.com/"  style="" data-popup-link="" >
+                            <span>PTE Login</span>
+                        </a>
+        </div>
+                     </nav>
+             
+         </div>
+
+         
+
+
+
+         
+                             <div class="pix-header-desktop pix-header-stack  bg-transparent  pix-header-box-part" style="">
+                                    <div class="container-xl">
+                  <div class="row">
+                                            <div class="col-12 col-lg-4 column text-center pix-header-min-height text-left justify-content-start py-md-0 d-flex align-items-center">
+          				        <div data-anim-type="disabled" class="d-inline-block2 d-inline-flex align-items-center line-height-1 pix-header-text pix-py-5 text-sm text-body-default font-weight-bold mb-0" style="" ><i class="pixicon-map-pin-1-circle text-18 pix-mr-5 pix-header-icon-style"></i> Cheeka</div>
+                <div class="d-inline-flex pix-px-5 align-self-stretch position-relative mx-2">
+            <div class="bg-dark-opacity-2 pix-header-divider   pix-sm" data-color="dark-opacity-2" data-scroll-color=""></div>
+                    </div>
+                <div class="d-inline-flex align-items-center2 line-height-1 pix-py-5 pix-hover-item mb-0">
+            <a data-anim-type="disabled" class="text-body-default font-weight-bold btn btn-link p-0 line-height-1 pix-header-text text-sm  d-inline-flex2 align-items-center2" href="mailto:ambitionielts@gmail.com" target=&quot;_blank&quot; style="" >
+                                    <i class="pixicon-email-1 pix-header-icon-format pix-mr-5 pix-header-icon-style"></i>
+                <span>ambitionielts@gmail.com</span>
+                            </a></div>
+                                  </div>
+                                            <div class="col-12 col-lg-4 column text-center  text-center justify-content-center py-md-0 d-flex align-items-center">
+          				                      </div>
+                                            <div class="col-12 col-lg-4 column text-center pix-header-min-height text-right justify-content-end py-md-0 d-flex align-items-center">
+          				        <div data-anim-type="disabled" class="d-inline-flex line-height-1 align-items-center text-sm pix-header-text pix-py-5 text-body-default font-weight-bold mb-0">
+                        <span class="line-height-1">Follow us on</span>
+        </div>
+            <div class="pix-px-5 d-inline-block2 d-inline-flex align-items-between pix-social text-18" data-anim-type="disabled">
+                    <a class="d-flex align-items-center pix-header-text text-body-default" target="_blank"  href="https://www.facebook.com/ambitionab" title="Facebook"><i class="pixicon-facebook3 px-2" ></i></a>
+                        <a class="d-flex align-items-center pix-header-text text-body-default" target="_blank"  href="https://twitter.com/ambitionab?lang=en" title="twitter"><i class="pixicon-twitter px-2" ></i></a>
+                        <a class="d-flex align-items-center pix-header-text text-body-default" target="_blank"  href="https://www.youtube.com/channel/UClTMYyY7ur54Rcv4AwQlelw" title="youtube"><i class="pixicon-youtube3 px-2" ></i></a>
+                        <a class="d-flex align-items-center pix-header-text text-body-default" target="_blank"  href="https://www.instagram.com/ambition_ielts/" title="instagram"><i class="pixicon-instagram2 px-2" ></i></a>
+                </div>
+                          </div>
+
+                  </div>
+                  </div>
+                                </div>
+              
+
+          </div>
+
+ </header>
+
+                </div>
+            </div>
+        </div>
+                <div  class="pix-mobile-header-sticky w-100"></div>
+                
+    <header  id="mobile_head" class="pix-header  pix-header-mobile d-inline-block pix-header-normal pix-scroll-shadow sticky-top header-scroll2 bg-white" style="">
+         <div  class="container">
+                          <nav class="navbar navbar-hover-drop navbar-expand-lg2 navbar-light d-inline-block2">
+    				    <div class="slide-in-container d-flex align-items-center">
+        <div class="d-inline-block animate-in slide-in-container" data-anim-type="slide-in-up" style="">
+                                    <a class="navbar-brand" href="https://ambitionabroad.in/" target="" rel="home">
+                            <img height="30" width="99.338235294118" data-src="https://ambitionabroad.in/wp-content/uploads/2021/09/Logo.png" alt="Ambition Abroad Institute" style="--smush-placeholder-width: 99px; --smush-placeholder-aspect-ratio: 99/30;height:30px;width:auto;"  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload">
+                                                    </a>
+                                </div>
+    </div>
+                <button class="navbar-toggler hamburger--spin hamburger small-menu-toggle" type="button" data-toggle="collapse" data-target="#navbarNav-192" aria-controls="navbarNav-192" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="hamburger-box">
+
+                    <span class="hamburger-inner bg-body-default">
+                        <span class="hamburger-inner-before bg-body-default"></span>
+                        <span class="hamburger-inner-after bg-body-default"></span>
+                    </span>
+
+                </span>
+            </button>
+            <div id="navbarNav-192" class="collapse navbar-collapse align-self-stretch   justify-content-start"><ul id="menu-menu-seo-1" class="navbar-nav nav-style-megamenu align-self-stretch align-items-center"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3710 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="Home" class="font-weight-bold pix-nav-link text-body-default nav-link animate-in" target="_self" href="https://ambitionabroad.in/" data-anim-type="fade-in"><span class="pix-dropdown-title text-sm  pix-header-text">Home</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-6320 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="About" class="font-weight-bold pix-nav-link text-body-default dropdown-toggle nav-link animate-in" target="_self" href="https://ambitionabroad.in/about-us/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-anim-type="fade-in" id="m-menu-item-dropdown-6320"><span class="pix-dropdown-title text-sm  pix-header-text">About</span></a>
+<div class="dropdown-menu"  aria-labelledby="m-menu-item-dropdown-6320" role="navigation">
+<div class="submenu-box pix-default-menu bg-white"><div  class="container">	<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7508 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="PTE Institute in Samana" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/pte-institute-samana/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">PTE Institute in Samana</span></a></div>
+	<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9162 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="Accreditation" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/accreditation/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">Accreditation</span></a></div>
+</div>
+</div>
+</div>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-6323 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center mega-item pix-mega-style-md"><a title="Services" class="font-weight-bold pix-nav-link text-body-default dropdown-toggle nav-link animate-in" target="_self" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-anim-type="fade-in" id="m-menu-item-dropdown-6323"><span class="pix-dropdown-title text-sm  pix-header-text">Services</span></a>
+<div class="dropdown-menu"  aria-labelledby="m-menu-item-dropdown-6323" role="navigation">
+<div class="submenu-box bg-white overflow-hidden2"><div class="container overflow-hidden"><div class="row w-100">	<div class="col-lg-6 none pix-p-202 pix-dropdown-padding">		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6328 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><h6 class="mega-col-title text-sm  text-heading-default  font-weight-bold" >Premium Courses</h6></div>
+		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6469 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="IELTS" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/ielts-institute-cheeka/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">IELTS</span></a></div>
+		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6496 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="PTE" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/pte-institute-cheeka/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">PTE</span></a></div>
+		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6504 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="CD-IELTS" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://ambitionabroad.in/cd-ielts-institute-cheeka/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">CD-IELTS</span></a></div>
+		<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6332 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a title="Advance Spoken English" class="font-weight-bold pix-nav-link  dropdown-item" target="_self" href="#"><span class="pix-dropdown-title  text-body-default  font-weight-bold">Advance Spoken English</span></a></div>
+	</div>
+	<div class="col-lg-6 none pix-p-202 pix-dropdown-padding"><div class="d-block position-relative w-100 pix-menu-box menu-item menu-item-type-custom menu-item-object-custom menu-item-6348 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100  pix-dark pix-menu-full-height"><div class="item-inner pix-menu-box-inner d-flex align-items-end w-100 h-100 pix-hover-item  position-relative overflow-hidden" style="-webkit-transform: translateZ(0);transform: translateZ(0);"><div class="overflow-hidden"><video class="pix-bg-image pix-video-elem pix-img-scale bg-video w-100" preload="none" loop muted playsinline style="pointer-events: none;">
+								<source src="https://ambitionabroad.in/wp-content/themes/essentials/inc/assets/loading-square.mp4" class="" data-src="https://ambitionabroad.in/wp-content/uploads/2021/09/Pearson-PTE-cheeka.mp4" type="video/mp4">
+								</video></div><a target="_self" href="#" class="pix-img-overlay pix-box-container d-md-flex align-items-center w-100 justify-content-center pix-p-20" ><h6 class="text-heading-default font-weight-bold pix-box-title">Automatic Grading in PTE Speaking</h6><span class="pix-box-link text-heading-default btn btn-sm p-0 font-weight-bold pix-py-5 text-sm2 pix-hover-item d-flex align-items-center align-self-stretch text-left">How PTE A.I Works <i class="ml-2 pixicon-angle-right d-flex align-self-center font-weight-bold pix-hover-right" style="line-height:16px;"></i></span></a></div></div>	</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7207 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="PTE Preparation" class="font-weight-bold pix-nav-link text-body-default nav-link animate-in" target="_self" href="https://ambitionabroad.in/free-pte-preparation-materials/" data-anim-type="fade-in"><span class="pix-dropdown-title text-sm  pix-header-text">PTE Preparation</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8484 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="IELTS Preparation" class="font-weight-bold pix-nav-link text-body-default nav-link animate-in" target="_self" href="https://ambitionabroad.in/free-ielts-preparation-exam-materials/" data-anim-type="fade-in"><span class="pix-dropdown-title text-sm  pix-header-text">IELTS Preparation</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item active menu-item-7429 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="PTE Prediction" class="font-weight-bold pix-nav-link text-body-default nav-link animate-in" target="_self" href="https://ambitionabroad.in/pte-prediction-file/" data-anim-type="fade-in"><span class="pix-dropdown-title text-sm  pix-header-text">PTE Prediction</span></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-7011 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a title="Downloads" class="font-weight-bold pix-nav-link text-body-default nav-link animate-in" target="_self" href="https://ambitionabroad.in/blog/" data-anim-type="fade-in"><span class="pix-dropdown-title text-sm  pix-header-text">Downloads</span></a></li>
+</ul></div>             </nav>
+                                   </div>
+              </header>
+      <div  class="pix-header-mobile bg-white pix-stack-mobile text-2 sticky-top2 py-22" style="">
+                <div  class="pix-header-border bg-gray-2" style="width:100%;height:1px;"></div>
+           <div class="container">
+                  <div class="row w-1002">
+                          <div class="col-12 column text-center2 d-flex justify-content-between text-md-left2 py-2">
+ 				    <div class="pix-px-5 d-inline-block2 d-inline-flex align-items-between pix-social text-18" data-anim-type="disabled">
+                    <a class="d-flex align-items-center pix-header-text text-body-default" target="_blank"  href="https://www.facebook.com/ambitionab" title="Facebook"><i class="pixicon-facebook3 px-2" ></i></a>
+                        <a class="d-flex align-items-center pix-header-text text-body-default" target="_blank"  href="https://twitter.com/ambitionab?lang=en" title="twitter"><i class="pixicon-twitter px-2" ></i></a>
+                        <a class="d-flex align-items-center pix-header-text text-body-default" target="_blank"  href="https://www.youtube.com/channel/UClTMYyY7ur54Rcv4AwQlelw" title="youtube"><i class="pixicon-youtube3 px-2" ></i></a>
+                        <a class="d-flex align-items-center pix-header-text text-body-default" target="_blank"  href="https://www.instagram.com/ambition_ielts/" title="instagram"><i class="pixicon-instagram2 px-2" ></i></a>
+                </div>
+            <div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
+            <a data-anim-type="disabled" class="btn btn-primary btn-sm pix-py-10 font-weight-bold d-flex2 align-items-center mr-0" href="https://ambitionabroad.in/free-pte-preparation-materials/"  style="" data-popup-link="" >
+                            <span>PTE Login</span>
+                        </a>
+        </div>
+                     </div>
+         </div>
+              </div>
+      </div>
+
+<div  id="content" class="site-content bg-white pix-pt-20" style="">
+    <div class="container">
+        <div class="row">
+
+                            <div class="pix-main-intro-placeholder"></div>
+                	<div class="col-12 col-lg-10 offset-lg-1">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main">
+
+				<article id="post-7412" class="post-7412 post type-post status-publish format-standard hentry category-download-material">
+									<div class="post-thumbnail">
+									</div><!-- .post-thumbnail -->
+							</article>
+			</main>
+		</div>
+	</div>
+
+<div class="col-12 col-md-2 col-lg-1 offset-lg-1">
+	<div class="pix-my-20 pix-post-meta-box sticky-top pix-sticky-top-adjust" style="top:120px;">
+							<div class="bg-white shadow-sm rounded-lg w-100 pix-py-10 pix-mb-10 text-center line-height-1">
+				<a href="#" class="d-inline-block position-relative text-xs align-items-center pixfort-likes" id="pixfort-likes-7412" title="Like this"><span class="pixfort-likes-small d-flex align-items-center justify-content-center text-right text-xs text-body-default svg-body-default"><span class="pixfort-likes-icon d-inline-block pix-pr-5"><svg height="16" viewbox="0 0 18 16" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m.22464899 6.06896552c1.01092043 3.75172414 5.64430577 7.53103448 8.42433697 9.79310348.11232449.0827586.22464899.137931.3650546.137931.14040562 0 .25273011-.0551724.3650546-.137931 4.85803434-4 7.60998444-7.17241383 8.39625584-9.73793107.0561623-.19310345.1123245-.4137931.1684868-.63448276v-.08275862c.0280811-.22068965.0561622-.44137931.0561622-.63448276v-.0275862-.02758621c0-2.59310345-2.1341654-4.68965517-4.773791-4.68965517-1.6848673 0-3.28549137.85517241-4.21216844 2.12413793-.95475819-1.29655173-2.55538221-2.15172414-4.24024961-2.15172414-2.58346334 0-4.66146646 1.95862069-4.77379095 4.49655172v.08275862.05517242.05517241c0 .46896552.08424337.96551724.22464899 1.37931035zm1.35035101-1.21735262v-.02580645c.05294118-1.83225806 1.56176471-3.27741935 3.44117647-3.27741935 1.50882353 0 2.93823529.9032258 3.44117647 2.16774193.05294118.20645162.21176471.36129032.42352941.41290323.26470589.0516129.50294118-.10322581.58235294-.33548387.50294118-1.29032258 1.98529411-2.24516129 3.49411761-2.24516129 1.9058824 0 3.4411765 1.49677419 3.4411765 3.35483871v.0516129c0 .15483871-.0264706.30967742-.0529412.46451613v.0516129c-.0264706.15483871-.0794117.33548387-.1058823.49032258-.6617647 2.09032258-3.0970588 4.90322578-7.25294119 8.33548388-2.54117647-2.0645161-6.43235295-5.31612904-7.25294118-8.38709678-.10588235-.33548387-.15882353-.67096774-.15882353-1.00645161 0 0 0-.02580646 0-.05161291z" fill="#bbb"/></svg></span><span class="pixfort-likes-count align-middle font-weight-bold" data-count="547">-</span></span></a>			</div>
+						</div>
+</div>
+<div class="col-12 col-md-8 offset-md-22">
+	<div class="content-area pix-post-area">
+		<main class="site-main post-full-width">
+			<article class="post-7412 post type-post status-publish format-standard hentry category-download-material">
+				<header class="entry-header">
+					<div id="pix-intro-sliding-text" class="text-inherit"><h1 class="mb-32 pix-sliding-headline-2 animate-in font-weight-bold secondary-font text-heading-default pix-post-title h4 pix-mt-20 font-weight-bold" data-anim-type="pix-sliding-text" pix-anim-delay="500" data-class="secondary-font text-heading-default" style=""><span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 0ms;">PTE&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 150ms;">Prediction&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 300ms;">File&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 450ms;">PDF&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 600ms;">2025&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 750ms;">|&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 900ms;">Real&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 1050ms;">PTE&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 1200ms;">Exam&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-heading-default" style="transition-delay: 1350ms;">Questions&#32;</span></span> </h1></div>
+						<div class="entry-meta pix-post-meta-inner d-flex align-items-center pix-my-20">
+							<div class="pix-post-meta-author text-heading-default font-weight-bold">
+								<a href="https://ambitionabroad.in/author/pteinstitute/" class="pix-post-entry-author text-heading-default font-weight-bold">
+									<img alt='PTE Institute' data-src='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=40&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo pix_blog_md_avatar pix-mr-10 shadow lazyload' height='40' width='40' decoding='async' src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==' style='--smush-placeholder-width: 40px; --smush-placeholder-aspect-ratio: 40/40;' />									<span class="text-sm">PTE Institute</span>
+								</a>
+							</div>
+							<div class="flex-fill text-right mr-2">
+								<div class="pix-post-meta-badges">
+								<a href="https://ambitionabroad.in/category/download-material/" target="_self"><span class="pix-badge-element d-inline-block mr-1"  ><span class="badge font-weight-bold bg-primary-light" style="font-size:12px; padding:5px 10px;line-height:14px;"><span class="text-primary" style="">Downloads</span></span></span></a>								</div>
+							</div>
+							<div class="pix-post-meta-date flex-fill2 text-right text-body-default text-sm">
+
+								<a class="pix-post-entry-date mb-0 d-inline-block text-body-default svg-body-default" href="https://ambitionabroad.in/pte-prediction-file/">
+									<span class="pr-1">
+										<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewbox="0 0 18 18">
+  <path fill="#BBB" d="M9,0 C13.95,0 18,4.05 18,9 C18,13.95 13.95,18 9,18 C4.05,18 0,13.95 0,9 C0,4.05 4.05,0 9,0 Z M9,16.2 C12.96,16.2 16.2,12.96 16.2,9 C16.2,5.04 12.96,1.8 9,1.8 C5.04,1.8 1.8,5.04 1.8,9 C1.8,12.96 5.04,16.2 9,16.2 Z M12.6,9.4 C13.26,9.4 13.8,9.64 13.8,10.3 C13.8,10.96 13.26,11.2 12.6,11.2 L7.8,11.2 L7.8,5.8 C7.8,5.14 8.04,4.6 8.7,4.6 C9.36,4.6 9.6,5.14 9.6,5.8 L9.6,9.4 L12.6,9.4 Z"/>
+</svg>
+									</span>
+									<span class="text-xs font-weight-bold">February 21, 2025</span>
+								</a>
+
+							</div>
+						</div><!-- .entry-meta -->
+									</header><!-- .entry-header -->
+
+				<div class="entry-content" id="pix-entry-content">
+					<section class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid vc_row_visible vc_custom_1634657211287"><div class="wpb_column vc_column_container vc_col-sm-12 text-left"><div class="vc_column-inner  vc_custom_1634657185405"><div class="wpb_wrapper"><div  class="pix-heading-el text-center"><div><div class="slide-in-container"><h1 class="text-primary font-weight-bold animate-in heading-text el-title_custom_color mb-12" style="" data-anim-type="slide-in-up" data-anim-delay="0">PTE Prediction File PDF</h1></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_row_visible vc_custom_1649571633148"><div class="wpb_column vc_column_container vc_col-sm-6 text-left"><div class="vc_column-inner  vc_custom_1649571642358"><div class="wpb_wrapper"><div class="d-inline-block" ><div class="pix-img-el    text-right d-inline-block   rounded-0"  ><img fetchpriority="high" decoding="async" class="card-img2 pix-img-elem rounded-0  h-1002" style="width:300px;height:auto;" width="1244" height="1757" srcset="https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail.png 1244w, https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail-212x300.png 212w, https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail-725x1024.png 725w, https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail-768x1085.png 768w, https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail-1088x1536.png 1088w" sizes="(max-width: 1244px) 100vw, 1244px" src="https://ambitionabroad.in/wp-content/uploads/2025/02/Prediction-Thumbnail.png" alt="PTE Prediction File 2025 (April Edition )" /></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 text-left"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class="pix-heading-el text-left  vc_custom_1743399558826"><div><div class="slide-in-container"><h2 class="text-black font-weight-bold heading-text el-title_custom_color mb-12" style="" data-anim-type="" data-anim-delay="0">April Edition 2025</h2></div></div></div><div class="pix-el-text w-100   vc_custom_1743399566719" ><p class="text-body-default" >[April 2025] Learn and practice only those questions which have over 90% of chance of appearing in REAL PTE exam. The Prediction file is updated weekly. [ Specially Reading &amp; Writing Fillups and Write From Dictations].
+<div class='w3eden'><!-- WPDM Link Template: Default Template -->
+
+<div class="link-template-default card mb-2">
+    <div class="card-body">
+        <div class="media">
+            <div class="mr-3 img-48"><img decoding="async" class="wpdm_icon lazyload" alt="Icon"   data-src="https://ambitionabroad.in/wp-content/plugins/download-manager/assets/file-type-icons/smart-watch-download.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></div>
+            <div class="media-body">
+                <h3 class="package-title"><a href='https://ambitionabroad.in/download/pte-prediction-file/'>PTE Prediction File</a></h3>
+                <div class="text-muted text-small"><i class="fas fa-copy"></i> 1 file(s) <i class="fas fa-hdd ml-3"></i> 19mb</div>
+            </div>
+            <div class="ml-3">
+                <a class='wpdm-download-link download-on-click btn btn-primary'  rel='nofollow' href='#' data-downloadurl="https://ambitionabroad.in/download/pte-prediction-file/?wpdmdl=7426&refresh=6ac0ce1ceca0a1791020572">Download</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_row_visible"><div class="wpb_column vc_column_container vc_col-sm-12 text-left"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="text-center"><div><h4 class="pix-headline my-3  slide-inverse text-heading-default font-weight-bold" style=""><span>Join Our Telegram Channel for Latest </span><span class="pix-words-wrapper"><span class="is-visible text-primary" >Prediction</span> <span class="text-secondary" >Templates</span> <span class="" >Updates</span> </span><span></span></h4></div></div><a  href="https://t.me/+sY7_OdTLv4QzMDhl" class="btn mb-2     shadow-hover btn-primary d-block w-100      btn-rounded btn-md" target="_blank" rel="noopener"    ><span class="font-weight-bold" >Telegram Channel</span></a></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_row_visible vc_custom_1649571658645"><div class="wpb_column vc_column_container vc_col-sm-12 text-left"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h3>( Only Real Exam Questions )</h3>
+<p>&nbsp;</p>
+<p><b>Download Latest Real PTE Exam Questions December PDF 2025. Practice Read Aloud and Repeat Sentence Highly Repeat Questions.</b></p>
+<p>This Prediction File covers 7 types of Questions</p>
+<ol>
+<li>Read Aloud. (40% Repeat Rate)</li>
+<li>Repeat Sentence.  (55% Repeat Rate)</li>
+<li>Describe Image  (40% Repeat Rate)</li>
+<li>Answer Short Questions.   (80% Repeat Rate)</li>
+<li>Essays.  (100% Repeat Rate)</li>
+<li>Listening (Fill-ups).  (45% Repeat Rate)</li>
+<li>Write From Dictations (99% Repeat Rate) <strong>(Most Important)</strong></li>
+</ol>
+<p>All of the materials are also available to practice from website as well with automatic scoring for free</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_row_visible vc_custom_1649484849186"><div class="wpb_column vc_column_container vc_col-sm-12 text-left"><div class="vc_column-inner"><div class="wpb_wrapper"><a  href="https://ambitionabroad.in/free-pte-preparation-materials/" class="btn mb-2     fly-lg btn-primary d-block w-100       btn-lg" target="_blank" rel="noopener"    ><span class="font-weight-bold" >Practice These Questions withA.I</span></a></div></div></div></div></section>					</div><!-- .entry-content -->
+				
+					
+						
+								</article><!-- #post-7412 -->
+
+			</main><!-- #main -->
+		</div><!-- #primary -->
+	</div>
+
+
+	
+	<!-- Post navigation -->
+	<div class="col-12">
+		
+	<nav class="navigation post-navigation" aria-label="Continue Reading">
+		<h2 class="screen-reader-text">Continue Reading</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://ambitionabroad.in/top-5-mistake-in-pte-exam/" rel="prev"><div class="card shadow-hover-sm shadow-sm d-inline-block m-3 bg-white pix-hover-item">
+    					  <div class="card-body pix-pl-20 pix-pr-10 pix-py-10">
+    						  <div class="d-flex justify-content-between align-items-center">
+    							<i class="pixicon-angle-left text-body-default font-weight-bold mr-3 pix-hover-left"></i>
+    							<div class="card-btn-content">
+    							<div class="text-body-default text-xs line-height-1">Previous post</div>
+    							<p class="card-title mb-0 text-heading-default font-weight-bold line-height-1 truncate-150">5 Common Technical Mistakes that students do in Real PTE Exam</p>
+    							</div>
+    							<div><img width="40" height="40" data-src="https://ambitionabroad.in/wp-content/uploads/2021/10/PTE-Tips-75x75.png" class="rounded-lg pix-ml-10 wp-post-image lazyload" alt="PTE Tips 2022" decoding="async" data-srcset="https://ambitionabroad.in/wp-content/uploads/2021/10/PTE-Tips-75x75.png 75w, https://ambitionabroad.in/wp-content/uploads/2021/10/PTE-Tips-150x150.png 150w, https://ambitionabroad.in/wp-content/uploads/2021/10/PTE-Tips-400x400.png 400w, https://ambitionabroad.in/wp-content/uploads/2021/10/PTE-Tips-460x460.png 460w" data-sizes="(max-width: 40px) 100vw, 40px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 40px; --smush-placeholder-aspect-ratio: 40/40;" /></div>
+    						</div>
+    					  </div>
+    					</div></a></div></div>
+	</nav>	</div>
+
+	    		<div class="col-12">
+    		<h5 class="pix-py-50 text-center"><span class="my-2 d-inline-block text-heading-default"><strong>Related Posts</strong></span></h5>
+    		</div>
+                    			<div class="col-12 col-md-6 col-lg-3 pb-5 pix-related-items">
+                        <article id="post-7064" class="h-100 align-self-stretch post-7064 post type-post status-publish format-standard has-post-thumbnail hentry category-download-material pix-pb-60 d-block position-relative animate-in" data-anim-type="fade-in-up" data-anim-delay="300"><div class="d-inline-block position-relative w-100 h-100"><div class="card w-100 h-100 bg-black pix-hover-item rounded-10 shadow-sm shadow-hover-sm fly-sm position-relative overflow-hidden pix-dark fly-sm2 overflow-hidden shadow-lg2 shadow-hover-lg2 row no-gutters flex-column flex-md-row"><img width="384" height="500" data-src="https://ambitionabroad.in/wp-content/uploads/2021/10/Cambridge-Book-7-1.jpeg" class="card-img pix-bg-image pix-img-scale rounded-0 flex-grow-1 h-100 pix-opacity-7 pix-fit-cover lazyload" alt="Cambridge IELTS Book 7 Practice Tests [Pdf]" decoding="async" data-srcset="https://ambitionabroad.in/wp-content/uploads/2021/10/Cambridge-Book-7-1.jpeg 384w, https://ambitionabroad.in/wp-content/uploads/2021/10/Cambridge-Book-7-1-230x300.jpeg 230w" data-sizes="(max-width: 384px) 100vw, 384px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 384px; --smush-placeholder-aspect-ratio: 384/500;" /><div class="card-img-overlay2 pix-post-meta-element pix-post-meta-full-img d-inline-block w-100 pix-img-overlay pix-p-20 d-flex align-items-end"><div class="w-100 d-flex align-items-start flex-column h-100"><div class="d-flex align-items-start w-100 mb-auto"><div class="w-100"><div class="entry-meta pix-fade-in d-flex align-items-center"><div class="flex-fill text-left"><a href="https://ambitionabroad.in/author/pteinstitute/" class="pix-post-meta-author text-heading-default font-weight-bold" data-toggle="tooltip" data-placement="right" title="By PTE Institute"><img alt='PTE Institute' data-src='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=24&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=48&#038;d=mm&#038;r=g 2x' class='avatar avatar-24 photo pix_blog_sm_avatar shadow lazyload' height='24' width='24' decoding='async' src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==' style='--smush-placeholder-width: 24px; --smush-placeholder-aspect-ratio: 24/24;' /></a></div><div class="flex-fill2 text-right text-sm"><a href="#" class="d-inline-block position-relative text-xs align-items-center pixfort-likes" id="pixfort-likes-7064" title="Like this"><span class="pixfort-likes-small d-flex align-items-center justify-content-center text-right text-xs text-body-default svg-body-default"><span class="pixfort-likes-icon d-inline-block pix-pr-5"><svg height="16" viewbox="0 0 18 16" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m.22464899 6.06896552c1.01092043 3.75172414 5.64430577 7.53103448 8.42433697 9.79310348.11232449.0827586.22464899.137931.3650546.137931.14040562 0 .25273011-.0551724.3650546-.137931 4.85803434-4 7.60998444-7.17241383 8.39625584-9.73793107.0561623-.19310345.1123245-.4137931.1684868-.63448276v-.08275862c.0280811-.22068965.0561622-.44137931.0561622-.63448276v-.0275862-.02758621c0-2.59310345-2.1341654-4.68965517-4.773791-4.68965517-1.6848673 0-3.28549137.85517241-4.21216844 2.12413793-.95475819-1.29655173-2.55538221-2.15172414-4.24024961-2.15172414-2.58346334 0-4.66146646 1.95862069-4.77379095 4.49655172v.08275862.05517242.05517241c0 .46896552.08424337.96551724.22464899 1.37931035zm1.35035101-1.21735262v-.02580645c.05294118-1.83225806 1.56176471-3.27741935 3.44117647-3.27741935 1.50882353 0 2.93823529.9032258 3.44117647 2.16774193.05294118.20645162.21176471.36129032.42352941.41290323.26470589.0516129.50294118-.10322581.58235294-.33548387.50294118-1.29032258 1.98529411-2.24516129 3.49411761-2.24516129 1.9058824 0 3.4411765 1.49677419 3.4411765 3.35483871v.0516129c0 .15483871-.0264706.30967742-.0529412.46451613v.0516129c-.0264706.15483871-.0794117.33548387-.1058823.49032258-.6617647 2.09032258-3.0970588 4.90322578-7.25294119 8.33548388-2.54117647-2.0645161-6.43235295-5.31612904-7.25294118-8.38709678-.10588235-.33548387-.15882353-.67096774-.15882353-1.00645161 0 0 0-.02580646 0-.05161291z" fill="#bbb"/></svg></span><span class="pixfort-likes-count align-middle font-weight-bold" data-count="27">-</span></span></a></div></div></div></div><div class="d-flex align-items-end w-100 item-full-content"><div class="w-100"><div class="pix-post-meta-categories"><a href="https://ambitionabroad.in/category/download-material/" target="_self"><span class="pix-badge-element d-inline-block mr-1"  ><span class="badge font-weight-bold bg-dark-opacity-5" style="font-size:12px; padding:5px 10px;margin-right:3px;line-height:12px;"><span class="text-dark-opacity-5" style="">Downloads</span></span></span></a></div><h5 class="entry-title pix-py-10 font-weight-bold"><a class="text-heading-default line-clamp-4" href="https://ambitionabroad.in/cambridge-ielts-book-7-pdf/" rel="bookmark">Cambridge IELTS Book 7 Practice Tests [Pdf]</a></h5><div class="d-inline-block  pix-post-meta-date w-100 position-relative pix-pt-10"><div class="text-right d-flex w-100" style="line-height:0;"><div class="text-left"><a class="mb-0 d-inline-block2 d-flex align-items-center text-xs text-body-default svg-body-default" href="https://ambitionabroad.in/cambridge-ielts-book-7-pdf/"><span class="pr-1"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewbox="0 0 18 18">
+  <path fill="#BBB" d="M9,0 C13.95,0 18,4.05 18,9 C18,13.95 13.95,18 9,18 C4.05,18 0,13.95 0,9 C0,4.05 4.05,0 9,0 Z M9,16.2 C12.96,16.2 16.2,12.96 16.2,9 C16.2,5.04 12.96,1.8 9,1.8 C5.04,1.8 1.8,5.04 1.8,9 C1.8,12.96 5.04,16.2 9,16.2 Z M12.6,9.4 C13.26,9.4 13.8,9.64 13.8,10.3 C13.8,10.96 13.26,11.2 12.6,11.2 L7.8,11.2 L7.8,5.8 C7.8,5.14 8.04,4.6 8.7,4.6 C9.36,4.6 9.6,5.14 9.6,5.8 L9.6,9.4 L12.6,9.4 Z"/>
+</svg>
+</span><span class="text-body-default">October 20, 2021</span></a></div></div></div></div></div></div></div></div></div></article>        			</div>
+                        			<div class="col-12 col-md-6 col-lg-3 pb-5 pix-related-items">
+                        <article id="post-7054" class="h-100 align-self-stretch post-7054 post type-post status-publish format-standard has-post-thumbnail hentry category-download-material pix-pb-60 d-block position-relative animate-in" data-anim-type="fade-in-up" data-anim-delay="300"><div class="d-inline-block position-relative w-100 h-100"><div class="card w-100 h-100 bg-black pix-hover-item rounded-10 shadow-sm shadow-hover-sm fly-sm position-relative overflow-hidden pix-dark fly-sm2 overflow-hidden shadow-lg2 shadow-hover-lg2 row no-gutters flex-column flex-md-row"><img width="638" height="903" data-src="https://ambitionabroad.in/wp-content/uploads/2021/10/Collins-Vocabulary-Book-Download.webp" class="card-img pix-bg-image pix-img-scale rounded-0 flex-grow-1 h-100 pix-opacity-7 pix-fit-cover lazyload" alt="Collins Vocabulary for IELTS Book [PDF] [2021]" decoding="async" data-srcset="https://ambitionabroad.in/wp-content/uploads/2021/10/Collins-Vocabulary-Book-Download.webp 638w, https://ambitionabroad.in/wp-content/uploads/2021/10/Collins-Vocabulary-Book-Download-212x300.webp 212w" data-sizes="(max-width: 638px) 100vw, 638px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 638px; --smush-placeholder-aspect-ratio: 638/903;" /><div class="card-img-overlay2 pix-post-meta-element pix-post-meta-full-img d-inline-block w-100 pix-img-overlay pix-p-20 d-flex align-items-end"><div class="w-100 d-flex align-items-start flex-column h-100"><div class="d-flex align-items-start w-100 mb-auto"><div class="w-100"><div class="entry-meta pix-fade-in d-flex align-items-center"><div class="flex-fill text-left"><a href="https://ambitionabroad.in/author/pteinstitute/" class="pix-post-meta-author text-heading-default font-weight-bold" data-toggle="tooltip" data-placement="right" title="By PTE Institute"><img alt='PTE Institute' data-src='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=24&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=48&#038;d=mm&#038;r=g 2x' class='avatar avatar-24 photo pix_blog_sm_avatar shadow lazyload' height='24' width='24' decoding='async' src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==' style='--smush-placeholder-width: 24px; --smush-placeholder-aspect-ratio: 24/24;' /></a></div><div class="flex-fill2 text-right text-sm"><a href="#" class="d-inline-block position-relative text-xs align-items-center pixfort-likes" id="pixfort-likes-7054" title="Like this"><span class="pixfort-likes-small d-flex align-items-center justify-content-center text-right text-xs text-body-default svg-body-default"><span class="pixfort-likes-icon d-inline-block pix-pr-5"><svg height="16" viewbox="0 0 18 16" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m.22464899 6.06896552c1.01092043 3.75172414 5.64430577 7.53103448 8.42433697 9.79310348.11232449.0827586.22464899.137931.3650546.137931.14040562 0 .25273011-.0551724.3650546-.137931 4.85803434-4 7.60998444-7.17241383 8.39625584-9.73793107.0561623-.19310345.1123245-.4137931.1684868-.63448276v-.08275862c.0280811-.22068965.0561622-.44137931.0561622-.63448276v-.0275862-.02758621c0-2.59310345-2.1341654-4.68965517-4.773791-4.68965517-1.6848673 0-3.28549137.85517241-4.21216844 2.12413793-.95475819-1.29655173-2.55538221-2.15172414-4.24024961-2.15172414-2.58346334 0-4.66146646 1.95862069-4.77379095 4.49655172v.08275862.05517242.05517241c0 .46896552.08424337.96551724.22464899 1.37931035zm1.35035101-1.21735262v-.02580645c.05294118-1.83225806 1.56176471-3.27741935 3.44117647-3.27741935 1.50882353 0 2.93823529.9032258 3.44117647 2.16774193.05294118.20645162.21176471.36129032.42352941.41290323.26470589.0516129.50294118-.10322581.58235294-.33548387.50294118-1.29032258 1.98529411-2.24516129 3.49411761-2.24516129 1.9058824 0 3.4411765 1.49677419 3.4411765 3.35483871v.0516129c0 .15483871-.0264706.30967742-.0529412.46451613v.0516129c-.0264706.15483871-.0794117.33548387-.1058823.49032258-.6617647 2.09032258-3.0970588 4.90322578-7.25294119 8.33548388-2.54117647-2.0645161-6.43235295-5.31612904-7.25294118-8.38709678-.10588235-.33548387-.15882353-.67096774-.15882353-1.00645161 0 0 0-.02580646 0-.05161291z" fill="#bbb"/></svg></span><span class="pixfort-likes-count align-middle font-weight-bold" data-count="13">-</span></span></a></div></div></div></div><div class="d-flex align-items-end w-100 item-full-content"><div class="w-100"><div class="pix-post-meta-categories"><a href="https://ambitionabroad.in/category/download-material/" target="_self"><span class="pix-badge-element d-inline-block mr-1"  ><span class="badge font-weight-bold bg-dark-opacity-5" style="font-size:12px; padding:5px 10px;margin-right:3px;line-height:12px;"><span class="text-dark-opacity-5" style="">Downloads</span></span></span></a></div><h5 class="entry-title pix-py-10 font-weight-bold"><a class="text-heading-default line-clamp-4" href="https://ambitionabroad.in/collins-vocabulary-ielts/" rel="bookmark">Collins Vocabulary for IELTS Book [PDF] [2021]</a></h5><div class="d-inline-block  pix-post-meta-date w-100 position-relative pix-pt-10"><div class="text-right d-flex w-100" style="line-height:0;"><div class="text-left"><a class="mb-0 d-inline-block2 d-flex align-items-center text-xs text-body-default svg-body-default" href="https://ambitionabroad.in/collins-vocabulary-ielts/"><span class="pr-1"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewbox="0 0 18 18">
+  <path fill="#BBB" d="M9,0 C13.95,0 18,4.05 18,9 C18,13.95 13.95,18 9,18 C4.05,18 0,13.95 0,9 C0,4.05 4.05,0 9,0 Z M9,16.2 C12.96,16.2 16.2,12.96 16.2,9 C16.2,5.04 12.96,1.8 9,1.8 C5.04,1.8 1.8,5.04 1.8,9 C1.8,12.96 5.04,16.2 9,16.2 Z M12.6,9.4 C13.26,9.4 13.8,9.64 13.8,10.3 C13.8,10.96 13.26,11.2 12.6,11.2 L7.8,11.2 L7.8,5.8 C7.8,5.14 8.04,4.6 8.7,4.6 C9.36,4.6 9.6,5.14 9.6,5.8 L9.6,9.4 L12.6,9.4 Z"/>
+</svg>
+</span><span class="text-body-default">October 19, 2021</span></a></div></div></div></div></div></div></div></div></div></article>        			</div>
+                        			<div class="col-12 col-md-6 col-lg-3 pb-5 pix-related-items">
+                        <article id="post-7045" class="h-100 align-self-stretch post-7045 post type-post status-publish format-standard has-post-thumbnail hentry category-download-material pix-pb-60 d-block position-relative animate-in" data-anim-type="fade-in-up" data-anim-delay="300"><div class="d-inline-block position-relative w-100 h-100"><div class="card w-100 h-100 bg-black pix-hover-item rounded-10 shadow-sm shadow-hover-sm fly-sm position-relative overflow-hidden pix-dark fly-sm2 overflow-hidden shadow-lg2 shadow-hover-lg2 row no-gutters flex-column flex-md-row"><img width="639" height="832" data-src="https://ambitionabroad.in/wp-content/uploads/2021/10/Cambridge-Book-9.jpeg" class="card-img pix-bg-image pix-img-scale rounded-0 flex-grow-1 h-100 pix-opacity-7 pix-fit-cover lazyload" alt="Cambridge IELTS Book 9 Practice Tests [PDF]" decoding="async" data-srcset="https://ambitionabroad.in/wp-content/uploads/2021/10/Cambridge-Book-9.jpeg 639w, https://ambitionabroad.in/wp-content/uploads/2021/10/Cambridge-Book-9-230x300.jpeg 230w" data-sizes="(max-width: 639px) 100vw, 639px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 639px; --smush-placeholder-aspect-ratio: 639/832;" /><div class="card-img-overlay2 pix-post-meta-element pix-post-meta-full-img d-inline-block w-100 pix-img-overlay pix-p-20 d-flex align-items-end"><div class="w-100 d-flex align-items-start flex-column h-100"><div class="d-flex align-items-start w-100 mb-auto"><div class="w-100"><div class="entry-meta pix-fade-in d-flex align-items-center"><div class="flex-fill text-left"><a href="https://ambitionabroad.in/author/pteinstitute/" class="pix-post-meta-author text-heading-default font-weight-bold" data-toggle="tooltip" data-placement="right" title="By PTE Institute"><img alt='PTE Institute' data-src='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=24&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=48&#038;d=mm&#038;r=g 2x' class='avatar avatar-24 photo pix_blog_sm_avatar shadow lazyload' height='24' width='24' decoding='async' src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==' style='--smush-placeholder-width: 24px; --smush-placeholder-aspect-ratio: 24/24;' /></a></div><div class="flex-fill2 text-right text-sm"><a href="#" class="d-inline-block position-relative text-xs align-items-center pixfort-likes" id="pixfort-likes-7045" title="Like this"><span class="pixfort-likes-small d-flex align-items-center justify-content-center text-right text-xs text-body-default svg-body-default"><span class="pixfort-likes-icon d-inline-block pix-pr-5"><svg height="16" viewbox="0 0 18 16" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m.22464899 6.06896552c1.01092043 3.75172414 5.64430577 7.53103448 8.42433697 9.79310348.11232449.0827586.22464899.137931.3650546.137931.14040562 0 .25273011-.0551724.3650546-.137931 4.85803434-4 7.60998444-7.17241383 8.39625584-9.73793107.0561623-.19310345.1123245-.4137931.1684868-.63448276v-.08275862c.0280811-.22068965.0561622-.44137931.0561622-.63448276v-.0275862-.02758621c0-2.59310345-2.1341654-4.68965517-4.773791-4.68965517-1.6848673 0-3.28549137.85517241-4.21216844 2.12413793-.95475819-1.29655173-2.55538221-2.15172414-4.24024961-2.15172414-2.58346334 0-4.66146646 1.95862069-4.77379095 4.49655172v.08275862.05517242.05517241c0 .46896552.08424337.96551724.22464899 1.37931035zm1.35035101-1.21735262v-.02580645c.05294118-1.83225806 1.56176471-3.27741935 3.44117647-3.27741935 1.50882353 0 2.93823529.9032258 3.44117647 2.16774193.05294118.20645162.21176471.36129032.42352941.41290323.26470589.0516129.50294118-.10322581.58235294-.33548387.50294118-1.29032258 1.98529411-2.24516129 3.49411761-2.24516129 1.9058824 0 3.4411765 1.49677419 3.4411765 3.35483871v.0516129c0 .15483871-.0264706.30967742-.0529412.46451613v.0516129c-.0264706.15483871-.0794117.33548387-.1058823.49032258-.6617647 2.09032258-3.0970588 4.90322578-7.25294119 8.33548388-2.54117647-2.0645161-6.43235295-5.31612904-7.25294118-8.38709678-.10588235-.33548387-.15882353-.67096774-.15882353-1.00645161 0 0 0-.02580646 0-.05161291z" fill="#bbb"/></svg></span><span class="pixfort-likes-count align-middle font-weight-bold" data-count="15">-</span></span></a></div></div></div></div><div class="d-flex align-items-end w-100 item-full-content"><div class="w-100"><div class="pix-post-meta-categories"><a href="https://ambitionabroad.in/category/download-material/" target="_self"><span class="pix-badge-element d-inline-block mr-1"  ><span class="badge font-weight-bold bg-dark-opacity-5" style="font-size:12px; padding:5px 10px;margin-right:3px;line-height:12px;"><span class="text-dark-opacity-5" style="">Downloads</span></span></span></a></div><h5 class="entry-title pix-py-10 font-weight-bold"><a class="text-heading-default line-clamp-4" href="https://ambitionabroad.in/cambridge-ielts-book-9-pdf/" rel="bookmark">Cambridge IELTS Book 9 Practice Tests [PDF]</a></h5><div class="d-inline-block  pix-post-meta-date w-100 position-relative pix-pt-10"><div class="text-right d-flex w-100" style="line-height:0;"><div class="text-left"><a class="mb-0 d-inline-block2 d-flex align-items-center text-xs text-body-default svg-body-default" href="https://ambitionabroad.in/cambridge-ielts-book-9-pdf/"><span class="pr-1"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewbox="0 0 18 18">
+  <path fill="#BBB" d="M9,0 C13.95,0 18,4.05 18,9 C18,13.95 13.95,18 9,18 C4.05,18 0,13.95 0,9 C0,4.05 4.05,0 9,0 Z M9,16.2 C12.96,16.2 16.2,12.96 16.2,9 C16.2,5.04 12.96,1.8 9,1.8 C5.04,1.8 1.8,5.04 1.8,9 C1.8,12.96 5.04,16.2 9,16.2 Z M12.6,9.4 C13.26,9.4 13.8,9.64 13.8,10.3 C13.8,10.96 13.26,11.2 12.6,11.2 L7.8,11.2 L7.8,5.8 C7.8,5.14 8.04,4.6 8.7,4.6 C9.36,4.6 9.6,5.14 9.6,5.8 L9.6,9.4 L12.6,9.4 Z"/>
+</svg>
+</span><span class="text-body-default">October 19, 2021</span></a></div></div></div></div></div></div></div></div></div></article>        			</div>
+                        			<div class="col-12 col-md-6 col-lg-3 pb-5 pix-related-items">
+                        <article id="post-6150" class="h-100 align-self-stretch post-6150 post type-post status-publish format-standard has-post-thumbnail hentry category-download-material pix-pb-60 d-block position-relative animate-in" data-anim-type="fade-in-up" data-anim-delay="300"><div class="d-inline-block position-relative w-100 h-100"><div class="card w-100 h-100 bg-black pix-hover-item rounded-10 shadow-sm shadow-hover-sm fly-sm position-relative overflow-hidden pix-dark fly-sm2 overflow-hidden shadow-lg2 shadow-hover-lg2 row no-gutters flex-column flex-md-row"><img width="383" height="500" data-src="https://ambitionabroad.in/wp-content/uploads/2017/07/Cambridge-IELTS-Book-8.jpeg" class="card-img pix-bg-image pix-img-scale rounded-0 flex-grow-1 h-100 pix-opacity-7 pix-fit-cover lazyload" alt="Cambridge IELTS Book 8 Practice Tests | Free Download PDF [2021]" decoding="async" data-srcset="https://ambitionabroad.in/wp-content/uploads/2017/07/Cambridge-IELTS-Book-8.jpeg 383w, https://ambitionabroad.in/wp-content/uploads/2017/07/Cambridge-IELTS-Book-8-230x300.jpeg 230w" data-sizes="(max-width: 383px) 100vw, 383px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 383px; --smush-placeholder-aspect-ratio: 383/500;" /><div class="card-img-overlay2 pix-post-meta-element pix-post-meta-full-img d-inline-block w-100 pix-img-overlay pix-p-20 d-flex align-items-end"><div class="w-100 d-flex align-items-start flex-column h-100"><div class="d-flex align-items-start w-100 mb-auto"><div class="w-100"><div class="entry-meta pix-fade-in d-flex align-items-center"><div class="flex-fill text-left"><a href="https://ambitionabroad.in/author/pteinstitute/" class="pix-post-meta-author text-heading-default font-weight-bold" data-toggle="tooltip" data-placement="right" title="By PTE Institute"><img alt='PTE Institute' data-src='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=24&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/32e19a491662fd86de7d3806b1199b76f0ee44e928d3475f05b0c8a59912c097?s=48&#038;d=mm&#038;r=g 2x' class='avatar avatar-24 photo pix_blog_sm_avatar shadow lazyload' height='24' width='24' decoding='async' src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==' style='--smush-placeholder-width: 24px; --smush-placeholder-aspect-ratio: 24/24;' /></a></div><div class="flex-fill2 text-right text-sm"><a href="#" class="d-inline-block position-relative text-xs align-items-center pixfort-likes" id="pixfort-likes-6150" title="Like this"><span class="pixfort-likes-small d-flex align-items-center justify-content-center text-right text-xs text-body-default svg-body-default"><span class="pixfort-likes-icon d-inline-block pix-pr-5"><svg height="16" viewbox="0 0 18 16" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m.22464899 6.06896552c1.01092043 3.75172414 5.64430577 7.53103448 8.42433697 9.79310348.11232449.0827586.22464899.137931.3650546.137931.14040562 0 .25273011-.0551724.3650546-.137931 4.85803434-4 7.60998444-7.17241383 8.39625584-9.73793107.0561623-.19310345.1123245-.4137931.1684868-.63448276v-.08275862c.0280811-.22068965.0561622-.44137931.0561622-.63448276v-.0275862-.02758621c0-2.59310345-2.1341654-4.68965517-4.773791-4.68965517-1.6848673 0-3.28549137.85517241-4.21216844 2.12413793-.95475819-1.29655173-2.55538221-2.15172414-4.24024961-2.15172414-2.58346334 0-4.66146646 1.95862069-4.77379095 4.49655172v.08275862.05517242.05517241c0 .46896552.08424337.96551724.22464899 1.37931035zm1.35035101-1.21735262v-.02580645c.05294118-1.83225806 1.56176471-3.27741935 3.44117647-3.27741935 1.50882353 0 2.93823529.9032258 3.44117647 2.16774193.05294118.20645162.21176471.36129032.42352941.41290323.26470589.0516129.50294118-.10322581.58235294-.33548387.50294118-1.29032258 1.98529411-2.24516129 3.49411761-2.24516129 1.9058824 0 3.4411765 1.49677419 3.4411765 3.35483871v.0516129c0 .15483871-.0264706.30967742-.0529412.46451613v.0516129c-.0264706.15483871-.0794117.33548387-.1058823.49032258-.6617647 2.09032258-3.0970588 4.90322578-7.25294119 8.33548388-2.54117647-2.0645161-6.43235295-5.31612904-7.25294118-8.38709678-.10588235-.33548387-.15882353-.67096774-.15882353-1.00645161 0 0 0-.02580646 0-.05161291z" fill="#bbb"/></svg></span><span class="pixfort-likes-count align-middle font-weight-bold" data-count="5">-</span></span></a></div></div></div></div><div class="d-flex align-items-end w-100 item-full-content"><div class="w-100"><div class="pix-post-meta-categories"><a href="https://ambitionabroad.in/category/download-material/" target="_self"><span class="pix-badge-element d-inline-block mr-1"  ><span class="badge font-weight-bold bg-dark-opacity-5" style="font-size:12px; padding:5px 10px;margin-right:3px;line-height:12px;"><span class="text-dark-opacity-5" style="">Downloads</span></span></span></a></div><h5 class="entry-title pix-py-10 font-weight-bold"><a class="text-heading-default line-clamp-4" href="https://ambitionabroad.in/cambridge-practice-tests-ielts-book-8-pdf/" rel="bookmark">Cambridge IELTS Book 8 Practice Tests | Free Download PDF [2021]</a></h5><div class="d-inline-block  pix-post-meta-date w-100 position-relative pix-pt-10"><div class="text-right d-flex w-100" style="line-height:0;"><div class="text-left"><a class="mb-0 d-inline-block2 d-flex align-items-center text-xs text-body-default svg-body-default" href="https://ambitionabroad.in/cambridge-practice-tests-ielts-book-8-pdf/"><span class="pr-1"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewbox="0 0 18 18">
+  <path fill="#BBB" d="M9,0 C13.95,0 18,4.05 18,9 C18,13.95 13.95,18 9,18 C4.05,18 0,13.95 0,9 C0,4.05 4.05,0 9,0 Z M9,16.2 C12.96,16.2 16.2,12.96 16.2,9 C16.2,5.04 12.96,1.8 9,1.8 C5.04,1.8 1.8,5.04 1.8,9 C1.8,12.96 5.04,16.2 9,16.2 Z M12.6,9.4 C13.26,9.4 13.8,9.64 13.8,10.3 C13.8,10.96 13.26,11.2 12.6,11.2 L7.8,11.2 L7.8,5.8 C7.8,5.14 8.04,4.6 8.7,4.6 C9.36,4.6 9.6,5.14 9.6,5.8 L9.6,9.4 L12.6,9.4 Z"/>
+</svg>
+</span><span class="text-body-default">July 4, 2017</span></a></div></div></div></div></div></div></div></div></div></article>        			</div>
+                
+			<div class="col-12 col-md-8 offset-md-2 pix-pt-40 pix-pb-80">
+			
+<div id="comments" class="comments-area pix-mb-40">
+
+			<h5 class="comments-title text-heading-default text-center font-weight-bold my-3">
+			3 Comments		</h5><!-- .comments-title -->
+
+		
+		<div class="comment-list">
+				<div class="comment even thread-even depth-1" id="comment-1531">		<div class="media rounded-xl pix-p-30 pix-my-20 ml-md-0 rounded-lg">
+		<div class="mr-3 rounded"><img alt='' data-src='https://secure.gravatar.com/avatar/67fb84753c1e98bc2eac69faa3401dba271069920b2897dd1d98d8e88cf2392d?s=80&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/67fb84753c1e98bc2eac69faa3401dba271069920b2897dd1d98d8e88cf2392d?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo bg-dark-opacity-1 pix_blog_lg_avatar pix-mr-20 shadow lazyload' height='80' width='80' decoding='async' src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==' style='--smush-placeholder-width: 80px; --smush-placeholder-aspect-ratio: 80/80;' /></div>		<div class="media-body">
+			<div  class="d-flex">
+				<div class="flex-fill">
+					<h6 class="mt-0 font-weight-bold text-heading-default"><a href="http://ambition%20abroad" class="url" rel="ugc external nofollow">poonampreet kaur</a></h6>
+									</div>
+				<div  class="">
+					<div class="reply">
+											</div>
+				</div>
+			</div>
+			<div class="comment-meta commentmetadata mb-0">
+				<a class="pix-mb-10 d-inline-block text-xs text-body-default svg-body-default" href="https://ambitionabroad.in/pte-prediction-file/#comment-1531">
+					<span class="pr-1">
+						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewbox="0 0 18 18">
+  <path fill="#BBB" d="M9,0 C13.95,0 18,4.05 18,9 C18,13.95 13.95,18 9,18 C4.05,18 0,13.95 0,9 C0,4.05 4.05,0 9,0 Z M9,16.2 C12.96,16.2 16.2,12.96 16.2,9 C16.2,5.04 12.96,1.8 9,1.8 C5.04,1.8 1.8,5.04 1.8,9 C1.8,12.96 5.04,16.2 9,16.2 Z M12.6,9.4 C13.26,9.4 13.8,9.64 13.8,10.3 C13.8,10.96 13.26,11.2 12.6,11.2 L7.8,11.2 L7.8,5.8 C7.8,5.14 8.04,4.6 8.7,4.6 C9.36,4.6 9.6,5.14 9.6,5.8 L9.6,9.4 L12.6,9.4 Z"/>
+</svg>
+					</span>
+					<span class="">February 6, 2023					</span>
+				</a>
+							</div>
+		<p class="mb-0 pix-pt-20"><p>great</p>
+</p>
+	</div>
+</div>
+</div><!-- #comment-## -->
+	<div class="comment odd alt thread-odd thread-alt depth-1" id="comment-1536">		<div class="media rounded-xl pix-p-30 pix-my-20 ml-md-0 rounded-lg">
+		<div class="mr-3 rounded"><img alt='' data-src='https://secure.gravatar.com/avatar/2aaabaa5bc1e1dea9997c38c1caaa10ad2c62167be6fac3b872c4a8ad5932cdb?s=80&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/2aaabaa5bc1e1dea9997c38c1caaa10ad2c62167be6fac3b872c4a8ad5932cdb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo bg-dark-opacity-1 pix_blog_lg_avatar pix-mr-20 shadow lazyload' height='80' width='80' decoding='async' src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==' style='--smush-placeholder-width: 80px; --smush-placeholder-aspect-ratio: 80/80;' /></div>		<div class="media-body">
+			<div class="d-flex">
+				<div class="flex-fill">
+					<h6 class="mt-0 font-weight-bold text-heading-default"><a href="http://Ambition%20abroad" class="url" rel="ugc external nofollow">Navjinder preet kaur</a></h6>
+									</div>
+				<div class="">
+					<div class="reply">
+											</div>
+				</div>
+			</div>
+			<div class="comment-meta commentmetadata mb-0">
+				<a class="pix-mb-10 d-inline-block text-xs text-body-default svg-body-default" href="https://ambitionabroad.in/pte-prediction-file/#comment-1536">
+					<span class="pr-1">
+						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewbox="0 0 18 18">
+  <path fill="#BBB" d="M9,0 C13.95,0 18,4.05 18,9 C18,13.95 13.95,18 9,18 C4.05,18 0,13.95 0,9 C0,4.05 4.05,0 9,0 Z M9,16.2 C12.96,16.2 16.2,12.96 16.2,9 C16.2,5.04 12.96,1.8 9,1.8 C5.04,1.8 1.8,5.04 1.8,9 C1.8,12.96 5.04,16.2 9,16.2 Z M12.6,9.4 C13.26,9.4 13.8,9.64 13.8,10.3 C13.8,10.96 13.26,11.2 12.6,11.2 L7.8,11.2 L7.8,5.8 C7.8,5.14 8.04,4.6 8.7,4.6 C9.36,4.6 9.6,5.14 9.6,5.8 L9.6,9.4 L12.6,9.4 Z"/>
+</svg>
+					</span>
+					<span class="">February 15, 2023					</span>
+				</a>
+							</div>
+		<p class="mb-0 pix-pt-20"><p>Thanks</p>
+</p>
+	</div>
+</div>
+</div><!-- #comment-## -->
+	<div class="comment even thread-even depth-1" id="comment-1550">		<div class="media rounded-xl pix-p-30 pix-my-20 ml-md-0 rounded-lg">
+		<div class="mr-3 rounded"><img alt='' data-src='https://secure.gravatar.com/avatar/76eeb939c2ed0bcf71140268a42ce6a473819a06c934dd405383c546455a26b2?s=80&#038;d=mm&#038;r=g' data-srcset='https://secure.gravatar.com/avatar/76eeb939c2ed0bcf71140268a42ce6a473819a06c934dd405383c546455a26b2?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo bg-dark-opacity-1 pix_blog_lg_avatar pix-mr-20 shadow lazyload' height='80' width='80' decoding='async' src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==' style='--smush-placeholder-width: 80px; --smush-placeholder-aspect-ratio: 80/80;' /></div>		<div class="media-body">
+			<div class="d-flex">
+				<div class="flex-fill">
+					<h6 class="mt-0 font-weight-bold text-heading-default">Ronak</h6>
+									</div>
+				<div class="">
+					<div class="reply">
+											</div>
+				</div>
+			</div>
+			<div class="comment-meta commentmetadata mb-0">
+				<a class="pix-mb-10 d-inline-block text-xs text-body-default svg-body-default" href="https://ambitionabroad.in/pte-prediction-file/#comment-1550">
+					<span class="pr-1">
+						<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewbox="0 0 18 18">
+  <path fill="#BBB" d="M9,0 C13.95,0 18,4.05 18,9 C18,13.95 13.95,18 9,18 C4.05,18 0,13.95 0,9 C0,4.05 4.05,0 9,0 Z M9,16.2 C12.96,16.2 16.2,12.96 16.2,9 C16.2,5.04 12.96,1.8 9,1.8 C5.04,1.8 1.8,5.04 1.8,9 C1.8,12.96 5.04,16.2 9,16.2 Z M12.6,9.4 C13.26,9.4 13.8,9.64 13.8,10.3 C13.8,10.96 13.26,11.2 12.6,11.2 L7.8,11.2 L7.8,5.8 C7.8,5.14 8.04,4.6 8.7,4.6 C9.36,4.6 9.6,5.14 9.6,5.8 L9.6,9.4 L12.6,9.4 Z"/>
+</svg>
+					</span>
+					<span class="">April 15, 2023					</span>
+				</a>
+							</div>
+		<p class="mb-0 pix-pt-20"><p>Update 13 April to 30 April</p>
+</p>
+	</div>
+</div>
+</div><!-- #comment-## -->
+		</div><!-- .comment-list -->
+
+					<p class="no-comments">Comments are closed.</p>
+			
+</div><!-- #comments -->
+		</div>
+		        </div>
+    </div>
+</div>
+
+
+<footer data-wpr-lazyrender="1" id="pix-page-footer" class="site-footer2  bg-white my-0 py-0" data-sticky-bg="" data-sticky-color="">
+	<div  class="container my-0 py-0">
+		<div class="row my-0 py-0">
+			<div class="col-12 my-0 py-0">
+				<section class="wpb-content-wrapper"><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section vc_section_visible vc_custom_1591763045479 vc_section-has-fill" data-section-name=""><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_row_visible vc_custom_1591763469360 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 text-left"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="pix-el-text w-100   vc_custom_1743655328581" ><div class="d-inline-block" style="max-width:400px;"><p class="m-0 text-light-opacity-5" ><span class="text-light-opacity-5 animate-in d-inline-block" data-anim-delay="200" data-anim-type="fade-in-up"><strong>Developed</strong> by <strong>Ankush Aggarwal</strong> © All rights reserved.</span></p></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 text-right"><div class="vc_column-inner  vc_custom_1589667876780"><div class="wpb_wrapper"><div class="text-light-opacity-5 text-right pix-social-icons font-weight-bold d-inline-block" style="font-size:32px;"><a target="_blank" href="https://www.facebook.com/ambitionab" aria-label="" class="text-light-opacity-5 animate-in d-inline-block fly-sm  px-3" data-anim-type="fade-in-up" data-anim-delay="400"><i class="pixicon-facebook3" style=""></i></a><a target="_blank" href="https://twitter.com/ambitionab?lang=en" aria-label="" class="text-light-opacity-5 animate-in d-inline-block fly-sm  px-3" data-anim-type="fade-in-up" data-anim-delay="500"><i class="pixicon-twitter" style=""></i></a><a target="_blank" href="https://www.instagram.com/ambition_ielts/" aria-label="" class="text-light-opacity-5 animate-in d-inline-block fly-sm  px-3" data-anim-type="fade-in-up" data-anim-delay="600"><i class="pixicon-instagram2" style=""></i></a><a target="_blank" href="https://www.youtube.com/channel/UClTMYyY7ur54Rcv4AwQlelw" aria-label="" class="text-light-opacity-5 animate-in d-inline-block fly-sm  px-3" data-anim-type="fade-in-up" data-anim-delay="700"><i class="pixicon-youtube2" style=""></i></a></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_row_visible vc_custom_1591763515593 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-4 text-left"><div class="vc_column-inner  vc_custom_1635066679688"><div class="wpb_wrapper"><div class="pix-img-div  text-left"><div class="pix-img-el  vc_custom_1631547396740   text-left d-inline-block  w-100 rounded-0"  ><img decoding="async" class="card-img2 pix-img-elem rounded-0  h-1002 lazyload" style="--smush-placeholder-width: 1350px; --smush-placeholder-aspect-ratio: 1350/408;width:auto;max-height:90px;" width="1350" height="408" data-srcset="https://ambitionabroad.in/wp-content/uploads/2021/09/Logo-White.png 1350w, https://ambitionabroad.in/wp-content/uploads/2021/09/Logo-White-300x91.png 300w, https://ambitionabroad.in/wp-content/uploads/2021/09/Logo-White-1024x309.png 1024w, https://ambitionabroad.in/wp-content/uploads/2021/09/Logo-White-768x232.png 768w" data-sizes="(max-width: 1350px) 100vw, 1350px" data-src="https://ambitionabroad.in/wp-content/uploads/2021/09/Logo-White.png" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></div></div><div class="pix-el-text w-100   vc_custom_1743655426367" ><div class="d-inline-block" style="max-width:400px;"><p class="text-18  text-light-opacity-5" ><span class="text-light-opacity-5 animate-in d-inline-block" data-anim-delay="200" data-anim-type="fade-in-up">No.1 IELTS and PTE Institute in Cheeka | Nodal Agent of IDP Australia and Partners with Pearson PTE.</span></p></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-2 vc_col-xs-6 text-left"><div class="vc_column-inner  vc_custom_1590552751162"><div class="wpb_wrapper"><div id="sliding-text-161635955" class="mb-3 text-left"><h6 class="mb-32 pix-sliding-headline-2 animate-in font-weight-bold secondary-font" data-anim-type="pix-sliding-text" pix-anim-delay="500" data-class="secondary-font text-white" style=""><span class="slide-in-container"><span class="pix-sliding-item secondary-font text-white" style="transition-delay: 0ms;">Quick&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-white" style="transition-delay: 150ms;">Links&#32;</span></span> </h6></div><a  href="https://ambitionabroad.in/about-us/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >About Us</span></a><a  href="https://ambitionabroad.in/ielts-institute-cheeka/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >IELTS</span></a><a  href="https://ambitionabroad.in/pte-institute-cheeka/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >Pearson PTE</span></a><a  href="https://ambitionabroad.in/cd-ielts-institute-cheeka/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >CD-IELTS</span></a><a  href="https://ambitionabroad.in/contact/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >Contact Us</span></a></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-2 vc_col-xs-6 text-left"><div class="vc_column-inner  vc_custom_1635739914268"><div class="wpb_wrapper"><div id="sliding-text-17184796" class="mb-3 text-left"><h6 class="mb-32 pix-sliding-headline-2 animate-in font-weight-bold secondary-font" data-anim-type="pix-sliding-text" pix-anim-delay="500" data-class="secondary-font text-white" style=""><span class="slide-in-container"><span class="pix-sliding-item secondary-font text-white" style="transition-delay: 0ms;">Practice&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-white" style="transition-delay: 150ms;">PTE&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-white" style="transition-delay: 300ms;">with&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-white" style="transition-delay: 450ms;">A.I&#32;</span></span> </h6></div><a  href="https://ambitionabroad.in/pte-practice-dictations/" class="btn mb-2     text-light-opacity-5 btn-link text-light-opacity-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >Write from Dictations</span></a><a  href="https://ambitionabroad.in/pte-reading-fill-in-the-blanks/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >Reading : FillUps</span></a><a  href="https://ambitionabroad.in/reading-writing-fill-in-the-blanks/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >R&amp;W: FillUps</span></a><a  href="https://ambitionabroad.in/pte-highlight-incorrect-words/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >Listening: HIW</span></a><a  href="https://ambitionabroad.in/pte-repeat-sentence/" class="btn mb-2     text-light-opacity-5 btn-link text-gray-5 d-block w-100  no-padding text-left    animate-in btn-md" target="_blank" rel="noopener"  data-anim-type="fade-in-up" data-anim-delay="200" ><span class="" >Repeat Sentence</span></a></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 text-left"><div class="vc_column-inner  vc_custom_1635739942192"><div class="wpb_wrapper"><div id="sliding-text-57872184" class="mb-3 text-left"><h6 class="mb-32 pix-sliding-headline-2 animate-in font-weight-bold secondary-font" data-anim-type="pix-sliding-text" pix-anim-delay="500" data-class="secondary-font text-white" style=""><span class="slide-in-container"><span class="pix-sliding-item secondary-font text-white" style="transition-delay: 0ms;">Our&#32;</span></span> <span class="slide-in-container"><span class="pix-sliding-item secondary-font text-white" style="transition-delay: 150ms;">Address&#32;</span></span> </h6></div><div id="duo-icon-55550018" class="slide-in-container w-100   vc_custom_1716569011064" ><div class="py-2 animate-in" data-anim-type="fade-in-up" data-anim-delay="0"><div class="pix-feature-list text-18       py-2 d-flex align-items-center" ><div class="pix-mr-10 text-white" style="width:1.5em;min-width:1.5em;height:1.5em;min-width:1.5em;position:relative;line-height:1em;text-align:center;"><svg width="100%" height="100%" viewbox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <path d="M5,10.5 C5,6 8,3 12.5,3 C17,3 20,6.75 20,10.5 C20,12.8325623 17.8236613,16.03566 13.470984,20.1092932 C12.9154018,20.6292577 12.0585054,20.6508331 11.4774555,20.1594925 C7.15915182,16.5078313 5,13.2880005 5,10.5 Z M12.5,12 C13.8807119,12 15,10.8807119 15,9.5 C15,8.11928813 13.8807119,7 12.5,7 C11.1192881,7 10,8.11928813 10,9.5 C10,10.8807119 11.1192881,12 12.5,12 Z" fill="#000000" fill-rule="nonzero"></path> </g> </svg></div><span class="text-light-opacity-5">Above LIC Office, Guhla Road, Cheeka</span></div><div class="pix-feature-list text-18       py-2 d-flex align-items-center" ><div class="pix-mr-10 text-white" style="width:1.5em;min-width:1.5em;height:1.5em;min-width:1.5em;position:relative;line-height:1em;text-align:center;"><svg width="100%" height="100%" viewbox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <path d="M4.88230018,17.2353996 L13.2844582,0.431083506 C13.4820496,0.0359007077 13.9625881,-0.12427877 14.3577709,0.0733126292 C14.5125928,0.15072359 14.6381308,0.276261584 14.7155418,0.431083506 L23.1176998,17.2353996 C23.3152912,17.6305824 23.1551117,18.1111209 22.7599289,18.3087123 C22.5664522,18.4054506 22.3420471,18.4197165 22.1378777,18.3482572 L14,15.5 L5.86212227,18.3482572 C5.44509941,18.4942152 4.98871325,18.2744737 4.84275525,17.8574509 C4.77129597,17.6532815 4.78556182,17.4288764 4.88230018,17.2353996 Z" id="Path-99" fill="#000000" fill-rule="nonzero" transform="translate(14.000087, 9.191034) rotate(-315.000000) translate(-14.000087, -9.191034) "></path> </g> </svg></div><span class="text-light-opacity-5">Royal Complex, Ambedkar Chowk, Samana</span></div><div class="pix-feature-list text-18       py-2 d-flex align-items-center" ><div class="pix-mr-10 text-white" style="width:1.5em;min-width:1.5em;height:1.5em;min-width:1.5em;position:relative;line-height:1em;text-align:center;"><svg width="100%" height="100%" viewbox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <path d="M9,17 L15,17 L15,20.5 C15,21.3284271 14.3284271,22 13.5,22 L10.5,22 C9.67157288,22 9,21.3284271 9,20.5 L9,17 Z" fill="#000000" opacity="0.3"></path> <path d="M12,17 C14.7614237,17 17,14.7614237 17,12 C17,9.23857625 14.7614237,7 12,7 C9.23857625,7 7,9.23857625 7,12 C7,14.7614237 9.23857625,17 12,17 Z" fill="#000000" opacity="0.3"></path> <path d="M10.5,2 L13.5,2 C14.3284271,2 15,2.67157288 15,3.5 L15,7 L9,7 L9,3.5 C9,2.67157288 9.67157288,2 10.5,2 Z" id="Rectangle-Copy" fill="#000000" opacity="0.3"></path> <path d="M12,17 C14.7614237,17 17,14.7614237 17,12 C17,9.23857625 14.7614237,7 12,7 C9.23857625,7 7,9.23857625 7,12 C7,14.7614237 9.23857625,17 12,17 Z M12,19 C8.13400675,19 5,15.8659932 5,12 C5,8.13400675 8.13400675,5 12,5 C15.8659932,5 19,8.13400675 19,12 C19,15.8659932 15.8659932,19 12,19 Z" fill="#000000" fill-rule="nonzero"></path> </g> </svg></div><span class="text-light-opacity-5">Open 8am to 6pm, Monday to Saturday</span></div><div class="pix-feature-list text-18       py-2 d-flex align-items-center" ><div class="pix-mr-10 text-white" style="width:1.5em;min-width:1.5em;height:1.5em;min-width:1.5em;position:relative;line-height:1em;text-align:center;"><svg width="100%" height="100%" viewbox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs></defs> <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <path d="M11.575,21.2 C6.175,21.2 2.85,17.4 2.85,12.575 C2.85,6.875 7.375,3.05 12.525,3.05 C17.45,3.05 21.125,6.075 21.125,10.85 C21.125,15.2 18.825,16.925 16.525,16.925 C15.4,16.925 14.475,16.4 14.075,15.65 C13.3,16.4 12.125,16.875 11,16.875 C8.25,16.875 6.85,14.925 6.85,12.575 C6.85,9.55 9.05,7.1 12.275,7.1 C13.2,7.1 13.95,7.35 14.525,7.775 L14.625,7.35 L17,7.35 L15.825,12.85 C15.6,13.95 15.85,14.825 16.925,14.825 C18.25,14.825 19.025,13.725 19.025,10.8 C19.025,6.9 15.95,5.075 12.5,5.075 C8.625,5.075 5.05,7.75 5.05,12.575 C5.05,16.525 7.575,19.1 11.575,19.1 C13.075,19.1 14.625,18.775 15.975,18.075 L16.8,20.1 C15.25,20.8 13.2,21.2 11.575,21.2 Z M11.4,14.525 C12.05,14.525 12.7,14.35 13.225,13.825 L14.025,10.125 C13.575,9.65 12.925,9.425 12.3,9.425 C10.65,9.425 9.45,10.7 9.45,12.375 C9.45,13.675 10.075,14.525 11.4,14.525 Z" fill="#000000"></path> </g> </svg></div><span class="text-light-opacity-5">Contact us at ambitionielts@gmail.com</span></div></div></div><a  href="https://ambitionabroad.in/contact/" class="btn mb-2     shadow-sm btn-secondary d-block w-100  pix-hover-item       animate-in btn-normal"   data-anim-type="fade-in-up" data-anim-delay="400" ><i class="font-weight-bold pixicon-user-3  pix-hover-left  mr-1"></i> <span class="font-weight-bold" >Get in touch</span></a></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></section><div class="vc_row-full-width vc_clearfix"></div></section>			</div>
+		</div>
+	</div>
+</footer>
+
+</div><!-- #page -->
+
+<script>
+	var global = global || window;
+</script>
+
+		<script type="text/javascript">
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/essentials\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+            <script>
+                jQuery(function($){
+
+                    
+                                    });
+            </script>
+            <div data-wpr-lazyrender="1" id="fb-root"></div>
+                    <style>
+
+            .wpdm-popover {
+                transition: all ease-in-out 400ms;
+                position: relative;display: inline-block;
+            }
+
+            .wpdm-popover .wpdm-hover-card {
+                position: absolute;
+                left: 0;
+                bottom: 50px;
+                width: 100%;
+                transition: all ease-in-out 400ms;
+                margin-bottom: 28px;
+                opacity: 0;
+                z-index: -999999;
+            }
+
+            .wpdm-popover:hover .wpdm-hover-card {
+                transition: all ease-in-out 400ms;
+                opacity: 1;
+                z-index: 999999;
+                bottom: 0px;
+            }
+
+            .wpdm-popover .wpdm-hover-card.hover-preview img {
+                width: 104px;
+                border-radius: 3px;
+            }
+
+            .wpdm-popover .card .card-footer{
+                background: rgba(0,0,0,0.02);
+            }
+
+            .packinfo {
+                margin-top: 10px;
+                font-weight: 400;
+                font-size: 14px;
+            }
+        </style>
+        <script>
+            jQuery(function ($) {
+                $('a[data-show-on-hover]').on('hover', function () {
+                    $($(this).data('show-on-hover')).fadeIn();
+                });
+            });
+        </script>
+        <script type="text/javascript">
+_linkedin_data_partner_id = "69328";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=69328&fmt=gif" />
+</noscript><svg class="shape-overlays d-none" viewbox="0 0 100 100" preserveaspectratio="none"><defs><lineargradient id="search-overlay-color-1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%"   stop-color="#6d3a87"/><stop offset="100%"   stop-color="#5d2975"/></lineargradient><lineargradient id="search-overlay-color-2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%"   stop-color="#6d3a87"/><stop offset="100%"   stop-color="#581e75"/></lineargradient><lineargradient id="search-overlay-color-3" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%"   stop-color="#704e87"/><stop offset="100%"   stop-color="#551675"/></lineargradient><lineargradient id="search-overlay-color-4" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%"   stop-color="#7d8dff"/><stop offset="100%"   stop-color="#ff4f81"/></lineargradient></defs><path class="shape-overlays__path" d="" fill="url(#search-overlay-color-3)"></path><path class="shape-overlays__path" d="" fill="url(#search-overlay-color-2)"></path><path class="shape-overlays__path" d="" fill="url(#search-overlay-color-1)"></path></svg>		<div  class="pix-overlay d-none">
+			<div class="">
+				<div  class="pix-search">
+					<div class="container">
+						<div class="row d-flex justify-content-center">
+							<div class="col-12 col-md-12">
+								<div class="pix-overlay-item pix-overlay-item--style-6">
+									<a href="#" class="pix-search-close"><span class="screen-reader-text sr-only">Close</span><i class="text-white pixicon-close-circle"></i></a>
+									<div class="pb-0"><div class="search-title h1 heading-font display-2 text-gradient-primary2 text-white font-weight-bold">Search</div></div>
+								</div>
+								<div class="slide-in-container pb-2 pix-overlay-item pix-overlay-item--style-6"><p class="text-gray-3s text-20 mb-2 secondary-font search-note text-light-opacity-5">Hit enter to search or ESC to close</p></div>
+								<div class="search-bar pix-overlay-item pix-overlay-item--style-6">
+									<div class="search-content">
+										<form class="pix-search-form" method="get" action="https://ambitionabroad.in/">
+
+
+											<div class="media pix-ajax-search-container">
+												<button class="pix-search-submit align-self-center" aria-label="search" type="submit"><i class="pixicon-search"></i></button>
+												<div class="media-body">
+													<label class="w-100 m-0">
+														<span class="screen-reader-text sr-only">Search for:</span>
+														<input value="" name="s" id="s" class="pix-search-input pix-ajax-search" type="search" autocomplete="off" placeholder="Search" data-search-link="https://ambitionabroad.in/wp-admin/admin-ajax.php?action=pix_ajax_searcht&#038;nonce=30a9ecbf6a" />
+													</label>
+												</div>
+											</div>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+					<a href="#" class="shadow shadow-hover rounded-circle fly bg-gray-2 back_to_top default" title="Go to top"><i class="pixicon-angle-up"></i></a>
+			<div class="d-flex"><svg width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <lineargradient id="svg-gradient-primary">
+          <stop offset="0%" stop-color="#5a2475" /><stop offset="100%" stop-color="#614175" />
+        </lineargradient>
+      </defs>
+    </svg></div><script type="text/html" id="wpb-modifications"></script><script src="data:text/javascript;base64,dmFyIGtwZGV0ZWN0ZGVsYXlqcyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ3NjcmlwdFt0eXBlPSJyb2NrZXRsYXp5bG9hZHNjcmlwdCJdJykubGVuZ3RoO2lmIChrcGRldGVjdGRlbGF5anMgPj0gMSl7Y2xhc3Mga3Bzb0V4ZWN1dGVTY3JpcHRzIGV4dGVuZHMgUm9ja2V0TGF6eUxvYWRTY3JpcHRze3N0YXRpYyBrcHNvRmlyZSgpe2lmKG5hdmlnYXRvci51c2VyQWdlbnQubWF0Y2goLzQ3NTguMTAyfGxpZ2h0fHBpbmd8ZGFyZXxwdHN0L2kpKXt2YXIgZT1uZXcgUm9ja2V0TGF6eUxvYWRTY3JpcHRzKFsia2V5ZG93biIsIm1vdXNlb3ZlciIsInRvdWNobW92ZSIsInRvdWNoc3RhcnQiLCJ0b3VjaGVuZCIsInRvdWNoY2FuY2VsIiwidG91Y2hmb3JjZWNoYW5nZSIsIndoZWVsIl0pO31lbHNle3ZhciBlPW5ldyBSb2NrZXRMYXp5TG9hZFNjcmlwdHMoWyJsb2FkIl0pO31lLl9hZGRVc2VySW50ZXJhY3Rpb25MaXN0ZW5lcihlKTt9fWtwc29FeGVjdXRlU2NyaXB0cy5rcHNvRmlyZSgpO30=" id="mLQFAVgBhg"></script>
+	<link rel='stylesheet' id='pixfort-likes-css' href='https://ambitionabroad.in/wp-content/plugins/pixfort-likes/styles/pixfort-likes.css?ver=6.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='pixfort-likes-odometer-css' href='https://ambitionabroad.in/wp-content/plugins/pixfort-likes/styles/odometer-theme-default.css?ver=6.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-google-font-primary-css' href='data:text/css;charset=utf-8;base64,LypibGFuayov' type='text/css' media='all' data-type="kppassive" data-kplinkhref="https://fonts.googleapis.com/css?family=Manrope%3A400%2C700&#038;display=swap&#038;ver=6.8.10" />
+<link rel='stylesheet' id='wpb-google-font-secondary-css' href='data:text/css;charset=utf-8;base64,LypibGFuayov' type='text/css' media='all' data-type="kppassive" data-kplinkhref="https://fonts.googleapis.com/css?family=Manrope%3A400%2C700&#038;display=swap&#038;ver=6.8.10" />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://ambitionabroad.in/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.7' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" id="jquery-form-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/themes/essentials/js/build/popper.min.js?ver=3.0.5" id="pix-popper-js-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/themes/essentials/js/build/bootstrap.min.js?ver=3.0.5" id="pix-bootstrap-js-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/themes/essentials/js/build/bootstrap-select.min.js?ver=3.0.5" id="pix-bootstrap-select-js-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/themes/essentials/js/build/flickity.pkgd.min.js?ver=3.0.5" id="pix-flickity-js-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="pix-main-essentials-js-extra">
+/* <![CDATA[ */
+var pixfort_main_object = {"name":"mainVals","dataPopupBase":"https:\/\/ambitionabroad.in\/wp-admin\/admin-ajax.php?action=pix_popup_content","dataPixOverlay":"pix-overlay-2","dataPopupCheckLink":"https:\/\/ambitionabroad.in\/wp-admin\/admin-ajax.php?action=pix_check_popup_status&nonce=d2ae6db4c5","lightboxUrl":"https:\/\/ambitionabroad.in\/wp-content\/themes\/essentials\/js\/build\/jquery.fancybox.min.js","isotopeUrl":"https:\/\/ambitionabroad.in\/wp-content\/themes\/essentials\/js\/build\/isotope.pkgd.min.js","searchUrl":"https:\/\/ambitionabroad.in\/wp-content\/themes\/essentials\/js\/build\/bootstrap-autocomplete.min.js"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/themes/essentials/js/essentials.min.js?ver=3.0.5" id="pix-main-essentials-js"></script>
+<script type="text/javascript" id="smush-lazy-load-js-before">
+/* <![CDATA[ */
+var smushLazyLoadOptions = {"autoResizingEnabled":false,"autoResizeOptions":{"precision":5,"skipAutoWidth":true,"cdnBaseURL":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=4.3.4" id="smush-lazy-load-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://captcha.wpsecurity.godaddy.com/api/v1/captcha/script?trigger=wp_login" id="wpsec_show_captcha-js"></script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/plugins/pixfort-likes/scripts/odometer.min.js?ver=1.0.3" id="pixfort-likes-digit-js"></script>
+<script type="text/javascript" id="pixfort-likes-js-extra">
+/* <![CDATA[ */
+var pixfort_likes = {"ajaxurl":"https:\/\/ambitionabroad.in\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ambitionabroad.in/wp-content/plugins/pixfort-likes/scripts/pixfort-likes.js?ver=1.0.3" id="pixfort-likes-js"></script>
+<script id="cz8MjVA6ko" async src="data:text/javascript;base64,aWYobmF2aWdhdG9yLnVzZXJBZ2VudC5tYXRjaCgvNDc1OC4xMDJ8bGlnaHR8cGluZ3xkYXJlfHB0c3QvaSkpe3ZhciBrcFVzZXJJbnRlcmFjdGlvbkV2ZW50cz1bImtleWRvd24iLCJtb3VzZW92ZXIiLCJ0b3VjaG1vdmUiLCJ0b3VjaHN0YXJ0IiwidG91Y2hlbmQiLCJ0b3VjaGNhbmNlbCIsInRvdWNoZm9yY2VjaGFuZ2UiLCJ3aGVlbCJdO31lbHNle3ZhciBrcFVzZXJJbnRlcmFjdGlvbkV2ZW50cz1bImxvYWQiXTt9a3BVc2VySW50ZXJhY3Rpb25FdmVudHMuZm9yRWFjaChmdW5jdGlvbihldmVudCl7d2luZG93LmFkZEV2ZW50TGlzdGVuZXIoZXZlbnQsa3BUcmlnZ2VyU2NyaXB0TG9hZGVyLHtwYXNzaXZlOnRydWV9KX0pO2Z1bmN0aW9uIGtwVHJpZ2dlclNjcmlwdExvYWRlcigpe2h3dExITG9jUkY2a3UzTygpO2twVXNlckludGVyYWN0aW9uRXZlbnRzLmZvckVhY2goZnVuY3Rpb24oZXZlbnQpe3dpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKGV2ZW50LGtwVHJpZ2dlclNjcmlwdExvYWRlcix7cGFzc2l2ZTp0cnVlfSl9KTt9ZnVuY3Rpb24gaHd0TEhMb2NSRjZrdTNPKCl7ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgibGlua1tkYXRhLXR5cGU9J2twcGFzc2l2ZSddIikuZm9yRWFjaChmdW5jdGlvbihlbGVtKXtlbGVtLnNldEF0dHJpYnV0ZSgiaHJlZiIsZWxlbS5nZXRBdHRyaWJ1dGUoImRhdGEta3BsaW5raHJlZiIpKX0pO3NldFRpbWVvdXQoZnVuY3Rpb24oKXtkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCJzY3JpcHRbZGF0YS10eXBlPSdrcHBhc3NpdmUnXSIpLmZvckVhY2goZnVuY3Rpb24oZWxlbSl7ZWxlbS5zZXRBdHRyaWJ1dGUoInNyYyIsZWxlbS5nZXRBdHRyaWJ1dGUoImRhdGEta3BzY3JpcHRzcmMiKSl9KTt9LDIwMCk7fQ=="></script>
+		<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),
+                _trfd.push({'tccl.baseHost':'secureserver.net'}),
+                _trfd.push({'ap':'wpaas_v2'},
+                    {'server':'20696ce18f56'},
+                    {'pod':'c13-prod-sxb1-eu-central-1'},
+                                        {'xid':'41184274'},
+                    {'wp':'6.8.10'},
+                    {'php':'8.2.34'},
+                    {'loggedin':'0'},
+                    {'cdn':'1'},
+                    {'builder':''},
+                    {'theme':'essentials'},
+                    {'wds':'0'},
+                    {'wp_alloptions_count':'889'},
+                    {'wp_alloptions_bytes':'350302'},
+                    {'gdl_coming_soon_page':'0'}
+                    , {'appid':'232243'}                 );
+            var trafficScript = document.createElement('script'); trafficScript.src = 'https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'; window.document.head.appendChild(trafficScript);</script>
+		<script>window.addEventListener('click', function (elem) { var _elem$target, _elem$target$dataset, _window, _window$_trfq; return (elem === null || elem === void 0 ? void 0 : (_elem$target = elem.target) === null || _elem$target === void 0 ? void 0 : (_elem$target$dataset = _elem$target.dataset) === null || _elem$target$dataset === void 0 ? void 0 : _elem$target$dataset.eid) && ((_window = window) === null || _window === void 0 ? void 0 : (_window$_trfq = _window._trfq) === null || _window$_trfq === void 0 ? void 0 : _window$_trfq.push(["cmdLogEvent", "click", elem.target.dataset.eid]));});</script>
+		<script src='https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js' onload="window.tti.calculateTTI()"></script>
+		</body>
+
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1791020573 -->

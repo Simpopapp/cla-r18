@@ -13,7 +13,8 @@ if (!file) {
   process.exit(1);
 }
 
-const items = readJson(file, []);
+const doc = readJson(file, null);
+const items = Array.isArray(doc) ? doc : (doc?.candidates ?? doc?.valid ?? []);
 const sources = readJson(SWEEP_FILE(), { sources: [] });
 const approved = new Map(
   sources.sources
