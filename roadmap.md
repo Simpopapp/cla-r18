@@ -38,7 +38,29 @@ Roadmap ativo: `.opencode/roadmap-proj2.md` · PRD: `.opencode/prd-project2.md`
 - [x] Banco: 1.316 → 1.386 (retell 12→62 · dropdown 29→41 · swt 50→53 · reorder 45→50; read_mcq_single 50/60 por corroboração). Manifesto e selos recalculados.
 - [x] Gates: re-scan 0 duplicatas ≥ 0,85 (1.386) · bank-integrity 10/10 · chunk 229 KB ≤ 250 KB · vitest 319/319 · tsgo limpo · build OK · lint 0 erros (9 warnings) · zero deps novas · status: stage-p2-03-status.md · monitor notificado (avaliação em andamento).
 
+## Fase 4 — Tipos P2/P3 (onda 3, PRD2 §11 Fase 4)
+
+- [x] Gates de fonte: 34 candidatas (lotes 07–09) → 22 aprovadas (22 gates por tipo em sources-sweep.json; britfort/Pearson C4 → verificada) + 12 reprovadas com motivo (pteschool paywall, pteacademy sem transcript, ptesprinters fetch 2×, etc.).
+- [x] Pipeline: extração (1.716: wfd 526 · RS 809 · RA 359 · sst 19 · lst_fib 3) → validação C1–C4 (1.716 válidos, 0 rejeitados) → dedupe contra banco 1.386 + intra-onda (1.437 integrados · 279 corroborados · 373 pares totais) → integração.
+- [x] Banco: 1.386 → 2.823 (wfd 48→551 · repeat_sentence 49→682 · read_aloud 50→340 · sst 50→58 · lst_fib 50→53). Manifesto e selos recalculados (wfd/read_aloud saem do selo "banco pequeno").
+- [x] Chunks (PRD2 §7.4): repeat_sentence 261 KB → 2 partes (131+130 KB) com loader concatenando; allMeta movido para all-meta-1/2.json (238/216 KB); teste chunk-budget.test.ts (29 testes) cobrindo ≤ 250 KB, consistência de partes e soma do allMeta; incidente de contagem do build-manifest corrigido (idempotente).
+- [x] Gates: 0 duplicatas ≥ 0,85 (re-scan 2.823 via Jaccard no bank-integrity) · evidência C1–C4 ✓ · bank-integrity 10/10 · vitest 348/348 (+29) · tsgo limpo · build OK · lint 0 erros (9 warnings) · zero deps novas · status: stage-p2-04-status.md · monitor notificado.
+
+## Fase 4 — Tipos P2/P3 (onda 3, PRD2 §11 Fase 4)
+
+- [ ] Monitor (OpenCode) notificado do remix reativado + confirmação de recebimento (estado: Fases 0–3 [x], próxima = Fase 4).
+- [ ] Déficit registrado: lst_fib 50/60 · sst 50/60 · read_aloud 50/100 · wfd 48/300 · repeat_sentence 49/200 (wfd/RS = volume alto, só itens 100% novos pós-dedupe).
+- [ ] 3 lotes de scout disparados em paralelo: lot-07 (lst_fib/sst, transcript obrigatório) · lot-08 (read_aloud) · lot-09 (wfd/repeat_sentence, prediction lists).
+- [ ] Mesclar lotes via `scripts/sweep/sweep-scout.mjs` + amostra manual + gate de fonte (Ap. E) em `sources-sweep.json`.
+- [ ] Extrator onda 3 (`scripts/sweep/extract-wave3.mjs`) → validar C1–C4 + faixas → dedupe contra 1.386 + ondas anteriores + intra-onda → integrar.
+- [ ] Chunk check (risco wfd > 250 KB: dividir carregamento por lote antes de integrar) + selos recalculados.
+- [ ] Gates: idênticos à Fase 2 + dedupe contra ondas anteriores comprovado · vitest · tsgo · build · lint · zero deps novas · status: stage-p2-04-status.md · monitor notificado.
+
 ## Fase 8 — Pack studie-plus (PRD §13)
+
+
+
+
 
 
 

@@ -564,6 +564,1680 @@
    "matched": "goarno-read_mcq_single-150",
    "source": "goarno.io",
    "sim": 1
+  },
+  {
+   "key": "55aae00bb61f572e3ce47bf82b2c39f12574415e",
+   "matched": "cand-160",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "02ee5b48951f4fac3ece1d4f6c048bb0554faaee",
+   "matched": "cand-162",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "ad36de9f89cf0f4044e38b437aae49d114a85d54",
+   "matched": "cand-144",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "a6bc8a2aee86cb913d2bf247eab1d3a1825cb8bf",
+   "matched": "cand-167",
+   "source": "ptehelper.com.au",
+   "sim": 0.867
+  },
+  {
+   "key": "9f6d845b8b4b2286026ea565a2e543ddd1dbf8ba",
+   "matched": "cand-219",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "c5f33d2c428210cb66ed9ce018ab1c207259e670",
+   "matched": "cand-215",
+   "source": "ptehelper.com.au",
+   "sim": 0.857
+  },
+  {
+   "key": "3f65053464a1ca3edb1aefa695da977c21bb15d8",
+   "matched": "cand-153",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "6d8a336e12bee8f55ac89d8d1848f63e54df2c34",
+   "matched": "cand-192",
+   "source": "ptehelper.com.au",
+   "sim": 0.889
+  },
+  {
+   "key": "9ed3497f1d85d6ada578e0c2c584718d3995b99e",
+   "matched": "cand-179",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "fc8b9bc939be0eef2099f5b5cbfb654ce1e11387",
+   "matched": "cand-180",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "e7dd7b7e4db875e3d6568bde262be1b96b1cf6dd",
+   "matched": "cand-190",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "9b4992bf73ddb0602dd057280c48214ab3a77bb3",
+   "matched": "cand-175",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "ebb4277ac12f77a68471c901d04971b5392dc947",
+   "matched": "cand-163",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "57ca32f21c0558b93f2cfe0a190f86cd1b241d63",
+   "matched": "cand-156",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "d2335c34a301c8542fa7844a2bbac15c032083fe",
+   "matched": "cand-151",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "344390d8dad7a508eb23ac2c2233e4aabd04b811",
+   "matched": "cand-158",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "abd88e9ba7413b21217b2d067993f17d61af5647",
+   "matched": "cand-187",
+   "source": "ptehelper.com.au",
+   "sim": 0.857
+  },
+  {
+   "key": "1dd06305dc41157e6a24be10e64b585d3b1e5444",
+   "matched": "cand-148",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "6f68dcd2504c9597924cbb0d504888fc51bb18a3",
+   "matched": "cand-184",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "132c8f5c3f92bceaa9c58d921f97b6461be25626",
+   "matched": "cand-166",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "9a792ee73d45913179041d3d4323e6bdc4ae9d77",
+   "matched": "cand-172",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "093bdf94f167b769f4e92612f54742381b9115bf",
+   "matched": "cand-193",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "1eae2f0197610bdd6bf0f97edf09cf202aceedd4",
+   "matched": "cand-157",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "01886b999bd16b1ea3ff42738cd9bb9672da9f19",
+   "matched": "cand-209",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "5b143c98888cb3de09a02efbdc162b0212fd51a1",
+   "matched": "cand-206",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "6abd713082bdbf9159046932f86c9299a6110eef",
+   "matched": "cand-200",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "3654fdbb38ecbe9725d8239b31db7778ca163417",
+   "matched": "cand-201",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "dfd801e52ab349dcb12227ba6ace84afbe7368b7",
+   "matched": "cand-203",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "22c12c6a83425c619433d04ca37579d6eb1961a7",
+   "matched": "cand-204",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "bd371407cd0b5f49b81549033fe6b6a3aac4d84b",
+   "matched": "cand-218",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "09275b9f86dd0e82fcf7c669054c273ec2d33796",
+   "matched": "cand-220",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "0447592de7ba3ba6b827ee3afa29638b22090937",
+   "matched": "cand-221",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "db3e9ff19a9baf0326ece74012597c487d0474f5",
+   "matched": "cand-223",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "1c0ff7aaab69b00cf95c215de411f00be3e95ab0",
+   "matched": "cand-195",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "f91fd1adbb29b77fc4a26edde328303beb57c27e",
+   "matched": "cand-239",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "b0b847c018026cc8a29314582fb127f050a2fbb0",
+   "matched": "cand-238",
+   "source": "ptehelper.com.au",
+   "sim": 0.9
+  },
+  {
+   "key": "3926482d4e092b34a6bc8d543473c060a928724c",
+   "matched": "cand-231",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "fd3903c3c9f42b02460ed9750ff850d8476c7416",
+   "matched": "cand-161",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "8420af77fa2cd34c5affea0ea450d35ee52e692d",
+   "matched": "cand-233",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "a29132aa87dd905796b86cf7373863791dfbd947",
+   "matched": "cand-236",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "8c5516b9cf9e827e067b60d936c92de41a7a4d6a",
+   "matched": "cand-237",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "76643805135426972830bbc0d57ea56a1cd2f030",
+   "matched": "cand-230",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "0b4751222be2364cc875a467d17515df01f94c03",
+   "matched": "cand-232",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "4f15eea11d7db2206eef0d13ad6bca46a3898ae6",
+   "matched": "cand-234",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "847c72c8c01e947de31fae4c6aaf417ba0bc707c",
+   "matched": "cand-229",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "cfd21e24ff97cd7e11c587e7ba0d5d3ad09224e0",
+   "matched": "cand-224",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "216c24b968576788d93c2602652a78998803219c",
+   "matched": "cand-226",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "ddfff233b08c1737de8fcba3af04dd6d64b969c5",
+   "matched": "cand-227",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "36eb81a9239fbeb015756c8b432344d44f696a16",
+   "matched": "cand-216",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "80b3d7e925207a293c544bc5e6d90131d5161d65",
+   "matched": "cand-217",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "7a0efa52175f4a0dffc97fadba488420f13c1be9",
+   "matched": "cand-222",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "a078dc14c4beca056f888bc170d76940888d497f",
+   "matched": "cand-197",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "dc5b5cbab2b70d6afc6ef87c4fb798e7ecbad43c",
+   "matched": "cand-198",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "358c17da76339cd0d9eb71b24779f1efc9a4fc30",
+   "matched": "cand-212",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "f57e9c6895d001f592f1c6a05f2e5d8862350327",
+   "matched": "cand-164",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "eb35273ef6028a7d0679036fbd734e742cd250cb",
+   "matched": "cand-168",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "cab90d0f4cd15005828d2d07f147648794ff2d29",
+   "matched": "cand-165",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "4c3f896d82f59f92195fca9fc8db2717cd065f79",
+   "matched": "cand-146",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "757470e55d262b70ac1f85549c2d6ada2759421f",
+   "matched": "cand-185",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "054728b37ee615354dc417d0aa3f68ffc19687cd",
+   "matched": "cand-186",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "69e463e7118fc7f09558939ce4c922285b1da1ee",
+   "matched": "cand-479",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "415909fe3e735391a7041aa3aa8a7fa03c645dee",
+   "matched": "cand-182",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "6fa50b1f871dfa54d3f0518c4b92af6ca17921d2",
+   "matched": "cand-169",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "a1e0f48ccafec0dc1d39cf256e075552e361481c",
+   "matched": "cand-147",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "363a7684fff71375a294708dadce04eeca6b18b2",
+   "matched": "cand-361",
+   "source": "onepte.com",
+   "sim": 0.909
+  },
+  {
+   "key": "3926482d4e092b34a6bc8d543473c060a928724c",
+   "matched": "cand-231",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "8a5f006dd18c2642410f2f0675009fedd60009b8",
+   "matched": "cand-235",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "4f15eea11d7db2206eef0d13ad6bca46a3898ae6",
+   "matched": "cand-234",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "51cd8e893c409e39c5faf551816e458e77ce6e8f",
+   "matched": "cand-424",
+   "source": "onepte.com",
+   "sim": 0.909
+  },
+  {
+   "key": "239c34022fe242f63f64b67e16546a9edf0ec734",
+   "matched": "cand-455",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "f8721ab8a2389a8ebbdd8e56b7747ccb83f90a48",
+   "matched": "cand-496",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "1de11a21fb5ce19c246562b82d917877ac74e974",
+   "matched": "cand-468",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "7a0efa52175f4a0dffc97fadba488420f13c1be9",
+   "matched": "cand-222",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "d11a97c638f7929cae4ca430d2e3a63c4d1204fb",
+   "matched": "cand-217",
+   "source": "onepte.com",
+   "sim": 0.941
+  },
+  {
+   "key": "9c59242e81cc955d3de7c06953cf8f027263ddbe",
+   "matched": "cand-352",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "2213e53ec20ed0945a061a64f28d9121d2873741",
+   "matched": "cand-470",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "95d082c15539d996d9bd52c5d98d038b55ac8367",
+   "matched": "cand-492",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "bd0406da7b82c1f43e6b5003cbf21a94f4f62d80",
+   "matched": "cand-473",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "46247ce947fbea022b814b097e81917b9526ca6d",
+   "matched": "cand-411",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "a248ed4a6b26ac7019d3782c0d102f1b39a70a95",
+   "matched": "cand-236",
+   "source": "onepte.com",
+   "sim": 0.909
+  },
+  {
+   "key": "a078dc14c4beca056f888bc170d76940888d497f",
+   "matched": "cand-197",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "832d434902500e4dc4f7bbc1e1e3ca0166952021",
+   "matched": "cand-396",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "dfd801e52ab349dcb12227ba6ace84afbe7368b7",
+   "matched": "cand-203",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "bd31e01651db6a70cb7e6374b47a4bb280515a3b",
+   "matched": "cand-213",
+   "source": "onepte.com",
+   "sim": 0.9
+  },
+  {
+   "key": "593440c6f4f19d1fd203e1009371655d1477b13f",
+   "matched": "cand-375",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "e7dd7b7e4db875e3d6568bde262be1b96b1cf6dd",
+   "matched": "cand-190",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "fc614e05c9de43b7ba536d2cf8a8f58fb1d82bdf",
+   "matched": "cand-188",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "975171fb548c3a7b7c883363d53f31f309c84eaf",
+   "matched": "cand-501",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "7ec869f5682f850a3f1889b87e347e2eb149952c",
+   "matched": "cand-154",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "b9b013b62a4ff739e8ee6df2de771a643781e387",
+   "matched": "cand-353",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "5086660f9eed2462447417636d40c125254c2f52",
+   "matched": "cand-261",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "69d67dd443754a8d24e4d9fa85711e192da7028c",
+   "matched": "cand-467",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "fdf0dcf52392fd08adad9607ae04cd67b8f3d805",
+   "matched": "cand-510",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "f1efd6a6f16808dbffa89f56341582b92bad7f73",
+   "matched": "cand-461",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "67426adaad975c8f50c3fa9e1a8824d5c406ba43",
+   "matched": "cand-503",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "054728b37ee615354dc417d0aa3f68ffc19687cd",
+   "matched": "cand-186",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "52e6bc3b3e2738b0fe8ad0ef7fed1bc06e242224",
+   "matched": "cand-153",
+   "source": "gurully.com",
+   "sim": 0.857
+  },
+  {
+   "key": "f32d74b21dfc588ba9d3cd1b692b832044bedcfe",
+   "matched": "cand-181",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "f15fc2b83f981b2edd7b0ca8f374644378068324",
+   "matched": "cand-453",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "bfe8ee30e90b808e3f66572efded46e20c5e768f",
+   "matched": "cand-214",
+   "source": "gurully.com",
+   "sim": 0.947
+  },
+  {
+   "key": "31f91214b5bcd9140d27ee24f116d4dc9a3b6425",
+   "matched": "cand-337",
+   "source": "gurully.com",
+   "sim": 0.933
+  },
+  {
+   "key": "523481f3442b46c46b3dc85d0d59d7acbccc1564",
+   "matched": "cand-241",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "9c59242e81cc955d3de7c06953cf8f027263ddbe",
+   "matched": "cand-352",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "3756abb23faa751d158a18410ead36ed1220c1ab",
+   "matched": "cand-666",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "c75a752287f26936a60c49151331a5b159cf2419",
+   "matched": "cand-290",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "5662a9afa6341181e57433b56a46041b29c4c383",
+   "matched": "cand-258",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "666832713b36f73e3008b395946d8fcb31cb3051",
+   "matched": "cand-309",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "625a39a9c44adf08c0f7dd4ca4e0e65fdb41c8b0",
+   "matched": "cand-282",
+   "source": "gurully.com",
+   "sim": 0.857
+  },
+  {
+   "key": "0d67d97eb5d125d5fb9ecca182a565ba3687d608",
+   "matched": "cand-460",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "74cc66e9345e91970bc61f6036ffffa3c85d5e71",
+   "matched": "cand-296",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "069e1e46d5b8b119b860d81111221ecfce16491c",
+   "matched": "cand-367",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "593440c6f4f19d1fd203e1009371655d1477b13f",
+   "matched": "cand-375",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "96e1a79aadab173871962308e1584cfa7695b113",
+   "matched": "cand-464",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "dbb2b9cc1ee55af3fcd94106b8967e10c502efdd",
+   "matched": "cand-246",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "418477982fc25d9eef7ea8abe7757aaf65d084f2",
+   "matched": "cand-325",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "7467b81b52a332c076924fc595477ecc41c07bdc",
+   "matched": "cand-617",
+   "source": "gurully.com",
+   "sim": 0.917
+  },
+  {
+   "key": "0ff44ac7836495bd392ec52e798c595948eed1bd",
+   "matched": "cand-190",
+   "source": "gurully.com",
+   "sim": 0.88
+  },
+  {
+   "key": "1de11a21fb5ce19c246562b82d917877ac74e974",
+   "matched": "cand-468",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "95d082c15539d996d9bd52c5d98d038b55ac8367",
+   "matched": "cand-492",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "db7eaf374df84c9a4e76662680f8f2ed6986d4df",
+   "matched": "cand-248",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "fbac23248e01026a14b5ccecd303a42d9012cc29",
+   "matched": "cand-491",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "7c334727a74a844473621e46f65dc34472e6a7e7",
+   "matched": "cand-608",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "ba63ddeca47f232c189a97bcb745d8606f5ba495",
+   "matched": "cand-472",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "d27da48f53acf2fad0475002104c800b898393df",
+   "matched": "cand-587",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "385343a576a7769e9a31204cae3e1ed021f93cc3",
+   "matched": "cand-389",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "4b8156755fa2b0881458524a2613e0bb4ed140b3",
+   "matched": "cand-548",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "242ed4c9b31c9a5c493217fbe704b3c67193d161",
+   "matched": "cand-575",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "cf918effc9c6f05f73daef992449dfd84de9e3ff",
+   "matched": "cand-291",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "2bee1924f724ace5067dde1bbf03f33d8413f83b",
+   "matched": "cand-545",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "946d19d9acff1e886b71ae34e0b20b4bfd19ed29",
+   "matched": "cand-546",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "e7dd7b7e4db875e3d6568bde262be1b96b1cf6dd",
+   "matched": "cand-190",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "51f41c22f0a10d127875566c1cb816440f7bebe4",
+   "matched": "cand-211",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "b26959da961e219179a0f6261511e96dbe26b9ee",
+   "matched": "cand-405",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "22c12c6a83425c619433d04ca37579d6eb1961a7",
+   "matched": "cand-204",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "490e30d12cbc473c80f2adef38763f2675acbcf3",
+   "matched": "cand-344",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "358c17da76339cd0d9eb71b24779f1efc9a4fc30",
+   "matched": "cand-212",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "1290b6ff6fa13a504d2ea867d8f7294e1b79e6d5",
+   "matched": "cand-205",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "975171fb548c3a7b7c883363d53f31f309c84eaf",
+   "matched": "cand-501",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "120b2c9626e0f75816c7174c104512754805e4c1",
+   "matched": "cand-242",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "2cfa005384f78d39eda3b281683fd10f5d24fe37",
+   "matched": "cand-240",
+   "source": "gurully.com",
+   "sim": 0.9
+  },
+  {
+   "key": "f91fd1adbb29b77fc4a26edde328303beb57c27e",
+   "matched": "cand-239",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "3fb1e8a732bcf3c39da603144939b441d23317c4",
+   "matched": "cand-412",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "7a3238ddf4dafe95447413039baa38eac381e04e",
+   "matched": "cand-411",
+   "source": "gurully.com",
+   "sim": 0.933
+  },
+  {
+   "key": "8a5f006dd18c2642410f2f0675009fedd60009b8",
+   "matched": "cand-235",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "76643805135426972830bbc0d57ea56a1cd2f030",
+   "matched": "cand-230",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "8c5516b9cf9e827e067b60d936c92de41a7a4d6a",
+   "matched": "cand-237",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "a29132aa87dd905796b86cf7373863791dfbd947",
+   "matched": "cand-236",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "8420af77fa2cd34c5affea0ea450d35ee52e692d",
+   "matched": "cand-233",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "2059a00d889aa1e16312c6e8504035404cda58fa",
+   "matched": "cand-292",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "3926482d4e092b34a6bc8d543473c060a928724c",
+   "matched": "cand-231",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "86a2fa5beb3bc1c0fc1bb465433b4363237361ae",
+   "matched": "cand-238",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "2f00c887e22d585f9f1d8964d53747988ec750d5",
+   "matched": "cand-550",
+   "source": "gurully.com",
+   "sim": 0.875
+  },
+  {
+   "key": "0885a7caf4c48ea984b6244d15fff1aacd564768",
+   "matched": "cand-428",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "382835f7fc14879b1c4f43ebda815991c09a3b52",
+   "matched": "cand-427",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "4f15eea11d7db2206eef0d13ad6bca46a3898ae6",
+   "matched": "cand-234",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "0b4751222be2364cc875a467d17515df01f94c03",
+   "matched": "cand-232",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "b15bd2c8389bbef4ba5f57e1926a7dc0253526b0",
+   "matched": "cand-424",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "c975ca31501b2ffcf3c0c1b68757e203a66e5bc2",
+   "matched": "cand-340",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "1d4310fd549c52016b92be3843f62d3a5a054010",
+   "matched": "cand-360",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "8329a4f88cdbb10a39d6d90dc34960073a3a8655",
+   "matched": "cand-503",
+   "source": "gurully.com",
+   "sim": 0.947
+  },
+  {
+   "key": "874c34ae8eaac4399db7fb17e97d7274a3a981ab",
+   "matched": "cand-368",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "f084b0332dafc111784ac50c3b5ac31f9f2e91de",
+   "matched": "cand-520",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "a1ec860e0f162f816aa012f1403c5e9c1f1428c2",
+   "matched": "cand-516",
+   "source": "gurully.com",
+   "sim": 0.917
+  },
+  {
+   "key": "95381ac831aa6b2bdcbb148f560570d733a3bdc8",
+   "matched": "cand-349",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "7fc92cb251e66c9f8c577fb8cf5f6ab50157722b",
+   "matched": "cand-361",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "ddfff233b08c1737de8fcba3af04dd6d64b969c5",
+   "matched": "cand-227",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "216c24b968576788d93c2602652a78998803219c",
+   "matched": "cand-226",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "847c72c8c01e947de31fae4c6aaf417ba0bc707c",
+   "matched": "cand-229",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "36eb81a9239fbeb015756c8b432344d44f696a16",
+   "matched": "cand-216",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "b373d2aa6e30e391bcb3e8f5bd96bfa84fcad269",
+   "matched": "cand-215",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "9f6d845b8b4b2286026ea565a2e543ddd1dbf8ba",
+   "matched": "cand-219",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "09275b9f86dd0e82fcf7c669054c273ec2d33796",
+   "matched": "cand-220",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "7a0efa52175f4a0dffc97fadba488420f13c1be9",
+   "matched": "cand-222",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "0447592de7ba3ba6b827ee3afa29638b22090937",
+   "matched": "cand-221",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "db3e9ff19a9baf0326ece74012597c487d0474f5",
+   "matched": "cand-223",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "895a54dd2428579be7b6d74d8aa01020befc0da4",
+   "matched": "cand-434",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "e5f4b7f8a0c902db067a45bf80a1ffc4d3662058",
+   "matched": "cand-33",
+   "source": "gurully.com",
+   "sim": 0.941
+  },
+  {
+   "key": "7e50d9899be0bc2003ebd2cf33fa7ed628ecba1e",
+   "matched": "cand-111",
+   "source": "gurully.com",
+   "sim": 0.923
+  },
+  {
+   "key": "a3dbb6618403b0ec1dd678c36c05df9714880b8a",
+   "matched": "cand-112",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "c6beaf5b9e32eb3e0271c4821aeed9b1d5afe943",
+   "matched": "cand-52",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "6792db109cb50fe7ccd9ca667cb2ce8f1182b535",
+   "matched": "cand-65",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "95d146eadfe8e83e34c99a3f722d047a4afbb7f6",
+   "matched": "cand-64",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "573af4dc9e094032f58cedb71b3d582791f44b7d",
+   "matched": "cand-60",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "1bfc90313b47122e6bd39e7282c3a0758bdceffd",
+   "matched": "cand-1010",
+   "source": "gurully.com",
+   "sim": 0.9
+  },
+  {
+   "key": "6508c59f2155aa3decbe74e277a52389b3570d0c",
+   "matched": "cand-25",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "16dc460f6aaab3c12f84ffbd7970584eda5ce872",
+   "matched": "cand-55",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "6d41789f8405799971e9aa465483e6ebe4074509",
+   "matched": "cand-54",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "6a109a710b2b63704edb9364dadbc33498cce4eb",
+   "matched": "cand-51",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "83335e01106ee653fefc1e83728b21fd033460e3",
+   "matched": "cand-49",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "47a2d7d73c2b33c195fa325afb1a1624c3d0e990",
+   "matched": "cand-40",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "5685ff452edfef46efd4ee216d6a34ba19645987",
+   "matched": "cand-32",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "72afe7937b091603c3dea675bda7c0fb4303323f",
+   "matched": "cand-33",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "2595b64640b8d07a9174eaf1a8724cf278ffee05",
+   "matched": "cand-67",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "969afbf8734e11af19c2c9755903c8f0d7a90bf9",
+   "matched": "cand-66",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "afd3f46de7c668a18979bd9f1d0ae15478b11a71",
+   "matched": "cand-72",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "4b245a87b1cd7d865b2b1e5d819e87db81eb3d25",
+   "matched": "cand-15",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "b43d30fac9c6e4829e899c9d4ca77525bcdf9a16",
+   "matched": "cand-82",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "a0ec999c82a31a38e3ec80dfe22f1e6c110dc972",
+   "matched": "cand-28",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "4ef29257e027869a483ea7d63de7398fc25164e9",
+   "matched": "cand-104",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "387e3b0b526c8ac1c60c6b65861e2305ecf8bd19",
+   "matched": "cand-1335",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "429bc7fe674e0e3600495b695b6c1551cd37e5e7",
+   "matched": "cand-1336",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "882831fe96a734a522943eecc4eab7e5bac5d4b0",
+   "matched": "cand-1341",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "2167d5c54c902c2c21775f74f8e112c489765e3b",
+   "matched": "cand-1340",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "882831fe96a734a522943eecc4eab7e5bac5d4b0",
+   "matched": "cand-1341",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "e29dd10c35081e007d55a7091dfc17c707ae9ad3",
+   "matched": "cand-1343",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "a8d9fa44b93c000505b45ef460010ec366b22efb",
+   "matched": "cand-1367",
+   "source": "ptehelper.com.au",
+   "sim": 1
+  },
+  {
+   "key": "b3ada01e3fd01bcd5e9499a01e3b5c61fa821f78",
+   "matched": "cand-1395",
+   "source": "onepte.com",
+   "sim": 0.936
+  },
+  {
+   "key": "beda71402f705f14b6647173dbdfac195147578a",
+   "matched": "cand-1373",
+   "source": "onepte.com",
+   "sim": 0.972
+  },
+  {
+   "key": "429bc7fe674e0e3600495b695b6c1551cd37e5e7",
+   "matched": "cand-1336",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "2167d5c54c902c2c21775f74f8e112c489765e3b",
+   "matched": "cand-1340",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "882831fe96a734a522943eecc4eab7e5bac5d4b0",
+   "matched": "cand-1341",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "502c59226e8758010ff2fa65b786d49c2da1839d",
+   "matched": "cand-1339",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "e3471ed2e3dbf8aad3b510b7b8bea1811e3449cb",
+   "matched": "cand-1348",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "9ca70adb4fc8d10544cf7c085c44ef854b2d4703",
+   "matched": "cand-1374",
+   "source": "onepte.com",
+   "sim": 0.972
+  },
+  {
+   "key": "bbc1e9b89a8e97d86d48c652a4a13e1a380cd04d",
+   "matched": "cand-1342",
+   "source": "onepte.com",
+   "sim": 0.867
+  },
+  {
+   "key": "387e3b0b526c8ac1c60c6b65861e2305ecf8bd19",
+   "matched": "cand-1335",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "c7c7965a45c537b2ce5d40a1c6f7d67a0dc88372",
+   "matched": "cand-1337",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "eb57eb677befe0d6a77d8b779d5c4c0658378c4b",
+   "matched": "cand-1362",
+   "source": "onepte.com",
+   "sim": 1
+  },
+  {
+   "key": "47ab5f19e5baf11750c8ca769af1a06f80d41f38",
+   "matched": "cand-1350",
+   "source": "onepte.com",
+   "sim": 0.925
+  },
+  {
+   "key": "bcfd4f9b92f0b9ff2433abf2f82c3dc1558940a6",
+   "matched": "cand-1386",
+   "source": "onepte.com",
+   "sim": 0.897
+  },
+  {
+   "key": "236e2cc06522107bd510819b2a930ee9ea19d4eb",
+   "matched": "cand-1491",
+   "source": "gurully.com",
+   "sim": 0.92
+  },
+  {
+   "key": "bf45e23f8691b73ad9cc5d08c9309a1be785408e",
+   "matched": "cand-1427",
+   "source": "gurully.com",
+   "sim": 0.941
+  },
+  {
+   "key": "2de84c3a07cdd47c891cdc1af051b2002aa90eb5",
+   "matched": "cand-1400",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "e3471ed2e3dbf8aad3b510b7b8bea1811e3449cb",
+   "matched": "cand-1348",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "3557dd0209c6e2cd894373c1557eabd41514f7a6",
+   "matched": "cand-1416",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "929a689f06fc5f29320510b5f1e1869fe02ce7f3",
+   "matched": "cand-1344",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "837eb302b66748baca4184249c7bb93f5cf08194",
+   "matched": "cand-1342",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "2167d5c54c902c2c21775f74f8e112c489765e3b",
+   "matched": "cand-1340",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "0169cc79494d8e621d2c2fd62af1a4f09dad8d60",
+   "matched": "cand-1339",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "cc1e0e77c27551bbcd658d8214a3db09c39038ff",
+   "matched": "cand-1338",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "429bc7fe674e0e3600495b695b6c1551cd37e5e7",
+   "matched": "cand-1336",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "b4089030da4d873160370811a04eeddaed52596b",
+   "matched": "cand-1335",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "5d5b0c253de7151db86af19989787596940d0d68",
+   "matched": "cand-1470",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "34d581a787749a58edf8a5dd9b2ce60e420321d5",
+   "matched": "cand-1505",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "3bc9d48e8a70ccdedc1ea9301e89b618d72faab9",
+   "matched": "cand-1386",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "3aa446ec63714872d0e777c6821bfc56a02e9e8c",
+   "matched": "cand-1444",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "6d0c1ca58b5b4fd36abf00d8626a2fc04d8563ed",
+   "matched": "cand-1428",
+   "source": "gurully.com",
+   "sim": 0.976
+  },
+  {
+   "key": "d334a282519b18e3d017e7c1ebfbfee384461379",
+   "matched": "cand-1532",
+   "source": "gurully.com",
+   "sim": 0.946
+  },
+  {
+   "key": "cb6cce606caf4ae7413305144f3307a8ddae3e73",
+   "matched": "cand-1444",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "b6f85131380c9f426c77d428ae34d1775670d993",
+   "matched": "cand-1367",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "6ca47f236b0adc1a57f9d0579df37d046ed5a1b1",
+   "matched": "cand-1478",
+   "source": "gurully.com",
+   "sim": 0.951
+  },
+  {
+   "key": "b15bdb15633ea3a32288b04c37c26d0d6d838724",
+   "matched": "cand-1476",
+   "source": "gurully.com",
+   "sim": 0.889
+  },
+  {
+   "key": "8891117a5ee12a20cd264b6a6ef15d9354af84e0",
+   "matched": "cand-1480",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "1a9ca0f9c3c02c650a84a7ff45b8b9a02902c097",
+   "matched": "cand-1419",
+   "source": "gurully.com",
+   "sim": 0.974
+  },
+  {
+   "key": "98f9afb94be900e9fd42e6f7bf893ac540e94b65",
+   "matched": "cand-1420",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "1aa03cf79cf79a160bdaeb0fcedb0afe103fca68",
+   "matched": "cand-1418",
+   "source": "gurully.com",
+   "sim": 0.898
+  },
+  {
+   "key": "e6325e66c9853af1630e10b1e14e098edf33d080",
+   "matched": "cand-1487",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "a48b6a3ef6b28c5d1a37ce715db348a0c8aac51f",
+   "matched": "cand-1394",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "4a0ea76c50d41bee69ce2fe75fa0982e6b47ce37",
+   "matched": "cand-1466",
+   "source": "gurully.com",
+   "sim": 0.875
+  },
+  {
+   "key": "85bd8291514d5aec56c3027c5dc98c4b94182429",
+   "matched": "cand-1350",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "7e18e42a9eee7bfc2ae86eb8c000695c62dd3d1d",
+   "matched": "cand-1349",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "4b27e8b828eb9ce7572f39cbe3b03beb5aa96eaa",
+   "matched": "cand-1469",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "ff85a5ca607bdea9487b7bba0ef5b421fd123cb1",
+   "matched": "cand-1391",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "790f1d3c89cf58647e8a8b43c134cc026c61058c",
+   "matched": "cand-1545",
+   "source": "gurully.com",
+   "sim": 0.952
+  },
+  {
+   "key": "39097f59382ce35b2456464c2fdf6fbf8fe87923",
+   "matched": "cand-1472",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "200998384335737663a52bae321419f144c13f65",
+   "matched": "cand-1475",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "750c9cd9012153e8cf7418e0a2e96b3567b8b734",
+   "matched": "cand-1378",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "a3aa25d6d4f71a062a4912b2e3fbf7a4ccc9034a",
+   "matched": "cand-1395",
+   "source": "gurully.com",
+   "sim": 0.978
+  },
+  {
+   "key": "7f163dafe326974fcbb6b7a75fc089c7041a9a2e",
+   "matched": "cand-1361",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "6ddc5ab549f349a1ccd56d3089faf83893328f8a",
+   "matched": "cand-1479",
+   "source": "gurully.com",
+   "sim": 0.938
+  },
+  {
+   "key": "4c1c01e931ec6bb15ac9cc05d9df2b478f5051bd",
+   "matched": "cand-1532",
+   "source": "gurully.com",
+   "sim": 0.941
+  },
+  {
+   "key": "92cd17b99d96fa9dac3749629c11d7cd553e21d5",
+   "matched": "cand-1475",
+   "source": "gurully.com",
+   "sim": 1
+  },
+  {
+   "key": "454ddbd351644f21fd48a8d4b68759b88c57ec5b",
+   "matched": "cand-1454",
+   "source": "ptestudent.com",
+   "sim": 0.889
+  },
+  {
+   "key": "7d7c8f0e7ef0a44314c16b9a6a87338d68dca3d8",
+   "matched": "cand-1490",
+   "source": "ptestudent.com",
+   "sim": 0.957
+  },
+  {
+   "key": "3bc9d48e8a70ccdedc1ea9301e89b618d72faab9",
+   "matched": "cand-1386",
+   "source": "ptestudent.com",
+   "sim": 1
+  },
+  {
+   "key": "ba75aca5adc07440549aee1fe22d125eafe55fe0",
+   "matched": "cand-1505",
+   "source": "ptestudent.com",
+   "sim": 1
+  },
+  {
+   "key": "0930170bc1bbe130ca83b6519e017fcef5baa6eb",
+   "matched": "cand-1387",
+   "source": "ptestudent.com",
+   "sim": 1
+  },
+  {
+   "key": "e8029955220151eb8c46e9288a0fda069f4fc334",
+   "matched": "cand-1529",
+   "source": "ptestudent.com",
+   "sim": 1
+  },
+  {
+   "key": "9131f1c1a6b3ba01d4e29508e8ae91386862be14",
+   "matched": "cand-1694",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "9131f1c1a6b3ba01d4e29508e8ae91386862be14",
+   "matched": "cand-1694",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "9131f1c1a6b3ba01d4e29508e8ae91386862be14",
+   "matched": "cand-1694",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "aae132fcdc05b80b87083a8e8b2b859d55de619b",
+   "matched": "cand-1697",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "9131f1c1a6b3ba01d4e29508e8ae91386862be14",
+   "matched": "cand-1694",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "17410b54f64e54702b7c6e987b87ddd31f045ab6",
+   "matched": "cand-1701",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "d67a032d968d2beda858efc886dc58c1a0bf72f0",
+   "matched": "cand-1702",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "17410b54f64e54702b7c6e987b87ddd31f045ab6",
+   "matched": "cand-1701",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "3955910f037f4e8c21f63c0d89395167156c745e",
+   "matched": "cand-1704",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "d67a032d968d2beda858efc886dc58c1a0bf72f0",
+   "matched": "cand-1702",
+   "source": "ptebank.com",
+   "sim": 1
+  },
+  {
+   "key": "17410b54f64e54702b7c6e987b87ddd31f045ab6",
+   "matched": "cand-1701",
+   "source": "ptebank.com",
+   "sim": 1
   }
  ]
 }
